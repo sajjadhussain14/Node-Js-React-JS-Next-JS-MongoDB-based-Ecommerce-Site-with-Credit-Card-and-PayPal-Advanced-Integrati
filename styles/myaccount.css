@@ -1,0 +1,48 @@
+#myAccountPage{max-width: 1310px;margin-top: 85px;margin-bottom: 27px;}
+#myAccountPage .nav{flex-wrap: unset;border-bottom: 0px;}
+#myAccountPage .fancyTab{border-bottom:1px solid #D1D3D6;}
+#myAccountPage .fancyTab.active{border:1px solid #D1D3D6;border-bottom: 0px;}
+#myAccountPage .fancyTab a{text-decoration: none; position: relative; display: inline-block; text-align: center; width: 100%;}
+#myAccountPage .fancyTab a .fa{display: inline-block;}
+#myAccountPage .fancyTab a span{color:#1B252C;font-size: 22px;line-height: 24px;text-transform: capitalize;text-align: center; padding: 15px 0 15px 10px; text-decoration: none;font-weight: 600;}
+#myAccountPage div#myTabContent{background: #FFFFFF 0% 0% no-repeat padding-box;border: 1px solid #D1D3D6;padding:42px 37px;opacity: 1;border-top:0px;}
+#myAccountPage div#myTabContent #tabBody0 .welcome{font-size: 36px;line-height: 45px;color:#181C24;font-weight: 600;margin-bottom: 16px;}
+#myAccountPage div#myTabContent #tabBody0 p{font-size: 16px;line-height: 21px;color: #181C24;margin-bottom: 23px;}
+#myAccountPage div#myTabContent #tabBody0 button{width: 229px;height: 40px;color: #fff;text-transform: uppercase;background: #545D63 0% 0% no-repeat padding-box;border-radius: 28px;font-size: bold;border: 0px;font-size: 14px;line-height:16px;opacity: 1;}
+#myAccountPage div#myTabContent .tab-pane * label{font-size:16px;line-height: 24px;color:#181C24;text-transform: capitalize;font-weight: 600;}
+#myAccountPage div#myTabContent .tab-pane * input{height: 44px;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #B5B7BC;border-radius: 8px;opacity: 1;color: #91959C;font-size: 16px;}
+#myAccountPage div#myTabContent .tab-pane * select{height: 44px;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #B5B7BC;border-radius: 8px;opacity: 1;color: #91959C;font-size: 16px;}
+#myAccountPage div#myTabContent .tab-pane .actionBtns{}
+#myAccountPage div#myTabContent .tab-pane .actionBtns button:first-of-type{width: 169px;height: 40px;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #545D63;border-radius: 28px;opacity: 1;color: #545D63;font-size: 14px;line-height: 16px;font-weight: bold;margin-right: 20px;}
+#myAccountPage div#myTabContent .tab-pane .actionBtns button:last-of-type{width: 169px;height: 40px;font-size: 14px;line-height: 16px;font-weight: bold;color: #fff;background: #545D63 0% 0% no-repeat padding-box;border: 2px solid #545D63;border-radius: 28px;opacity: 1; margin-top: 10px;}
+#myAccountPage div#myTabContent  .accordion-item{padding:10px 46px;border:0px;}
+#myAccountPage div#myTabContent  .accordion-item .accordion-header span{font-size: 14px;line-height: 21px;color: #535965;text-transform: capitalize;font-weight: 600;padding: 32px 40px;display: inline-block;}
+#myAccountPage div#myTabContent  .accordion-item .accordion-header span:first-of-type{border-right: 1px solid #D1D3D6;}
+#myAccountPage div#myTabContent  .accordion-item .accordion-header{border: 1px solid #D1D3D6;border-radius: 2px;}
+#myAccountPage div#myTabContent  .accordion-item .accordion-header span em{display: block;font-style: normal;font-size: 20px;line-height: 25px;font-weight: bold;}
+#myAccountPage div#myTabContent  .accordion-item .accordion-header button{float: right;width: auto;padding: 43px 25px;background: transparent;border: 0px;box-shadow: none;border-left: 1px solid #D1D3D6;height: 100%;display: inline-flex;}
+#myAccountPage div#myTabContent  .accordion-item #cart .btn {width: 100%;max-width: 211px;height: 40px;display: block;margin: 24px auto;color: #545D63;font-size: 14px;line-height: 40px;font-weight: bold;padding: 0px;text-transform: uppercase;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #545D63;border-radius: 28px;opacity: 1;}
+
+
+@media (max-width: 1200px) {
+    #myAccountPage .fancyTab {width: 50% !important;}
+    #myAccountPage .fancyTab a span {font-size: 18px; line-height: 18px;}
+}
+
+
+@media (max-width: 991px) {
+    #myAccountPage .fancyTab {width: 50% !important;}
+    #myAccountPage .fancyTab a span {font-size: 14px; line-height: 14px;}
+}
+
+@media (max-width: 767px) {
+    #myAccountPage .fancyTab a .fa {width: 100%; }
+    #myAccountPage .fancyTab a span {padding-left: 0; font-size: 12px; line-height: normal; padding-top: 5px;  padding-bottom: 5px;}
+    #myAccountPage div#myTabContent .accordion-item .accordion-header span em {font-size: 13px;}
+    #myAccountPage div#myTabContent .accordion-item {padding: 10px 0;}
+
+    table#order-history tr th {font-size: 12px; padding-right: 5px;}
+    #myAccountPage div#myTabContent {padding: 15px 10px;}
+    #myAccountPage div#myTabContent .accordion-item .accordion-header span {padding: 15px 10px;}
+    #myAccountPage div#myTabContent .accordion-item .accordion-header button {padding: 28px 10px;}
+}

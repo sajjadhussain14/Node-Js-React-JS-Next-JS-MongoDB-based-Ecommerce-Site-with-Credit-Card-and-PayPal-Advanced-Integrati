@@ -1,0 +1,25 @@
+      .cartbtn {
+          text-align: center;
+      }
+
+
+
+      .featureProds img {
+          display: block;
+          margin: 0 auto;
+      }
+
+      .modal-content {
+          max-width: 650px;
+          margin: 0 auto;
+      }
+
+      .modal-body {
+          overflow-y: visible;
+          height: auto;
+          margin-bottom: 25px;
+      }
+
+      #loginModal .modal-body {
+          overflow-y:visible ;
+      }
