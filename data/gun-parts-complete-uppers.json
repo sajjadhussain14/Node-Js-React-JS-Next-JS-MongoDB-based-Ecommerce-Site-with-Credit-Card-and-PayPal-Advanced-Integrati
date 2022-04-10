@@ -1,0 +1,75 @@
+
+        [
+            
+                    {
+                        "name":"DALY AR410 UPR 410 19 Inch 5RD | 8053800940450",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/CD500-219_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"72110",
+                        "brand":"CHIAPPA FIREARMS",
+                        "upc":"8053800940450",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Complete Uppers",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/72110/DALYAR410UPR410195RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHIAPPA FIREARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI HY STRIP UPR MULTI CAL | 813393018459",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/132090.jpg",
+                        "available":"Out of Stock",
+                        "id":"10843",
+                        "brand":"ATI",
+                        "upc":"813393018459",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Complete Uppers",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/10843/ATIHYSTRIPUPRMULTICAL",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ATI"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,442 @@
+
+        [
+            
+                    {
+                        "name":"SDS 1911A1A9 US ARMY9 9MM 5IN | 713135218461",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120706.jpg",
+                        "available":"Out of Stock",
+                        "id":"267626",
+                        "brand":"SDSIMPORTS",
+                        "upc":"713135218461",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/267626/SDS1911A1A9USARMY99MM5IN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS 1911CB45 CARRY 45 45ACP 4.25IN CERAKOTE | 713135218478",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120708.jpg",
+                        "available":"Out of Stock",
+                        "id":"267529",
+                        "brand":"SDSIMPORTS",
+                        "upc":"713135218478",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/267529/SDS1911CB45CARRY4545ACP425INCERAKOTE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS 1911DB45R DUTY 45 45ACP 5IN CERAKOTE RAIL | 713135218485",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120712.jpg",
+                        "available":"Out of Stock",
+                        "id":"267231",
+                        "brand":"SDSIMPORTS",
+                        "upc":"713135218485",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/267231/SDS1911DB45RDUTY4545ACP5INCERAKOTERAIL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS 1911DSS45R DUTY 45 45ACP 5IN SS RAIL | 713135218492",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120713.jpg",
+                        "available":"Out of Stock",
+                        "id":"267628",
+                        "brand":"SDSIMPORTS",
+                        "upc":"713135218492",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/267628/SDS1911DSS45RDUTY4545ACP5INSSRAIL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS 1911CSS45 CARRY 45 45ACP 4.25IN SS | 713135218508",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120709.jpg",
+                        "available":"Out of Stock",
+                        "id":"295569",
+                        "brand":"SDSIMPORTS",
+                        "upc":"713135218508",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/295569/SDS1911CSS45CARRY4545ACP425INSS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS 1911CB45R CARRY 45 45ACP 4.25IN CERA RAIL | 713135218515",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120710.jpg",
+                        "available":"Out of Stock",
+                        "id":"267627",
+                        "brand":"SDSIMPORTS",
+                        "upc":"713135218515",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/267627/SDS1911CB45RCARRY4545ACP425INCERARAIL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS 1911CSS45R CARRY 45 45ACP 4.25IN SS RAIL | 713135218522",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120711.jpg",
+                        "available":"Out of Stock",
+                        "id":"267530",
+                        "brand":"SDSIMPORTS",
+                        "upc":"713135218522",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/267530/SDS1911CSS45RCARRY4545ACP425INSSRAIL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS 1911A1S5 SERVICE45 45ACP 5IN PARKERIZED | 713135218539",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120705.jpg",
+                        "available":"Out of Stock",
+                        "id":"267625",
+                        "brand":"SDSIMPORTS",
+                        "upc":"713135218539",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/267625/SDS1911A1S5SERVICE4545ACP5INPARKERIZED",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS 1911A1S9 SERVICE9 9MM 5IN PARKERIZED | 713135218577",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120707.jpg",
+                        "available":"Out of Stock",
+                        "id":"267528",
+                        "brand":"SDSIMPORTS",
+                        "upc":"713135218577",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/267528/SDS1911A1S9SERVICE99MM5INPARKERIZED",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS IMPORTS ZIGANA 9MM 15RD MAG | 713135218638",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/121636.jpg",
+                        "available":"Out of Stock",
+                        "id":"267991",
+                        "brand":"SDSIMPORTS",
+                        "upc":"713135218638",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/267991/SDSIMPORTSZIGANA9MM15RDMAG",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS ZIGANA PX9 HGA 9MM 4.5IN BBL NS BLACK  3 18RD MAGS | 713135218676",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122675.jpg",
+                        "available":"Out of Stock",
+                        "id":"271311",
+                        "brand":"SDSIMPORTS",
+                        "upc":"713135218676",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/271311/SDSZIGANAPX9HGA9MM45INBBLNSBLACK318RDMAGS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS Imports LH12 Black Parkerized 12 Gauge 19 Inch 3 Inch 51 | 742309782309",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/112808.jpg",
+                        "available":"Out of Stock",
+                        "id":"19791",
+                        "brand":"SDSIMPORTS",
+                        "upc":"742309782309",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Tactical",
+                        "product_url":"/product/19791/SDSImportsLH12BlackParkerized12Gauge19351",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS IMPORTS LYNX HC 12GA 19 Inch 5RD BLK | 742309782323",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/SDSLH12HFCBC_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"19792",
+                        "brand":"SDSIMPORTS",
+                        "upc":"742309782323",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Other",
+                        "product_url":"/product/19792/SDSIMPORTSLYNXHC12GA195RDBLK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS IMPRTS SAIGA  12 12GA 5 RD US MAG | 742309782330",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/112814.jpg",
+                        "available":"Out of Stock",
+                        "id":"241901",
+                        "brand":"SDSIMPORTS",
+                        "upc":"742309782330",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/241901/SDSIMPRTSSAIGA1212GA5RDUSMAG",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS Imports LH12 Black 12 Gauge 19 Inch 3 Inch 51 | 742309782354",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/112809.jpg",
+                        "available":"Out of Stock",
+                        "id":"65621",
+                        "brand":"SDSIMPORTS",
+                        "upc":"742309782354",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Tactical",
+                        "product_url":"/product/65621/SDSImportsLH12Black12Gauge19351",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS Imports CCVT12 Civet 12 Gauge 19 Inch 51 3 Inch Black Parkerized Right Hand | 742309782378",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/112810.jpg",
+                        "available":"Out of Stock",
+                        "id":"65620",
+                        "brand":"SDSIMPORTS",
+                        "upc":"742309782378",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Other",
+                        "product_url":"/product/65620/SDSImportsCCVT12Civet12Gauge19513BlackParkerizedRightHand",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS Imports 1911A1A45 1911 A1 US Army 45 ACP 5 Inch 71 Dark Gray Finish Fully Checkered Wood Grip | 742309782453",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/115201.jpg",
+                        "available":"Out of Stock",
+                        "id":"251008",
+                        "brand":"SDSIMPORTS",
+                        "upc":"742309782453",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/251008/SDSImports1911A1A451911A1USArmy45ACP571DarkGrayFinishFullyCheckeredWoodGrip",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS Imports 1911B 1911B 45 ACP 81 Black Cerakote | 742309782460",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/115202.jpg",
+                        "available":"Out of Stock",
+                        "id":"251217",
+                        "brand":"SDSIMPORTS",
+                        "upc":"742309782460",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/251217/SDSImports1911B1911B45ACP81BlackCerakote",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS Imports 1911DSS45 1911S 45 ACP 5 Inch 81 Stainless Steel Black Polymer Grip | 742309782477",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/115203.jpg",
+                        "available":"Out of Stock",
+                        "id":"251129",
+                        "brand":"SDSIMPORTS",
+                        "upc":"742309782477",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/251129/SDSImports1911DSS451911S45ACP581StainlessSteelBlackPolymerGrip",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SDSIMPORTS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

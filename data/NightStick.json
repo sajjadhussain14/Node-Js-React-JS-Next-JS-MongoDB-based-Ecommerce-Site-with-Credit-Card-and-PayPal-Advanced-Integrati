@@ -1,0 +1,505 @@
+
+        [
+            
+                    {
+                        "name":"NS HEADLAMP MULTIFUNCTION | 017398802376",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/20568.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"25439",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398802376",
+                        
+                        "price":37.45,
+                        "Dept":"Accessories",
+                        "Typ":"Lights Lasers Batteries",
+                        "SUBTYP_1":"Lights",
+                        "product_url":"/product/25439/NSHEADLAMPMULTIFUNCTION",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS MINI TAC LIGHT BLACK | 017398803694",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/20559.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"35263",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398803694",
+                        
+                        "price":19.45,
+                        "Dept":"Accessories",
+                        "Typ":"Lights Lasers Batteries",
+                        "SUBTYP_1":"Lights",
+                        "product_url":"/product/35263/NSMINITACLIGHTBLACK",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS MINI TAC LIGHT PRO BLACK | 017398803731",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/NIMT-210_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"410726",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398803731",
+                        
+                        "price":29.95,
+                        "Dept":"Accessories",
+                        "Typ":"Lights Lasers Batteries",
+                        "SUBTYP_1":"Lights",
+                        "product_url":"/product/410726/NSMINITACLIGHTPROBLACK",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS HANDGUN LIGHT FULL SIZE | 017398805438",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105138.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"57047",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398805438",
+                        
+                        "price":119.95,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/57047/NSHANDGUNLIGHTFULLSIZE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS SCENE LIGHT RECHARGE LED | 017398805445",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/NINSR-1514_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"25440",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398805445",
+                        
+                        "price":122.95,
+                        "Dept":"Accessories",
+                        "Typ":"Lights Lasers Batteries",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25440/NSSCENELIGHTRECHARGELED",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS HANDGUN LIGHT FULL W/STROBE | 017398805599",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105139.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"29960",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398805599",
+                        
+                        "price":119.95,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/29960/NSHANDGUNLIGHTFULLWSTROBE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS RECHARGEABLE LIGHT EDC USB | 017398806015",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105134.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"30116",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398806015",
+                        
+                        "price":55.95,
+                        "Dept":"Accessories",
+                        "Typ":"Lights Lasers Batteries",
+                        "SUBTYP_1":"Lights",
+                        "product_url":"/product/30116/NSRECHARGEABLELIGHTEDCUSB",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS RECHARGEABLE LIGHT USB | 017398806022",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105135.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"57044",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398806022",
+                        
+                        "price":109.95,
+                        "Dept":"Accessories",
+                        "Typ":"Lights Lasers Batteries",
+                        "SUBTYP_1":"Lights",
+                        "product_url":"/product/57044/NSRECHARGEABLELIGHTUSB",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS HEADLAMP RECHARGEABLE | 017398806152",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105144.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"57053",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398806152",
+                        
+                        "price":74.45,
+                        "Dept":"Accessories",
+                        "Typ":"Lights Lasers Batteries",
+                        "SUBTYP_1":"Lights",
+                        "product_url":"/product/57053/NSHEADLAMPRECHARGEABLE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS HANDGUN LIGHT COMPACT | 017398807043",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/112398.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"241635",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398807043",
+                        
+                        "price":119.95,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/241635/NSHANDGUNLIGHTCOMPACT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS HANDGUN LIGHT CMPT W/STROBE | 017398807050",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/112399.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"241636",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398807050",
+                        
+                        "price":119.95,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/241636/NSHANDGUNLIGHTCMPTWSTROBE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS LONGGUN LIGHT COMPACT | 017398807371",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/NILGC550XL.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"448592",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398807371",
+                        
+                        "price":119.95,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/448592/NSLONGGUNLIGHTCOMPACT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS HANDGUN LIGHT CMPT GRN LASR | 017398807548",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131767.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"427057",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398807548",
+                        
+                        "price":199.95,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/427057/NSHANDGUNLIGHTCMPTGRNLASR",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS LONGGUN LIGHT COMPACT KIT | 017398807609",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131764.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"314762",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398807609",
+                        
+                        "price":119.95,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/314762/NSLONGGUNLIGHTCOMPACTKIT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS LONGGUN LIGHT FULL SIZE KIT | 017398807616",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131765.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"314763",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398807616",
+                        
+                        "price":139.95,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/314763/NSLONGGUNLIGHTFULLSIZEKIT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS LONGGUN LT FULL SIZE KIT RC | 017398807623",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131766.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"427055",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398807623",
+                        
+                        "price":199.45,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/427055/NSLONGGUNLTFULLSIZEKITRC",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS GLOCK 42/43X/48 w/GRN LASER | 017398807654",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/127519.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"427058",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398807654",
+                        
+                        "price":119.95,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/427058/NSGLOCK4243X48wGRNLASER",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS SIG 365 w/GREEN LASER | 017398807661",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/127520.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"427059",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398807661",
+                        
+                        "price":119.95,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/427059/NSSIG365wGREENLASER",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS GLOCK 26/27/33 w/GRN LASER | 017398807852",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/130622.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"439510",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398807852",
+                        
+                        "price":119.95,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/439510/NSGLOCK262733wGRNLASER",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NS SPFLD HELLCAT w/GRN LASER | 017398807869",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/130623.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"439505",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398807869",
+                        
+                        "price":119.95,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/439505/NSSPFLDHELLCATwGRNLASER",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

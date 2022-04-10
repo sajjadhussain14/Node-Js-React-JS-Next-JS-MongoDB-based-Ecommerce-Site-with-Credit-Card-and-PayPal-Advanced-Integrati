@@ -1,0 +1,75 @@
+
+        [
+            
+                    {
+                        "name":"HOPPE 123 RFL CLN KIT 30CAL | 026285100303",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27784.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"1168",
+                        "brand":"HOPPES",
+                        "upc":"026285100303",
+                        
+                        "price":18.00,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/1168/HOPPE123RFLCLNKIT30CAL",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HOPPES"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SHOTGUN CLEANING KIT W/BRUSHES  TIPS | 029057416367",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/101598.jpg",
+                        "available":"Out of Stock",
+                        "id":"55009",
+                        "brand":"BIRCHWOOD CASEY",
+                        "upc":"029057416367",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/55009/SHOTGUNCLEANINGKITWBRUSHESTIPS",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BIRCHWOOD CASEY"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"SDS Imports ZIGANAF Zigana F 9mm Luger 4.60 Inch 151 Black | 713135218553",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/118863.jpg",
+                        "available":"Out of Stock",
+                        "id":"267495",
+                        "brand":"TISAS",
+                        "upc":"713135218553",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/267495/SDSImportsZIGANAFZiganaF9mmLuger460151Black",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TISAS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SDS ZIGANA K 9MM 4.1IN 15RD BLACK | 713135218560",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/118864.jpg",
+                        "available":"Out of Stock",
+                        "id":"267496",
+                        "brand":"TISAS",
+                        "upc":"713135218560",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/267496/SDSZIGANAK9MM41IN15RDBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TISAS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

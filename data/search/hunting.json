@@ -1,0 +1,304 @@
+
+        [
+            
+                    {
+                        "name":"MOSSBERG 835 CKTB SKEET LEAD95256 | 015813952569",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/46440.jpg",
+                        "available":"Out of Stock",
+                        "id":"41887",
+                        "brand":"MOSSBERG",
+                        "upc":"015813952569",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/41887/MOSSBERG835CKTBSKEETLEAD95256",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 835 CKTB ULTIFULL95257 | 015813952576",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/46880.jpg",
+                        "available":"Out of Stock",
+                        "id":"24309",
+                        "brand":"MOSSBERG",
+                        "upc":"015813952576",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24309/MOSSBERG835CKTBULTIFULL95257",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA DMDPRO GRP 191102470 | 034337024705",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BNPRODIMAGES/606058.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"312795",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"034337024705",
+                        "price":19.20,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/312795/PADMDPROGRP191102470",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BF TIPTON GUN BUTLER100333 | 661120003335",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/TIP100333_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"793",
+                        "brand":"BATTENFIELD",
+                        "upc":"661120003335",
+                        "price":25.50,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/793/BFTIPTONGUNBUTLER100333",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BATTENFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK BACK PACK BLKAS02000 | 764503023521",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/GLAS02000_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"57186",
+                        "brand":"GLOCK",
+                        "upc":"764503023521",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Multi-Purpose Bags",
+                        "product_url":"/product/57186/GLOCKBACKPACKBLKAS02000",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI 1911 SILENCER ADAPTERGER4110112 | 813393016325",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/119506.jpg",
+                        "available":"Out of Stock",
+                        "id":"77195",
+                        "brand":"AMERICAN TACTICAL",
+                        "upc":"813393016325",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Suppressor Accessories",
+                        "product_url":"/product/77195/ATI1911SILENCERADAPTERGER4110112",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AMERICAN TACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SC ALPHA ASR MOUNTAC2632 | 816413025338",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104644.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"56767",
+                        "brand":"SILENCERCO",
+                        "upc":"816413025338",
+                        "price":116.99,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Suppressor Accessories",
+                        "product_url":"/product/56767/SCALPHAASRMOUNTAC2632",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SILENCERCO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SC CHARLIE PISTON MOUNTAC4751 | 816413026687",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120265.jpg",
+                        "available":"Out of Stock",
+                        "id":"264711",
+                        "brand":"SILENCERCO",
+                        "upc":"816413026687",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Suppressor Accessories",
+                        "product_url":"/product/264711/SCCHARLIEPISTONMOUNTAC4751",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SILENCERCO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SC FIXED BARREL SPACERAC22 | 817272010121",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1451.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"31606",
+                        "brand":"SILENCERCO",
+                        "upc":"817272010121",
+                        "price":47.99,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Suppressor Accessories",
+                        "product_url":"/product/31606/SCFIXEDBARRELSPACERAC22",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SILENCERCO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SC BRAVO ASR MOUNTAC824 | 817272011869",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1500.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"31644",
+                        "brand":"SILENCERCO",
+                        "upc":"817272011869",
+                        "price":129.99,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Suppressor Accessories",
+                        "product_url":"/product/31644/SCBRAVOASRMOUNTAC824",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SILENCERCO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SC CHARLIE ASR MOUNTAC622 | 817272011883",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1474.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"31625",
+                        "brand":"SILENCERCO",
+                        "upc":"817272011883",
+                        "price":129.99,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Suppressor Accessories",
+                        "product_url":"/product/31625/SCCHARLIEASRMOUNTAC622",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SILENCERCO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SC PISTON KITAC728 | 817272015294",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/864.jpg",
+                        "available":"Out of Stock",
+                        "id":"31449",
+                        "brand":"SILENCERCO",
+                        "upc":"817272015294",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Suppressor Accessories",
+                        "product_url":"/product/31449/SCPISTONKITAC728",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SILENCERCO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SC BRAVO PISTON MOUNTAC1417 | 817272016536",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/7527.jpg",
+                        "available":"Out of Stock",
+                        "id":"32780",
+                        "brand":"SILENCERCO",
+                        "upc":"817272016536",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Suppressor Accessories",
+                        "product_url":"/product/32780/SCBRAVOPISTONMOUNTAC1417",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SILENCERCO"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

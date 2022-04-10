@@ -1,0 +1,565 @@
+
+        [
+            
+                    {
+                        "name":"NGTSTK RECHRG AREA LGT 1000L W/STND | 017398805605",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/NSR1514C.gif",
+                        "available":"In Stock Vendor",
+                        "id":"25441",
+                        "brand":"NIGHTSTICK",
+                        "upc":"017398805605",
+                        "price":209.45,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/25441/NGTSTKRECHRGAREALGT1000LWSTND",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NIGHTSTICK"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Streamlight 44900 WayPoint Spotlight 550/40 Lumens C4 LED Polycarbonate Yellow C Alkaline | 080926449008",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62794.jpg",
+                        "available":"Out of Stock",
+                        "id":"45727",
+                        "brand":"STREAMLIGHT",
+                        "upc":"080926449008",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/45727/Streamlight44900WayPointSpotlight55040LumensC4LEDPolycarbonateYellowCAlkaline",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STREAMLIGHT"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Streamlight 44911 WayPoint 300 Spotlight 1000/550/35 Lumens LED Polycarbonate Black Lithium Ion Rechargeable | 080926449114",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83351.jpg",
+                        "available":"Out of Stock",
+                        "id":"50101",
+                        "brand":"STREAMLIGHT",
+                        "upc":"080926449114",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/50101/Streamlight44911WayPoint300Spotlight100055035LumensLEDPolycarbonateBlackLithiumIonRechargeable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STREAMLIGHT"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Dualie Waypoint, Yellow | 080926449404",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1607328.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"79215",
+                        "brand":"STREAMLIGHT",
+                        "upc":"080926449404",
+                        "price":54.44,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/79215/DualieWaypointYellow",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STREAMLIGHT"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Streamlight 61706 Bandit USB Headlamp 180/45/35/10 Lumens White/Red LED Polycarbonate Coyote Lithium Ion | 080926617063",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/100858.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"5963",
+                        "brand":"STREAMLIGHT",
+                        "upc":"080926617063",
+                        "price":21.01,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/5963/Streamlight61706BanditUSBHeadlamp180453510LumensWhiteRedLEDPolycarbonateCoyoteLithiumIon",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STREAMLIGHT"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Streamlight 61707 Bandit USB Headlamp 180/135/35/25 Lumens White/Green LED Polycarbonate Coyote Lithium Ion | 080926617070",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/100859.jpg",
+                        "available":"Out of Stock",
+                        "id":"5964",
+                        "brand":"STREAMLIGHT",
+                        "upc":"080926617070",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/5964/Streamlight61707BanditUSBHeadlamp1801353525LumensWhiteGreenLEDPolycarbonateCoyoteLithiumIon",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STREAMLIGHT"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Streamlight 66118 Stylus Pro 100 Lumens LED Aluminum Black Anodized AAA | 080926661189",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/50686.jpg",
+                        "available":"Out of Stock",
+                        "id":"6112",
+                        "brand":"STREAMLIGHT",
+                        "upc":"080926661189",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/6112/Streamlight66118StylusPro100LumensLEDAluminumBlackAnodizedAAA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STREAMLIGHT"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Streamlight 66318 Microstream 45 Lumens C4 LED Aluminum Black Anodized AAA | 080926663183",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/50688.jpg",
+                        "available":"Out of Stock",
+                        "id":"6118",
+                        "brand":"STREAMLIGHT",
+                        "upc":"080926663183",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/6118/Streamlight66318Microstream45LumensC4LEDAluminumBlackAnodizedAAA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STREAMLIGHT"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Streamlight 66601 Microstream USB 250 Lumens Rechargeable Lithium Black | 080926666016",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/100861.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"54448",
+                        "brand":"STREAMLIGHT",
+                        "upc":"080926666016",
+                        "price":30.11,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/54448/Streamlight66601MicrostreamUSB250LumensRechargeableLithiumBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STREAMLIGHT"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Streamlight 66608 Microstream USB 50/250 Lumens C4 LED Aluminum Coyote Lithium Ion | 080926666085",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/118381.jpg",
+                        "available":"Out of Stock",
+                        "id":"66248",
+                        "brand":"STREAMLIGHT",
+                        "upc":"080926666085",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/66248/Streamlight66608MicrostreamUSB50250LumensC4LEDAluminumCoyoteLithiumIon",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STREAMLIGHT"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Streamlight 88062 ProTac 2LX 500/40 Lumens C4 LED Aluminum Black Anodized CR123A Lithium | 080926880627",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/31264.jpg",
+                        "available":"Out of Stock",
+                        "id":"38062",
+                        "brand":"STREAMLIGHT",
+                        "upc":"080926880627",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/38062/Streamlight88062ProTac2LX50040LumensC4LEDAluminumBlackAnodizedCR123ALithium",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STREAMLIGHT"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Streamlight 88064 ProTac HLX 1000/400/65 Lumens C4 LED Aluminum Black Anodized CR123A Lithium | 080926880641",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/31263.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"38061",
+                        "brand":"STREAMLIGHT",
+                        "upc":"080926880641",
+                        "price":75.66,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/38061/Streamlight88064ProTacHLX100040065LumensC4LEDAluminumBlackAnodizedCR123ALithium",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STREAMLIGHT"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Streamlight 88080 ProTac HL 5X 2500/1000/250 Lumens C4 LED Aluminum Black Anodized CR18650 with USB Charge Cord | 080926880801",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/100853.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"54440",
+                        "brand":"STREAMLIGHT",
+                        "upc":"080926880801",
+                        "price":95.52,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/54440/Streamlight88080ProTacHL5X25001000250LumensC4LEDAluminumBlackAnodizedCR18650withUSBChargeCord",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STREAMLIGHT"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Streamlight 88084 ProTac HLX USB 1000/400/65 Lumens C4 LED Aluminum Black Lithium with UBS Charge Cord | 080926880849",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/100855.jpg",
+                        "available":"Out of Stock",
+                        "id":"7126",
+                        "brand":"STREAMLIGHT",
+                        "upc":"080926880849",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/7126/Streamlight88084ProTacHLXUSB100040065LumensC4LEDAluminumBlackLithiumwithUBSChargeCord",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STREAMLIGHT"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CYCLOPS ORION HAT LIGHT 3 WHITE LED LIGHTS | 813628016243",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1604428.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"78988",
+                        "brand":"CYCLOPS",
+                        "upc":"813628016243",
+                        "price": 4.76,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/78988/CYCLOPSORIONHATLIGHT3WHITELEDLIGHTS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CYCLOPS"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CYCLP CYCMHCW MICRO HAT CLIP LIGHT  5 WHT | 813628077916",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/124108.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"79010",
+                        "brand":"CYCLOPS",
+                        "upc":"813628077916",
+                        "price": 4.68,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/79010/CYCLPCYCMHCWMICROHATCLIPLIGHT5WHT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CYCLOPS"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Cyclops CYCX500H Sirius 500 Spotlight 500/45 Lumens LED Polymer Black 6 Volt | 813628085201",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/818.jpg",
+                        "available":"Out of Stock",
+                        "id":"30661",
+                        "brand":"",
+                        "upc":"813628085201",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/30661/CyclopsCYCX500HSirius500Spotlight50045LumensLEDPolymerBlack6Volt",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":""
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CYCLOPS HEADLAMP TITAN XP 2STAGE LED 112LUM BLACK/GREY | 888151003794",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/TITANXP.gif",
+                        "available":"In Stock Vendor",
+                        "id":"29592",
+                        "brand":"CYCLOPS",
+                        "upc":"888151003794",
+                        "price":14.98,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/29592/CYCLOPSHEADLAMPTITANXP2STAGELED112LUMBLACKGREY",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CYCLOPS"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Cyclops CYCHS140012V Spotlight 12V Direct 1400 Lumens Halogen ABS Polymer Black 12 Volt | 888151012505",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/9578.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"33350",
+                        "brand":"CYCLOPS",
+                        "upc":"888151012505",
+                        "price":20.45,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/33350/CyclopsCYCHS140012VSpotlight12VDirect1400LumensHalogenABSPolymerBlack12Volt",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CYCLOPS"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Cyclops CYC300WP Waterproof LED Spotlight 300 Lumens LED ABS Polymer Gray Lithium | 888151012574",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/9575.jpg",
+                        "available":"Out of Stock",
+                        "id":"3868",
+                        "brand":"CYCLOPS",
+                        "upc":"888151012574",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Electronics",
+                        "SUBTYP_1":"Spotlights",
+                        "product_url":"/product/3868/CyclopsCYC300WPWaterproofLEDSpotlight300LumensLEDABSPolymerGrayLithium",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CYCLOPS"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                }
+                            
+                        ]
+                    }
+                    
+        ]
+    

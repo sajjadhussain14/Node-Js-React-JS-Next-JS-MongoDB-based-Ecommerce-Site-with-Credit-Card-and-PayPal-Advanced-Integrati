@@ -1,0 +1,120 @@
+
+        [
+            
+                    {
+                        "name":"LED HEADGUN LIGHT | 084871319065",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106524.jpg",
+                        "available":"Out of Stock",
+                        "id":"57636",
+                        "brand":"SUREFIRE LLC",
+                        "upc":"084871319065",
+                        "price":null,
+                        "Dept":"Optics",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"Lights",
+                        "product_url":"/product/57636/LEDHEADGUNLIGHT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SUREFIRE LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KEYCHAIN LIGHT AAA BRASS MULTI STAGE 300/75/15 LU | 084871324847",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/5493.jpg",
+                        "available":"Out of Stock",
+                        "id":"32633",
+                        "brand":"SUREFIRE LLC",
+                        "upc":"084871324847",
+                        "price":null,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Lighters",
+                        "product_url":"/product/32633/KEYCHAINLIGHTAAABRASSMULTISTAGE3007515LU",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SUREFIRE LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOLLE POUCH MAG 5/100 COYOTEBRW | 84871316682",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/FHV93.jpg",
+                        "available":"Out of Stock",
+                        "id":"260263",
+                        "brand":"SUREFIRE LLC",
+                        "upc":"84871316682",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260263/MOLLEPOUCHMAG5100COYOTEBRW",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SUREFIRE LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"EB1 BACKUP TACTTYPE111BLK 5/200 | 84871318730",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/FHEB1TABK.jpg",
+                        "available":"Out of Stock",
+                        "id":"260261",
+                        "brand":"SUREFIRE LLC",
+                        "upc":"84871318730",
+                        "price":null,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260261/EB1BACKUPTACTTYPE111BLK5200",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SUREFIRE LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"6PX PRO FLASHLGHT 320 LUMENS BLK | 84871320290",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/FH6PXDBK.jpg",
+                        "available":"Out of Stock",
+                        "id":"260260",
+                        "brand":"SUREFIRE LLC",
+                        "upc":"84871320290",
+                        "price":null,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260260/6PXPROFLASHLGHT320LUMENSBLK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SUREFIRE LLC"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

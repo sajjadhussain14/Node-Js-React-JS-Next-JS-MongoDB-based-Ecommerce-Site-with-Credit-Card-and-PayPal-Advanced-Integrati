@@ -1,0 +1,74 @@
+
+        [
+            
+                    {
+                        "name":"AMERICAN CLASSIC II 1911 45ACP HARD CHROME | 094922351968",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/61671.jpg",
+                        "available":"Out of Stock",
+                        "id":"18285",
+                        "brand":"EAGLE IMPORTS  AMERICAN",
+                        "upc":"094922351968",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/18285/AMERICANCLASSICII191145ACPHARDCHROME",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"EAGLE IMPORTS  AMERICAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AMERICAN CLASSIC II 1911 45ACP 8RD | 094922796424",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/49736.jpg",
+                        "available":"Out of Stock",
+                        "id":"18284",
+                        "brand":"EAGLE IMPORTS  AMERICAN",
+                        "upc":"094922796424",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/18284/AMERICANCLASSICII191145ACP8RD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"EAGLE IMPORTS  AMERICAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPS VISTA LONG SLIDE 1911 38SUPER 24/RD BLACK | 7.28028E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/AYSPVL38SBC.jpg",
+                        "available":"Out of Stock",
+                        "id":"257925",
+                        "brand":"EAGLE IMPORTS  AMERICAN",
+                        "upc":"7.28028E+11",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/257925/SPSVISTALONGSLIDE191138SUPER24RDBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"EAGLE IMPORTS  AMERICAN"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

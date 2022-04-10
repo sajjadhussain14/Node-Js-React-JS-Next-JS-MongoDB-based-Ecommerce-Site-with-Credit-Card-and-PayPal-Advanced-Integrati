@@ -1,0 +1,902 @@
+
+        [
+            
+                    {
+                        "name":"SUPER SLING 1  W/DS BLACK | 051057207133",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54101.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"43866",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057207133",
+                        "price":12.11,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/43866/SUPERSLING1WDSBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SUPER SLING 1  W/DS MOSS/BREAKUP | 051057207560",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54104.jpg",
+                        "available":"Out of Stock",
+                        "id":"43867",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057207560",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/43867/SUPERSLING1WDSMOSSBREAKUP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SUPER SLING 1 1/4  W/DS BLACK | 051057208130",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54106.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"29678",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057208130",
+                        "price":12.11,
+                        "Dept":"Hunting",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"Lights",
+                        "product_url":"/product/29678/SUPERSLING114WDSBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SUPER SLING 1 1/4  W/DS MOSS/BRK | 051057208550",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54109.jpg",
+                        "available":"Out of Stock",
+                        "id":"29681",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057208550",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/29681/SUPERSLING114WDSMOSSBRK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SuperSling2wDSCoyote Brown | 051057208710",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8452.jpg",
+                        "available":"Out of Stock",
+                        "id":"32956",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057208710",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/32956/SuperSling2wDSCoyoteBrown",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PADDED SUPER W/DS BLACK | 051057209137",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54112.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"9445",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057209137",
+                        "price":15.47,
+                        "Dept":"Hunting",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9445/PADDEDSUPERWDSBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PADDED SUPER W/DS MOSSYOAK BRKUP | 051057209168",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16462.jpg",
+                        "available":"Out of Stock",
+                        "id":"9446",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057209168",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9446/PADDEDSUPERWDSMOSSYOAKBRKUP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PADDED SUPER W/DS ADVANTAGE MAX4 | 051057209236",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16461.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"34548",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057209236",
+                        "price":18.71,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/34548/PADDEDSUPERWDSADVANTAGEMAX4",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PADDED SUPER W/DS COYOTE BROWN | 051057209502",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8382.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"32927",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057209502",
+                        "price":15.47,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/32927/PADDEDSUPERWDSCOYOTEBROWN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Sling Super Grip w/Talon Swivels Black | 051057209700",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8434.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"32947",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057209700",
+                        "price":18.47,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/32947/SlingSuperGripwTalonSwivelsBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Sling Super Grip w/Talon Swivels COYOTE BROWN | 051057209717",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8439.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"32948",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057209717",
+                        "price":18.47,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/32948/SlingSuperGripwTalonSwivelsCOYOTEBROWN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"EXPRESS SLING 1.25 BLACK W/DS | 051057226035",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54123.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"30745",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057226035",
+                        "price": 9.95,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/30745/EXPRESSSLING125BLACKWDS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BUFFER TUBE NUT WRENCH CAR15 | 051057281973",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8404.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"3716",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057281973",
+                        "price": 4.43,
+                        "Dept":"Supplies",
+                        "Typ":"Tools and Equipment",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/3716/BUFFERTUBENUTWRENCHCAR15",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SINGLE POINT SLING ADAPTER | 051057281980",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8383.jpg",
+                        "available":"Out of Stock",
+                        "id":"3717",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057281980",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/3717/SINGLEPOINTSLINGADAPTER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"EDGE 2POINT TAC.SLING MILSPEC | 051057282017",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/58959.jpg",
+                        "available":"Out of Stock",
+                        "id":"3722",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057282017",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/3722/EDGE2POINTTACSLINGMILSPEC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATAC SINGLE POINT SLING COYOTE | 051057285001",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8441.jpg",
+                        "available":"Out of Stock",
+                        "id":"32950",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057285001",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/32950/ATACSINGLEPOINTSLINGCOYOTE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SWIVEL BASE 3PC SCREW SET BLK | 051057603065",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16468.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"11940",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057603065",
+                        "price": 3.95,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11940/SWIVELBASE3PCSCREWSETBLK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRUTE SWIVEL 1 1/4 | 051057792011",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16465.jpg",
+                        "available":"Out of Stock",
+                        "id":"34551",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057792011",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/34551/BRUTESWIVEL114",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TALON SWIVELS DETACHABLE 1 | 051057794008",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54128.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6832",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057794008",
+                        "price": 6.71,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6832/TALONSWIVELSDETACHABLE1",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TALON SWIVELS 1 1/4  DETACHABLE | 051057794015",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54129.jpg",
+                        "available":"Out of Stock",
+                        "id":"6833",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057794015",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6833/TALONSWIVELS114DETACHABLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Sling Paracord Blk Talons | 051057805698",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8431.jpg",
+                        "available":"Out of Stock",
+                        "id":"32946",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057805698",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/32946/SlingParacordBlkTalons",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"THE RAZOR SLING BLACK/BLACK TRIM | 051057900430",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38481.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"7192",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057900430",
+                        "price": 8.87,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/7192/THERAZORSLINGBLACKBLACKTRIM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"THE ELITE NEOPRENE SLING BLACK | 051057900638",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38482.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"7213",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057900638",
+                        "price": 9.95,
+                        "Dept":"Hunting",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/7213/THEELITENEOPRENESLINGBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RAPTOR SLING BLACK W/BRUTE SWVL. | 051057900751",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54643.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"25397",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057900751",
+                        "price":12.11,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25397/RAPTORSLINGBLACKWBRUTESWVL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RAPTOR SLING APG W/BRUTE SWVL. | 051057900799",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54644.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"25398",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057900799",
+                        "price":12.11,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25398/RAPTORSLINGAPGWBRUTESWVL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"THE ELITE NEOPRENE SLING MAX 4 | 051057900812",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8424.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"7225",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057900812",
+                        "price": 9.95,
+                        "Dept":"Hunting",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/7225/THEELITENEOPRENESLINGMAX4",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RAPTOR SLING MAX 4 W/BRUTE SWVL. | 051057900836",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54645.jpg",
+                        "available":"Out of Stock",
+                        "id":"25399",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057900836",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25399/RAPTORSLINGMAX4WBRUTESWVL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Sling NeoMagnum w/Brutes Black | 051057901420",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8411.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"32939",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"051057901420",
+                        "price":13.79,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/32939/SlingNeoMagnumwBrutesBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"EXPRESS SLING 1.25 M/O BRKUP W/D | 51057226554",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OCXP2BUDS.jpg",
+                        "available":"Out of Stock",
+                        "id":"262612",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"51057226554",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262612/EXPRESSSLING125MOBRKUPWD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ECONOMY SLING BLACK | 51057280655",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OC28065.jpg",
+                        "available":"Out of Stock",
+                        "id":"262599",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"51057280655",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262599/ECONOMYSLINGBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RANGE BAG DELUXE TAN/BLACK | 51057281102",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OC28110.jpg",
+                        "available":"Out of Stock",
+                        "id":"262602",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"51057281102",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cases",
+                        "SUBTYP_1":"Archery Cases",
+                        "product_url":"/product/262602/RANGEBAGDELUXETANBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AK47 TACTICAL SLING W/HD HOOK | 51057281935",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OC28193.jpg",
+                        "available":"Out of Stock",
+                        "id":"262603",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"51057281935",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262603/AK47TACTICALSLINGWHDHOOK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATAC SINGLE POINT SLING MILSPC | 51057282000",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OC28200.jpg",
+                        "available":"Out of Stock",
+                        "id":"239850",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"51057282000",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/239850/ATACSINGLEPOINTSLINGMILSPC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BENCHBAG 2PC W/LEATHER FILLED | 51057282130",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OC28213.jpg",
+                        "available":"Out of Stock",
+                        "id":"262604",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"51057282130",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Bipods Monopods Tripods",
+                        "product_url":"/product/262604/BENCHBAG2PCWLEATHERFILLED",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BENCHBAG MAXUM W/LEATHER FILLED | 51057282154",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OC28215.jpg",
+                        "available":"Out of Stock",
+                        "id":"262605",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"51057282154",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Bipods Monopods Tripods",
+                        "product_url":"/product/262605/BENCHBAGMAXUMWLEATHERFILLED",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATAC SINGLE SLING W/SP ADAPTER | 51057284097",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OC28409.jpg",
+                        "available":"Out of Stock",
+                        "id":"262606",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"51057284097",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262606/ATACSINGLESLINGWSPADAPTER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CHICAGO SCREWS BLACK 6PACK | 51057603119",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OCBO8.jpg",
+                        "available":"Out of Stock",
+                        "id":"262609",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"51057603119",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262609/CHICAGOSCREWSBLACK6PACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FASTRAK MAGNETIC  ADHESIV STRIP | 51057612012",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OCPH61201.jpg",
+                        "available":"Out of Stock",
+                        "id":"262611",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"51057612012",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262611/FASTRAKMAGNETICADHESIVSTRIP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRUTE SWIVEL 1 | 51057792004",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OCBRT79200.jpg",
+                        "available":"Out of Stock",
+                        "id":"262610",
+                        "brand":"OUTDOOR CONNECTION",
+                        "upc":"51057792004",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262610/BRUTESWIVEL1",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTDOOR CONNECTION"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

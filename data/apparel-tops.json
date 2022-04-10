@@ -1,0 +1,180 @@
+
+        [
+            
+                    {
+                        "name":"GLOCK PERF TSHIRT BLK LG | 764503110016",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/93857.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"9204",
+                        "brand":"GLOCK",
+                        "upc":"764503110016",
+                        
+                        "price": 9.60,
+                        "Dept":"Apparel",
+                        "Typ":"Tops",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9204/GLOCKPERFTSHIRTBLKLG",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK PERF T SHIRT BLK XL | 764503110023",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/93858.jpg",
+                        "available":"Out of Stock",
+                        "id":"9205",
+                        "brand":"GLOCK",
+                        "upc":"764503110023",
+                        
+                        "price":null,
+                        "Dept":"Apparel",
+                        "Typ":"Tops",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9205/GLOCKPERFTSHIRTBLKXL",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK PERF T SHIRT BLK 2XL | 764503110030",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/93859.jpg",
+                        "available":"Out of Stock",
+                        "id":"9206",
+                        "brand":"GLOCK",
+                        "upc":"764503110030",
+                        
+                        "price":null,
+                        "Dept":"Apparel",
+                        "Typ":"Tops",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9206/GLOCKPERFTSHIRTBLK2XL",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK PERF TSHIRT BLK MD | 764503110047",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/93856.jpg",
+                        "available":"Out of Stock",
+                        "id":"52432",
+                        "brand":"GLOCK",
+                        "upc":"764503110047",
+                        
+                        "price":null,
+                        "Dept":"Apparel",
+                        "Typ":"Tops",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/52432/GLOCKPERFTSHIRTBLKMD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK PERF TSHIRT BLK 3XL | 764503110054",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/93860.jpg",
+                        "available":"Out of Stock",
+                        "id":"9207",
+                        "brand":"GLOCK",
+                        "upc":"764503110054",
+                        
+                        "price":null,
+                        "Dept":"Apparel",
+                        "Typ":"Tops",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9207/GLOCKPERFTSHIRTBLK3XL",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

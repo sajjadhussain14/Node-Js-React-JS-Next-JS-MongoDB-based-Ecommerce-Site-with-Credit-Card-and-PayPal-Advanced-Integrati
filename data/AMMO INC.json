@@ -1,0 +1,80 @@
+
+        [
+            
+                    {
+                        "name":"AMI 223REM FMJ 55GR 20 | 818778021420",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/124971.jpg",
+                        "available":"Out of Stock",
+                        "id":"71765",
+                        "brand":"AMMO INC",
+                        "upc":"818778021420",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/71765/AMI223REMFMJ55GR20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AMMO INC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AMI TMS 9MM 115GR 50 | 818778021512",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/124970.jpg",
+                        "available":"Out of Stock",
+                        "id":"445176",
+                        "brand":"AMMO INC",
+                        "upc":"818778021512",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/445176/AMITMS9MM115GR50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AMMO INC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AMI TMS 10MM 180GR FMJ 50 | 818778021802",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/A10180FMJA50.jpg",
+                        "available":"Out of Stock",
+                        "id":"304430",
+                        "brand":"AMMO INC",
+                        "upc":"818778021802",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/304430/AMITMS10MM180GRFMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AMMO INC"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

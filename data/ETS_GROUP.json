@@ -1,0 +1,442 @@
+
+        [
+            
+                    {
+                        "name":"ETS Group GLK9170 Glock Compatible 9mm Luger G17,18,19,19x,26,34,45 27 rd Clear Extended | 854094005348",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24337.jpg",
+                        "available":"Out of Stock",
+                        "id":"31149",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005348",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/31149/ETSGroupGLK9170GlockCompatible9mmLugerG17181919x26344527rdClearExtended",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS Group HKMP530 HK  9mm Luger HK MP5 30rd Clear Detachable | 854094005461",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110414.jpg",
+                        "available":"Out of Stock",
+                        "id":"21908",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005461",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/21908/ETSGroupHKMP530HK9mmLugerHKMP530rdClearDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS Group HKMP540 HK  9mm Luger HK MP5 40rd Clear Extended | 854094005560",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/115843.jpg",
+                        "available":"Out of Stock",
+                        "id":"21909",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005560",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/21909/ETSGroupHKMP540HK9mmLugerHKMP540rdClearExtended",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS Group GLK21 Glock Compatible 45 ACP Glock 21,30,41 13rd Clear Detachable | 854094005645",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGLK21.jpg",
+                        "available":"Out of Stock",
+                        "id":"77950",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005645",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/77950/ETSGroupGLK21GlockCompatible45ACPGlock21304113rdClearDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS Group SG932015 Sig P320 9mm Luger P320 Compact 15rd Clear Detachable | 854094005751",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZSG932015.jpg",
+                        "available":"In Stock",
+                        "id":"255473",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005751",
+                        "price":15.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/255473/ETSGroupSG932015SigP3209mmLugerP320Compact15rdClearDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS Group SG932017 Sig 9mm Luger Sig Sauer P320 17rd Clear Detachable | 854094005768",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZSG932017.jpg",
+                        "available":"In Stock",
+                        "id":"255474",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005768",
+                        "price":15.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/255474/ETSGroupSG932017Sig9mmLugerSigSauerP32017rdClearDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ELITE TACTICAL SYSTEMS SIG SAUER 320 EXTENDED 21RD 9MM POLY MAG | 854094005775",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZSG932021.jpg",
+                        "available":"In Stock",
+                        "id":"255475",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005775",
+                        "price":18.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/255475/ELITETACTICALSYSTEMSSIGSAUER320EXTENDED21RD9MMPOLYMAG",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS Group SW9SHD7 SW 9mm Luger MP Shield 7rd Clear Detachable | 854094005799",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/117699.jpg",
+                        "available":"In Stock",
+                        "id":"255467",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005799",
+                        "price":15.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/255467/ETSGroupSW9SHD7SW9mmLugerMPShield7rdClearDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS GLOCK 17 17RD 9MM MAG BLUE | 854094005836",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGLK17BLU.jpg",
+                        "available":"Out of Stock",
+                        "id":"254453",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005836",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/254453/ETSGLOCK1717RD9MMMAGBLUE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS GLOCK 19 15RD 9MM MAG BLUE | 854094005850",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGLK19BLU.jpg",
+                        "available":"Out of Stock",
+                        "id":"254455",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005850",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/254455/ETSGLOCK1915RD9MMMAGBLUE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS GLOCK 43 7RD 9MM MAG BLUE | 854094005867",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGLK43BLU.jpg",
+                        "available":"Out of Stock",
+                        "id":"254456",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005867",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/254456/ETSGLOCK437RD9MMMAGBLUE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS GLOCK 43 9RD 9MM MAG BLUE | 854094005874",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGLK439BLU.jpg",
+                        "available":"Out of Stock",
+                        "id":"254457",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005874",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/254457/ETSGLOCK439RD9MMMAGBLUE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS GLOCK 43 12RD 9MM MAG BLUE | 854094005881",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGLK4312BLU.jpg",
+                        "available":"In Stock",
+                        "id":"254458",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005881",
+                        "price":18.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/254458/ETSGLOCK4312RD9MMMAGBLUE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS Group GLK43X Glock Compatible 9mm Luger G43X, 48 10rd Clear Detachable | 854094005898",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122667.jpg",
+                        "available":"Out of Stock",
+                        "id":"271369",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005898",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/271369/ETSGroupGLK43XGlockCompatible9mmLugerG43X4810rdClearDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS Group GLK43X19 Glock Compatible 9mm Luger G43X, 48 19rd Clear Extended | 854094005904",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122668.jpg",
+                        "available":"Out of Stock",
+                        "id":"271341",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005904",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/271341/ETSGroupGLK43X19GlockCompatible9mmLugerG43X4819rdClearExtended",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS Group SW9MP17 SW 9mm Luger MP Shield 17rd Clear Extended | 854094005928",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/117702.jpg",
+                        "available":"Out of Stock",
+                        "id":"255470",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005928",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/255470/ETSGroupSW9MP17SW9mmLugerMPShield17rdClearExtended",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS Group HKVP9SK12 HK 9mm Luger VP9SK 12rd Clear Detachable | 854094005959",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122663.jpg",
+                        "available":"In Stock",
+                        "id":"271340",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005959",
+                        "price":15.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/271340/ETSGroupHKVP9SK12HK9mmLugerVP9SK12rdClearDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS Group HKVP917 HK VP9 9mm Luger VP9 17rd Clear Detachable | 854094005966",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122664.jpg",
+                        "available":"In Stock",
+                        "id":"271367",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005966",
+                        "price":15.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/271367/ETSGroupHKVP917HKVP99mmLugerVP917rdClearDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ETS Group HKVP921 HK VP9 9mm Luger HK VP9 21rd Clear Extended | 854094005973",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122665.jpg",
+                        "available":"In Stock",
+                        "id":"271368",
+                        "brand":"ETSGROUP",
+                        "upc":"854094005973",
+                        "price":18.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/271368/ETSGroupHKVP921HKVP99mmLugerHKVP921rdClearExtended",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ETSGROUP"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

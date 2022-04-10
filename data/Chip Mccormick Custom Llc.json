@@ -1,0 +1,120 @@
+
+        [
+            
+                    {
+                        "name":"RAILED POWER MAG 45ACP 8RD STAINLESS | 019962233005",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27323.jpg",
+                        "available":"Out of Stock",
+                        "id":"37002",
+                        "brand":"CHIP MCCORMICK CUSTOM LLC",
+                        "upc":"019962233005",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/37002/RAILEDPOWERMAG45ACP8RDSTAINLESS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHIP MCCORMICK CUSTOM LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"1911 RAILED POWER MAG .45 ACP 10 RD STS | 019962233104",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27322.jpg",
+                        "available":"Out of Stock",
+                        "id":"37001",
+                        "brand":"CHIP MCCORMICK CUSTOM LLC",
+                        "upc":"019962233104",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/37001/1911RAILEDPOWERMAG45ACP10RDSTS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHIP MCCORMICK CUSTOM LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"1911 POWER MAG .45 ACP 10 RD STS | 7.05263E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CF15150.jpg",
+                        "available":"Out of Stock",
+                        "id":"259292",
+                        "brand":"CHIP MCCORMICK CUSTOM LLC",
+                        "upc":"7.05263E+11",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259292/1911POWERMAG45ACP10RDSTS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHIP MCCORMICK CUSTOM LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"1911 ROSEWOOD GRIP GOVT CHK | 7.05264E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CF82000.jpg",
+                        "available":"Out of Stock",
+                        "id":"259317",
+                        "brand":"CHIP MCCORMICK CUSTOM LLC",
+                        "upc":"7.05264E+11",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259317/1911ROSEWOODGRIPGOVTCHK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHIP MCCORMICK CUSTOM LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"1911 POWER MAG COMPACT .45 ACP 8 RD STS | 7.38435E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CF14132.jpg",
+                        "available":"Out of Stock",
+                        "id":"259316",
+                        "brand":"CHIP MCCORMICK CUSTOM LLC",
+                        "upc":"7.38435E+11",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259316/1911POWERMAGCOMPACT45ACP8RDSTS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHIP MCCORMICK CUSTOM LLC"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

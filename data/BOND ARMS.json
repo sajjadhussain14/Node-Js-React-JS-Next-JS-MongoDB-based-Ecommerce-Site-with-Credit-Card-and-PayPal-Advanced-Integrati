@@ -1,0 +1,705 @@
+
+        [
+            
+                    {
+                        "name":"BOND ARMS TXDEF 45LC | 855959001024",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BNPRODIMAGES/320338.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"442926",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001024",
+                        
+                        "price":463.14,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/442926/BONDARMSTXDEF45LC",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND ARMS C2K DEF45C/410 | 855959001147",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/11605.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18480",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001147",
+                        
+                        "price":509.94,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/18480/BONDARMSC2KDEF45C410",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND ARMS CB DEF 45C/410 | 855959001178",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/11590.jpg",
+                        "available":"Out of Stock",
+                        "id":"18584",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001178",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/18584/BONDARMSCBDEF45C410",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND 2ND AMEND PT2A 45/410 | 855959001291",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/108705.jpg",
+                        "available":"Out of Stock",
+                        "id":"20420",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001291",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20420/BOND2NDAMENDPT2A45410",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND SO BBL 45C/410 3.5 Inch | 855959001307",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/BABL410.gif",
+                        "available":"Out of Stock",
+                        "id":"11505",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001307",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Barrels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11505/BONDSOBBL45C41035",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND BBL 45C/410 3 Inch | 855959001314",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/BABBL45410_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"11508",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001314",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Barrels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11508/BONDBBL45C4103",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND SO BBL 45AC/450 | 855959001338",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/BABBL45ACP_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"11509",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001338",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Barrels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11509/BONDSOBBL45AC450",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND SO BBL 44SPL | 855959001345",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/BABL44SPL.gif",
+                        "available":"Out of Stock",
+                        "id":"11507",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001345",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Barrels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11507/BONDSOBBL44SPL",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND SO BBL 327MG/32HR | 855959001383",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/BABL327.gif",
+                        "available":"Out of Stock",
+                        "id":"11501",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001383",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Barrels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11501/BONDSOBBL327MG32HR",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND BBL 9MM LUGER | 855959001437",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/BABBL9MM_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"11510",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001437",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Barrels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11510/BONDBBL9MMLUGER",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND BMT LTHR HLST TD/SS/C2K | 855959001444",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/BMTCRHBL.gif",
+                        "available":"Out of Stock",
+                        "id":"11929",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001444",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11929/BONDBMTLTHRHLSTTDSSC2K",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND ARMS BMT/CLIP PRM HOL | 855959001451",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/BAHRT350TNRCP.jpg",
+                        "available":"Out of Stock",
+                        "id":"11532",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001451",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11532/BONDARMSBMTCLIPPRMHOL",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND SO BAJ INWAISTBAND TD | 855959001468",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/BABAJ_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"11533",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001468",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11533/BONDSOBAJINWAISTBANDTD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND SO EXTGRP PL ROSEWOOD | 855959001550",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/BAERW.gif",
+                        "available":"Out of Stock",
+                        "id":"11522",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001550",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Grips",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11522/BONDSOEXTGRPPLROSEWOOD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND BAD DRIVER HLST RH | 855959001666",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/BADHOLSTER.gif",
+                        "available":"Out of Stock",
+                        "id":"11515",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001666",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11515/BONDBADDRIVERHLSTRH",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND BBL 45C/410 4.25 Inch | 855959001680",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/BABL410425.gif",
+                        "available":"Out of Stock",
+                        "id":"11506",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001680",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Barrels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11506/BONDBBL45C410425",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND SO BBL 40SW | 855959001864",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/BABL40SW.gif",
+                        "available":"Out of Stock",
+                        "id":"11504",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001864",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Barrels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11504/BONDSOBBL40SW",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND SO BBL 10MM | 855959001871",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/BABL10MM.gif",
+                        "available":"Out of Stock",
+                        "id":"11498",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001871",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Barrels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11498/BONDSOBBL10MM",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND BBL 3 Inch 357MG/38SPL | 855959001994",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/BABBL357MAG_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"11502",
+                        "brand":"BOND ARMS",
+                        "upc":"855959001994",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Barrels",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11502/BONDBBL3357MG38SPL",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND ARMS RUBBER GRIPS | 855959002137",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/BABRG-EXT_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"11521",
+                        "brand":"BOND ARMS",
+                        "upc":"855959002137",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Grips",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11521/BONDARMSRUBBERGRIPS",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND MINI 45 .45LC 2.5 Inch RW | 855959002267",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98310.jpg",
+                        "available":"Out of Stock",
+                        "id":"18402",
+                        "brand":"BOND ARMS",
+                        "upc":"855959002267",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/18402/BONDMINI4545LC25RW",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND 2ND AMEND PT2A 357/38 | 855959002373",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120042.jpg",
+                        "available":"Out of Stock",
+                        "id":"20419",
+                        "brand":"BOND ARMS",
+                        "upc":"855959002373",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20419/BOND2NDAMENDPT2A35738",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND MINI.357/.38 2.5 Inch PNK | 855959002502",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/79190.jpg",
+                        "available":"Out of Stock",
+                        "id":"18401",
+                        "brand":"BOND ARMS",
+                        "upc":"855959002502",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/18401/BONDMINI3573825PNK",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND ZOMBIE 45/410 3.5 Inch 2RD | 855959004711",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/BONDBAZS45410_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"443331",
+                        "brand":"BOND ARMS",
+                        "upc":"855959004711",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/443331/BONDZOMBIE45410352RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND BLACKJACK 45/410 3.5 Inch 2RD | 855959004940",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120046.jpg",
+                        "available":"Out of Stock",
+                        "id":"267280",
+                        "brand":"BOND ARMS",
+                        "upc":"855959004940",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/267280/BONDBLACKJACK45410352RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND CUB 357/38 2.5 Inch BLK GRIPS | 855959005701",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/BONDBACB35738_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"498033",
+                        "brand":"BOND ARMS",
+                        "upc":"855959005701",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/498033/BONDCUB3573825BLKGRIPS",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND TX RNGR 45LC/410 3.5 LMTD | 855959007972",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/118773.jpg",
+                        "available":"Out of Stock",
+                        "id":"263865",
+                        "brand":"BOND ARMS",
+                        "upc":"855959007972",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/263865/BONDTXRNGR45LC41035LMTD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BOND MAMA BEAR 357/38 PNK GRPS | 855959008559",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1664.jpg",
+                        "available":"Out of Stock",
+                        "id":"19892",
+                        "brand":"BOND ARMS",
+                        "upc":"855959008559",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/19892/BONDMAMABEAR35738PNKGRPS",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BOND ARMS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

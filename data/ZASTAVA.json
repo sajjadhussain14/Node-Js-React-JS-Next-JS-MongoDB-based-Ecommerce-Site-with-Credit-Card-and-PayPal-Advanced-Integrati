@@ -1,0 +1,465 @@
+
+        [
+            
+                    {
+                        "name":"ZASTAVA M91 7.62X54R 4X24 POSP 10RD | 682863126105",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/SR91762.jpg",
+                        "available":"Out of Stock",
+                        "id":"314407",
+                        "brand":"ZASTAVA",
+                        "upc":"682863126105",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/314407/ZASTAVAM91762X54R4X24POSP10RD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZASTAVA M57A 7.62X25MM TOKAREV 4.5 BLUED 9RD | 682863126112",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/H5762BL.jpg",
+                        "available":"Out of Stock",
+                        "id":"314395",
+                        "brand":"ZASTAVA",
+                        "upc":"682863126112",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/314395/ZASTAVAM57A762X25MMTOKAREV45BLUED9RD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZASTAVA ARMS M70AA 9MM 4.5 BLUED POLY GRIP 9RD | 682863126129",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/H709BL.jpg",
+                        "available":"Out of Stock",
+                        "id":"314397",
+                        "brand":"ZASTAVA",
+                        "upc":"682863126129",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/314397/ZASTAVAARMSM70AA9MM45BLUEDPOLYGRIP9RD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZAS | 682863126136",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/H5762C.jpg",
+                        "available":"Out of Stock",
+                        "id":"314396",
+                        "brand":"ZASTAVA",
+                        "upc":"682863126136",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/314396/ZAS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZASTAVA CZ999 9MM BLUED | 682863126150",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/HC999B.jpg",
+                        "available":"Out of Stock",
+                        "id":"314399",
+                        "brand":"ZASTAVA",
+                        "upc":"682863126150",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/314399/ZASTAVACZ9999MMBLUED",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZASTAVA CZ999 9MM CHROME SLIDE HIGH POLISH | 682863126167",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/HC999CS.jpg",
+                        "available":"Out of Stock",
+                        "id":"314400",
+                        "brand":"ZASTAVA",
+                        "upc":"682863126167",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/314400/ZASTAVACZ9999MMCHROMESLIDEHIGHPOLISH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZASTAVA EZ9 9MM BLUED | 682863126181",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/HEZ9BL.jpg",
+                        "available":"Out of Stock",
+                        "id":"314404",
+                        "brand":"ZASTAVA",
+                        "upc":"682863126181",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/314404/ZASTAVAEZ99MMBLUED",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZASTAVA EZ9 COMPACT 9MM BLUED | 682863126198",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/HEZ9BC.jpg",
+                        "available":"Out of Stock",
+                        "id":"314403",
+                        "brand":"ZASTAVA",
+                        "upc":"682863126198",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/314403/ZASTAVAEZ9COMPACT9MMBLUED",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZAS ZPAP92 7.62X39 RAIL SB TACTICAL FS1913 PSB | 685757098014",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/ZP92762PAB.jpg",
+                        "available":"Out of Stock",
+                        "id":"314411",
+                        "brand":"ZASTAVA",
+                        "upc":"685757098014",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/314411/ZASZPAP92762X39RAILSBTACTICALFS1913PSB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZASTAVA ARMS ZPAP85 HGA 5.56X45 10.5 BBL WOOD 1.5MM RECEIVER CLINED BARREL | 685757098045",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/ZP85556.jpg",
+                        "available":"Out of Stock",
+                        "id":"295919",
+                        "brand":"ZASTAVA",
+                        "upc":"685757098045",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/295919/ZASTAVAARMSZPAP85HGA556X45105BBLWOOD15MMRECEIVERCLINEDBARREL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZAS 5.56MM TACTICAL | 685757098076",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/ZP85556TAB.jpg",
+                        "available":"Out of Stock",
+                        "id":"295920",
+                        "brand":"ZASTAVA",
+                        "upc":"685757098076",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/295920/ZAS556MMTACTICAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZASTAVA ARMS ZPAP85 HGA 7.62X39 10.5BBL W NIGHT BRAKE QUAD/TOP/REAR RAIL SBE ANG FOREGRIP | 685757098083",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/ZP85556TAC.jpg",
+                        "available":"Out of Stock",
+                        "id":"295921",
+                        "brand":"ZASTAVA",
+                        "upc":"685757098083",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/295921/ZASTAVAARMSZPAP85HGA762X39105BBLWNIGHTBRAKEQUADTOPREARRAILSBEANGFOREGRIP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZASTAVA ARMS ZPAPM70 RIA 7.62X39MM 16.25IN BBL DARK WALNUT FURN BULGED TRUN/1.5MM REC/CHROME BBL | 685757098120",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/ZR7762WM.jpg",
+                        "available":"Out of Stock",
+                        "id":"295929",
+                        "brand":"ZASTAVA",
+                        "upc":"685757098120",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/295929/ZASTAVAARMSZPAPM70RIA762X39MM1625INBBLDARKWALNUTFURNBULGEDTRUN15MMRECCHROMEBBL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZASTAVA ARMS ZPAPM70 RIA 7.62X39MM 16.25IN BBL BLACK POLY FURN BULGED TRUN/1.5MM REC/CHROME BBL | 685757098144",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/ZR7762BM.jpg",
+                        "available":"Out of Stock",
+                        "id":"295927",
+                        "brand":"ZASTAVA",
+                        "upc":"685757098144",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/295927/ZASTAVAARMSZPAPM70RIA762X39MM1625INBBLBLACKPOLYFURNBULGEDTRUN15MMRECCHROMEBBL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZASTAVA ARMS ZPAPM70 RIA 7.62X39MM 16.25IN BBL ODG POLY FURN BULGED TRUN/1.5MM REC/CHROME BBL | 685757098151",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/ZR7762GM.jpg",
+                        "available":"Out of Stock",
+                        "id":"423946",
+                        "brand":"ZASTAVA",
+                        "upc":"685757098151",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/423946/ZASTAVAARMSZPAPM70RIA762X39MM1625INBBLODGPOLYFURNBULGEDTRUN15MMRECCHROMEBBL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZASTAVA ARMS ZPAPM70 RIA 7.62X39MM 16.25IN BBL FDE POLY FURN BULGED TRUN/1.5MM REC/CHROME BBL | 685757098175",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/ZR7762DM.jpg",
+                        "available":"Out of Stock",
+                        "id":"423945",
+                        "brand":"ZASTAVA",
+                        "upc":"685757098175",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/423945/ZASTAVAARMSZPAPM70RIA762X39MM1625INBBLFDEPOLYFURNBULGEDTRUN15MMRECCHROMEBBL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZAS ZPAP92 7.62X39 10 PAP AK PISTOL 30RD | 685757098182",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/ZP92762M.jpg",
+                        "available":"Out of Stock",
+                        "id":"423943",
+                        "brand":"ZASTAVA",
+                        "upc":"685757098182",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/423943/ZASZPAP92762X3910PAPAKPISTOL30RD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZAS ZPAP92 7.62X39 TOP RAIL REAR RAIL WOOD | 685757098199",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/ZP92762PAM.jpg",
+                        "available":"Out of Stock",
+                        "id":"423511",
+                        "brand":"ZASTAVA",
+                        "upc":"685757098199",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/423511/ZASZPAP92762X39TOPRAILREARRAILWOOD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZAS ZPAP92 7.62X39 SBA3 BRACE DARK HARDWOOD | 685757098212",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/ZP92762TABM.jpg",
+                        "available":"Out of Stock",
+                        "id":"423512",
+                        "brand":"ZASTAVA",
+                        "upc":"685757098212",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/423512/ZASZPAP92762X39SBA3BRACEDARKHARDWOOD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZAS ZPAP92 7.62X39 AK SB3 PSB QUAD RAIL | 685757098229",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/ZP92762TACM.jpg",
+                        "available":"Out of Stock",
+                        "id":"423944",
+                        "brand":"ZASTAVA",
+                        "upc":"685757098229",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/423944/ZASZPAP92762X39AKSB3PSBQUADRAIL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ZASTAVA"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

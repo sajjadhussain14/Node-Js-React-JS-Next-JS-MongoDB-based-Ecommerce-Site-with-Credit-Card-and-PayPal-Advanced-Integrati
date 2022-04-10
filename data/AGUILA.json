@@ -1,0 +1,80 @@
+
+        [
+            
+                    {
+                        "name":"AGUILA 22 WIN MAG 40 NICKEL 50 | 640420001470",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/44459.jpg",
+                        "available":"Out of Stock",
+                        "id":"41249",
+                        "brand":"AGUILA",
+                        "upc":"640420001470",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rimfire",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/41249/AGUILA22WINMAG40NICKEL50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AGUILA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AGUILA 28GA 2 3/4 1oz 6 25 | 640420006192",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/1CHB2836.jpg",
+                        "available":"Out of Stock",
+                        "id":"408534",
+                        "brand":"AGUILA",
+                        "upc":"640420006192",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/408534/AGUILA28GA2341oz625",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AGUILA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AGUILA 6.5CRDM 140 GN FMJBT 20 | 640420012759",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BNPRODIMAGES/92910.jpg",
+                        "available":"Out of Stock",
+                        "id":"443287",
+                        "brand":"AGUILA",
+                        "upc":"640420012759",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/443287/AGUILA65CRDM140GNFMJBT20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AGUILA"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

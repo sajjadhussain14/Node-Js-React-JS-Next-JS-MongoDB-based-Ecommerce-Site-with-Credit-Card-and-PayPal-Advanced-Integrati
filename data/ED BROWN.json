@@ -1,0 +1,55 @@
+
+        [
+            
+                    {
+                        "name":"EB CL 45 ACP 7 rd | 800732847009",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/44877.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"41440",
+                        "brand":"ED BROWN",
+                        "upc":"800732847009",
+                        
+                        "price":21.95,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/41440/EBCL45ACP7rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ED BROWN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"EB CL 45 ACP 8 | 800732848006",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/44878.jpg",
+                        "available":"Out of Stock",
+                        "id":"41441",
+                        "brand":"ED BROWN",
+                        "upc":"800732848006",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/41441/EBCL45ACP8",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ED BROWN"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

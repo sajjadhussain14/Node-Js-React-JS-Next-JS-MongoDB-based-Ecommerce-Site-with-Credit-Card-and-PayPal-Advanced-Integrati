@@ -1,0 +1,74 @@
+
+        [
+            
+                    {
+                        "name":"12GA MOSSBERG 835 EXT TURKEY.695 | 418002771",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HNM12695.jpg",
+                        "available":"Out of Stock",
+                        "id":"260895",
+                        "brand":"HASTINGS",
+                        "upc":"418002771",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Muzzle Devices",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260895/12GAMOSSBERG835EXTTURKEY695",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HASTINGS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"12GA MOSSBERG 835 EXT TURKEY.700 | 418002788",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HNM12700.jpg",
+                        "available":"Out of Stock",
+                        "id":"260896",
+                        "brand":"HASTINGS",
+                        "upc":"418002788",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Muzzle Devices",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260896/12GAMOSSBERG835EXTTURKEY700",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HASTINGS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"12GA BERETTA COMPENSATOR TURKEY | 418008322",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HNACB12660.jpg",
+                        "available":"Out of Stock",
+                        "id":"260892",
+                        "brand":"HASTINGS",
+                        "upc":"418008322",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Muzzle Devices",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260892/12GABERETTACOMPENSATORTURKEY",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HASTINGS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

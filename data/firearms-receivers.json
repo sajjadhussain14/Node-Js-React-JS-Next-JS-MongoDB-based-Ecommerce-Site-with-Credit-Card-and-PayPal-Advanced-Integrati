@@ -1,0 +1,390 @@
+
+        [
+            
+                    {
+                        "name":"SW MP 15 5.56 STRIPPED LOWER | 022188134193",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/55244.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"17700",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188134193",
+                        
+                        "price":142.80,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/17700/SWMP15556STRIPPEDLOWER",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW MP AR Essential Parts Kit | 661120412687",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/103669.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"56259",
+                        "brand":"BATTENFIELD",
+                        "upc":"661120412687",
+                        
+                        "price": 8.64,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/56259/SWMPAREssentialPartsKit",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BATTENFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RUGER 5.56/223 LOWER RECEIVER | 736676085064",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24108.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"36156",
+                        "brand":"STURM RUGER  CO",
+                        "upc":"736676085064",
+                        
+                        "price":98.22,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"Lowers",
+                        "product_url":"/product/36156/RUGER556223LOWERRECEIVER",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER  CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI OMNI HYBRID STRIPPED MULTICAL LOWER | 813393017049",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/132089.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18336",
+                        "brand":"ATI",
+                        "upc":"813393017049",
+                        
+                        "price":35.95,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"Lowers",
+                        "product_url":"/product/18336/ATIOMNIHYBRIDSTRIPPEDMULTICALLOWER",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ATI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"YHM STRIPPED LOWER RECVR | 816701011272",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/2357.jpg",
+                        "available":"Out of Stock",
+                        "id":"21208",
+                        "brand":"YANKEE HILL MACHINE CO. INC.",
+                        "upc":"816701011272",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"Lowers",
+                        "product_url":"/product/21208/YHMSTRIPPEDLOWERRECVR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"YANKEE HILL MACHINE CO. INC."
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"YHM STRPD BILLET LOWER RECVR | 816701017618",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98755.jpg",
+                        "available":"Out of Stock",
+                        "id":"21209",
+                        "brand":"YANKEE HILL MACHINE CO. INC.",
+                        "upc":"816701017618",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"Lowers",
+                        "product_url":"/product/21209/YHMSTRPDBILLETLOWERRECVR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"YANKEE HILL MACHINE CO. INC."
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI MULTICAL LOWER BFG | 819644022497",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GATIGLOW200BFG.jpg",
+                        "available":"Out of Stock",
+                        "id":"304967",
+                        "brand":"AMERICAN TACTICAL",
+                        "upc":"819644022497",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/304967/ATIMULTICALLOWERBFG",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AMERICAN TACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI MULTICAL LOWER FDE | 819644022503",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GATIGLOW200FDE.jpg",
+                        "available":"Out of Stock",
+                        "id":"304968",
+                        "brand":"AMERICAN TACTICAL",
+                        "upc":"819644022503",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/304968/ATIMULTICALLOWERFDE",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AMERICAN TACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI MULTICAL LOWER SGRY | 819644022510",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GATIGLOW200SG.jpg",
+                        "available":"Out of Stock",
+                        "id":"304969",
+                        "brand":"AMERICAN TACTICAL",
+                        "upc":"819644022510",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/304969/ATIMULTICALLOWERSGRY",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AMERICAN TACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI GALEO LOW RECEIVER 5.56 | 819644023548",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/129486.jpg",
+                        "available":"Out of Stock",
+                        "id":"426826",
+                        "brand":"AMERICAN TACTICAL",
+                        "upc":"819644023548",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"Lowers",
+                        "product_url":"/product/426826/ATIGALEOLOWRECEIVER556",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AMERICAN TACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI MILSPORT STRIPPED LOWER | 892756002687",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106618.jpg",
+                        "available":"Out of Stock",
+                        "id":"18337",
+                        "brand":"ATI",
+                        "upc":"892756002687",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"Lowers",
+                        "product_url":"/product/18337/ATIMILSPORTSTRIPPEDLOWER",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ATI"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

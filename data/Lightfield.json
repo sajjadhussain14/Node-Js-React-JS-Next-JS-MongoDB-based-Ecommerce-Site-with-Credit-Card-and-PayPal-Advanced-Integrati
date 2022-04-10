@@ -1,0 +1,120 @@
+
+        [
+            
+                    {
+                        "name":"12GA 2 3/4 BOAR BUSTER | 784268000155",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/0316606.jpg",
+                        "available":"Out of Stock",
+                        "id":"71352",
+                        "brand":"LIGHTFIELD",
+                        "upc":"784268000155",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/71352/12GA234BOARBUSTER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIGHTFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LIGHTFIELD .410 21/2 Inch 4 BALL RUBBER BUCK 5PACK | 784268393998",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ARBHD410.gif",
+                        "available":"Out of Stock",
+                        "id":"10526",
+                        "brand":"LIGHTFIELD",
+                        "upc":"784268393998",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/10526/LIGHTFIELD4102124BALLRUBBERBUCK5PACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIGHTFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LIGHTFIELD 12GA 23/4 Inch RUBBER SLUG 5PACK | 784268448896",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ALHDRS12.gif",
+                        "available":"Out of Stock",
+                        "id":"10063",
+                        "brand":"LIGHTFIELD",
+                        "upc":"784268448896",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/10063/LIGHTFIELD12GA234RUBBERSLUG5PACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIGHTFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LIGHTFIELD HOME DEFENSE AMO 20 GA DOUBLE BALL 5RD | 784268667785",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/0316602.jpg",
+                        "available":"Out of Stock",
+                        "id":"71351",
+                        "brand":"LIGHTFIELD",
+                        "upc":"784268667785",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/71351/LIGHTFIELDHOMEDEFENSEAMO20GADOUBLEBALL5RD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIGHTFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LIGHTFIELD 12GA 23/4 Inch HIGH VELOCITY STAR 5PACK | 784268999992",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ALHDST12.gif",
+                        "available":"Out of Stock",
+                        "id":"10064",
+                        "brand":"LIGHTFIELD",
+                        "upc":"784268999992",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/10064/LIGHTFIELD12GA234HIGHVELOCITYSTAR5PACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIGHTFIELD"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

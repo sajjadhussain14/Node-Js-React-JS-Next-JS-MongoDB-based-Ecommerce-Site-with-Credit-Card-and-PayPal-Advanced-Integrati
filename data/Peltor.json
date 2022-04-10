@@ -1,0 +1,630 @@
+
+        [
+            
+                    {
+                        "name":"Peltor Blasts Disposable Ear Plugs | 051125004299",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/75021.jpg",
+                        "available":"Out of Stock",
+                        "id":"25835",
+                        "brand":"PELTOR",
+                        "upc":"051125004299",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25835/PeltorBlastsDisposableEarPlugs",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Replacement Ear Cushions Customizable Ring Set Blue | 051125004305",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PTECPELBLU6C.jpg",
+                        "available":"Out of Stock",
+                        "id":"312802",
+                        "brand":"PELTOR",
+                        "upc":"051125004305",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/312802/PeltorReplacementEarCushionsCustomizableRingSetBlue",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Replacement Ear Cushions Customizable Ring Set Pink | 051125004312",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1930407.jpg",
+                        "available":"Out of Stock",
+                        "id":"79689",
+                        "brand":"PELTOR",
+                        "upc":"051125004312",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/79689/PeltorReplacementEarCushionsCustomizableRingSetPink",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Sport Shotgunner II LowProfile Hearing Protector | 051125005647",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/20420.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"8190",
+                        "brand":"PELTOR",
+                        "upc":"051125005647",
+                        
+                        "price":21.30,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/8190/PeltorSportShotgunnerIILowProfileHearingProtector",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Sport Bulls Eye Hearing Protector | 051125005654",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/20421.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"8191",
+                        "brand":"PELTOR",
+                        "upc":"051125005654",
+                        
+                        "price":22.08,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/8191/PeltorSportBullsEyeHearingProtector",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Sport Ultimate Hearing Protector | 051125005661",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/25943.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"8192",
+                        "brand":"PELTOR",
+                        "upc":"051125005661",
+                        
+                        "price":23.64,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/8192/PeltorSportUltimateHearingProtector",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PELT TAC 100 EAR MUFF | 051141394237",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/95283.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"4333",
+                        "brand":"PELTOR",
+                        "upc":"051141394237",
+                        
+                        "price":86.40,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/4333/PELTTAC100EARMUFF",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Sport RangeGuard Electronic Ear Muffs | 051141990590",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/2732.jpg",
+                        "available":"Out of Stock",
+                        "id":"26831",
+                        "brand":"PELTOR",
+                        "upc":"051141990590",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/26831/PeltorSportRangeGuardElectronicEarMuffs",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Sport SecureFit 400 Safety Eyewear | 051141994987",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/20649.jpg",
+                        "available":"Out of Stock",
+                        "id":"25836",
+                        "brand":"PELTOR",
+                        "upc":"051141994987",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Eye Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25836/PeltorSportSecureFit400SafetyEyewear",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Sport Securefit 400 Eye Protection AntiFog Amber | 051141994994",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/20648.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"25837",
+                        "brand":"PELTOR",
+                        "upc":"051141994994",
+                        
+                        "price": 6.48,
+                        "Dept":"Safety Products",
+                        "Typ":"Eye Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25837/PeltorSportSecurefit400EyeProtectionAntiFogAmber",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Sport Securefit 400 Eye Protection 1 Each Amber/Clear/Gray | 051141995090",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/20647.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"35295",
+                        "brand":"PELTOR",
+                        "upc":"051141995090",
+                        
+                        "price":12.96,
+                        "Dept":"Safety Products",
+                        "Typ":"Eye Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/35295/PeltorSportSecurefit400EyeProtection1EachAmberClearGray",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPORT SECUREFIT 400 EYE PROTECTION ANTIFOG GRAY | 051141995175",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/20652.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"25838",
+                        "brand":"PELTOR",
+                        "upc":"051141995175",
+                        
+                        "price": 6.48,
+                        "Dept":"Safety Products",
+                        "Typ":"Eye Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25838/SPORTSECUREFIT400EYEPROTECTIONANTIFOGGRAY",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PELT BT WIRELESS PROT B/S 3PK | 076308726539",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/PEL90542-3DC_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"64988",
+                        "brand":"PELTOR",
+                        "upc":"076308726539",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/64988/PELTBTWIRELESSPROTBS3PK",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Sport Overtheglass Eyewear  Clear | 076308730024",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45077.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"25740",
+                        "brand":"PELTOR",
+                        "upc":"076308730024",
+                        
+                        "price": 7.08,
+                        "Dept":"Safety Products",
+                        "Typ":"Eye Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25740/PeltorSportOvertheglassEyewearClear",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PELT BLK FOLD EARMUFF 25dB | 076308906443",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/P90563.gif",
+                        "available":"Out of Stock",
+                        "id":"25834",
+                        "brand":"PELTOR",
+                        "upc":"076308906443",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25834/PELTBLKFOLDEARMUFF25dB",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PELT SPORT TACT 500 HR PROT | 076308913373",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45052.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"41478",
+                        "brand":"PELTOR",
+                        "upc":"076308913373",
+                        
+                        "price":154.80,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/41478/PELTSPORTTACT500HRPROT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PELT SPORT TACT 300 HR PROT | 076308913571",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45050.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"41477",
+                        "brand":"PELTOR",
+                        "upc":"076308913571",
+                        
+                        "price":116.10,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/41477/PELTSPORTTACT300HRPROT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PELT VIRTUA GLASSES 100 PACK | 078371112288",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131695.jpg",
+                        "available":"Out of Stock",
+                        "id":"309746",
+                        "brand":"PELTOR",
+                        "upc":"078371112288",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Eye Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/309746/PELTVIRTUAGLASSES100PACK",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Sport TriFlange Corded Reusable Earplugs Neon Yellow 3 pair/pk | 078371610067",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/92277.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"52204",
+                        "brand":"PELTOR",
+                        "upc":"078371610067",
+                        
+                        "price": 5.94,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/52204/PeltorSportTriFlangeCordedReusableEarplugsNeonYellow3pairpk",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PELT WORKTUNES DGTL AM/FM | 078371905415",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1920840.jpg",
+                        "available":"Out of Stock",
+                        "id":"79390",
+                        "brand":"PELTOR",
+                        "upc":"078371905415",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/79390/PELTWORKTUNESDGTLAMFM",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Sport Passive Ear Muffs Small | 078371970703",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/75018.jpg",
+                        "available":"Out of Stock",
+                        "id":"48326",
+                        "brand":"PELTOR",
+                        "upc":"078371970703",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48326/PeltorSportPassiveEarMuffsSmall",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Blasts Disposable Ear Plugs | 078371970802",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/89910.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"51508",
+                        "brand":"PELTOR",
+                        "upc":"078371970802",
+                        
+                        "price": 2.70,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/51508/PeltorBlastsDisposableEarPlugs",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Blasts Disposable Ear Plugs | 078371970819",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/75022.jpg",
+                        "available":"Out of Stock",
+                        "id":"48328",
+                        "brand":"PELTOR",
+                        "upc":"078371970819",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48328/PeltorBlastsDisposableEarPlugs",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Peltor Sport Banded Ear Plugs  Replace Pods | 080529970657",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/89911.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"51509",
+                        "brand":"PELTOR",
+                        "upc":"080529970657",
+                        
+                        "price": 6.00,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/51509/PeltorSportBandedEarPlugsReplacePods",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PELT 3M LEVEL DEPEN EARPLUGS | 093045938254",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131694.jpg",
+                        "available":"Out of Stock",
+                        "id":"439515",
+                        "brand":"PELTOR",
+                        "upc":"093045938254",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/439515/PELT3MLEVELDEPENEARPLUGS",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PELTOR"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

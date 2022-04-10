@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"PREMIER UNIVERSAL KIT .2212GA | 7.09779E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PXUVBOXKIT.jpg",
+                        "available":"Out of Stock",
+                        "id":"256288",
+                        "brand":"PROSHOT",
+                        "upc":"7.09779E+11",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/256288/PREMIERUNIVERSALKIT2212GA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PROSHOT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZERO FRICTION 1 OZ NEEDLE OILER | 7.0978E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PXZF1.jpg",
+                        "available":"Out of Stock",
+                        "id":"256287",
+                        "brand":"PROSHOT",
+                        "upc":"7.0978E+11",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/256287/ZEROFRICTION1OZNEEDLEOILER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PROSHOT"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

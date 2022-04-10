@@ -1,0 +1,1055 @@
+
+        [
+            
+                    {
+                        "name":"TULA 9MM 115FMJ BRS 50 | 3877000251476",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133739.jpg",
+                        "available":"Out of Stock",
+                        "id":"308670",
+                        "brand":"TULA AMMO",
+                        "upc":"3877000251476",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/308670/TULA9MM115FMJBRS50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA 380ACP 95FMJ BRS 50 | 3877000251674",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133738.jpg",
+                        "available":"Out of Stock",
+                        "id":"71446",
+                        "brand":"TULA AMMO",
+                        "upc":"3877000251674",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/71446/TULA380ACP95FMJBRS50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA UL076200 124 FMJ 20 | 814950010008",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BHPRODIMAGES/TA 076200.jpg",
+                        "available":"Out of Stock",
+                        "id":"110017",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010008",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/110017/TULAUL076200124FMJ20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA UL076201 122 FMJ 20 | 814950010015",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/51541.jpg",
+                        "available":"Out of Stock",
+                        "id":"110018",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010015",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/110018/TULAUL076201122FMJ20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TUL UL076210 7.62X39 122FMJ100 | 814950010022",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/84327.jpg",
+                        "available":"Out of Stock",
+                        "id":"50323",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010022",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/50323/TULUL076210762X39122FMJ100",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA UL076204 7.62x39HP 20 | 814950010039",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BHPRODIMAGES/TA 076204.jpg",
+                        "available":"Out of Stock",
+                        "id":"110020",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010039",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/110020/TULAUL076204762x39HP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA UL076240 7.62X39 122FMJ40 | 814950010046",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98502.jpg",
+                        "available":"Out of Stock",
+                        "id":"53541",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010046",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53541/TULAUL076240762X39122FMJ40",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA UL076212 7.62X39 122HP 40 | 814950010053",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98503.jpg",
+                        "available":"Out of Stock",
+                        "id":"53542",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010053",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53542/TULAUL076212762X39122HP40",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TUL UL076209 7.62X39 124FMJ 40 | 814950010060",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98504.jpg",
+                        "available":"Out of Stock",
+                        "id":"53543",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010060",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53543/TULUL076209762X39124FMJ40",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA UL076211 7.62X39 124HP 40 | 814950010077",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98505.jpg",
+                        "available":"Out of Stock",
+                        "id":"53544",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010077",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53544/TULAUL076211762X39124HP40",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA UL076213 7.62X39 124SP 40 | 814950010084",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98506.jpg",
+                        "available":"Out of Stock",
+                        "id":"53545",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010084",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53545/TULAUL076213762X39124SP40",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA UL076214 7.62X39 154SP 40 | 814950010091",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98507.jpg",
+                        "available":"Out of Stock",
+                        "id":"53546",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010091",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53546/TULAUL076214762X39154SP40",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA UL076220 7.62X39 122HP100 | 814950010107",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/TLUL076220_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"66714",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010107",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/66714/TULAUL076220762X39122HP100",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TUL UL076230 7.62X39 124FMJ100 | 814950010114",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/TLUL076230_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"66715",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010114",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/66715/TULUL076230762X39124FMJ100",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA UL076250 7.62X39 124HP100 | 814950010121",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/TLUL076250_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"66716",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010121",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/66716/TULAUL076250762X39124HP100",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA UL076202 7.62X39HP 20 | 814950010190",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BHPRODIMAGES/TA 076202.jpg",
+                        "available":"Out of Stock",
+                        "id":"110019",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010190",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/110019/TULAUL076202762X39HP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA UL076208 7.62 154SP20 | 814950010220",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BHPRODIMAGES/TA 076208.jpg",
+                        "available":"Out of Stock",
+                        "id":"110022",
+                        "brand":"TULA AMMO",
+                        "upc":"814950010220",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/110022/TULAUL076208762154SP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TUL TA762548 7.62x54R 148FMJ20 | 814950011012",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/64049.jpg",
+                        "available":"Out of Stock",
+                        "id":"46084",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011012",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/46084/TULTA762548762x54R148FMJ20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA545390 5.45x39 60FMJ 20 | 814950011128",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98501.jpg",
+                        "available":"Out of Stock",
+                        "id":"53540",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011128",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53540/TULATA545390545x3960FMJ20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA223550 55 FMJ 20 | 814950011159",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/64042.jpg",
+                        "available":"Out of Stock",
+                        "id":"46081",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011159",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/46081/TULATA22355055FMJ20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA223540 223 55FMJ 40 | 814950011166",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/TLTA223540_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"66713",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011166",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/66713/TULATA22354022355FMJ40",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA223620 223REM 62FMJ 20 | 814950011173",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98497.jpg",
+                        "available":"Out of Stock",
+                        "id":"53536",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011173",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53536/TULATA223620223REM62FMJ20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA223552 223REM 55HP 20 | 814950011180",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98496.jpg",
+                        "available":"Out of Stock",
+                        "id":"53535",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011180",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53535/TULATA223552223REM55HP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA223621 223REM 62HP 20 | 814950011197",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98498.jpg",
+                        "available":"Out of Stock",
+                        "id":"53537",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011197",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53537/TULATA223621223REM62HP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA223100 55 FMJ 100 | 814950011203",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/84326.jpg",
+                        "available":"Out of Stock",
+                        "id":"50322",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011203",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/50322/TULATA22310055FMJ100",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA223675 223REM 75HP 20 | 814950011241",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98499.jpg",
+                        "available":"Out of Stock",
+                        "id":"53538",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011241",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53538/TULATA223675223REM75HP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA301100 30CAR 110FMJ 50 | 814950011265",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/64043.jpg",
+                        "available":"Out of Stock",
+                        "id":"46082",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011265",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/46082/TULATA30110030CAR110FMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA308150 308WIN 150FMJ 20 | 814950011289",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/64044.jpg",
+                        "available":"Out of Stock",
+                        "id":"46083",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011289",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/46083/TULATA308150308WIN150FMJ20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA308000 308WIN 165SP 20 | 814950011296",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98500.jpg",
+                        "available":"Out of Stock",
+                        "id":"53539",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011296",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53539/TULATA308000308WIN165SP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA452300 45ACP FMJ 50 | 814950011500",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/64055.jpg",
+                        "available":"Out of Stock",
+                        "id":"46089",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011500",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/46089/TULATA45230045ACPFMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA919100 115 FMJ BER 100 | 814950011517",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/84328.jpg",
+                        "available":"Out of Stock",
+                        "id":"50324",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011517",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/50324/TULATA919100115FMJBER100",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA401800 180 FMJ 50 | 814950011524",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/64054.jpg",
+                        "available":"Out of Stock",
+                        "id":"46088",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011524",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/46088/TULATA401800180FMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA919150 9MM 115FMJ50 | 814950011531",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/64051.jpg",
+                        "available":"Out of Stock",
+                        "id":"46085",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011531",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/46085/TULATA9191509MM115FMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA038158 38SPL 130 FMJ 50 | 814950011548",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/TLTA038158_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"66711",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011548",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/66711/TULATA03815838SPL130FMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA357158 357MG158 FMJ 50 | 814950011555",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/DVPRODIMAGES/prod_images/TA357158.jpg",
+                        "available":"Out of Stock",
+                        "id":"71426",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011555",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/71426/TULATA357158357MG158FMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA380910 380ACP FMJ50 | 814950011562",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/64053.jpg",
+                        "available":"Out of Stock",
+                        "id":"46087",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011562",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/46087/TULATA380910380ACPFMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA918092 9X18 92FMJ50 | 814950011593",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/64052.jpg",
+                        "available":"Out of Stock",
+                        "id":"46086",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011593",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/46086/TULATA9180929X1892FMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA223101 223REM 55HP 100 | 814950011654",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/TLTA223101_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"66712",
+                        "brand":"TULA AMMO",
+                        "upc":"814950011654",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/66712/TULATA223101223REM55HP100",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA UL076203 7.62 X 39FMJ 640 | 814950015027",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/64057.jpg",
+                        "available":"Out of Stock",
+                        "id":"46090",
+                        "brand":"TULA AMMO",
+                        "upc":"814950015027",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/46090/TULAUL076203762X39FMJ640",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TulAmmo Rifle Ammunition 7.62mm X 39 122 gr HP 640/Case | 814950015041",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/90771.jpg",
+                        "available":"Out of Stock",
+                        "id":"51821",
+                        "brand":"TULA AMMO",
+                        "upc":"814950015041",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/51821/TulAmmoRifleAmmunition762mmX39122grHP640Case",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA223551 55FMJ MIL TIN500 | 814950016161",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BHPRODIMAGES/TA 223551.jpg",
+                        "available":"Out of Stock",
+                        "id":"110023",
+                        "brand":"TULA AMMO",
+                        "upc":"814950016161",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/110023/TULATA22355155FMJMILTIN500",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TULA TA919151 MIL TIN 900 | 814950016543",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/64058.jpg",
+                        "available":"Out of Stock",
+                        "id":"46091",
+                        "brand":"TULA AMMO",
+                        "upc":"814950016543",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/46091/TULATA919151MILTIN900",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TULA AMMO"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

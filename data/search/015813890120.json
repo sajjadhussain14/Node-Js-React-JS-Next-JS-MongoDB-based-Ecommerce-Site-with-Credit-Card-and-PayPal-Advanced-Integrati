@@ -1,0 +1,34 @@
+
+        [
+            
+                    {
+                        "name":"MOSSBERG MC2 9MM 3.9 Inch BLK 15RD  89012 | 015813890120 | MOSSBERG | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123014.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"268742",
+                        "brand":"MOSSBERG",
+                        "upc":"015813890120",
+                        
+                        "price":423.54,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/268742/MOSSBERGMC29MM39BLK15RD89012",
+                        
+                        "total_num_reviews":1,
+                        "rating":4,
+                        "stars_numbers":5,
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

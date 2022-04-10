@@ -1,0 +1,145 @@
+
+        [
+            
+                    {
+                        "name":"CTC BRUSHLINE 39x40 BDC | 810048570003",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131500.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"438368",
+                        "brand":"CRIMSON",
+                        "upc":"810048570003",
+                        
+                        "price":149.95,
+                        "Dept":"Optics",
+                        "Typ":"Scopes",
+                        "SUBTYP_1":"Handgun",
+                        "product_url":"/product/438368/CTCBRUSHLINE39x40BDC",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CRIMSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CTC BRUSHLINE 412x40 BDC | 810048570010",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131502.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"438369",
+                        "brand":"CRIMSON",
+                        "upc":"810048570010",
+                        
+                        "price":239.95,
+                        "Dept":"Optics",
+                        "Typ":"Scopes",
+                        "SUBTYP_1":"Handgun",
+                        "product_url":"/product/438369/CTCBRUSHLINE412x40BDC",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CRIMSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CTC BRUSHLINE 39x50 BDC | 810048570027",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131501.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"438370",
+                        "brand":"CRIMSON",
+                        "upc":"810048570027",
+                        
+                        "price":179.95,
+                        "Dept":"Optics",
+                        "Typ":"Scopes",
+                        "SUBTYP_1":"Handgun",
+                        "product_url":"/product/438370/CTCBRUSHLINE39x50BDC",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CRIMSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CTC BRUSHLINE PRO 412x40 BDC | 810048570157",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131509.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"438366",
+                        "brand":"CRIMSON",
+                        "upc":"810048570157",
+                        
+                        "price":259.95,
+                        "Dept":"Optics",
+                        "Typ":"Scopes",
+                        "SUBTYP_1":"Handgun",
+                        "product_url":"/product/438366/CTCBRUSHLINEPRO412x40BDC",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CRIMSON"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

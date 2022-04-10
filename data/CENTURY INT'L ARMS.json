@@ -1,0 +1,55 @@
+
+        [
+            
+                    {
+                        "name":"CENT VSKA 7.62X39 CIRCLE10 30 | 787450662605",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131871.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"439699",
+                        "brand":"CENTURY INT'L ARMS",
+                        "upc":"787450662605",
+                        
+                        "price":963.54,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/439699/CENTVSKA762X39CIRCLE1030",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CENTURY INT'L ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CENT WASR POLY 7.62X39 30 | 787450690936",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131530.jpg",
+                        "available":"Out of Stock",
+                        "id":"439081",
+                        "brand":"CENTURY INT'L ARMS",
+                        "upc":"787450690936",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/439081/CENTWASRPOLY762X3930",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CENTURY INT'L ARMS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

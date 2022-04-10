@@ -1,0 +1,110 @@
+
+        [
+            
+                    {
+                        "name":"MOSSBERG 835 COMBO 12/2424 MOBC 6 | 015813624190",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/3029.jpg",
+                        "available":"Out of Stock",
+                        "id":"17309",
+                        "brand":"MOSSBERG",
+                        "upc":"015813624190",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Combo",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/17309/MOSSBERG835COMBO122424MOBC6",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Mossberg 835 UltiMag  Combo Turkey/Waterfowl 12ga 6rd Capacity 24 Inch/28 Inch Barrels Mossy Oak Breakup Full Choke Set | 015813624374",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/3033.jpg",
+                        "available":"Out of Stock",
+                        "id":"17310",
+                        "brand":"MOSSBERG",
+                        "upc":"015813624374",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Combo",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/17310/Mossberg835UltiMagComboTurkeyWaterfowl12ga6rdCapacity2428BarrelsMossyOakBreakupFullChokeSet",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 930 COMBO 12/24/28 | 015813852388",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/43854.jpg",
+                        "available":"Out of Stock",
+                        "id":"17879",
+                        "brand":"MOSSBERG",
+                        "upc":"015813852388",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Combo",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/17879/MOSSBERG930COMBO122428",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

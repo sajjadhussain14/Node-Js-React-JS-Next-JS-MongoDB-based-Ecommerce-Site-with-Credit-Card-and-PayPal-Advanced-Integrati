@@ -1,0 +1,74 @@
+
+        [
+            
+                    {
+                        "name":"WOODLAND WHISPER IN THE EAR 2PK | 6.5617E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/JYWWITEAC.jpg",
+                        "available":"Out of Stock",
+                        "id":"260410",
+                        "brand":"ALTUS BRANDS",
+                        "upc":"6.5617E+11",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260410/WOODLANDWHISPERINTHEEAR2PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ALTUS BRANDS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RIFLEMAN PXS HEARING PROTECTION | 7.51711E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/JYRFPXS.jpg",
+                        "available":"Out of Stock",
+                        "id":"259850",
+                        "brand":"ALTUS BRANDS",
+                        "upc":"7.51711E+11",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259850/RIFLEMANPXSHEARINGPROTECTION",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ALTUS BRANDS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PRO MAG GOLD NRR 30 BLACK | 7.5171E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/JYGSDPMB.jpg",
+                        "available":"Out of Stock",
+                        "id":"261362",
+                        "brand":"ALTUS BRANDS",
+                        "upc":"7.5171E+11",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/261362/PROMAGGOLDNRR30BLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ALTUS BRANDS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

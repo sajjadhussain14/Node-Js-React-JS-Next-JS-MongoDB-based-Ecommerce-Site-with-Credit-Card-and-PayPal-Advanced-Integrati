@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"ON DUTY CBD OIL STARTER PACK 500MG OILS/LOTIONS/ROLLERS | 850006507092",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ODCBDSTART.jpg",
+                        "available":"Out of Stock",
+                        "id":"247471",
+                        "brand":"ONDUTYCBD",
+                        "upc":"850006507092",
+                        "price":null,
+                        "Dept":"Duty Gear",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/247471/ONDUTYCBDOILSTARTERPACK500MGOILSLOTIONSROLLERS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ONDUTYCBD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ON DUTY CBD PURE FS 1500MG OF CANNABIDIOL 6 PACK 30ML | 850009765321",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/OD1500P.jpg",
+                        "available":"Out of Stock",
+                        "id":"282828",
+                        "brand":"ONDUTYCBD",
+                        "upc":"850009765321",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Other",
+                        "SUBTYP_1":"Packaged Food",
+                        "product_url":"/product/282828/ONDUTYCBDPUREFS1500MGOFCANNABIDIOL6PACK30ML",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ONDUTYCBD"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

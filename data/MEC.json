@@ -1,0 +1,2830 @@
+
+        [
+            
+                    {
+                        "name":"MEC MAG BER 96FS 40SW BLU 10RD | 765595100800",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48185.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"42298",
+                        "brand":"MEC",
+                        "upc":"765595100800",
+                        
+                        "price":21.00,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/42298/MECMAGBER96FS40SWBLU10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG BER 96FS 40SW NKL 10RD | 765595100909",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133941.jpg",
+                        "available":"Out of Stock",
+                        "id":"480183",
+                        "brand":"MEC",
+                        "upc":"765595100909",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/480183/MECMAGBER96FS40SWNKL10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR Beretta 950 Jetfire Magazine .25 ACP Blued Steel 8/rd | 765595101906",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48164.jpg",
+                        "available":"Out of Stock",
+                        "id":"24628",
+                        "brand":"MEC",
+                        "upc":"765595101906",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24628/MECGARBeretta950JetfireMagazine25ACPBluedSteel8rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG BROWNING 40SW BLU 10RD | 765595102903",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MCGBR4010B_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"63781",
+                        "brand":"MEC",
+                        "upc":"765595102903",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/63781/MECMAGBROWNING40SWBLU10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar 1911 Magazine .45 ACP Blued Steel 7/rd | 765595103504",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48111.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24576",
+                        "brand":"MEC",
+                        "upc":"765595103504",
+                        
+                        "price":16.14,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24576/MecGar1911Magazine45ACPBluedSteel7rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG 1911 45ACP NKL 7RD | 765595103603",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133946.jpg",
+                        "available":"Out of Stock",
+                        "id":"24577",
+                        "brand":"MEC",
+                        "upc":"765595103603",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24577/MECMAG191145ACPNKL7RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar 1911 Magazine .45 ACP 2nd Amendment Engraved Blued Steel 8/rd | 765595103757",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/111632.jpg",
+                        "available":"Out of Stock",
+                        "id":"24578",
+                        "brand":"MEC",
+                        "upc":"765595103757",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24578/MecGar1911Magazine45ACP2ndAmendmentEngravedBluedSteel8rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar 1911 Magazine .45 ACP HT Flush Fit Blued Steel 8/rd | 765595103801",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48113.jpg",
+                        "available":"Out of Stock",
+                        "id":"24580",
+                        "brand":"MEC",
+                        "upc":"765595103801",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24580/MecGar1911Magazine45ACPHTFlushFitBluedSteel8rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar 1911 Officer Handgun Magazine with Plastic Removable Buttplate  Follower .45 ACP HT Blued 7 rds High Cap | 765595103825",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123098.jpg",
+                        "available":"Out of Stock",
+                        "id":"97832",
+                        "brand":"MEC",
+                        "upc":"765595103825",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97832/MecGar1911OfficerHandgunMagazinewithPlasticRemovableButtplateFollower45ACPHTBlued7rdsHighCap",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG 1911 45ACP NKL 8RD | 765595103900",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123093.jpg",
+                        "available":"Out of Stock",
+                        "id":"24581",
+                        "brand":"MEC",
+                        "upc":"765595103900",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24581/MECMAG191145ACPNKL8RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar 1911 Officer Handgun Magazine with Removable Buttplate  Follower .45 ACP HT Nickel 7 rds High Cap | 765595103924",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/MYMGCO4507NPF.jpg",
+                        "available":"Out of Stock",
+                        "id":"418977",
+                        "brand":"MEC",
+                        "upc":"765595103924",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/418977/MecGar1911OfficerHandgunMagazinewithRemovableButtplateFollower45ACPHTNickel7rdsHighCap",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar 1911 Govt Magazine with Plastic Removable Buttplate  Follower .45 ACP HT Stainless Steel 8 rds High Cap | 765595103955",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48936.jpg",
+                        "available":"Out of Stock",
+                        "id":"24582",
+                        "brand":"MEC",
+                        "upc":"765595103955",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24582/MecGar1911GovtMagazinewithPlasticRemovableButtplateFollower45ACPHTStainlessSteel8rdsHighCap",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR MATCH GRADE 1911 .45 ACP 8RD HT PLAF MAGAZINE | 765595103993",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123094.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"263170",
+                        "brand":"MEC",
+                        "upc":"765595103993",
+                        
+                        "price":22.68,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/263170/MECGARMATCHGRADE191145ACP8RDHTPLAFMAGAZINE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG 1911 CMPT 45ACP BLU 6R | 765595104303",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48117.jpg",
+                        "available":"Out of Stock",
+                        "id":"24596",
+                        "brand":"MEC",
+                        "upc":"765595104303",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24596/MECMAG1911CMPT45ACPBLU6R",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG 1911 CMPT 45ACP NKL 6R | 765595104402",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133948.jpg",
+                        "available":"Out of Stock",
+                        "id":"24597",
+                        "brand":"MEC",
+                        "upc":"765595104402",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24597/MECMAG1911CMPT45ACPNKL6R",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar 1911 Govt Handgun Magazine .40 SW / .357 SIG HT Blued 8/rd | 765595104600",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133947.jpg",
+                        "available":"Out of Stock",
+                        "id":"24589",
+                        "brand":"MEC",
+                        "upc":"765595104600",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24589/MecGar1911GovtHandgunMagazine40SW357SIGHTBlued8rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG 1911 CMPT 40SW BLU 7RD | 765595104655",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/MGCGOV40CB.gif",
+                        "available":"Out of Stock",
+                        "id":"24590",
+                        "brand":"MEC",
+                        "upc":"765595104655",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24590/MECMAG1911CMPT40SWBLU7RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG 1911 40SW NKL 8RD | 765595104709",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MCCGOV40N_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"24592",
+                        "brand":"MEC",
+                        "upc":"765595104709",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24592/MECMAG191140SWNKL8RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG 1911 CMPT 40SW NKL 7RD | 765595104754",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/MGCGOV40CN.gif",
+                        "available":"Out of Stock",
+                        "id":"24591",
+                        "brand":"MEC",
+                        "upc":"765595104754",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24591/MECMAG1911CMPT40SWNKL7RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR 1911 Handgun Magazine 10mm HT Blued Steel 8/rd | 765595104907",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48119.jpg",
+                        "available":"Out of Stock",
+                        "id":"24585",
+                        "brand":"MEC",
+                        "upc":"765595104907",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24585/MECGAR1911HandgunMagazine10mmHTBluedSteel8rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar 1911 Govt Handgun Magazine 10mm HT Nickel 8/rd | 765595105003",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123096.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24586",
+                        "brand":"MEC",
+                        "upc":"765595105003",
+                        
+                        "price":18.84,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24586/MecGar1911GovtHandgunMagazine10mmHTNickel8rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR 1911 Handgun Magazine 9mm HT Blued Steel 9/rd | 765595105201",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57076.jpg",
+                        "available":"Out of Stock",
+                        "id":"24594",
+                        "brand":"MEC",
+                        "upc":"765595105201",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24594/MECGAR1911HandgunMagazine9mmHTBluedSteel9rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG 1911 CMPT 9MM BLU 8RD | 765595105256",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123099.jpg",
+                        "available":"Out of Stock",
+                        "id":"273134",
+                        "brand":"MEC",
+                        "upc":"765595105256",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/273134/MECMAG1911CMPT9MMBLU8RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR 1911 Handgun Magazine 9mm HT Nickel 9/rd | 765595105300",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57077.jpg",
+                        "available":"Out of Stock",
+                        "id":"24595",
+                        "brand":"MEC",
+                        "upc":"765595105300",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24595/MECGAR1911HandgunMagazine9mmHTNickel9rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Mecgar 1911 Govt. Handgun Magazine 9mm Luger AFC 10/rd | 765595105324",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57078.jpg",
+                        "available":"Out of Stock",
+                        "id":"24593",
+                        "brand":"MEC",
+                        "upc":"765595105324",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24593/Mecgar1911GovtHandgunMagazine9mmLugerAFC10rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG 1911 CMPT 9MM NKL 8RD | 765595105355",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BNPRODIMAGES/974770.jpg",
+                        "available":"Out of Stock",
+                        "id":"442947",
+                        "brand":"MEC",
+                        "upc":"765595105355",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/442947/MECMAG1911CMPT9MMNKL8RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar 1911 Magazine .38 Super Blued 9/rd | 765595105508",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48121.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24587",
+                        "brand":"MEC",
+                        "upc":"765595105508",
+                        
+                        "price":17.04,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24587/MecGar1911Magazine38SuperBlued9rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Handgun Magazine Luger P08 9mm HT Blued 8 rds Standard | 765595106000",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48123.jpg",
+                        "available":"Out of Stock",
+                        "id":"42281",
+                        "brand":"MEC",
+                        "upc":"765595106000",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/42281/MecGarHandgunMagazineLugerP089mmHTBlued8rdsStandard",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Handgun Magazine Luger P08 9mm HT Nickel 8 rds Standard | 765595106109",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123100.jpg",
+                        "available":"Out of Stock",
+                        "id":"273135",
+                        "brand":"MEC",
+                        "upc":"765595106109",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/273135/MecGarHandgunMagazineLugerP089mmHTNickel8rdsStandard",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR Ruger Mark III  Mark IV Rifle Magazine .22 LR Blued Steel 10/rd | 765595106451",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/111633.jpg",
+                        "available":"Out of Stock",
+                        "id":"24610",
+                        "brand":"MEC",
+                        "upc":"765595106451",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24610/MECGARRugerMarkIIIMarkIVRifleMagazine22LRBluedSteel10rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG RUG MARKIII 22/45 10RD | 765595106475",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/111634.jpg",
+                        "available":"Out of Stock",
+                        "id":"24611",
+                        "brand":"MEC",
+                        "upc":"765595106475",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24611/MECMAGRUGMARKIII224510RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG TAUR PT100 40SW BL 10R | 765595109407",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48188.jpg",
+                        "available":"Out of Stock",
+                        "id":"24630",
+                        "brand":"MEC",
+                        "upc":"765595109407",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24630/MECMAGTAURPT10040SWBL10R",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG TAUR PT100 40SW NK 10R | 765595109506",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/MGPT4010N.gif",
+                        "available":"Out of Stock",
+                        "id":"24631",
+                        "brand":"MEC",
+                        "upc":"765595109506",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24631/MECMAGTAURPT10040SWNK10R",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG WALTHER 380 BLU 7RD | 765595110809",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48147.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"42290",
+                        "brand":"MEC",
+                        "upc":"765595110809",
+                        
+                        "price":21.36,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/42290/MECMAGWALTHER380BLU7RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Walther PPK/S .380 Magazine Finger Rest Floorplate Blued 7/rd | 765595110908",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48148.jpg",
+                        "available":"Out of Stock",
+                        "id":"42291",
+                        "brand":"MEC",
+                        "upc":"765595110908",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/42291/MecGarWaltherPPKS380MagazineFingerRestFloorplateBlued7rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Walther PPK/S .380 Magazine Finger Rest Floorplate Nickel 7/rd | 765595110953",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123108.jpg",
+                        "available":"Out of Stock",
+                        "id":"63789",
+                        "brand":"MEC",
+                        "upc":"765595110953",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/63789/MecGarWaltherPPKS380MagazineFingerRestFloorplateNickel7rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG WALTHER 380 BLU 6RD | 765595111004",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48149.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"42292",
+                        "brand":"MEC",
+                        "upc":"765595111004",
+                        
+                        "price":21.36,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/42292/MECMAGWALTHER380BLU6RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Handgun Magazine Walther PPK .380 ACP HT Blued 6 rdsE | 765595111103",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48150.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"42293",
+                        "brand":"MEC",
+                        "upc":"765595111103",
+                        
+                        "price":23.82,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/42293/MecGarHandgunMagazineWaltherPPK380ACPHTBlued6rdsE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Handgun Magazine Walther PPK .380 ACP Carbon Steel Tube Nickel 6 rds | 765595111158",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/MYMGWPPKFRN.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"418979",
+                        "brand":"MEC",
+                        "upc":"765595111158",
+                        
+                        "price":25.32,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/418979/MecGarHandgunMagazineWaltherPPK380ACPCarbonSteelTubeNickel6rds",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Handgun Magazine Walther PP .32 ACP HT Blued 8 rds | 765595111202",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/DVPRODIMAGES/prod_images/MGWPP32STB.jpg",
+                        "available":"Out of Stock",
+                        "id":"97838",
+                        "brand":"MEC",
+                        "upc":"765595111202",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97838/MecGarHandgunMagazineWaltherPP32ACPHTBlued8rds",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Handgun Magazine Walther PP .32 ACP HT Blued 8 rds | 765595111301",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123109.jpg",
+                        "available":"Out of Stock",
+                        "id":"63787",
+                        "brand":"MEC",
+                        "upc":"765595111301",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/63787/MecGarHandgunMagazineWaltherPP32ACPHTBlued8rds",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Handgun Magazine Walther PPK .32 ACP HT Blued 7 rds | 765595111509",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123110.jpg",
+                        "available":"Out of Stock",
+                        "id":"63788",
+                        "brand":"MEC",
+                        "upc":"765595111509",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/63788/MecGarHandgunMagazineWaltherPPK32ACPHTBlued7rds",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Beretta 92FS M9 Magazine 9mm Flush Fit Blued 10/rd | 765595112001",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48170.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24624",
+                        "brand":"MEC",
+                        "upc":"765595112001",
+                        
+                        "price":21.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24624/MecGarBeretta92FSM9Magazine9mmFlushFitBlued10rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Handgun Magazine Beretta 92FS M9 9mm HT Nickel 10/rd | 765595112100",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106344.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"57568",
+                        "brand":"MEC",
+                        "upc":"765595112100",
+                        
+                        "price":22.80,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/57568/MecGarHandgunMagazineBeretta92FSM99mmHTNickel10rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR Browning HP Handgun Magazine 9mm HT Blued Steel 10/rd | 765595112506",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57075.jpg",
+                        "available":"Out of Stock",
+                        "id":"44528",
+                        "brand":"MEC",
+                        "upc":"765595112506",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44528/MECGARBrowningHPHandgunMagazine9mmHTBluedSteel10rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar 1911 Govt Handgun Magazine .45 ACP HT Blue 10/rd | 765595112803",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48174.jpg",
+                        "available":"Out of Stock",
+                        "id":"24583",
+                        "brand":"MEC",
+                        "upc":"765595112803",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24583/MecGar1911GovtHandgunMagazine45ACPHTBlue10rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar 1911 Govt Handgun Magazine .45 ACP HT Nickel 10/rd | 765595112902",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/72807.jpg",
+                        "available":"Out of Stock",
+                        "id":"24584",
+                        "brand":"MEC",
+                        "upc":"765595112902",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24584/MecGar1911GovtHandgunMagazine45ACPHTNickel10rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR Ruger P85/89/93/94/95/PC9 Handgun Magazine 9mm HT Blued Steel 10/rd | 765595113305",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48176.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24640",
+                        "brand":"MEC",
+                        "upc":"765595113305",
+                        
+                        "price":21.36,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24640/MECGARRugerP8589939495PC9HandgunMagazine9mmHTBluedSteel10rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar SIG P226 Magazine 9mm HT Blued 10/rd | 765595113602",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48178.jpg",
+                        "available":"Out of Stock",
+                        "id":"24614",
+                        "brand":"MEC",
+                        "upc":"765595113602",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24614/MecGarSIGP226Magazine9mmHTBlued10rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Handgun Magazine Sig Sauer P228 9mm HT Blued 10 rds | 765595113909",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48180.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24618",
+                        "brand":"MEC",
+                        "upc":"765595113909",
+                        
+                        "price":21.36,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24618/MecGarHandgunMagazineSigSauerP2289mmHTBlued10rds",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar SW 5900 Series/915/910/659 Magazine 9mm Blued 10/rd | 765595114104",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48181.jpg",
+                        "available":"Out of Stock",
+                        "id":"24651",
+                        "brand":"MEC",
+                        "upc":"765595114104",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24651/MecGarSW5900Series915910659Magazine9mmBlued10rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Taurus PT92/99 Handgun Magazine 9mm Blued Steel 10/rd | 765595114609",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48183.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24634",
+                        "brand":"MEC",
+                        "upc":"765595114609",
+                        
+                        "price":21.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24634/MecGarTaurusPT9299HandgunMagazine9mmBluedSteel10rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Handgun Magazine Beretta 92FS M9 9mm HT Nickel 10/rd | 765595114708",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MCPT9210N_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"24635",
+                        "brand":"MEC",
+                        "upc":"765595114708",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24635/MecGarHandgunMagazineBeretta92FSM99mmHTNickel10rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG PARA P14 45ACP BLU 10R | 765595115101",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48187.jpg",
+                        "available":"Out of Stock",
+                        "id":"42300",
+                        "brand":"MEC",
+                        "upc":"765595115101",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/42300/MECMAGPARAP1445ACPBLU10R",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Browning Magazine HP Magazine 9mm Blued Steel 13/rd | 765595440050",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48106.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24572",
+                        "brand":"MEC",
+                        "upc":"765595440050",
+                        
+                        "price":21.06,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24572/MecGarBrowningMagazineHPMagazine9mmBluedSteel13rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Browning Magazine HP 9mm Flush Fit Blued Steel 15/rd | 765595440067",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48108.jpg",
+                        "available":"Out of Stock",
+                        "id":"24573",
+                        "brand":"MEC",
+                        "upc":"765595440067",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24573/MecGarBrowningMagazineHP9mmFlushFitBluedSteel15rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG SW 5900 9MM BLU 17RD | 765595440128",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48132.jpg",
+                        "available":"Out of Stock",
+                        "id":"24655",
+                        "brand":"MEC",
+                        "upc":"765595440128",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24655/MECMAGSW59009MMBLU17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG BROWNING 9MM NKL 13RD | 765595440272",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123071.jpg",
+                        "available":"Out of Stock",
+                        "id":"273120",
+                        "brand":"MEC",
+                        "upc":"765595440272",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/273120/MECMAGBROWNING9MMNKL13RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG BROWNING 9MM NKL 15RD | 765595440289",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/84003.jpg",
+                        "available":"Out of Stock",
+                        "id":"50202",
+                        "brand":"MEC",
+                        "upc":"765595440289",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/50202/MECMAGBROWNING9MMNKL15RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG BER 84 380ACP BLU 10RD | 765595440296",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123048.jpg",
+                        "available":"Out of Stock",
+                        "id":"77691",
+                        "brand":"MEC",
+                        "upc":"765595440296",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/77691/MECMAGBER84380ACPBLU10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR BROWNING BDA .380 ACP 13RD BLUE MAGAZINE | 765595440302",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48166.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"42297",
+                        "brand":"MEC",
+                        "upc":"765595440302",
+                        
+                        "price":21.36,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/42297/MECGARBROWNINGBDA380ACP13RDBLUEMAGAZINE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR 1911 Magazine .45 ACP 11/rd EXT Blued | 765595440319",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123095.jpg",
+                        "available":"Out of Stock",
+                        "id":"77029",
+                        "brand":"MEC",
+                        "upc":"765595440319",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/77029/MECGAR1911Magazine45ACP11rdEXTBlued",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG BROWNING 380ACP BLU 10 | 765595440333",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123072.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"77689",
+                        "brand":"MEC",
+                        "upc":"765595440333",
+                        
+                        "price":21.36,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/77689/MECMAGBROWNING380ACPBLU10",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar CZ 75B 85B SP01 Shadow Magazine 9mm Blued 16/rd | 765595440357",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36877.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24602",
+                        "brand":"MEC",
+                        "upc":"765595440357",
+                        
+                        "price":21.36,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24602/MecGarCZ75B85BSP01ShadowMagazine9mmBlued16rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR CZ75B CZ85B CZ SP01 CZ Shadow  CZ Shadow2 Handgun Magazine 9mm HT Blued Steel 10/rd | 765595440371",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57079.jpg",
+                        "available":"Out of Stock",
+                        "id":"24600",
+                        "brand":"MEC",
+                        "upc":"765595440371",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24600/MECGARCZ75BCZ85BCZSP01CZShadowCZShadow2HandgunMagazine9mmHTBluedSteel10rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG CZ 75B 40SW BLU 10RD | 765595440388",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/MGCZ4010B.gif",
+                        "available":"Out of Stock",
+                        "id":"24598",
+                        "brand":"MEC",
+                        "upc":"765595440388",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24598/MECMAGCZ75B40SWBLU10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG PARA P16 40SW BLU 15RD | 765595440401",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36874.jpg",
+                        "available":"Out of Stock",
+                        "id":"39631",
+                        "brand":"MEC",
+                        "upc":"765595440401",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/39631/MECMAGPARAP1640SWBLU15RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG PARA P18 38SUP NKL 17R | 765595440418",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MCGP183817N_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"295180",
+                        "brand":"MEC",
+                        "upc":"765595440418",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/295180/MECMAGPARAP1838SUPNKL17R",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Ruger P85/89/93/94/95/PC9 Magazine 9mm HT Blued 15/rd | 765595440425",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48125.jpg",
+                        "available":"Out of Stock",
+                        "id":"24642",
+                        "brand":"MEC",
+                        "upc":"765595440425",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24642/MecGarRugerP8589939495PC9Magazine9mmHTBlued15rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG RUG P85 9MM NKL 17RD | 765595440456",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48128.jpg",
+                        "available":"Out of Stock",
+                        "id":"24644",
+                        "brand":"MEC",
+                        "upc":"765595440456",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24644/MECMAGRUGP859MMNKL17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR Ruger P85/89/93/94/95/PC9 Magazine 9mm 20/rd Blued Steel | 765595440463",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48129.jpg",
+                        "available":"Out of Stock",
+                        "id":"42282",
+                        "brand":"MEC",
+                        "upc":"765595440463",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/42282/MECGARRugerP8589939495PC9Magazine9mm20rdBluedSteel",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG SW 5900 9MM NKL 15RD | 765595440487",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/MGSW5915N.gif",
+                        "available":"Out of Stock",
+                        "id":"24654",
+                        "brand":"MEC",
+                        "upc":"765595440487",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24654/MECMAGSW59009MMNKL15RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG SW 5900 9MM NKL 17RD | 765595440494",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48133.jpg",
+                        "available":"Out of Stock",
+                        "id":"24656",
+                        "brand":"MEC",
+                        "upc":"765595440494",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24656/MECMAGSW59009MMNKL17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Taurus PT92/99 Magazine 9mm Blued 15/rd | 765595440593",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48141.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24636",
+                        "brand":"MEC",
+                        "upc":"765595440593",
+                        
+                        "price":21.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24636/MecGarTaurusPT9299Magazine9mmBlued15rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG BER 84 380ACP NKL 13RD | 765595440609",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123049.jpg",
+                        "available":"Out of Stock",
+                        "id":"273103",
+                        "brand":"MEC",
+                        "upc":"765595440609",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/273103/MECMAGBER84380ACPNKL13RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG BROWNING 380ACP NKL 13 | 765595440616",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133945.jpg",
+                        "available":"Out of Stock",
+                        "id":"480338",
+                        "brand":"MEC",
+                        "upc":"765595440616",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/480338/MECMAGBROWNING380ACPNKL13",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG TAUR PT92 9MM NKL 15RD | 765595440623",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/MGPT9215N.gif",
+                        "available":"Out of Stock",
+                        "id":"24637",
+                        "brand":"MEC",
+                        "upc":"765595440623",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24637/MECMAGTAURPT929MMNKL15RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG BROWNING 380ACP NKL 10 | 765595440630",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1038981.jpg",
+                        "available":"Out of Stock",
+                        "id":"77690",
+                        "brand":"MEC",
+                        "upc":"765595440630",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/77690/MECMAGBROWNING380ACPNKL10",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Beretta 92FS M9 Magazine 9mm Phosphate 15/rd | 765595441057",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36875.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24626",
+                        "brand":"MEC",
+                        "upc":"765595441057",
+                        
+                        "price":21.36,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24626/MecGarBeretta92FSM9Magazine9mmPhosphate15rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG CZ 75 CMPT 9MM BLU 10R | 765595441521",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/111638.jpg",
+                        "available":"Out of Stock",
+                        "id":"241174",
+                        "brand":"MEC",
+                        "upc":"765595441521",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/241174/MECMAGCZ75CMPT9MMBLU10R",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR CZ 75 Compact Handgun Magazine 9mm HT Blued Steel 15/rd | 765595441538",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/111639.jpg",
+                        "available":"Out of Stock",
+                        "id":"242050",
+                        "brand":"MEC",
+                        "upc":"765595441538",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/242050/MECGARCZ75CompactHandgunMagazine9mmHTBluedSteel15rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Beretta 92FS M9 Magazine Flush fit AntiFriction 18/rd | 765595510005",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48932.jpg",
+                        "available":"Out of Stock",
+                        "id":"24627",
+                        "brand":"MEC",
+                        "upc":"765595510005",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24627/MecGarBeretta92FSM9MagazineFlushfitAntiFriction18rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG BER 92 9MM CMPT 10RD | 765595510050",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123045.jpg",
+                        "available":"Out of Stock",
+                        "id":"97831",
+                        "brand":"MEC",
+                        "upc":"765595510050",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97831/MECMAGBER929MMCMPT10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG BER 92 9MM CMPT 15RD | 765595510081",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123046.jpg",
+                        "available":"Out of Stock",
+                        "id":"273102",
+                        "brand":"MEC",
+                        "upc":"765595510081",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/273102/MECMAGBER929MMCMPT15RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR BERETTA 92FS M9  9MM 20RD HT ANTIFR MAGAZINE | 765595510166",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123047.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"263172",
+                        "brand":"MEC",
+                        "upc":"765595510166",
+                        
+                        "price":31.50,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/263172/MECGARBERETTA92FSM99MM20RDHTANTIFRMAGAZINE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Beretta 96FS .40 SW Magazine AntiFriction Flush Fit 13/rd | 765595511002",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54264.jpg",
+                        "available":"Out of Stock",
+                        "id":"24629",
+                        "brand":"MEC",
+                        "upc":"765595511002",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24629/MecGarBeretta96FS40SWMagazineAntiFrictionFlushFit13rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG BER 96FS 40SW AF 15RD | 765595511088",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133942.jpg",
+                        "available":"Out of Stock",
+                        "id":"316415",
+                        "brand":"MEC",
+                        "upc":"765595511088",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/316415/MECMAGBER96FS40SWAF15RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar ParaUSA P14 Magazine .45ACP HT AntiFriction 14/rd | 765595512054",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MCP144514AFC_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"63790",
+                        "brand":"MEC",
+                        "upc":"765595512054",
+                        
+                        "price":24.42,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/63790/MecGarParaUSAP14Magazine45ACPHTAntiFriction14rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar SIG P226 Magazine 9mm HT Flush Fit  AntiFriction Coating AFC 18/rd | 765595515000",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54266.jpg",
+                        "available":"Out of Stock",
+                        "id":"24616",
+                        "brand":"MEC",
+                        "upc":"765595515000",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24616/MecGarSIGP226Magazine9mmHTFlushFitAntiFrictionCoatingAFC18rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG SIG P226 X5 9MM 10RD | 765595515024",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/114931.jpg",
+                        "available":"Out of Stock",
+                        "id":"250959",
+                        "brand":"MEC",
+                        "upc":"765595515024",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/250959/MECMAGSIGP226X59MM10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG SIG P226 X5 9MM 19RD | 765595515031",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/111640.jpg",
+                        "available":"Out of Stock",
+                        "id":"241176",
+                        "brand":"MEC",
+                        "upc":"765595515031",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/241176/MECMAGSIGP226X59MM19RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR CZ 75B 85B SP01 9MM 19RD HT AFC MAGAZINE | 765595515116",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/121620.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"263171",
+                        "brand":"MEC",
+                        "upc":"765595515116",
+                        
+                        "price":31.92,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/263171/MECGARCZ75B85BSP019MM19RDHTAFCMAGAZINE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar SIG P226 Magazine .40 SW HT AFC 13/rd | 765595515208",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/72808.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24617",
+                        "brand":"MEC",
+                        "upc":"765595515208",
+                        
+                        "price":26.22,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24617/MecGarSIGP226Magazine40SWHTAFC13rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR SIG P226 .40/.357 15RD AFC DPS MAGAZINE | 765595515321",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133954.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"316414",
+                        "brand":"MEC",
+                        "upc":"765595515321",
+                        
+                        "price":35.46,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/316414/MECGARSIGP2264035715RDAFCDPSMAGAZINE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR CZ 75B 85B SP01 Shadow  Shadow2 Handgun Magazine 9mm HT AFC Steel 17/rd | 765595515505",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59439.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24603",
+                        "brand":"MEC",
+                        "upc":"765595515505",
+                        
+                        "price":26.22,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24603/MECGARCZ75B85BSP01ShadowShadow2HandgunMagazine9mmHTAFCSteel17rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR SIG SAUER P.226 9MM 20RD HT AFC MAGAZINE | 765595515611",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123101.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"263173",
+                        "brand":"MEC",
+                        "upc":"765595515611",
+                        
+                        "price":31.92,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/263173/MECGARSIGSAUERP2269MM20RDHTAFCMAGAZINE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR CZ75 .40SW 14RD HT AFC DPS MAGAZINE | 765595515840",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MCGCZ4014DPS_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"316413",
+                        "brand":"MEC",
+                        "upc":"765595515840",
+                        
+                        "price":31.38,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/316413/MECGARCZ7540SW14RDHTAFCDPSMAGAZINE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR TAURUS 100/101 .40 15RD AFC DPS MAGAZINE | 765595516656",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/MYMGPT4015DPS.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"494014",
+                        "brand":"MEC",
+                        "upc":"765595516656",
+                        
+                        "price":31.38,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/494014/MECGARTAURUS1001014015RDAFCDPSMAGAZINE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Taurus 92 Magazine 9mm HT AntiFriction Flush Fit 18/rd | 765595516700",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59709.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24638",
+                        "brand":"MEC",
+                        "upc":"765595516700",
+                        
+                        "price":25.86,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/24638/MecGarTaurus92Magazine9mmHTAntiFrictionFlushFit18rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR Sig Sauer P229 Handgun Magazine .40SW / .357 Sig HT AFC Steel 14/rd | 765595520103",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57082.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"63785",
+                        "brand":"MEC",
+                        "upc":"765595520103",
+                        
+                        "price":31.92,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/63785/MECGARSigSauerP229HandgunMagazine40SW357SigHTAFCSteel14rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG SIG P226 40SW BLU 10RD | 765595520134",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133953.jpg",
+                        "available":"Out of Stock",
+                        "id":"480446",
+                        "brand":"MEC",
+                        "upc":"765595520134",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/480446/MECMAGSIGP22640SWBLU10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG SIG P229 9MM AF 17RD | 765595520158",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MCGP22917AFC_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"63784",
+                        "brand":"MEC",
+                        "upc":"765595520158",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/63784/MECMAGSIGP2299MMAF17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG SIG PRO 9MM AF 17RD | 765595520202",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/111636.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"63786",
+                        "brand":"MEC",
+                        "upc":"765595520202",
+                        
+                        "price":31.92,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/63786/MECMAGSIGPRO9MMAF17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG TANFOGLIO SM 9MM AF 17 | 765595750005",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123104.jpg",
+                        "available":"Out of Stock",
+                        "id":"97835",
+                        "brand":"MEC",
+                        "upc":"765595750005",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97835/MECMAGTANFOGLIOSM9MMAF17",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG TANFOGLIO SM 9MM BL 10 | 765595750012",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1038085.jpg",
+                        "available":"Out of Stock",
+                        "id":"77502",
+                        "brand":"MEC",
+                        "upc":"765595750012",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/77502/MECMAGTANFOGLIOSM9MMBL10",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG TANFOGLIO LG 9MM AF 17 | 765595750159",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123105.jpg",
+                        "available":"Out of Stock",
+                        "id":"97837",
+                        "brand":"MEC",
+                        "upc":"765595750159",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97837/MECMAGTANFOGLIOLG9MMAF17",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG TANFOGLIO LG 9MM BL 10 | 765595750173",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1038986.jpg",
+                        "available":"Out of Stock",
+                        "id":"77695",
+                        "brand":"MEC",
+                        "upc":"765595750173",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/77695/MECMAGTANFOGLIOLG9MMBL10",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC WITNESS/TANG CL 40SW 14RD | 765595750203",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120972.jpg",
+                        "available":"Out of Stock",
+                        "id":"77091",
+                        "brand":"MEC",
+                        "upc":"765595750203",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/77091/MECWITNESSTANGCL40SW14RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG SIG P228 9MM AF 18RD | 765595750302",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123102.jpg",
+                        "available":"Out of Stock",
+                        "id":"63783",
+                        "brand":"MEC",
+                        "upc":"765595750302",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/63783/MECMAGSIGP2289MMAF18RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MecGar Bersa Thunder Magazine Flush Fit w/Finger Rest .380 ACP Blued Steel 8/rd | 765595750500",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57074.jpg",
+                        "available":"Out of Stock",
+                        "id":"44527",
+                        "brand":"MEC",
+                        "upc":"765595750500",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44527/MecGarBersaThunderMagazineFlushFitwFingerRest380ACPBluedSteel8rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MECGAR Bersa Thunder Magazine .380 ACP Nickel 8/rd | 765595750555",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133944.jpg",
+                        "available":"Out of Stock",
+                        "id":"418976",
+                        "brand":"MEC",
+                        "upc":"765595750555",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/418976/MECGARBersaThunderMagazine380ACPNickel8rd",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC MAG BER 92 COMP 9MM 20RD | 765595800106",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133943.jpg",
+                        "available":"Out of Stock",
+                        "id":"480184",
+                        "brand":"MEC",
+                        "upc":"765595800106",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/480184/MECMAGBER92COMP9MM20RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEC CZ 75B COMP CL 9MM AF 19 | 765595800403",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133949.jpg",
+                        "available":"Out of Stock",
+                        "id":"480360",
+                        "brand":"MEC",
+                        "upc":"765595800403",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/480360/MECCZ75BCOMPCL9MMAF19",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEC"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,230 @@
+
+        [
+            
+                    {
+                        "name":"BRAZ 92 357MAG 20 Inch 10RD | 662205988769",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27934.jpg",
+                        "available":"Out of Stock",
+                        "id":"18070",
+                        "brand":"ROSSI / BRAZTECH",
+                        "upc":"662205988769",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/18070/BRAZ92357MAG2010RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ROSSI / BRAZTECH"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRAZ R92 454 SS/HW 20 9RD | 754908231607",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122642.jpg",
+                        "available":"Out of Stock",
+                        "id":"270283",
+                        "brand":"ROSSI / BRAZTECH",
+                        "upc":"754908231607",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/270283/BRAZR92454SSHW209RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ROSSI / BRAZTECH"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRAZ R92 357MAG 20 WOOD 10RD | 754908232000",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122636.jpg",
+                        "available":"Out of Stock",
+                        "id":"270280",
+                        "brand":"ROSSI / BRAZTECH",
+                        "upc":"754908232000",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/270280/BRAZR92357MAG20WOOD10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ROSSI / BRAZTECH"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRAZ R92 44MAG 20 WOOD 10RD | 754908232109",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122637.jpg",
+                        "available":"Out of Stock",
+                        "id":"270324",
+                        "brand":"ROSSI / BRAZTECH",
+                        "upc":"754908232109",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/270324/BRAZR9244MAG20WOOD10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ROSSI / BRAZTECH"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRAZ R92 357MAG 16 Inch 3XBLK 8RD | 754908232208",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122634.jpg",
+                        "available":"Out of Stock",
+                        "id":"270278",
+                        "brand":"ROSSI / BRAZTECH",
+                        "upc":"754908232208",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/270278/BRAZR92357MAG163XBLK8RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ROSSI / BRAZTECH"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRAZ R92 44MAG 16 Inch 3XBLK 8RD | 754908232307",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122635.jpg",
+                        "available":"Out of Stock",
+                        "id":"270279",
+                        "brand":"ROSSI / BRAZTECH",
+                        "upc":"754908232307",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/270279/BRAZR9244MAG163XBLK8RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ROSSI / BRAZTECH"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRAZ R92 357MAG 24 SS/OCT 12 | 754908232505",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122639.jpg",
+                        "available":"Out of Stock",
+                        "id":"270325",
+                        "brand":"ROSSI / BRAZTECH",
+                        "upc":"754908232505",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/270325/BRAZR92357MAG24SSOCT12",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ROSSI / BRAZTECH"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRAZ R92 44MAG 24 BLK/OCT 12 | 754908232604",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122640.jpg",
+                        "available":"Out of Stock",
+                        "id":"270281",
+                        "brand":"ROSSI / BRAZTECH",
+                        "upc":"754908232604",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/270281/BRAZR9244MAG24BLKOCT12",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ROSSI / BRAZTECH"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRAZ R92 44MAG 24 SS/OCT 12 | 754908232703",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/122641.jpg",
+                        "available":"Out of Stock",
+                        "id":"270282",
+                        "brand":"ROSSI / BRAZTECH",
+                        "upc":"754908232703",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/270282/BRAZR9244MAG24SSOCT12",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ROSSI / BRAZTECH"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

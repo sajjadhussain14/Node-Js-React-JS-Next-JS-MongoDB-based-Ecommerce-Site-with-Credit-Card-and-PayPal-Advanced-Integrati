@@ -1,0 +1,145 @@
+
+        [
+            
+                    {
+                        "name":"Lyman Gunsmiths Punch Set | 011516812735",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38279.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6300",
+                        "brand":"LYMAN",
+                        "upc":"011516812735",
+                        
+                        "price":29.04,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6300/LymanGunsmithsPunchSet",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Birchwood Casey Weekender Professional Gunsmith Kit 27 Tools | 029057420210",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/109523.jpg",
+                        "available":"Out of Stock",
+                        "id":"59434",
+                        "brand":"BIRCHWOOD CASEY",
+                        "upc":"029057420210",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/59434/BirchwoodCaseyWeekenderProfessionalGunsmithKit27Tools",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BIRCHWOOD CASEY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PACHMAYR PLASTIC SNAP CAPS 45 ACP 5PACK | 034337032304",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73255.jpg",
+                        "available":"Out of Stock",
+                        "id":"48085",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"034337032304",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48085/PACHMAYRPLASTICSNAPCAPS45ACP5PACK",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TCA 4048 CON BBL 22LR | 090161025813",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/33857.jpg",
+                        "available":"Out of Stock",
+                        "id":"29019",
+                        "brand":"THOMPSON",
+                        "upc":"090161025813",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/29019/TCA4048CONBBL22LR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

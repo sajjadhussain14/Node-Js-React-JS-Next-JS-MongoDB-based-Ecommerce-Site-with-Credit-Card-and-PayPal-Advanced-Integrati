@@ -1,0 +1,557 @@
+
+        [
+            
+                    {
+                        "name":"Crosman P022 CopperHead Pellets Pointed .22 | 028478002210",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39013.jpg",
+                        "available":"Out of Stock",
+                        "id":"25627",
+                        "brand":"CROSSMAN",
+                        "upc":"028478002210",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25627/CrosmanP022CopperHeadPelletsPointed22",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman P177 CopperHead Pellets Pointed .177 | 028478017719",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39012.jpg",
+                        "available":"Out of Stock",
+                        "id":"25660",
+                        "brand":"CROSSMAN",
+                        "upc":"028478017719",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25660/CrosmanP177CopperHeadPelletsPointed177",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman 2311 Powerlet CO2 Cartridges 12 Grams Stainless 25pk | 028478023116",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39124.jpg",
+                        "available":"Out of Stock",
+                        "id":"3431",
+                        "brand":"CROSSMAN",
+                        "upc":"028478023116",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/3431/Crosman2311PowerletCO2Cartridges12GramsStainless25pk",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman 231B Powerlet CO2 Cartridges 12 Grams Stainless 5pk | 028478023123",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39016.jpg",
+                        "available":"Out of Stock",
+                        "id":"3450",
+                        "brand":"CROSSMAN",
+                        "upc":"028478023123",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/3450/Crosman231BPowerletCO2Cartridges12GramsStainless5pk",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman 0737 CopperHead BBs .177 CopperCoated Steel 1500 Carton | 028478073708",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39010.jpg",
+                        "available":"Out of Stock",
+                        "id":"40198",
+                        "brand":"CROSSMAN",
+                        "upc":"028478073708",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/40198/Crosman0737CopperHeadBBs177CopperCoatedSteel1500Carton",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman 747 CopperHead BBs .177 CopperCoated Steel 2500 Carton | 028478074705",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39033.jpg",
+                        "available":"Out of Stock",
+                        "id":"40217",
+                        "brand":"CROSSMAN",
+                        "upc":"028478074705",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/40217/Crosman747CopperHeadBBs177CopperCoatedSteel2500Carton",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman 760B Pump Rifle .177 Pellet/BB Blued 17 Inch | 028478076013",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39004.jpg",
+                        "available":"In Stock",
+                        "id":"40194",
+                        "brand":"CROSSMAN",
+                        "upc":"028478076013",
+                        "price":52.00,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/40194/Crosman760BPumpRifle177PelletBBBlued17",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman 1077 RepeatAir Rifle SemiAuto .177 12rd CO2 625fps Syn Stk Blk | 028478121317",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39056.jpg",
+                        "available":"Out of Stock",
+                        "id":"1006",
+                        "brand":"CROSSMAN",
+                        "upc":"028478121317",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/1006/Crosman1077RepeatAirRifleSemiAuto17712rdCO2625fpsSynStkBlk",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CROS CO2 12GR CARTRIDGE 15 BOX | 028478123571",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1306093.jpg",
+                        "available":"Out of Stock",
+                        "id":"78803",
+                        "brand":"CROSSMAN",
+                        "upc":"028478123571",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Gas Blocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/78803/CROSCO212GRCARTRIDGE15BOX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman 23140 Powerlet CO2 Cartridges 12 Grams Stainless 40pk | 028478124462",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39125.jpg",
+                        "available":"In Stock",
+                        "id":"40263",
+                        "brand":"CROSSMAN",
+                        "upc":"028478124462",
+                        "price":29.00,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/40263/Crosman23140PowerletCO2Cartridges12GramsStainless40pk",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman LHP77 Premier Hunting .177 Pellet Lead Hollow Point 500 | 028478125551",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/11583.jpg",
+                        "available":"Out of Stock",
+                        "id":"33684",
+                        "brand":"CROSSMAN",
+                        "upc":"028478125551",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/33684/CrosmanLHP77PremierHunting177PelletLeadHollowPoint500",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman LUM177 Premier Pellets Heavy Pellets .177 500 Count Silver | 028478125643",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82988.jpg",
+                        "available":"Out of Stock",
+                        "id":"50060",
+                        "brand":"CROSSMAN",
+                        "upc":"028478125643",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/50060/CrosmanLUM177PremierPelletsHeavyPellets177500CountSilver",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman 760P Pump Rifle Pink .177 Pellet/BB Black 17 Inch | 028478129610",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/53646.jpg",
+                        "available":"In Stock",
+                        "id":"43763",
+                        "brand":"CROSSMAN",
+                        "upc":"028478129610",
+                        "price":53.00,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/43763/Crosman760PPumpRiflePink177PelletBBBlack17",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman LHP22 Premier Pellets Hollow Point .22 Stainless | 028478133082",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39819.jpg",
+                        "available":"Out of Stock",
+                        "id":"40413",
+                        "brand":"CROSSMAN",
+                        "upc":"028478133082",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/40413/CrosmanLHP22PremierPelletsHollowPoint22Stainless",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman 30021 Vantage NP .177 Pellet Black Break Open 4x32mm Scope | 028478138643",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/85952.jpg",
+                        "available":"In Stock",
+                        "id":"50733",
+                        "brand":"CROSSMAN",
+                        "upc":"028478138643",
+                        "price":99.00,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/50733/Crosman30021VantageNP177PelletBlackBreakOpen4x32mmScope",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CROS FURY 177CAL W/SCOPE | 028478141148",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1324016.jpg",
+                        "available":"Out of Stock",
+                        "id":"78844",
+                        "brand":"CROSSMAN",
+                        "upc":"028478141148",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/78844/CROSFURY177CALWSCOPE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BEN PROWLER NP 177CAL | 028478141773",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1306240.jpg",
+                        "available":"Out of Stock",
+                        "id":"78818",
+                        "brand":"CROSSMAN",
+                        "upc":"028478141773",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/78818/BENPROWLERNP177CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CROS AMERICAN CLASSIC 22CAL PUMP PELLET PISTOL | 028478144651",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1324053.jpg",
+                        "available":"Out of Stock",
+                        "id":"78866",
+                        "brand":"CROSSMAN",
+                        "upc":"028478144651",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/78866/CROSAMERICANCLASSIC22CALPUMPPELLETPISTOL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FIRE NP .177 Tech Rifle w/ 4x32 Scope | 028478147751",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1324086.jpg",
+                        "available":"Out of Stock",
+                        "id":"78872",
+                        "brand":"CROSSMAN",
+                        "upc":"028478147751",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/78872/FIRENP177TechRiflew4x32Scope",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CROSMAN SNUBNOSE BB PLT RVLR | 028478148666",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/CRSNR357_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"61078",
+                        "brand":"CROSSMAN",
+                        "upc":"028478148666",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/61078/CROSMANSNUBNOSEBBPLTRVLR",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman DSBR DPMS SBR Air Rifle Semi/Full Auto 4.5mm BB 25 round 6 Position Black Stock | 028478150676",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110289.jpg",
+                        "available":"Out of Stock",
+                        "id":"61035",
+                        "brand":"CROSSMAN",
+                        "upc":"028478150676",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/61035/CrosmanDSBRDPMSSBRAirRifleSemiFullAuto45mmBB25round6PositionBlackStock",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"VaporizerB/G NPE,39x40AO SCP,.177,1150 | 028478151239",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1324249.jpg",
+                        "available":"In Stock",
+                        "id":"78946",
+                        "brand":"CROSSMAN",
+                        "upc":"028478151239",
+                        "price":227.00,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/78946/VaporizerBGNPE39x40AOSCP1771150",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman DSFAM DPMS .177,.22 BB Polymer | 028478151529",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/113576.jpg",
+                        "available":"In Stock",
+                        "id":"63990",
+                        "brand":"CROSSMAN",
+                        "upc":"028478151529",
+                        "price":46.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/63990/CrosmanDSFAMDPMS17722BBPolymer",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Crosman BMPWX Bushmaster MPW BB Gun Air Rifle Semi/Full Auto | 028478152298",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/BMPWX.jpg",
+                        "available":"Out of Stock",
+                        "id":"297116",
+                        "brand":"CROSSMAN",
+                        "upc":"028478152298",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/297116/CrosmanBMPWXBushmasterMPWBBGunAirRifleSemiFullAuto",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSSMAN"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

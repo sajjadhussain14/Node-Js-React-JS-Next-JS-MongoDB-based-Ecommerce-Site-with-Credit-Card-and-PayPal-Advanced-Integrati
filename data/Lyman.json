@@ -1,0 +1,355 @@
+
+        [
+            
+                    {
+                        "name":"Lyman Essential Pistol Cleaning Kit 9mm 40cal  45ACP | 011516040367",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/KRPRODIMAGES/LY04036.png",
+                        "available":"In Stock Vendor",
+                        "id":"169731",
+                        "brand":"LYMAN",
+                        "upc":"011516040367",
+                        
+                        "price":18.54,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/169731/LymanEssentialPistolCleaningKit9mm40cal45ACP",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Lyman Essential Gun Maintenance Mat | 011516040503",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98052.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"469",
+                        "brand":"LYMAN",
+                        "upc":"011516040503",
+                        
+                        "price":14.16,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/469/LymanEssentialGunMaintenanceMat",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LY RIFLE MAINTENANCE GUN MAT | 011516040510",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/7973.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"470",
+                        "brand":"LYMAN",
+                        "upc":"011516040510",
+                        
+                        "price":28.26,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/470/LYRIFLEMAINTENANCEGUNMAT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Lyman Cyclone Rotary Case Tumbler 115V | 011516515506",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133972.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6616",
+                        "brand":"LYMAN",
+                        "upc":"011516515506",
+                        
+                        "price":213.30,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Tools and Equipment",
+                        "product_url":"/product/6616/LymanCycloneRotaryCaseTumbler115V",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Lyman Super Moly Bullet Lubricant | 011516572721",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/2857272.gif",
+                        "available":"In Stock Vendor",
+                        "id":"3738",
+                        "brand":"LYMAN",
+                        "upc":"011516572721",
+                        
+                        "price": 5.10,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Components",
+                        "product_url":"/product/3738/LymanSuperMolyBulletLubricant",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Lyman Turbo Sonic 6000 115volt Cleaner | 011516717252",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/80631.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6625",
+                        "brand":"LYMAN",
+                        "upc":"011516717252",
+                        
+                        "price":332.94,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Tools and Equipment",
+                        "product_url":"/product/6625/LymanTurboSonic6000115voltCleaner",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Lyman Decapping Pins  10/ct | 011516777867",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/7837786.gif",
+                        "available":"Out of Stock",
+                        "id":"6793",
+                        "brand":"LYMAN",
+                        "upc":"011516777867",
+                        
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Dies",
+                        "product_url":"/product/6793/LymanDecappingPins10ct",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Lyman Bag Jack  Match Bag Combo | 011516778154",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/LYM7837815_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6800",
+                        "brand":"LYMAN",
+                        "upc":"011516778154",
+                        
+                        "price":70.92,
+                        "Dept":"Accessories",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"Shooting Rests",
+                        "product_url":"/product/6800/LymanBagJackMatchBagCombo",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Lyman Anodized Aluminum Loading Block .485 Inch Hole Size | 011516780812",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/LY7728081.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"418690",
+                        "brand":"LYMAN",
+                        "upc":"011516780812",
+                        
+                        "price":39.78,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Dies",
+                        "product_url":"/product/418690/LymanAnodizedAluminumLoadingBlock485HoleSize",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Lyman Bleacher Loading Block for Rifle .388 Hole Size  50/rds | 011516780850",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/7974.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6641",
+                        "brand":"LYMAN",
+                        "upc":"011516780850",
+                        
+                        "price": 6.66,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Components",
+                        "product_url":"/product/6641/LymanBleacherLoadingBlockforRifle388HoleSize50rds",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Lyman Bleacher Loading Block for Rifle .565 Hole Size  50/rds | 011516780874",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/7976.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6643",
+                        "brand":"LYMAN",
+                        "upc":"011516780874",
+                        
+                        "price": 6.66,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Components",
+                        "product_url":"/product/6643/LymanBleacherLoadingBlockforRifle565HoleSize50rds",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Lyman Gunsmiths Punch Set | 011516812735",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38279.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6300",
+                        "brand":"LYMAN",
+                        "upc":"011516812735",
+                        
+                        "price":29.04,
+                        "Dept":"Supplies",
+                        "Typ":"Muzzle Devices",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/6300/LymanGunsmithsPunchSet",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Lyman  InchBrass Tapper Inch Hammer | 011516812902",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38278.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6302",
+                        "brand":"LYMAN",
+                        "upc":"011516812902",
+                        
+                        "price":21.60,
+                        "Dept":"Supplies",
+                        "Typ":"Tools and Equipment",
+                        "SUBTYP_1":"Components",
+                        "product_url":"/product/6302/LymanBrassTapperHammer",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Lyman Deluxe Hammer and Punch Set | 011516812988",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38280.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6303",
+                        "brand":"LYMAN",
+                        "upc":"011516812988",
+                        
+                        "price":53.70,
+                        "Dept":"Supplies",
+                        "Typ":"Tools and Equipment",
+                        "SUBTYP_1":"Tools and Equipment",
+                        "product_url":"/product/6303/LymanDeluxeHammerandPunchSet",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

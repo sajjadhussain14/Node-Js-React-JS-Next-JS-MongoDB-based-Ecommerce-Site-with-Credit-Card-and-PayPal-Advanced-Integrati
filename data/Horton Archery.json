@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"RAIL LUBE  STRING WAX COMBO | 35213195182",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HMSTWAX.jpg",
+                        "available":"Out of Stock",
+                        "id":"260891",
+                        "brand":"HORTON ARCHERY",
+                        "upc":"35213195182",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260891/RAILLUBESTRINGWAXCOMBO",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HORTON ARCHERY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ARACHNID QUIVER BLACK 5 ARROW | 35213196721",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HMAC050.jpg",
+                        "available":"Out of Stock",
+                        "id":"260889",
+                        "brand":"HORTON ARCHERY",
+                        "upc":"35213196721",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260889/ARACHNIDQUIVERBLACK5ARROW",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HORTON ARCHERY"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

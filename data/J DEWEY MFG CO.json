@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"DEWEY SHOTGUN PORT CLEANING TOOL | 6.08061E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/DRPBK.jpg",
+                        "available":"Out of Stock",
+                        "id":"259753",
+                        "brand":"J DEWEY MFG CO",
+                        "upc":"6.08061E+11",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/259753/DEWEYSHOTGUNPORTCLEANINGTOOL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"J DEWEY MFG CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DEWEY SMALL BRASS BRUSH ADAPTER .22.26 CAL | 6.0806E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/DRSMBA.jpg",
+                        "available":"Out of Stock",
+                        "id":"259752",
+                        "brand":"J DEWEY MFG CO",
+                        "upc":"6.0806E+11",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/259752/DEWEYSMALLBRASSBRUSHADAPTER2226CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"J DEWEY MFG CO"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

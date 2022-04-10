@@ -1,0 +1,290 @@
+
+        [
+            
+                    {
+                        "name":"test product with variations  NMTEST | 10006622 | NM | NM TEST DEPT | Empty | Empty",
+                        "image": "/prodimages/129-default-s.jpg",
+                        "available":"Out of Stock",
+                        "id":"6277",
+                        "brand":"NM",
+                        "upc":"10006622",
+                        
+                        "price":null,
+                        "Dept":"NM TEST DEPT",
+                        "Typ":"Empty",
+                        "SUBTYP_1":"Empty",
+                        "product_url":"/cproduct/6277/testproductwithvariationsNMTEST",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NM"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NM TEST PRODUCT FOR WEB  NMTEST 2 | 10006623 | NM | NM TEST DEPT | Empty | Empty",
+                        "image": "/prodimages/130-default-s.jpg",
+                        "available":"Out of Stock",
+                        "id":"6278",
+                        "brand":"NM",
+                        "upc":"10006623",
+                        
+                        "price":null,
+                        "Dept":"NM TEST DEPT",
+                        "Typ":"Empty",
+                        "SUBTYP_1":"Empty",
+                        "product_url":"/cproduct/6278/NMTESTPRODUCTFORWEBNMTEST2",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NM"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Full Linked Outfit  NM FULL OUTFIT | 10006633 | NM | NM TEST DEPT | Empty | Empty",
+                        "image": "/prodimages/134-default-s.jpg",
+                        "available":"Out of Stock",
+                        "id":"6284",
+                        "brand":"NM",
+                        "upc":"10006633",
+                        
+                        "price":null,
+                        "Dept":"NM TEST DEPT",
+                        "Typ":"Empty",
+                        "SUBTYP_1":"Empty",
+                        "product_url":"/cproduct/6284/FullLinkedOutfitNMFULLOUTFIT",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NM"
+                            }
+                            
+                                ,{
+                                    "name":"Caliber", 
+                                    "value":"SHOP THAT LOOK"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Full Linked Outfit 1  NM FULL OUTFIT 1 | 10006634 | NM | NM TEST DEPT | Empty | Empty",
+                        "image": "/prodimages/135-default-s.jpg",
+                        "available":"Out of Stock",
+                        "id":"6285",
+                        "brand":"NM",
+                        "upc":"10006634",
+                        
+                        "price":null,
+                        "Dept":"NM TEST DEPT",
+                        "Typ":"Empty",
+                        "SUBTYP_1":"Empty",
+                        "product_url":"/cproduct/6285/FullLinkedOutfit1NMFULLOUTFIT1",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NM"
+                            }
+                            
+                                ,{
+                                    "name":"Caliber", 
+                                    "value":"SHOP THAT LOOK"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Linked Hat  NM HAT | 10006639 | NM | NM TEST DEPT | Empty | Empty",
+                        "image": "/prodimages/133-default-s.jpg",
+                        "available":"Out of Stock",
+                        "id":"6283",
+                        "brand":"NM",
+                        "upc":"10006639",
+                        
+                        "price":null,
+                        "Dept":"NM TEST DEPT",
+                        "Typ":"Empty",
+                        "SUBTYP_1":"Empty",
+                        "product_url":"/cproduct/6283/LinkedHatNMHAT",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NM"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Linked Hat 1  NM HAT 1 | 10006641 | NM | NM TEST DEPT | Empty | Empty",
+                        "image": "/images/image_coming_soon.jpg",
+                        "available":"Out of Stock",
+                        "id":"6288",
+                        "brand":"NM",
+                        "upc":"10006641",
+                        
+                        "price":null,
+                        "Dept":"NM TEST DEPT",
+                        "Typ":"Empty",
+                        "SUBTYP_1":"Empty",
+                        "product_url":"/cproduct/6288/LinkedHat1NMHAT1",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NM"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Linked Pants  NM PANTS | 10006656 | NM | NM TEST DEPT | Empty | Empty",
+                        "image": "/prodimages/132-default-s.jpg",
+                        "available":"Out of Stock",
+                        "id":"6282",
+                        "brand":"NM",
+                        "upc":"10006656",
+                        
+                        "price":null,
+                        "Dept":"NM TEST DEPT",
+                        "Typ":"Empty",
+                        "SUBTYP_1":"Empty",
+                        "product_url":"/cproduct/6282/LinkedPantsNMPANTS",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NM"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Linked Pants 1  NM PANTS 1 | 10006667 | NM | NM TEST DEPT | Empty | Empty",
+                        "image": "/images/image_coming_soon.jpg",
+                        "available":"Out of Stock",
+                        "id":"6287",
+                        "brand":"NM",
+                        "upc":"10006667",
+                        
+                        "price":null,
+                        "Dept":"NM TEST DEPT",
+                        "Typ":"Empty",
+                        "SUBTYP_1":"Empty",
+                        "product_url":"/cproduct/6287/LinkedPants1NMPANTS1",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NM"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Linked Shirt  NM SHIRT | 10006678 | NM | NM TEST DEPT | Empty | Empty",
+                        "image": "/prodimages/131-default-s.jpg",
+                        "available":"Out of Stock",
+                        "id":"6281",
+                        "brand":"NM",
+                        "upc":"10006678",
+                        
+                        "price":null,
+                        "Dept":"NM TEST DEPT",
+                        "Typ":"Empty",
+                        "SUBTYP_1":"Empty",
+                        "product_url":"/cproduct/6281/LinkedShirtNMSHIRT",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NM"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Linked Shirt 1  NM SHIRT 1 | 10006689 | NM | NM TEST DEPT | Empty | Empty",
+                        "image": "/images/image_coming_soon.jpg",
+                        "available":"Out of Stock",
+                        "id":"6286",
+                        "brand":"NM",
+                        "upc":"10006689",
+                        
+                        "price":null,
+                        "Dept":"NM TEST DEPT",
+                        "Typ":"Empty",
+                        "SUBTYP_1":"Empty",
+                        "product_url":"/cproduct/6286/LinkedShirt1NMSHIRT1",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NM"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Base Product  BASEPROD | 10006693 | NM | NM TEST DEPT | LINKED DROP DOWNS | Empty",
+                        "image": "/prodimages/136-default-s.jpg",
+                        "available":"In Stock",
+                        "id":"6290",
+                        "brand":"NM",
+                        "upc":"10006693",
+                        
+                        "price":12.00,
+                        "Dept":"NM TEST DEPT",
+                        "Typ":"LINKED DROP DOWNS",
+                        "SUBTYP_1":"Empty",
+                        "product_url":"/cproduct/6290/BaseProductBASEPROD",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"NM"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,480 @@
+
+        [
+            
+                    {
+                        "name":"PWRB AC1589X 50 245CHP 50 | 043125015894",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/CVA1589X.gif",
+                        "available":"In Stock Vendor",
+                        "id":"12996",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125015894",
+                        
+                        "price":43.08,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/12996/PWRBAC1589X50245CHP50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1595X 50 295CHP 50 | 043125015955",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/CVA1595X.gif",
+                        "available":"In Stock Vendor",
+                        "id":"13002",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125015955",
+                        
+                        "price":43.08,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/13002/PWRBAC1595X50295CHP50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1589ATX 50 245CAT50 | 043125025893",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/CVA1589ATX.gif",
+                        "available":"In Stock Vendor",
+                        "id":"12995",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125025893",
+                        
+                        "price":46.62,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/12995/PWRBAC1589ATX50245CAT50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1595ATX 50 295CAT50 | 043125025954",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/CVA1595ATX.gif",
+                        "available":"In Stock Vendor",
+                        "id":"13001",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125025954",
+                        
+                        "price":46.62,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/13001/PWRBAC1595ATX50295CAT50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1500 U BULLET START | 043125115006",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13118.jpg",
+                        "available":"Out of Stock",
+                        "id":"12982",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125115006",
+                        
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Components",
+                        "product_url":"/product/12982/PWRBAC1500UBULLETSTART",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1501 SPD CL LOADSYS | 043125115013",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16613.jpg",
+                        "available":"Out of Stock",
+                        "id":"12983",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125115013",
+                        
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Components",
+                        "product_url":"/product/12983/PWRBAC1501SPDCLLOADSYS",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1572 50 348LHP 20 | 043125115723",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/53310.jpg",
+                        "available":"Out of Stock",
+                        "id":"43698",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125115723",
+                        
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/43698/PWRBAC157250348LHP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1589 50 245CHP 20 | 043125115891",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/53280.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"12993",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125115891",
+                        
+                        "price":14.76,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/12993/PWRBAC158950245CHP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1595 50 295CHP 20 | 043125115952",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/35769.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"12999",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125115952",
+                        
+                        "price":14.76,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/12999/PWRBAC159550295CHP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1598 50 295LHP 20 | 043125115983",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/35772.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"39391",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125115983",
+                        
+                        "price":17.82,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/39391/PWRBAC159850295LHP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1600AT 45 280ELR 15 | 043125116003",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110622.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"72415",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125116003",
+                        
+                        "price":22.44,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/72415/PWRBAC1600AT45280ELR15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1550AT 50 250 AT 15 | 043125125500",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/77641.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"12986",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125125500",
+                        
+                        "price":18.54,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/12986/PWRBAC1550AT50250AT15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1552AT 50 300 AT 15 | 043125125524",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/77642.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"48868",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125125524",
+                        
+                        "price":18.54,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/48868/PWRBAC1552AT50300AT15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1553AT 50 270 AT 15 | 043125125531",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/34972.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"12987",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125125531",
+                        
+                        "price":18.54,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/12987/PWRBAC1553AT50270AT15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1555AT 50 338 AT 15 | 043125125555",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/34973.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"12988",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125125555",
+                        
+                        "price":18.54,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/12988/PWRBAC1555AT50338AT15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1589AT 50 245CAT 15 | 043125125890",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/53281.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"12994",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125125890",
+                        
+                        "price":16.62,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/12994/PWRBAC1589AT50245CAT15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1595AT 50 295CAT 15 | 043125125951",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/34909.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13000",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125125951",
+                        
+                        "price":16.62,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/13000/PWRBAC1595AT50295CAT15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1597AT 54 348CAT 15 | 043125125975",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/34911.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13003",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125125975",
+                        
+                        "price":17.34,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/13003/PWRBAC1597AT54348CAT15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PWRB AC1600AT 50 325ELR 15 | 043125919000",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/129630.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"310999",
+                        "brand":"POWERBELT BULLETS",
+                        "upc":"043125919000",
+                        
+                        "price":22.44,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Bullets",
+                        "product_url":"/product/310999/PWRBAC1600AT50325ELR15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELT BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

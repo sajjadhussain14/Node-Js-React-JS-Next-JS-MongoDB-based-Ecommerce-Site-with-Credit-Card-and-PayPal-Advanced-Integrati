@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"GCODE RTI 2 ROW MOLLE CLAW BLK | 8.01804E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/EYCA03010036.jpg",
+                        "available":"Out of Stock",
+                        "id":"259864",
+                        "brand":"EAGLE MANUFACTURING COMPANY",
+                        "upc":"8.01804E+11",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259864/GCODERTI2ROWMOLLECLAWBLK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"EAGLE MANUFACTURING COMPANY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"EAGLE SNGMAG PCH HD 2 TR STK BNG 5BK | EYETGP075BK",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/EYETGP075BK.jpg",
+                        "available":"Out of Stock",
+                        "id":"259865",
+                        "brand":"EAGLE MANUFACTURING COMPANY",
+                        "upc":"EYETGP075BK",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259865/EAGLESNGMAGPCHHD2TRSTKBNG5BK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"EAGLE MANUFACTURING COMPANY"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,145 @@
+
+        [
+            
+                    {
+                        "name":"Leupold GR Compact Spotting Scopes  1530x50mm Shadow Gray | 030317006723",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/43413.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"41007",
+                        "brand":"LEUPOLD",
+                        "upc":"030317006723",
+                        
+                        "price":599.99,
+                        "Dept":"Optics",
+                        "Typ":"Scopes",
+                        "SUBTYP_1":"Spotting",
+                        "product_url":"/product/41007/LeupoldGRCompactSpottingScopes1530x50mmShadowGray",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LEUPOLD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Leupold SX4 Pro Guide 2060x85mm HD Angled Spotting Scope | 030317023034",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/115627.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"251239",
+                        "brand":"LEUPOLD",
+                        "upc":"030317023034",
+                        
+                        "price":999.99,
+                        "Dept":"Optics",
+                        "Typ":"Scopes",
+                        "SUBTYP_1":"Spotting",
+                        "product_url":"/product/251239/LeupoldSX4ProGuide2060x85mmHDAngledSpottingScope",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LEUPOLD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Redfield Rampage Spotting Scope Kit  2060x80mm Angled Black Matte | 030317146511",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/RF114651_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"65433",
+                        "brand":"REDFIELD",
+                        "upc":"030317146511",
+                        
+                        "price":null,
+                        "Dept":"Optics",
+                        "Typ":"Scopes",
+                        "SUBTYP_1":"Spotting",
+                        "product_url":"/product/65433/RedfieldRampageSpottingScopeKit2060x80mmAngledBlackMatte",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"REDFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RED 67600 2060X60 SPTSCP | 030317676001",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60941.jpg",
+                        "available":"Out of Stock",
+                        "id":"6166",
+                        "brand":"REDFIELD",
+                        "upc":"030317676001",
+                        
+                        "price":null,
+                        "Dept":"Optics",
+                        "Typ":"Scopes",
+                        "SUBTYP_1":"Spotting",
+                        "product_url":"/product/6166/RED676002060X60SPTSCP",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"REDFIELD"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

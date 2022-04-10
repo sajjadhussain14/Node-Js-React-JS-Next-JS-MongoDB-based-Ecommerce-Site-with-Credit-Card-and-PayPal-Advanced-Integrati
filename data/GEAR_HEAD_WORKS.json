@@ -1,0 +1,281 @@
+
+        [
+            
+                    {
+                        "name":"GEAR HEAD WORKS KELTEC KSG BEAST MUZZLE DEVICE | 856534007257",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGHW25.gif",
+                        "available":"In Stock",
+                        "id":"31116",
+                        "brand":"GEARHEADWORKS",
+                        "upc":"856534007257",
+                        "price":85.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Other",
+                        "SUBTYP_1":"Rails and Bases",
+                        "product_url":"/product/31116/GEARHEADWORKSKELTECKSGBEASTMUZZLEDEVICE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GEARHEADWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GEAR HEAD WORKS CZ SCORPION FAST PADDLE MAGAZINE RELEASE | 856534007295",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGHW29.gif",
+                        "available":"In Stock",
+                        "id":"31117",
+                        "brand":"GEARHEADWORKS",
+                        "upc":"856534007295",
+                        "price":36.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/31117/GEARHEADWORKSCZSCORPIONFASTPADDLEMAGAZINERELEASE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GEARHEADWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GEAR HEAD WORKS CZ SCORPION REVERSE SAFETY LEVER | 856534007301",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGHW30.gif",
+                        "available":"Out of Stock",
+                        "id":"31118",
+                        "brand":"GEARHEADWORKS",
+                        "upc":"856534007301",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/31118/GEARHEADWORKSCZSCORPIONREVERSESAFETYLEVER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GEARHEADWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GEAR HEAD WORKS AR15 CASTLE NUT AND END PLATE SET | 856534007363",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGHW36.gif",
+                        "available":"Out of Stock",
+                        "id":"31121",
+                        "brand":"GEARHEADWORKS",
+                        "upc":"856534007363",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/31121/GEARHEADWORKSAR15CASTLENUTANDENDPLATESET",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GEARHEADWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GEAR HEAD WORKS AR15 CARBINE SPRING AND BUFFER | 856534007370",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGHW37.gif",
+                        "available":"In Stock",
+                        "id":"31122",
+                        "brand":"GEARHEADWORKS",
+                        "upc":"856534007370",
+                        "price":18.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/31122/GEARHEADWORKSAR15CARBINESPRINGANDBUFFER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GEARHEADWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GEAR HEAD WORKS BRACE TAILHOOK MOD1 BLACK | 856534007387",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGHW38.gif",
+                        "available":"In Stock",
+                        "id":"31123",
+                        "brand":"GEARHEADWORKS",
+                        "upc":"856534007387",
+                        "price":104.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Other",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/31123/GEARHEADWORKSBRACETAILHOOKMOD1BLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GEARHEADWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GEAR HEAD WORKS ADAPTER MOD1 TAILHOOK CZ SCORPION | 856534007394",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGHW39.gif",
+                        "available":"Out of Stock",
+                        "id":"31124",
+                        "brand":"GEARHEADWORKS",
+                        "upc":"856534007394",
+                        "price":null,
+                        "Dept":"Optics",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/31124/GEARHEADWORKSADAPTERMOD1TAILHOOKCZSCORPION",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GEARHEADWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GEAR HEAD WORKS SCORPION MOUNTING KIT | 856534007400",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/TH1-SCO-KIT-BLK.jpg",
+                        "available":"Out of Stock",
+                        "id":"294714",
+                        "brand":"GEARHEADWORKS",
+                        "upc":"856534007400",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/294714/GEARHEADWORKSSCORPIONMOUNTINGKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GEARHEADWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GEAR HEAD WORKS BUFFER TUBE PISTOL 9 Inch FOR MOD1 BRACE BLK | 856534007417",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGHW41.gif",
+                        "available":"Out of Stock",
+                        "id":"31125",
+                        "brand":"GEARHEADWORKS",
+                        "upc":"856534007417",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Gas Blocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/31125/GEARHEADWORKSBUFFERTUBEPISTOL9FORMOD1BRACEBLK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GEARHEADWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GEAR HEAD WORKS BRACE TAILHOOK MOD2 5 POSITION BLACK | 856534007431",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGHW43.gif",
+                        "available":"Out of Stock",
+                        "id":"31126",
+                        "brand":"GEARHEADWORKS",
+                        "upc":"856534007431",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Other",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/31126/GEARHEADWORKSBRACETAILHOOKMOD25POSITIONBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GEARHEADWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GEAR HEAD WORKS BRACE TAILHOOK MOD2 5 POSITION FDE | 856534007448",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGHW44.gif",
+                        "available":"Out of Stock",
+                        "id":"31127",
+                        "brand":"GEARHEADWORKS",
+                        "upc":"856534007448",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Other",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/31127/GEARHEADWORKSBRACETAILHOOKMOD25POSITIONFDE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GEARHEADWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GEAR HEAD WORKS BRACE TAILHOOK MOD2 5 POSITION ODG | 856534007455",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/ZGHW45.gif",
+                        "available":"In Stock",
+                        "id":"31128",
+                        "brand":"GEARHEADWORKS",
+                        "upc":"856534007455",
+                        "price":157.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Other",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/31128/GEARHEADWORKSBRACETAILHOOKMOD25POSITIONODG",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GEARHEADWORKS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

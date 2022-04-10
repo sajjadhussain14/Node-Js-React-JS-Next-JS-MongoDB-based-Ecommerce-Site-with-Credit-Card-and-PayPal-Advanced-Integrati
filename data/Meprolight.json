@@ -1,0 +1,155 @@
+
+        [
+            
+                    {
+                        "name":"MEPRO MICRO RDS KIT  HK VP9 | 810013520330",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/134452.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"426820",
+                        "brand":"MEPROLIGHT",
+                        "upc":"810013520330",
+                        
+                        "price":399.99,
+                        "Dept":"Optics",
+                        "Typ":"Red Dot",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/426820/MEPROMICRORDSKITHKVP9",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEPROLIGHT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEPRO FRBS 4DOT FLIP UP AR15 | 810013522563",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/134518.jpg",
+                        "available":"Out of Stock",
+                        "id":"480207",
+                        "brand":"MEPROLIGHT",
+                        "upc":"810013522563",
+                        
+                        "price":null,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Pistol",
+                        "product_url":"/product/480207/MEPROFRBS4DOTFLIPUPAR15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEPROLIGHT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEPRO NIGHTSIGHT GLOCK G/Y | 840103135366",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/99124.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"53751",
+                        "brand":"MEPROLIGHT",
+                        "upc":"840103135366",
+                        
+                        "price":89.99,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Pistol",
+                        "product_url":"/product/53751/MEPRONIGHTSIGHTGLOCKGY",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEPROLIGHT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEPRO TRUDOT NS SW MP FRONT | 840103136660",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/55880.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"44216",
+                        "brand":"MEPROLIGHT",
+                        "upc":"840103136660",
+                        
+                        "price":36.00,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Pistol",
+                        "product_url":"/product/44216/MEPROTRUDOTNSSWMPFRONT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEPROLIGHT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEPRO SW MP SHIELD FXD SET | 840103149530",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/99126.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24896",
+                        "brand":"MEPROLIGHT",
+                        "upc":"840103149530",
+                        
+                        "price":89.99,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Pistol",
+                        "product_url":"/product/24896/MEPROSWMPSHIELDFXDSET",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEPROLIGHT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEPRO M21 REFLEX 1x30MM OPEN X | 879015004378",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82970.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"50057",
+                        "brand":"MEPROLIGHT",
+                        "upc":"879015004378",
+                        
+                        "price":449.99,
+                        "Dept":"Optics",
+                        "Typ":"Red Dot",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/50057/MEPROM21REFLEX1x30MMOPENX",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEPROLIGHT"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,680 @@
+
+        [
+            
+                    {
+                        "name":"HER RR 22LR PINK 3.75B 6RD | 727962500149",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97426.jpg",
+                        "available":"Out of Stock",
+                        "id":"53205",
+                        "brand":"HERITAGE",
+                        "upc":"727962500149",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/53205/HERRR22LRPINK375B6RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR BBH 4.75B 6RD | 727962500231",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/87978.jpg",
+                        "available":"Out of Stock",
+                        "id":"15733",
+                        "brand":"HERITAGE",
+                        "upc":"727962500231",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/15733/HERRR22LRBBH475B6RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RGH RDR 22LR/22M 9B | 727962500415",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/87907.jpg",
+                        "available":"Out of Stock",
+                        "id":"15737",
+                        "brand":"HERITAGE",
+                        "upc":"727962500415",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/15737/HERRGHRDR22LR22M9B",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR/22MG BLK 9B 6RD | 727962500439",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/87934.jpg",
+                        "available":"Out of Stock",
+                        "id":"51125",
+                        "brand":"HERITAGE",
+                        "upc":"727962500439",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/51125/HERRR22LR22MGBLK9B6RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR/22MAG 6.5B 9 | 727962500538",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/74604.jpg",
+                        "available":"Out of Stock",
+                        "id":"48243",
+                        "brand":"HERITAGE",
+                        "upc":"727962500538",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/48243/HERRR22LR22MAG65B9",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER SRR 22LR/22MG STEEL 4B | 727962502211",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/87939.jpg",
+                        "available":"Out of Stock",
+                        "id":"51128",
+                        "brand":"HERITAGE",
+                        "upc":"727962502211",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/51128/HERSRR22LR22MGSTEEL4B",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER SRR 22LR/22MG STEEL 6B | 727962502310",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/87940.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20684",
+                        "brand":"HERITAGE",
+                        "upc":"727962502310",
+                        
+                        "price":205.14,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/20684/HERSRR22LR22MGSTEEL6B",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RGH RDR 22LR/M 6.5CH LAM | 727962503805",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/87944.jpg",
+                        "available":"Out of Stock",
+                        "id":"15739",
+                        "brand":"HERITAGE",
+                        "upc":"727962503805",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/15739/HERRGHRDR22LRM65CHLAM",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RGH RDR 22LR 6.5B BLK PRL | 727962702901",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131240.jpg",
+                        "available":"Out of Stock",
+                        "id":"68430",
+                        "brand":"HERITAGE",
+                        "upc":"727962702901",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/68430/HERRGHRDR22LR65BBLKPRL",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR 6.5 CORALSNK TALO | 727962703496",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GRR22B6SNK2.jpg",
+                        "available":"Out of Stock",
+                        "id":"307011",
+                        "brand":"HERITAGE",
+                        "upc":"727962703496",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/307011/HERRR22LR65CORALSNKTALO",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR 4.75 MISSBHAV TALO | 727962703526",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GRR22B4PINUP3.jpg",
+                        "available":"Out of Stock",
+                        "id":"307013",
+                        "brand":"HERITAGE",
+                        "upc":"727962703526",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/307013/HERRR22LR475MISSBHAVTALO",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR 6.5 MY BELLE TALO | 727962703533",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GRR22B6PINUP4.jpg",
+                        "available":"Out of Stock",
+                        "id":"307016",
+                        "brand":"HERITAGE",
+                        "upc":"727962703533",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/307016/HERRR22LR65MYBELLETALO",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR 4.75 MY BELLE TALO | 727962703540",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GRR22B4PINUP4.jpg",
+                        "available":"Out of Stock",
+                        "id":"307015",
+                        "brand":"HERITAGE",
+                        "upc":"727962703540",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/307015/HERRR22LR475MYBELLETALO",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR 4.75 ACE HOLE TALO | 727962703564",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GRR22B4PINUP5.jpg",
+                        "available":"Out of Stock",
+                        "id":"307017",
+                        "brand":"HERITAGE",
+                        "upc":"727962703564",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/307017/HERRR22LR475ACEHOLETALO",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR 4.75 CORALSNK TALO | 727962703601",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GRR22B4SNK2.jpg",
+                        "available":"Out of Stock",
+                        "id":"307012",
+                        "brand":"HERITAGE",
+                        "upc":"727962703601",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/307012/HERRR22LR475CORALSNKTALO",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR/22WMR 16 Inch COCO 6 | 727962703618",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/113676.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"242957",
+                        "brand":"HERITAGE",
+                        "upc":"727962703618",
+                        
+                        "price":207.54,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/242957/HERRR22LR22WMR16COCO6",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR RANCHER 22LR 16 Inch 6RD | 727962703717",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/138286.jpg",
+                        "available":"Out of Stock",
+                        "id":"485879",
+                        "brand":"HERITAGE",
+                        "upc":"727962703717",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Revolvers",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/485879/HERRRRANCHER22LR166RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER BARKEEP 22LR BLK 2 Inch 6RD | 727962704646",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HEBK22B2.jpg",
+                        "available":"Out of Stock",
+                        "id":"441012",
+                        "brand":"HERITAGE",
+                        "upc":"727962704646",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/441012/HERBARKEEP22LRBLK26RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER BARKEEP 22LR BLK 3 Inch 6RD | 727962704677",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HEBK22B3.jpg",
+                        "available":"Out of Stock",
+                        "id":"441014",
+                        "brand":"HERITAGE",
+                        "upc":"727962704677",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/441014/HERBARKEEP22LRBLK36RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR 6.5 COPSNAKE TALO | 727962704745",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HERR22B6-SNK3.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"440011",
+                        "brand":"HERITAGE",
+                        "upc":"727962704745",
+                        
+                        "price":148.74,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/440011/HERRR22LR65COPSNAKETALO",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR 12 Inch WW1 TALO | 727962704783",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HERR22CH12WW1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"440014",
+                        "brand":"HERITAGE",
+                        "upc":"727962704783",
+                        
+                        "price":218.34,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/440014/HERRR22LR12WW1TALO",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR 6.5 BFL BILL TALO | 727962704790",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/HE22CH6-WW2_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"440016",
+                        "brand":"HERITAGE",
+                        "upc":"727962704790",
+                        
+                        "price":191.94,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/440016/HERRR22LR65BFLBILLTALO",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR 4.75 BFL BILL TALO | 727962704806",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/HE22CH4-WW2_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"440015",
+                        "brand":"HERITAGE",
+                        "upc":"727962704806",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/440015/HERRR22LR475BFLBILLTALO",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER BARKEEP 22LR FLAG 3 Inch 6RD | 727962705568",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/139139.jpg",
+                        "available":"Out of Stock",
+                        "id":"488266",
+                        "brand":"HERITAGE",
+                        "upc":"727962705568",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/488266/HERBARKEEP22LRFLAG36RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER SRR 22LR/WMR PEARL 4.75 Inch 6 | 727962706091",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HESRR22MBS4BKPR.jpg",
+                        "available":"Out of Stock",
+                        "id":"489552",
+                        "brand":"HERITAGE",
+                        "upc":"727962706091",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/489552/HERSRR22LRWMRPEARL4756",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER SRR 22LR/WMR PEARL 6.5 Inch 6 | 727962706107",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HESRR22MBS6BKPR.jpg",
+                        "available":"Out of Stock",
+                        "id":"489553",
+                        "brand":"HERITAGE",
+                        "upc":"727962706107",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/489553/HERSRR22LRWMRPEARL656",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HER RR 22LR 4.75 Inch PRL GRAY 6RD | 727962706312",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/139140.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"488267",
+                        "brand":"HERITAGE",
+                        "upc":"727962706312",
+                        
+                        "price":140.34,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/488267/HERRR22LR475PRLGRAY6RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HERITAGE"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"VERTICAL GRIP FLAT DARK EARTH | 8.55727E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/DWBGVMK46FDE.jpg",
+                        "available":"Out of Stock",
+                        "id":"259802",
+                        "brand":"TANGODOWN",
+                        "upc":"8.55727E+11",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259802/VERTICALGRIPFLATDARKEARTH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TANGODOWN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"VICKERS TACTCAL SLIDE STOP FOR GLOCK | 9.55707E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/DWVTSS001.jpg",
+                        "available":"Out of Stock",
+                        "id":"259804",
+                        "brand":"TANGODOWN",
+                        "upc":"9.55707E+11",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Handgun",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259804/VICKERSTACTCALSLIDESTOPFORGLOCK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TANGODOWN"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

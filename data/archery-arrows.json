@@ -1,0 +1,40 @@
+
+        [
+            
+                    {
+                        "name":"TRAD A2217 XBR 16 Inch ARROWS  6 | 040589026657",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/113486.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"250804",
+                        "brand":"TRADITIONS",
+                        "upc":"040589026657",
+                        
+                        "price":50.88,
+                        "Dept":"Archery",
+                        "Typ":"Arrows",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/250804/TRADA2217XBR16ARROWS6",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TRADITIONS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

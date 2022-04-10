@@ -1,0 +1,1385 @@
+
+        [
+            
+                    {
+                        "name":"CCI 22 SHORT TARGET CB 100/RD | 076683000378",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/63205.jpg",
+                        "available":"Out of Stock",
+                        "id":"8326",
+                        "brand":"CCI",
+                        "upc":"076683000378",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rimfire",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/8326/CCI22SHORTTARGETCB100RD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CCI 22 LR SELECT 100/BOX | 076683000453",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/35096.jpg",
+                        "available":"Out of Stock",
+                        "id":"8342",
+                        "brand":"CCI",
+                        "upc":"076683000453",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rimfire",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/8342/CCI22LRSELECT100BOX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CCI 22 WMR MAXIMAG 30GR V HP 50/CT | 076683000590",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/64517.jpg",
+                        "available":"Out of Stock",
+                        "id":"8366",
+                        "brand":"CCI",
+                        "upc":"076683000590",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/8366/CCI22WMRMAXIMAG30GRVHP50CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CCI 22 LR QUICK SHOK HOLLOW POINT 50/CT | 076683000644",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/63908.jpg",
+                        "available":"Out of Stock",
+                        "id":"8369",
+                        "brand":"CCI",
+                        "upc":"076683000644",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rimfire",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/8369/CCI22LRQUICKSHOKHOLLOWPOINT50CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CCI 22 WMR MAXIMAG 40GR JHP 200/BX | 076683009586",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91979.jpg",
+                        "available":"Out of Stock",
+                        "id":"9182",
+                        "brand":"CCI",
+                        "upc":"076683009586",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rimfire",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9182/CCI22WMRMAXIMAG40GRJHP200BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CCI 22 LR MINIMAG 36GR HP SWAMP PEOPLE 300/BX | 076683009623",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91978.jpg",
+                        "available":"Out of Stock",
+                        "id":"9185",
+                        "brand":"CCI",
+                        "upc":"076683009623",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rimfire",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9185/CCI22LRMINIMAG36GRHPSWAMPPEOPLE300BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BLAZER 32 AUTO 71GR TMJ | 076683035035",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/63241.jpg",
+                        "available":"Out of Stock",
+                        "id":"45805",
+                        "brand":"CCI",
+                        "upc":"076683035035",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/45805/BLAZER32AUTO71GRTMJ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BLAZER 38 SPEC P 158GR TMJ | 076683035196",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62099.jpg",
+                        "available":"Out of Stock",
+                        "id":"45628",
+                        "brand":"CCI",
+                        "upc":"076683035196",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/45628/BLAZER38SPECP158GRTMJ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BLAZER ALUM 9MM LUGER 124GR FMJ | 076683035783",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62097.jpg",
+                        "available":"Out of Stock",
+                        "id":"45626",
+                        "brand":"CCI",
+                        "upc":"076683035783",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/45626/BLAZERALUM9MMLUGER124GRFMJ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BLAZER 9MM LUGER 147GR TMJ | 076683035820",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62098.jpg",
+                        "available":"Out of Stock",
+                        "id":"45627",
+                        "brand":"CCI",
+                        "upc":"076683035820",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/45627/BLAZER9MMLUGER147GRTMJ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BLAZER 40SW 180GR FMJ 50RD/BX | 076683035912",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/63222.jpg",
+                        "available":"Out of Stock",
+                        "id":"45798",
+                        "brand":"CCI",
+                        "upc":"076683035912",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/45798/BLAZER40SW180GRFMJ50RDBX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"INDEPENDENCE 9MM LUGER 115GR FMJ | 076683052506",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/12848.jpg",
+                        "available":"Out of Stock",
+                        "id":"33880",
+                        "brand":"CCI",
+                        "upc":"076683052506",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/33880/INDEPENDENCE9MMLUGER115GRFMJ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"INDEPENDENCE 40 SW 165GR FMJ | 076683052568",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/12852.jpg",
+                        "available":"Out of Stock",
+                        "id":"33882",
+                        "brand":"CCI",
+                        "upc":"076683052568",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/33882/INDEPENDENCE40SW165GRFMJ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 380 AUTO 90GR HP  20/BX | 076683236067",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/63824.jpg",
+                        "available":"Out of Stock",
+                        "id":"8689",
+                        "brand":"CCI",
+                        "upc":"076683236067",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/8689/GOLDDOT380AUTO90GRHP20BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 9MMP 124GR HP SHT 20BX | 076683236111",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/15826.jpg",
+                        "available":"Out of Stock",
+                        "id":"8690",
+                        "brand":"CCI",
+                        "upc":"076683236111",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/8690/GOLDDOT9MMP124GRHPSHT20BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 9MM LUG 124GR HP  20/BX | 076683236180",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/63227.jpg",
+                        "available":"Out of Stock",
+                        "id":"8693",
+                        "brand":"CCI",
+                        "upc":"076683236180",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/8693/GOLDDOT9MMLUG124GRHP20BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 357 SIG 125GR HP  20/BX | 076683239181",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62002.jpg",
+                        "available":"Out of Stock",
+                        "id":"45607",
+                        "brand":"CCI",
+                        "upc":"076683239181",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/45607/GOLDDOT357SIG125GRHP20BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 38SPCP 135GR HP  20/BX | 076683239211",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13649.jpg",
+                        "available":"Out of Stock",
+                        "id":"8699",
+                        "brand":"CCI",
+                        "upc":"076683239211",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/8699/GOLDDOT38SPCP135GRHP20BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 40SW 180GR HP SH 20BX | 076683239747",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/15829.jpg",
+                        "available":"Out of Stock",
+                        "id":"8705",
+                        "brand":"CCI",
+                        "upc":"076683239747",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/8705/GOLDDOT40SW180GRHPSH20BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BLAZER BRASS AMMO 9mm 115gr 350/BX | 076683520012",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/369.jpg",
+                        "available":"Out of Stock",
+                        "id":"31366",
+                        "brand":"CCI",
+                        "upc":"076683520012",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/31366/BLAZERBRASSAMMO9mm115gr350BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BLZR BRASS 9MM 115GR FMJ 350/CAN | 076683520029",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/372.jpg",
+                        "available":"Out of Stock",
+                        "id":"31369",
+                        "brand":"CCI",
+                        "upc":"076683520029",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/31369/BLZRBRASS9MM115GRFMJ350CAN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"380 AUTO 95GR BLAZER BRASS 250 CT | 076683520210",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26358.jpg",
+                        "available":"Out of Stock",
+                        "id":"36788",
+                        "brand":"CCI",
+                        "upc":"076683520210",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/36788/380AUTO95GRBLAZERBRASS250CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"40 SW 180GR FMJ BLAZER BRASS 250CT | 076683522016",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/370.jpg",
+                        "available":"Out of Stock",
+                        "id":"31367",
+                        "brand":"CCI",
+                        "upc":"076683522016",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/31367/40SW180GRFMJBLAZERBRASS250CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BLZR BRS 40CAL 180GR FMJ 250/CAN | 076683522023",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/373.jpg",
+                        "available":"Out of Stock",
+                        "id":"31370",
+                        "brand":"CCI",
+                        "upc":"076683522023",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/31370/BLZRBRS40CAL180GRFMJ250CAN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"45 AUTO 230GR FMJ BLAZER BRASS 200CT | 076683523013",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/371.jpg",
+                        "available":"Out of Stock",
+                        "id":"31368",
+                        "brand":"CCI",
+                        "upc":"076683523013",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/31368/45AUTO230GRFMJBLAZERBRASS200CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BLZR BR 45ACP 230GR FMJ 200/CAN | 076683523020",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/374.jpg",
+                        "available":"Out of Stock",
+                        "id":"31371",
+                        "brand":"CCI",
+                        "upc":"076683523020",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/31371/BLZRBR45ACP230GRFMJ200CAN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"9MM LUGER 115GR TMJ LAWMAN AMMUNITION 50 ROUND BOX | 076683536501",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26480.jpg",
+                        "available":"Out of Stock",
+                        "id":"36801",
+                        "brand":"CCI",
+                        "upc":"076683536501",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/36801/9MMLUGER115GRTMJLAWMANAMMUNITION50ROUNDBOX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"9MM LUGER 124GR TMJ LAWMAN AMMUNITION 50 ROUND BOX | 076683536518",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26605.jpg",
+                        "available":"Out of Stock",
+                        "id":"36822",
+                        "brand":"CCI",
+                        "upc":"076683536518",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/36822/9MMLUGER124GRTMJLAWMANAMMUNITION50ROUNDBOX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"45 AUTO 230GR TMJ LAWMAN AMMUNITION 50 ROUND BOX | 076683536532",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104312.jpg",
+                        "available":"Out of Stock",
+                        "id":"56575",
+                        "brand":"CCI",
+                        "upc":"076683536532",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/56575/45AUTO230GRTMJLAWMANAMMUNITION50ROUNDBOX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"45AUTO 185 TMJ/FP LAWMAN | 076683536549",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/35098.jpg",
+                        "available":"Out of Stock",
+                        "id":"39155",
+                        "brand":"CCI",
+                        "upc":"076683536549",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/39155/45AUTO185TMJFPLAWMAN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"357 SIG 125GR TMJ LAWMAN 50/BOX | 076683539199",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62003.jpg",
+                        "available":"Out of Stock",
+                        "id":"45608",
+                        "brand":"CCI",
+                        "upc":"076683539199",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/45608/357SIG125GRTMJLAWMAN50BOX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"40 SW 155GR TMJ LAWMAN 50/BOX | 076683539571",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62122.jpg",
+                        "available":"Out of Stock",
+                        "id":"45630",
+                        "brand":"CCI",
+                        "upc":"076683539571",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/45630/40SW155GRTMJLAWMAN50BOX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"APS 500 SMALL PISTOL PRIMERS 1000/CT | 76683000781",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0078.jpg",
+                        "available":"Out of Stock",
+                        "id":"259249",
+                        "brand":"CCI",
+                        "upc":"76683000781",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259249/APS500SMALLPISTOLPRIMERS1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"APS 550 SMALL PISTOL MAGNUM PRIMERS 1000/CT | 76683000798",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0079.jpg",
+                        "available":"Out of Stock",
+                        "id":"259250",
+                        "brand":"CCI",
+                        "upc":"76683000798",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259250/APS550SMALLPISTOLMAGNUMPRIMERS1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"APS 400 SMALL RIFLE PRIMERS 1000/CT | 76683000804",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0080.jpg",
+                        "available":"Out of Stock",
+                        "id":"259251",
+                        "brand":"CCI",
+                        "upc":"76683000804",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259251/APS400SMALLRIFLEPRIMERS1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"APS 450 SMALL RIFLE MAGNUM PRIMERS 1000/CT | 76683000811",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0081.jpg",
+                        "available":"Out of Stock",
+                        "id":"259252",
+                        "brand":"CCI",
+                        "upc":"76683000811",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259252/APS450SMALLRIFLEMAGNUMPRIMERS1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"APS BR4 SMALL RIFLE PRIMERS 1000/CT | 76683000828",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0082.jpg",
+                        "available":"Out of Stock",
+                        "id":"259253",
+                        "brand":"CCI",
+                        "upc":"76683000828",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259253/APSBR4SMALLRIFLEPRIMERS1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"APS 300 LARGE PISTOL PRIMERS 1000/CT | 76683000842",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0084.jpg",
+                        "available":"Out of Stock",
+                        "id":"259254",
+                        "brand":"CCI",
+                        "upc":"76683000842",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259254/APS300LARGEPISTOLPRIMERS1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"APS 350 LARGE PISTOL MAGNUM PRIMERS 1000/CT | 76683000859",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0085.jpg",
+                        "available":"Out of Stock",
+                        "id":"259255",
+                        "brand":"CCI",
+                        "upc":"76683000859",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259255/APS350LARGEPISTOLMAGNUMPRIMERS1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"APS 200 LARGE RIFLE PRIMERS 1000/CT | 76683000866",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0086.jpg",
+                        "available":"Out of Stock",
+                        "id":"259256",
+                        "brand":"CCI",
+                        "upc":"76683000866",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259256/APS200LARGERIFLEPRIMERS1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"APS 250 LARGE RIFLE PRIMERS 1000/CT | 76683000873",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0087.jpg",
+                        "available":"Out of Stock",
+                        "id":"259257",
+                        "brand":"CCI",
+                        "upc":"76683000873",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259257/APS250LARGERIFLEPRIMERS1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"APS BR2 LAGE RIFLE PRIMERS 1000/CT | 76683000880",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0088.jpg",
+                        "available":"Out of Stock",
+                        "id":"259258",
+                        "brand":"CCI",
+                        "upc":"76683000880",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259258/APSBR2LAGERIFLEPRIMERS1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CW MUSKET CAPS 100/PACK | 76683003010",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0301.jpg",
+                        "available":"Out of Stock",
+                        "id":"239848",
+                        "brand":"CCI",
+                        "upc":"76683003010",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/239848/CWMUSKETCAPS100PACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BLAZER 40 SW 155GR FMJ | 76683035875",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC3587.jpg",
+                        "available":"Out of Stock",
+                        "id":"259282",
+                        "brand":"CCI",
+                        "upc":"76683035875",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259282/BLAZER40SW155GRFMJ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"INDEPENDENCE 38SPECIAL 130GR FMJ | 76683052520",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC5252.jpg",
+                        "available":"Out of Stock",
+                        "id":"259285",
+                        "brand":"CCI",
+                        "upc":"76683052520",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259285/INDEPENDENCE38SPECIAL130GRFMJ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"INDEPENDENCE 40 SW 180GR FMJ | 76683052582",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC5258.jpg",
+                        "available":"Out of Stock",
+                        "id":"259286",
+                        "brand":"CCI",
+                        "upc":"76683052582",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259286/INDEPENDENCE40SW180GRFMJ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"INDEPENDENCE 45AUTO 230GR FMJ | 76683052605",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC5260.jpg",
+                        "available":"Out of Stock",
+                        "id":"259287",
+                        "brand":"CCI",
+                        "upc":"76683052605",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259287/INDEPENDENCE45AUTO230GRFMJ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 25 AUTO 35GR HP   20/BX | 76683236029",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC23602.jpg",
+                        "available":"Out of Stock",
+                        "id":"259274",
+                        "brand":"CCI",
+                        "upc":"76683236029",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259274/GOLDDOT25AUTO35GRHP20BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 9MM LUG 115GR HP 20/BO | 76683236142",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC23614.jpg",
+                        "available":"Out of Stock",
+                        "id":"259275",
+                        "brand":"CCI",
+                        "upc":"76683236142",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259275/GOLDDOT9MMLUG115GRHP20BO",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 327 FEDERAL MAG 100GR | 76683239136",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC23913.jpg",
+                        "available":"Out of Stock",
+                        "id":"259276",
+                        "brand":"CCI",
+                        "upc":"76683239136",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259276/GOLDDOT327FEDERALMAG100GR",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 357     158GR HP  20/BX | 76683239600",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC23960.jpg",
+                        "available":"Out of Stock",
+                        "id":"259277",
+                        "brand":"CCI",
+                        "upc":"76683239600",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259277/GOLDDOT357158GRHP20BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 45 AUTO 185GR HP  20/BX | 76683239648",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC23964.jpg",
+                        "available":"Out of Stock",
+                        "id":"259278",
+                        "brand":"CCI",
+                        "upc":"76683239648",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259278/GOLDDOT45AUTO185GRHP20BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 40SW   165GR HP  20/BX | 76683239709",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC23970.jpg",
+                        "available":"Out of Stock",
+                        "id":"259279",
+                        "brand":"CCI",
+                        "upc":"76683239709",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259279/GOLDDOT40SW165GRHP20BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 45AUTO 230GR HP SH 20BX | 76683239754",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC23975.jpg",
+                        "available":"Out of Stock",
+                        "id":"259280",
+                        "brand":"CCI",
+                        "upc":"76683239754",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259280/GOLDDOT45AUTO230GRHPSH20BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GOLD DOT 44SPL 200GR HP 20/BOX | 76683239808",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC23980.jpg",
+                        "available":"Out of Stock",
+                        "id":"259281",
+                        "brand":"CCI",
+                        "upc":"76683239808",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259281/GOLDDOT44SPL200GRHP20BOX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"41 5.56MM MILITARY PRIMER 1000/CT | 76683500014",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0001.jpg",
+                        "available":"Out of Stock",
+                        "id":"259245",
+                        "brand":"CCI",
+                        "upc":"76683500014",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259245/41556MMMILITARYPRIMER1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"34 7.62MM MILITARY PRIMER 1000/CT | 76683500021",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0002.jpg",
+                        "available":"Out of Stock",
+                        "id":"259246",
+                        "brand":"CCI",
+                        "upc":"76683500021",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259246/34762MMMILITARYPRIMER1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"11M MAGNUM PERCUSSION CAPS 1000/CT | 76683503107",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0310.jpg",
+                        "available":"Out of Stock",
+                        "id":"259271",
+                        "brand":"CCI",
+                        "upc":"76683503107",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259271/11MMAGNUMPERCUSSIONCAPS1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"11 PERCUSSION CAPS 1000/CT | 76683503114",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0311.jpg",
+                        "available":"Out of Stock",
+                        "id":"259272",
+                        "brand":"CCI",
+                        "upc":"76683503114",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259272/11PERCUSSIONCAPS1000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"35 PRIMER .50CAL BMG 500/CT | 76683503206",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CC0320.jpg",
+                        "available":"Out of Stock",
+                        "id":"259273",
+                        "brand":"CCI",
+                        "upc":"76683503206",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259273/35PRIMER50CALBMG500CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CCI"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

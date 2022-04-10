@@ -1,0 +1,110 @@
+
+        [
+            
+                    {
+                        "name":"FED CHMP BS 40SW 180GR FMJ 50 | 029465060855",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/FEWM5223_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"294528",
+                        "brand":"FEDERAL/VISTA",
+                        "upc":"029465060855",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Ammo",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/294528/FEDCHMPBS40SW180GRFMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FEDERAL/VISTA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Federal Champion Training Handgun Ammunition 9mm Luger 115 gr FMJ 1180 fps 50/ct | 029465060879",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/121569.jpg",
+                        "available":"Out of Stock",
+                        "id":"267662",
+                        "brand":"FEDERAL/VISTA",
+                        "upc":"029465060879",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Ammo",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/267662/FederalChampionTrainingHandgunAmmunition9mmLuger115grFMJ1180fps50ct",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FEDERAL/VISTA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FED CHMP BS 45AC 230GR FMJ 50 | 029465062965",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/78857.jpg",
+                        "available":"Out of Stock",
+                        "id":"71238",
+                        "brand":"FEDERAL/VISTA",
+                        "upc":"029465062965",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Ammo",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/71238/FEDCHMPBS45AC230GRFMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FEDERAL/VISTA"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

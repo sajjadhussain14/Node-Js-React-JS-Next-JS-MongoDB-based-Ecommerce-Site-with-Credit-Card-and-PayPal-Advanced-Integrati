@@ -1,0 +1,2630 @@
+
+        [
+            
+                    {
+                        "name":"MOSSBERG BLZ 22LR/16.5 Inch SYN 26RD | 015813373142",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97119.jpg",
+                        "available":"Out of Stock",
+                        "id":"16239",
+                        "brand":"MOSSBERG",
+                        "upc":"015813373142",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16239/MOSSBERGBLZ22LR165SYN26RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Savage Rascal Single Shot Rifle .22LR 1rd Capacity 16.125 Inch Barrel Purple Stock | 062654137839",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24721.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"15260",
+                        "brand":"SAVAGE",
+                        "upc":"062654137839",
+                        
+                        "price":175.14,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/15260/SavageRascalSingleShotRifle22LR1rdCapacity16125BarrelPurpleStock",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Savage Rascal FVSR .22LR Single Shot 16 Inch Heavy Barrel Synthetic StockBlack | 062654138348",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104508.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"15270",
+                        "brand":"SAVAGE",
+                        "upc":"062654138348",
+                        
+                        "price":209.94,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/15270/SavageRascalFVSR22LRSingleShot16HeavyBarrelSyntheticStockBlack",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Savage Rascal FVSR .22LR Single Shot 16 Inch Heavy Barrel Synthetic StockPink | 062654138355",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104509.jpg",
+                        "available":"Out of Stock",
+                        "id":"56731",
+                        "brand":"SAVAGE",
+                        "upc":"062654138355",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/56731/SavageRascalFVSR22LRSingleShot16HeavyBarrelSyntheticStockPink",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAV 64G 22LR | 062654300004",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/22386.jpg",
+                        "available":"Out of Stock",
+                        "id":"16065",
+                        "brand":"SAVAGE",
+                        "upc":"062654300004",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16065/SAV64G22LR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Savage 64 FXP   Scope not mounted   4 x 15  22 LR Demo | 062654400001",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/22488.jpg",
+                        "available":"Out of Stock",
+                        "id":"16286",
+                        "brand":"SAVAGE",
+                        "upc":"062654400001",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16286/Savage64FXPScopenotmounted4x1522LRDemo",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAVAGE MODEL 64F 22LR 21 Inch BLACK 10RD | 062654402036",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13898.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"16308",
+                        "brand":"SAVAGE",
+                        "upc":"062654402036",
+                        
+                        "price":134.34,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16308/SAVAGEMODEL64F22LR21BLACK10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAV 64FVXP 22LR | 062654451003",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24145.jpg",
+                        "available":"Out of Stock",
+                        "id":"16341",
+                        "brand":"SAVAGE",
+                        "upc":"062654451003",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16341/SAV64FVXP22LR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Savage A17 .17 HM2 10rd Magazines 20 Inch Barrel Black Stock | 062654477003",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/113504.jpg",
+                        "available":"Out of Stock",
+                        "id":"242275",
+                        "brand":"SAVAGE",
+                        "upc":"062654477003",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/242275/SavageA1717HM210rdMagazines20BarrelBlackStock",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAV MKIIGLY 22LR | 062654507021",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24841.jpg",
+                        "available":"Out of Stock",
+                        "id":"16501",
+                        "brand":"SAVAGE",
+                        "upc":"062654507021",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16501/SAVMKIIGLY22LR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAVAGE MODEL 93 FVSR Landry 22WMR BOLT ACTION 16.5 Inch | 062654932175",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/94598.jpg",
+                        "available":"Out of Stock",
+                        "id":"18132",
+                        "brand":"SAVAGE",
+                        "upc":"062654932175",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/18132/SAVAGEMODEL93FVSRLandry22WMRBOLTACTION165",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ARMS M14Y 22LR YOUTH 10RD | 4806015510130",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/35267.jpg",
+                        "available":"Out of Stock",
+                        "id":"16515",
+                        "brand":"ARMSCO",
+                        "upc":"4806015510130",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16515/ARMSM14Y22LRYOUTH10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ARMSCO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"THOMPSON 1927A1 45ACP TOMMY GUN W/30RD/50RD MAGS | 602686211031",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/41635.jpg",
+                        "available":"Out of Stock",
+                        "id":"20789",
+                        "brand":"KAHR",
+                        "upc":"602686211031",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/20789/THOMPSON1927A145ACPTOMMYGUNW30RD50RDMAGS",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KAHR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"THOMPSON 1927A1C 45ACP 30RD MAG | 602686212007",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/41631.jpg",
+                        "available":"Out of Stock",
+                        "id":"20818",
+                        "brand":"KAHR",
+                        "upc":"602686212007",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/20818/THOMPSON1927A1C45ACP30RDMAG",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KAHR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AUTO 1927A1C LT DLX 9MM 20RD | 602686302050",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38319.jpg",
+                        "available":"Out of Stock",
+                        "id":"40060",
+                        "brand":"AUTOORDINANCE",
+                        "upc":"602686302050",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/40060/AUTO1927A1CLTDLX9MM20RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AUTOORDINANCE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"M1 CARBINE 30CAL WALNUT W/15RD | 602686313056",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39833.jpg",
+                        "available":"Out of Stock",
+                        "id":"18300",
+                        "brand":"KAHR",
+                        "upc":"602686313056",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/18300/M1CARBINE30CALWALNUTW15RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KAHR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AUTO M1 CARBINE 30CAL 10RD CA | 602686313087",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/46038.jpg",
+                        "available":"Out of Stock",
+                        "id":"18301",
+                        "brand":"AUTOORDINANCE",
+                        "upc":"602686313087",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/18301/AUTOM1CARBINE30CAL10RDCA",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AUTOORDINANCE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AUTO M1 LTW CARB 9MM 20RD | 602686332057",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38320.jpg",
+                        "available":"Out of Stock",
+                        "id":"40061",
+                        "brand":"AUTOORDINANCE",
+                        "upc":"602686332057",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/40061/AUTOM1LTWCARB9MM20RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AUTOORDINANCE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AUTO 1927A DLX 45 CASE HDN 20R | 602686421935",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105340.jpg",
+                        "available":"Out of Stock",
+                        "id":"57190",
+                        "brand":"AUTOORDINANCE",
+                        "upc":"602686421935",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/57190/AUTO1927ADLX45CASEHDN20R",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AUTOORDINANCE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY LRG LOOP 22LR 18.25 WLNT | 619835001023",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HNH001LL.jpg",
+                        "available":"Out of Stock",
+                        "id":"311801",
+                        "brand":"HENRY",
+                        "upc":"619835001023",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/311801/HENRYLRGLOOP22LR1825WLNT",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Henry US Survival Rifle .22LR 8rd Magazine 16.125 Inch Barrel Black Stock | 619835002006",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36597.jpg",
+                        "available":"Out of Stock",
+                        "id":"18944",
+                        "brand":"HENRY REPEATING ARMS COMPANY",
+                        "upc":"619835002006",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/18944/HenryUSSurvivalRifle22LR8rdMagazine16125BarrelBlackStock",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY REPEATING ARMS COMPANY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Henry US Survival Viper Western 22LR 16 Inch BBL 8RD | 619835002013",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38185.jpg",
+                        "available":"Out of Stock",
+                        "id":"18947",
+                        "brand":"HENRY REPEATING ARMS COMPANY",
+                        "upc":"619835002013",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/18947/HenryUSSurvivalViperWestern22LR16BBL8RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY REPEATING ARMS COMPANY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY US SURVIVAL .22 CAMO 8RD | 619835008008",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36681.jpg",
+                        "available":"Out of Stock",
+                        "id":"18946",
+                        "brand":"HENRY REPEATING ARMS COMPANY",
+                        "upc":"619835008008",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/18946/HENRYUSSURVIVAL22CAMO8RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY REPEATING ARMS COMPANY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 WALNUT 22 10RD | 706397011024",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27445.jpg",
+                        "available":"Out of Stock",
+                        "id":"19877",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397011024",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/19877/SPRINGFIELDM1A308WALNUT2210RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 BLACK 22 10RD | 706397011062",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27446.jpg",
+                        "available":"Out of Stock",
+                        "id":"19878",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397011062",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/19878/SPRINGFIELDM1A308BLACK2210RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 NM WLNT 22 10 | 706397012229",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27492.jpg",
+                        "available":"Out of Stock",
+                        "id":"19879",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397012229",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/19879/SPRINGFIELDM1A308NMWLNT2210",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 NM BLACK 22 10RD | 706397012267",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27521.jpg",
+                        "available":"Out of Stock",
+                        "id":"19881",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397012267",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/19881/SPRINGFIELDM1A308NMBLACK2210RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 NM WLNT 22 CA 10 | 706397019228",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27089.jpg",
+                        "available":"Out of Stock",
+                        "id":"19880",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397019228",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/19880/SPRINGFIELDM1A308NMWLNT22CA10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 NM WLNT NAT 22 10 | 706397021023",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27447.jpg",
+                        "available":"Out of Stock",
+                        "id":"20007",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397021023",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/20007/SPRINGFIELDM1A308NMWLNTNAT2210",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 NM SS WALNUT 10RD | 706397028022",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27194.jpg",
+                        "available":"Out of Stock",
+                        "id":"20008",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397028022",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/20008/SPRINGFIELDM1A308NMSSWALNUT10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 OS SS WALNUT 10RD | 706397038021",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/9270.jpg",
+                        "available":"Out of Stock",
+                        "id":"20633",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397038021",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/20633/SPRINGFIELDM1A308OSSSWALNUT10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 SS WALNUT 10RD | 706397041229",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27591.jpg",
+                        "available":"Out of Stock",
+                        "id":"18276",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397041229",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/18276/SPRINGFIELDM1A308SSWALNUT10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 SS BLACK CA 10RD | 706397041267",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27590.jpg",
+                        "available":"Out of Stock",
+                        "id":"18277",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397041267",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/18277/SPRINGFIELDM1A308SSBLACKCA10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 SOCOM BLK 10RD | 706397852665",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/40111.jpg",
+                        "available":"Out of Stock",
+                        "id":"40440",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397852665",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/40440/SPRINGFIELDM1A308SOCOMBLK10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 FDE 22 10RD | 706397900106",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/12582.jpg",
+                        "available":"Out of Stock",
+                        "id":"33831",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397900106",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/33831/SPRINGFIELDM1A308FDE2210RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 FDE 22 10RD CA | 706397900113",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/12584.jpg",
+                        "available":"Out of Stock",
+                        "id":"33832",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397900113",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/33832/SPRINGFIELDM1A308FDE2210RDCA",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 PERC BLK 22 10RD | 706397900755",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97848.jpg",
+                        "available":"Out of Stock",
+                        "id":"19975",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397900755",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/19975/SPRINGFIELDM1A308PERCBLK2210RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 PERC FDE 22 10RD | 706397900793",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/2703.jpg",
+                        "available":"Out of Stock",
+                        "id":"19974",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397900793",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/19974/SPRINGFIELDM1A308PERCFDE2210RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 SOCOM CQB BLK 10R | 706397904074",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/4041.jpg",
+                        "available":"Out of Stock",
+                        "id":"18278",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397904074",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/18278/SPRINGFIELDM1A308SOCOMCQBBLK10R",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 SOCOM VTX 10RD | 706397904685",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/4042.jpg",
+                        "available":"Out of Stock",
+                        "id":"18279",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397904685",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/18279/SPRINGFIELDM1A308SOCOMVTX10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 BLACK 22 NY 10RD | 706397906641",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24311.jpg",
+                        "available":"Out of Stock",
+                        "id":"36269",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397906641",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/36269/SPRINGFIELDM1A308BLACK22NY10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A 6.5CDMR BLK PREC 10RD | 706397916022",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/51427.jpg",
+                        "available":"Out of Stock",
+                        "id":"19977",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397916022",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/19977/SPRINGFIELDM1A65CDMRBLKPREC10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A 6.5CDMR FDE PREC 10RD | 706397916961",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/51426.jpg",
+                        "available":"Out of Stock",
+                        "id":"19976",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397916961",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/19976/SPRINGFIELDM1A65CDMRFDEPREC10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A 6.5CDMR BLK CA 10RD | 706397916985",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/51423.jpg",
+                        "available":"Out of Stock",
+                        "id":"19886",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397916985",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/19886/SPRINGFIELDM1A65CDMRBLKCA10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RUGER 10/22RB 22LR | 736676011032",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/70280.jpg",
+                        "available":"Out of Stock",
+                        "id":"15102",
+                        "brand":"STURM RUGER  CO",
+                        "upc":"736676011032",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/15102/RUGER1022RB22LR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER  CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RUGER 10/22RPF 22LR | 736676011513",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/70626.jpg",
+                        "available":"Out of Stock",
+                        "id":"15109",
+                        "brand":"STURM RUGER  CO",
+                        "upc":"736676011513",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/15109/RUGER1022RPF22LR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER  CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RUGER K10/22RBPBTC 22LR | 736676012565",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69917.jpg",
+                        "available":"Out of Stock",
+                        "id":"15246",
+                        "brand":"STURM RUGER  CO",
+                        "upc":"736676012565",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/15246/RUGERK1022RBPBTC22LR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER  CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Ruger 10/22 Carbine .22LR 10rd Magazine 18.5 Barrel Synthetic stock with GO Wild Camo RockStar | 736676311132",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/108620.jpg",
+                        "available":"Out of Stock",
+                        "id":"16086",
+                        "brand":"STURM RUGER  CO",
+                        "upc":"736676311132",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16086/Ruger1022Carbine22LR10rdMagazine185BarrelSyntheticstockwithGOWildCamoRockStar",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER  CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Ruger 10/22 Compact Rifle .22 LR 16 Inch Barrel 10rd Magazine | 736676311149",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106697.jpg",
+                        "available":"Out of Stock",
+                        "id":"16087",
+                        "brand":"STURM RUGER  CO",
+                        "upc":"736676311149",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16087/Ruger1022CompactRifle22LR16Barrel10rdMagazine",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER  CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RUGER 10/22 CARBINE 22LR GREY 10 | 736676311392",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/115146.jpg",
+                        "available":"Out of Stock",
+                        "id":"247348",
+                        "brand":"STURM RUGER  CO",
+                        "upc":"736676311392",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/247348/RUGER1022CARBINE22LRGREY10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER  CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RUGER 10/22 CARBINE 18.5 Inch BBL 10RD BLK SYNTHETIC W/ SCOPE | 736676311439",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/118989.jpg",
+                        "available":"Out of Stock",
+                        "id":"263255",
+                        "brand":"STURM RUGER  CO",
+                        "upc":"736676311439",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/263255/RUGER1022CARBINE185BBL10RDBLKSYNTHETICWSCOPE",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER  CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Ruger 10/22 Carbine .22 LR 10rd Magazine 18.5 Inch Barrel Charcoal Stock | 736676311453",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/115147.jpg",
+                        "available":"Out of Stock",
+                        "id":"247349",
+                        "brand":"STURM RUGER  CO",
+                        "upc":"736676311453",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/247349/Ruger1022Carbine22LR10rdMagazine185BarrelCharcoalStock",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER  CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RUGER 10/22 W/SCOPE 18.5 Inch 10RD | 736676311590",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/127040.jpg",
+                        "available":"Out of Stock",
+                        "id":"307663",
+                        "brand":"STURM RUGER  CO",
+                        "upc":"736676311590",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/307663/RUGER1022WSCOPE18510RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER  CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR FWD GRP 1020RD | 752334099914",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24207.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18236",
+                        "brand":"HIPOINT",
+                        "upc":"752334099914",
+                        
+                        "price":377.94,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/18236/HP9TSCARFWDGRP1020RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HIPOINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS 9MM CARB w/ CTC SCOPE | 752334401113",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HP995TSRDCT.jpg",
+                        "available":"Out of Stock",
+                        "id":"314701",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334401113",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/314701/HP9TS9MMCARBwCTCSCOPE",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Rossi RS22  .22 LR 10rd Magazine 18 Inch Barrel Black Synthetic | 754908211302",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/100165.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20574",
+                        "brand":"TAURUS INTERNATIONALINC  ROSSI",
+                        "upc":"754908211302",
+                        
+                        "price":135.54,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/20574/RossiRS2222LR10rdMagazine18BarrelBlackSynthetic",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TAURUS INTERNATIONALINC  ROSSI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Rossi RB Rifle Series .22 LR 10 rd 18 Inch Barrel Magazine Black Stock | 754908211401",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/100166.jpg",
+                        "available":"Out of Stock",
+                        "id":"20496",
+                        "brand":"TAURUS INTERNATIONALINC  ROSSI",
+                        "upc":"754908211401",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/20496/RossiRBRifleSeries22LR10rd18BarrelMagazineBlackStock",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TAURUS INTERNATIONALINC  ROSSI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Rossi RS Rifle .22 WMR 10rd Magazine 21 Inch Barrel Black Stock Picatinny Rail | 754908213504",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/BRZRS22W2111_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"241893",
+                        "brand":"TAURUS INTERNATIONALINC  ROSSI",
+                        "upc":"754908213504",
+                        
+                        "price":291.54,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/241893/RossiRSRifle22WMR10rdMagazine21BarrelBlackStockPicatinnyRail",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TAURUS INTERNATIONALINC  ROSSI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CENT C308 WOOD 16.5 20RD | 787450514669",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106689.jpg",
+                        "available":"Out of Stock",
+                        "id":"20561",
+                        "brand":"CENTURY ARMS",
+                        "upc":"787450514669",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/20561/CENTC308WOOD16520RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CENTURY ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LITTLE BADGER RIFLE 22LR SINGLE | 8053670710290",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/89582.jpg",
+                        "available":"Out of Stock",
+                        "id":"16422",
+                        "brand":"CHIAPPA FIREARMS",
+                        "upc":"8053670710290",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16422/LITTLEBADGERRIFLE22LRSINGLE",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHIAPPA FIREARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LITTLE BADGER RIFLE.22MAG SINGLE | 8053670711013",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/89583.jpg",
+                        "available":"Out of Stock",
+                        "id":"16426",
+                        "brand":"CHIAPPA FIREARMS",
+                        "upc":"8053670711013",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16426/LITTLEBADGERRIFLE22MAGSINGLE",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHIAPPA FIREARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Chiappa Little Badger 17 HMR | 8053670712072",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/5627.jpg",
+                        "available":"Out of Stock",
+                        "id":"16430",
+                        "brand":"CHIAPPA FIREARMS",
+                        "upc":"8053670712072",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16430/ChiappaLittleBadger17HMR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHIAPPA FIREARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"M1 .22LR RIFLE POLYMER MAT BLUE 18IN BBL 10RND 2MAG | 8053670712584",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/G500083.gif",
+                        "available":"Out of Stock",
+                        "id":"16421",
+                        "brand":"CHIAPPA FIREARMS",
+                        "upc":"8053670712584",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16421/M122LRRIFLEPOLYMERMATBLUE18INBBL10RND2MAG",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHIAPPA FIREARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI GSG16 CAR 22LR 16 Inch SYN 22 | 819644021476",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/109508.jpg",
+                        "available":"Out of Stock",
+                        "id":"59427",
+                        "brand":"ATI",
+                        "upc":"819644021476",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/59427/ATIGSG16CAR22LR16SYN22",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ATI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI GSG CAR 22LR SYN ODG 22 | 819644025122",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/118345.jpg",
+                        "available":"Out of Stock",
+                        "id":"255876",
+                        "brand":"AMERICAN TACTICAL",
+                        "upc":"819644025122",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/255876/ATIGSGCAR22LRSYNODG22",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AMERICAN TACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI GSG CAR 22LR SYN FDE 22 | 819644025139",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/118346.jpg",
+                        "available":"Out of Stock",
+                        "id":"255877",
+                        "brand":"AMERICAN TACTICAL",
+                        "upc":"819644025139",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/255877/ATIGSGCAR22LRSYNFDE22",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AMERICAN TACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GERMAN SPORTS GUNS GSG16 CARBINE RIA 22LR 16.25 SYN 22ROUND MLOK HG | 819644025740",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/119514.jpg",
+                        "available":"Out of Stock",
+                        "id":"267050",
+                        "brand":"ATI",
+                        "upc":"819644025740",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/267050/GERMANSPORTSGUNSGSG16CARBINERIA22LR1625SYN22ROUNDMLOKHG",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ATI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LWRC ICSPR PLATFORM 5.56MM 16 Inch BARREL RIFLE | 855148002610",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/20115.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"19174",
+                        "brand":"LWRCI",
+                        "upc":"855148002610",
+                        
+                        "price":2297.28,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/19174/LWRCICSPRPLATFORM556MM16BARRELRIFLE",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LWRCI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"IWI GALIL 7.62 11.8 BRACE 20 | 856304004790",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97037.jpg",
+                        "available":"Out of Stock",
+                        "id":"18307",
+                        "brand":"IWI",
+                        "upc":"856304004790",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/18307/IWIGALIL762118BRACE20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"IWI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 702 PLKR BAN 22LR 10RD | 884110370716",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/109197.jpg",
+                        "available":"Out of Stock",
+                        "id":"69086",
+                        "brand":"MOSSBERG",
+                        "upc":"884110370716",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/69086/MOSSBERG702PLKRBAN22LR10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Mossberg International 702 Plinkster .22LR 10rd Magazine 18 Inch Barrel Synthetic Stock | 884110370723",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106883.jpg",
+                        "available":"Out of Stock",
+                        "id":"16219",
+                        "brand":"MOSSBERG",
+                        "upc":"884110370723",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16219/MossbergInternational702Plinkster22LR10rdMagazine18BarrelSyntheticStock",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 702 PLKR 22LR 25RD | 884110370730",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106884.jpg",
+                        "available":"Out of Stock",
+                        "id":"16220",
+                        "brand":"MOSSBERG",
+                        "upc":"884110370730",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16220/MOSSBERG702PLKR22LR25RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 817 17HMR 21BRL 5RD | 884110381910",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106886.jpg",
+                        "available":"Out of Stock",
+                        "id":"16270",
+                        "brand":"MOSSBERG",
+                        "upc":"884110381910",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16270/MOSSBERG81717HMR21BRL5RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 802 PLKR 22LR 10RD | 884110382306",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106887.jpg",
+                        "available":"Out of Stock",
+                        "id":"16273",
+                        "brand":"MOSSBERG",
+                        "upc":"884110382306",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16273/MOSSBERG802PLKR22LR10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 802 PLKR 4X 22LR 10RD | 884110382320",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106888.jpg",
+                        "available":"Out of Stock",
+                        "id":"16274",
+                        "brand":"MOSSBERG",
+                        "upc":"884110382320",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Over Under",
+                        "product_url":"/product/16274/MOSSBERG802PLKR4X22LR10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

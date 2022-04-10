@@ -1,0 +1,730 @@
+
+        [
+            
+                    {
+                        "name":"SS MR920 CMBT 9MM BRZ NS 15RD | 810013431513",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1001.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308488",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431513",
+                        
+                        "price":799.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/308488/SSMR920CMBT9MMBRZNS15RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 CMBT 9MM BLK NS 15RD | 810013431520",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1002.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308489",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431520",
+                        
+                        "price":799.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/308489/SSMR920CMBT9MMBLKNS15RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 CMBT 9MM BZ OP TB 15R | 810013431537",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1003.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308490",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431537",
+                        
+                        "price":889.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/308490/SSMR920CMBT9MMBZOPTB15R",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 CMBT 9MM BK OP TB 15R | 810013431544",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1004.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308565",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431544",
+                        
+                        "price":889.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/308565/SSMR920CMBT9MMBKOPTB15R",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 CMBT 9MM BRZ OPS 15RD | 810013431551",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1005.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308566",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431551",
+                        
+                        "price":869.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/308566/SSMR920CMBT9MMBRZOPS15RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 CMBT 9MM BLK OPS 15RD | 810013431568",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1006.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308567",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431568",
+                        
+                        "price":869.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/308567/SSMR920CMBT9MMBLKOPS15RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 ELTE 9MM BRZ OPS TB15 | 810013431599",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1009.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308484",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431599",
+                        
+                        "price":989.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/308484/SSMR920ELTE9MMBRZOPSTB15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 ELTE 9MM BLK OPS TB15 | 810013431605",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1010.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308485",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431605",
+                        
+                        "price":989.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/308485/SSMR920ELTE9MMBLKOPSTB15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 ELTE 9MM BRZ OPS 15 | 810013431612",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1011.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308486",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431612",
+                        
+                        "price":969.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/308486/SSMR920ELTE9MMBRZOPS15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 ELTE 9MM BLK OPS 15 | 810013431629",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1012.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308487",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431629",
+                        
+                        "price":969.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/308487/SSMR920ELTE9MMBLKOPS15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 9MM COMBAT FDE/DL 15 | 810013431643",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/SS-1014.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308568",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431643",
+                        
+                        "price":799.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/308568/SSMR9209MMCOMBATFDEDL15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 9MM CMBT FDE/DL TB 15 | 810013431667",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1016.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"313302",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431667",
+                        
+                        "price":889.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/313302/SSMR9209MMCMBTFDEDLTB15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 9MM CMBT FDE/DLC 15 | 810013431681",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/EVSS1018.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"313303",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431681",
+                        
+                        "price":869.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/313303/SSMR9209MMCMBTFDEDLC15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 9MM ELIT FDE/DL TB 15 | 810013431728",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1022FDE.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308491",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431728",
+                        
+                        "price":989.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/308491/SSMR9209MMELITFDEDLTB15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 9MM ELITE FDE/BRNZ 15 | 810013431735",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/EVSS1023.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308492",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431735",
+                        
+                        "price":969.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/308492/SSMR9209MMELITEFDEBRNZ15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920 9MM ELITE FDE/DLC 15 | 810013431742",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/SS-1024.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308493",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431742",
+                        
+                        "price":969.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/308493/SSMR9209MMELITEFDEDLC15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920L 9MM ELITE BRZ TB 15 | 810013431759",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1025.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308494",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431759",
+                        
+                        "price":1019.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/308494/SSMR920L9MMELITEBRZTB15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920L 9MM ELITE DLC TB 15 | 810013431766",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1026.jpg",
+                        "available":"Out of Stock",
+                        "id":"313304",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431766",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/313304/SSMR920L9MMELITEDLCTB15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920L 9MM ELITE BRZ 15 | 810013431773",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1027.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"308495",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431773",
+                        
+                        "price":999.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/308495/SSMR920L9MMELITEBRZ15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS MR920L 9MM ELITE DLC 15 | 810013431780",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/EVSS1028.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"449382",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013431780",
+                        
+                        "price":999.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/449382/SSMR920L9MMELITEDLC15",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS DR920 CMBT 9MM BRZ TB 17RD | 810013432572",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/SS-2003.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"426850",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013432572",
+                        
+                        "price":909.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/426850/SSDR920CMBT9MMBRZTB17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS DR920 CMBT 9MM BLK TB 17RD | 810013432589",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/SS-2004.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"426851",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013432589",
+                        
+                        "price":909.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/426851/SSDR920CMBT9MMBLKTB17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS DR920 CMBT 9MM BRZ 17RD | 810013432596",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS2005.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"426852",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013432596",
+                        
+                        "price":889.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/426852/SSDR920CMBT9MMBRZ17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS DR920 CMBT 9MM BLK 17RD | 810013432602",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/SS-2006.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"426853",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013432602",
+                        
+                        "price":889.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/426853/SSDR920CMBT9MMBLK17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS DR920 ELTE 9MM BRZ TB 17RD | 810013432619",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/EVSS2009.jpg",
+                        "available":"Out of Stock",
+                        "id":"426854",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013432619",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/426854/SSDR920ELTE9MMBRZTB17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS DR920 ELTE 9MM BLK TB 17RD | 810013432626",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/SS-2010.jpg",
+                        "available":"Out of Stock",
+                        "id":"426855",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013432626",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/426855/SSDR920ELTE9MMBLKTB17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS DR920 ELTE 9MM BRZ 17RD | 810013432633",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/EVSS2011.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"426856",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013432633",
+                        
+                        "price":989.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/426856/SSDR920ELTE9MMBRZ17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS DR920 ELTE 9MM BLK 17RD | 810013432640",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/SS-2012.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"426857",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"810013432640",
+                        
+                        "price":989.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/426857/SSDR920ELTE9MMBLK17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SS STD SLIDE COMPLETION KT | 853687007677",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/EVSGK1004.jpg",
+                        "available":"Out of Stock",
+                        "id":"483023",
+                        "brand":"SHADOW SYSTEMS DBA SHADOW GUNWORKS",
+                        "upc":"853687007677",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Slides",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/483023/SSSTDSLIDECOMPLETIONKT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOW SYSTEMS DBA SHADOW GUNWORKS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

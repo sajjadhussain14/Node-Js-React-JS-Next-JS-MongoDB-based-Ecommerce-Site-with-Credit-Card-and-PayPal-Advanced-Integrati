@@ -1,0 +1,635 @@
+
+        [
+            
+                    {
+                        "name":"MSI OC PEPPER CARTRIDGE 2 PACK | 022188804218",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54965.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6928",
+                        "brand":"MACE",
+                        "upc":"022188804218",
+                        
+                        "price":12.12,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6928/MSIOCPEPPERCARTRIDGE2PACK",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TRAD ASG12 SNAP CAP 2 | 040589991207",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98725.jpg",
+                        "available":"Out of Stock",
+                        "id":"10737",
+                        "brand":"TRADITIONS",
+                        "upc":"040589991207",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/10737/TRADASG12SNAPCAP2",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TRADITIONS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TRAD ASG20 SNAP CAP 2 | 040589992006",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98724.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"10738",
+                        "brand":"TRADITIONS",
+                        "upc":"040589992006",
+                        
+                        "price": 7.08,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/10738/TRADASG20SNAPCAP2",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TRADITIONS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TRAD ASC380 SNAP CAP 6 | 040589993805",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98726.jpg",
+                        "available":"Out of Stock",
+                        "id":"10711",
+                        "brand":"TRADITIONS",
+                        "upc":"040589993805",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/10711/TRADASC380SNAPCAP6",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TRADITIONS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TRAD ASC38 SNAP CAP 6 | 040589993898",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98727.jpg",
+                        "available":"Out of Stock",
+                        "id":"10710",
+                        "brand":"TRADITIONS",
+                        "upc":"040589993898",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/10710/TRADASC38SNAPCAP6",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TRADITIONS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TRAD ASA45 SNAP CAP 6 | 040589994505",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98729.jpg",
+                        "available":"Out of Stock",
+                        "id":"10613",
+                        "brand":"TRADITIONS",
+                        "upc":"040589994505",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/10613/TRADASA45SNAPCAP6",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TRADITIONS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TRAD ASM9 SNAP CAP 6 | 040589999005",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98728.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"10760",
+                        "brand":"TRADITIONS",
+                        "upc":"040589999005",
+                        
+                        "price":15.54,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/10760/TRADASM9SNAPCAP6",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TRADITIONS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA AZ 20GA SNAP CAP 2 | 666692122132",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/11371.jpg",
+                        "available":"Out of Stock",
+                        "id":"1507",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"666692122132",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/1507/PAAZ20GASNAPCAP2",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA AZ 410BORE SNAP CAP 2 | 666692122156",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54225.jpg",
+                        "available":"Out of Stock",
+                        "id":"1509",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"666692122156",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/1509/PAAZ410BORESNAPCAP2",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA AZ 270 WIN SNAP CAP 2 | 666692122248",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/11360.jpg",
+                        "available":"Out of Stock",
+                        "id":"1521",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"666692122248",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/1521/PAAZ270WINSNAPCAP2",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA AZ 308 WIN SNAP CAP 2 | 666692122286",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/11366.jpg",
+                        "available":"Out of Stock",
+                        "id":"1525",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"666692122286",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/1525/PAAZ308WINSNAPCAP2",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA AZ 4570 SNAP CAP 2 | 666692122316",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73166.jpg",
+                        "available":"Out of Stock",
+                        "id":"1527",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"666692122316",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/1527/PAAZ4570SNAPCAP2",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA AZ 223 BLU SNAP CAP 10 | 666692123221",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104538.jpg",
+                        "available":"Out of Stock",
+                        "id":"11238",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"666692123221",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11238/PAAZ223BLUSNAPCAP10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA AZ 40SW SNAP CAP 5 | 666692151149",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/11352.jpg",
+                        "available":"Out of Stock",
+                        "id":"1953",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"666692151149",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/1953/PAAZ40SWSNAPCAP5",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA AZ 45AUTO SNAP CAP 5 | 666692151156",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/11353.jpg",
+                        "available":"Out of Stock",
+                        "id":"1954",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"666692151156",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/1954/PAAZ45AUTOSNAPCAP5",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA AZ 9MM LUG SNAP CAP 5 | 666692151163",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/11354.jpg",
+                        "available":"Out of Stock",
+                        "id":"1955",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"666692151163",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/1955/PAAZ9MMLUGSNAPCAP5",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA AZ 9MM BLU SNAP CAP 10 | 666692153167",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104547.jpg",
+                        "available":"Out of Stock",
+                        "id":"11247",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"666692153167",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/11247/PAAZ9MMBLUSNAPCAP10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA AZ 38SPL SNAP CAP 6 | 666692161186",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/11356.jpg",
+                        "available":"Out of Stock",
+                        "id":"2116",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"666692161186",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/2116/PAAZ38SPLSNAPCAP6",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

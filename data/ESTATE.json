@@ -1,0 +1,30 @@
+
+        [
+            
+                    {
+                        "name":"ESTATE 12GA 23/4 Inch 00BUCK 25 | 604544400540",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/125410.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"309635",
+                        "brand":"ESTATE",
+                        "upc":"604544400540",
+                        
+                        "price":31.66,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Specialty",
+                        "product_url":"/product/309635/ESTATE12GA23400BUCK25",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ESTATE"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

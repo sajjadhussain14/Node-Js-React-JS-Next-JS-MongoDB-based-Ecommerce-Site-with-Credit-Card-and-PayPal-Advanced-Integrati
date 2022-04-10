@@ -1,0 +1,1430 @@
+
+        [
+            
+                    {
+                        "name":"HENRY LRG LOOP 22LR 18.25 WLNT | 619835001023",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HNH001LL.jpg",
+                        "available":"Out of Stock",
+                        "id":"311801",
+                        "brand":"HENRY",
+                        "upc":"619835001023",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Single-Shot",
+                        "product_url":"/product/311801/HENRYLRGLOOP22LR1825WLNT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY MAG LRG LOOP 22MAG 11RD | 619835007018",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HNH001MLL.jpg",
+                        "available":"Out of Stock",
+                        "id":"441266",
+                        "brand":"HENRY",
+                        "upc":"619835007018",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/441266/HENRYMAGLRGLOOP22MAG11RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY OCTAGON LRG LOOP 22MAG | 619835010018",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HNH001TML.jpg",
+                        "available":"Out of Stock",
+                        "id":"311804",
+                        "brand":"HENRY",
+                        "upc":"619835010018",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/311804/HENRYOCTAGONLRGLOOP22MAG",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H001TPM PHILMONT OCT | 619835011022",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/70764.jpg",
+                        "available":"Out of Stock",
+                        "id":"18938",
+                        "brand":"HENRY",
+                        "upc":"619835011022",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/18938/HENRYH001TPMPHILMONTOCT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY OCTAGON LRG LOOP 22LR | 619835011053",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GH001TL.gif",
+                        "available":"Out of Stock",
+                        "id":"298005",
+                        "brand":"HENRY",
+                        "upc":"619835011053",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/298005/HENRYOCTAGONLRGLOOP22LR",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY FRONTIER LRG LOOP 17HMR | 619835011153",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/132290.jpg",
+                        "available":"Out of Stock",
+                        "id":"479985",
+                        "brand":"HENRY",
+                        "upc":"619835011153",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/479985/HENRYFRONTIERLRGLOOP17HMR",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY MAG SURVIVAL 22 8RD 2PACK | 619835015167",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36788.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"21987",
+                        "brand":"HENRY",
+                        "upc":"619835015167",
+                        
+                        "price":29.94,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/21987/HENRYMAGSURVIVAL228RD2PACK",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H004STS SCOUT SALUTE 22 | 619835016348",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/2724.jpg",
+                        "available":"Out of Stock",
+                        "id":"18977",
+                        "brand":"HENRY",
+                        "upc":"619835016348",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/18977/HENRYH004STSSCOUTSALUTE22",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H004SE2 SLV EAGLE 2 22LR | 619835016393",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/3720.jpg",
+                        "available":"Out of Stock",
+                        "id":"18971",
+                        "brand":"HENRY",
+                        "upc":"619835016393",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/18971/HENRYH004SE2SLVEAGLE222LR",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY GOLDEN BOY SLV YTH 22 | 619835016607",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/116276.jpg",
+                        "available":"Out of Stock",
+                        "id":"255179",
+                        "brand":"HENRY",
+                        "upc":"619835016607",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/255179/HENRYGOLDENBOYSLVYTH22",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY GLD BOY RODEO EDITION 22LR | 619835016614",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/109134.jpg",
+                        "available":"Out of Stock",
+                        "id":"240082",
+                        "brand":"HENRY",
+                        "upc":"619835016614",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/240082/HENRYGLDBOYRODEOEDITION22LR",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H004SFD 22 S/L/LR 20 Inch | 619835016638",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120869.jpg",
+                        "available":"Out of Stock",
+                        "id":"306836",
+                        "brand":"HENRY",
+                        "upc":"619835016638",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/306836/HENRYH004SFD22SLLR20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY TEXAS 22LR 20 Inch WLNUT 21RD | 619835016652",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/119323.jpg",
+                        "available":"Out of Stock",
+                        "id":"264396",
+                        "brand":"HENRY",
+                        "upc":"619835016652",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/264396/HENRYTEXAS22LR20WLNUT21RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY VARMINT LRG LOOP 17HMR | 619835017017",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GH001VL.jpg",
+                        "available":"Out of Stock",
+                        "id":"311805",
+                        "brand":"HENRY",
+                        "upc":"619835017017",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/311805/HENRYVARMINTLRGLOOP17HMR",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H004SL SILVER BOY 22LR LL | 619835044037",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HNH004SL.jpg",
+                        "available":"Out of Stock",
+                        "id":"67911",
+                        "brand":"HENRY",
+                        "upc":"619835044037",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/67911/HENRYH004SLSILVERBOY22LRLL",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BB LRG LOOP 357/38SPL | 619835060228",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HNH006MLGL.jpg",
+                        "available":"Out of Stock",
+                        "id":"311807",
+                        "brand":"HENRY",
+                        "upc":"619835060228",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/311807/HENRYBBLRGLOOP35738SPL",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H006CL BIG BOY 45LC LL | 619835060242",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HNH006CL.jpg",
+                        "available":"Out of Stock",
+                        "id":"67918",
+                        "brand":"HENRY",
+                        "upc":"619835060242",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/67918/HENRYH006CLBIGBOY45LCLL",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H006SD BIG BOY SLV DLX44 | 619835060341",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/3725.jpg",
+                        "available":"Out of Stock",
+                        "id":"19009",
+                        "brand":"HENRY",
+                        "upc":"619835060341",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/19009/HENRYH006SDBIGBOYSLVDLX44",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H006CSD BIG BOY SLVDLX45 | 619835060358",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/3723.jpg",
+                        "available":"Out of Stock",
+                        "id":"18991",
+                        "brand":"HENRY",
+                        "upc":"619835060358",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/18991/HENRYH006CSDBIGBOYSLVDLX45",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H006MSD BIGBOY SLVDLX357 | 619835060365",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/3724.jpg",
+                        "available":"Out of Stock",
+                        "id":"19005",
+                        "brand":"HENRY",
+                        "upc":"619835060365",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/19005/HENRYH006MSDBIGBOYSLVDLX357",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H006M41 BIG BOY 41 MAG | 619835060426",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24350.jpg",
+                        "available":"Out of Stock",
+                        "id":"18997",
+                        "brand":"HENRY",
+                        "upc":"619835060426",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/18997/HENRYH006M41BIGBOY41MAG",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H006MR327 BIG BOY CAR327 | 619835060433",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24351.jpg",
+                        "available":"Out of Stock",
+                        "id":"19002",
+                        "brand":"HENRY",
+                        "upc":"619835060433",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/19002/HENRYH006MR327BIGBOYCAR327",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H006MR41 BIG BOY CAR 41 | 619835060440",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24352.jpg",
+                        "available":"Out of Stock",
+                        "id":"19003",
+                        "brand":"HENRY",
+                        "upc":"619835060440",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/19003/HENRYH006MR41BIGBOYCAR41",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY DLX 4TH ED 44MAG | 619835060549",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120870.jpg",
+                        "available":"Out of Stock",
+                        "id":"311806",
+                        "brand":"HENRY",
+                        "upc":"619835060549",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/311806/HENRYBIGBOYDLX4THED44MAG",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BB SLVR LRG LOOP 45LC | 619835060556",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HNH006CSL.jpg",
+                        "available":"Out of Stock",
+                        "id":"450335",
+                        "brand":"HENRY",
+                        "upc":"619835060556",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/450335/HENRYBBSLVRLRGLOOP45LC",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY STEEL LEVER 3030 20 5RD | 619835090089",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128820.jpg",
+                        "available":"Out of Stock",
+                        "id":"439405",
+                        "brand":"HENRY",
+                        "upc":"619835090089",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439405/HENRYSTEELLEVER3030205RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY ALL WEATHER 3030 20 5RD | 619835090096",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128821.jpg",
+                        "available":"Out of Stock",
+                        "id":"439407",
+                        "brand":"HENRY",
+                        "upc":"619835090096",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439407/HENRYALLWEATHER3030205RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY COLOR CASE 3030 20 5RD | 619835090102",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128822.jpg",
+                        "available":"Out of Stock",
+                        "id":"439406",
+                        "brand":"HENRY",
+                        "upc":"619835090102",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439406/HENRYCOLORCASE3030205RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY STEEL LG LOOP 3030 20 Inch 5R | 619835090119",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128823.jpg",
+                        "available":"Out of Stock",
+                        "id":"439504",
+                        "brand":"HENRY",
+                        "upc":"619835090119",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439504/HENRYSTEELLGLOOP3030205R",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY WILDLIFE 3030 20 5RD | 619835090126",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128824.jpg",
+                        "available":"Out of Stock",
+                        "id":"439408",
+                        "brand":"HENRY",
+                        "upc":"619835090126",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439408/HENRYWILDLIFE3030205RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY ALL WEATHER 4570 18.5 4 | 619835100153",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128826.jpg",
+                        "available":"Out of Stock",
+                        "id":"439410",
+                        "brand":"HENRY",
+                        "upc":"619835100153",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439410/HENRYALLWEATHER45701854",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY AW .4570 SIDE GATE | 619835100160",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128827.jpg",
+                        "available":"Out of Stock",
+                        "id":"439501",
+                        "brand":"HENRY",
+                        "upc":"619835100160",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439501/HENRYAW4570SIDEGATE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY COLOR CASE 4570 22 4RD | 619835100177",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128828.jpg",
+                        "available":"Out of Stock",
+                        "id":"439411",
+                        "brand":"HENRY",
+                        "upc":"619835100177",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439411/HENRYCOLORCASE4570224RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY WILDLIFE 4570 18.5 4RD | 619835100184",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128829.jpg",
+                        "available":"Out of Stock",
+                        "id":"439412",
+                        "brand":"HENRY",
+                        "upc":"619835100184",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439412/HENRYWILDLIFE45701854RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H011SD ORIG SLV DLX4440 | 619835110015",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/3726.jpg",
+                        "available":"Out of Stock",
+                        "id":"19028",
+                        "brand":"HENRY",
+                        "upc":"619835110015",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/19028/HENRYH011SDORIGSLVDLX4440",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H011R RARE CARB 4440 10 | 619835110022",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/22736.jpg",
+                        "available":"Out of Stock",
+                        "id":"19027",
+                        "brand":"HENRY",
+                        "upc":"619835110022",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/19027/HENRYH011RRARECARB444010",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H011BTH 4440 200TH ANN 13 | 619835110053",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/130621.jpg",
+                        "available":"Out of Stock",
+                        "id":"430093",
+                        "brand":"HENRY",
+                        "upc":"619835110053",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/430093/HENRYH011BTH4440200THANN13",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY 44MG/44SP 20 10R | 619835200266",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128830.jpg",
+                        "available":"Out of Stock",
+                        "id":"439413",
+                        "brand":"HENRY",
+                        "upc":"619835200266",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439413/HENRYBIGBOY44MG44SP2010R",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY AW 44MG/44SP 10RD | 619835200273",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128831.jpg",
+                        "available":"Out of Stock",
+                        "id":"439414",
+                        "brand":"HENRY",
+                        "upc":"619835200273",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439414/HENRYBIGBOYAW44MG44SP10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY 45LC 20 10RD | 619835200280",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128832.jpg",
+                        "available":"Out of Stock",
+                        "id":"439415",
+                        "brand":"HENRY",
+                        "upc":"619835200280",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439415/HENRYBIGBOY45LC2010RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY AW 45LC 20 10RD | 619835200297",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128833.jpg",
+                        "available":"Out of Stock",
+                        "id":"439482",
+                        "brand":"HENRY",
+                        "upc":"619835200297",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439482/HENRYBIGBOYAW45LC2010RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY CC 44MG/44SPL 10RD | 619835200303",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128834.jpg",
+                        "available":"Out of Stock",
+                        "id":"439416",
+                        "brand":"HENRY",
+                        "upc":"619835200303",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439416/HENRYBIGBOYCC44MG44SPL10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY CC 45LC 20 10RD | 619835200310",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128835.jpg",
+                        "available":"Out of Stock",
+                        "id":"439417",
+                        "brand":"HENRY",
+                        "upc":"619835200310",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439417/HENRYBIGBOYCC45LC2010RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY 45LC 16.5 7RD | 619835200334",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128837.jpg",
+                        "available":"Out of Stock",
+                        "id":"439535",
+                        "brand":"HENRY",
+                        "upc":"619835200334",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439535/HENRYBIGBOY45LC1657RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY CC CARB 45LC 7RD | 619835200341",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128838.jpg",
+                        "available":"Out of Stock",
+                        "id":"439419",
+                        "brand":"HENRY",
+                        "upc":"619835200341",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439419/HENRYBIGBOYCCCARB45LC7RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY 357/38SP 20 10RD | 619835200365",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128840.jpg",
+                        "available":"Out of Stock",
+                        "id":"439422",
+                        "brand":"HENRY",
+                        "upc":"619835200365",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439422/HENRYBIGBOY35738SP2010RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY AW 357MG/38SP 10RD | 619835200372",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128841.jpg",
+                        "available":"Out of Stock",
+                        "id":"439483",
+                        "brand":"HENRY",
+                        "upc":"619835200372",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439483/HENRYBIGBOYAW357MG38SP10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY CC 357MG/38SP 10RD | 619835200389",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128842.jpg",
+                        "available":"Out of Stock",
+                        "id":"439418",
+                        "brand":"HENRY",
+                        "upc":"619835200389",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439418/HENRYBIGBOYCC357MG38SP10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY CARB 357/38SPL 7RD | 619835200402",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128844.jpg",
+                        "available":"Out of Stock",
+                        "id":"439423",
+                        "brand":"HENRY",
+                        "upc":"619835200402",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439423/HENRYBIGBOYCARB35738SPL7RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY CC CARB 357/38 7RD | 619835200419",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128845.jpg",
+                        "available":"Out of Stock",
+                        "id":"439420",
+                        "brand":"HENRY",
+                        "upc":"619835200419",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439420/HENRYBIGBOYCCCARB357387RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY CARB 44MG/44SP 7RD | 619835200426",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128846.jpg",
+                        "available":"Out of Stock",
+                        "id":"439484",
+                        "brand":"HENRY",
+                        "upc":"619835200426",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439484/HENRYBIGBOYCARB44MG44SP7RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY BIG BOY CC CARB 44MAG/SP 7 | 619835200433",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128847.jpg",
+                        "available":"Out of Stock",
+                        "id":"439421",
+                        "brand":"HENRY",
+                        "upc":"619835200433",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/439421/HENRYBIGBOYCCCARB44MAGSP7",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H014D223 DLX ENG 223/5.56 | 619835300089",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/107371.jpg",
+                        "available":"Out of Stock",
+                        "id":"19051",
+                        "brand":"HENRY",
+                        "upc":"619835300089",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/19051/HENRYH014D223DLXENG223556",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H014D243 DLX ENG 243 WIN | 619835300102",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/107372.jpg",
+                        "available":"Out of Stock",
+                        "id":"19052",
+                        "brand":"HENRY",
+                        "upc":"619835300102",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/19052/HENRYH014D243DLXENG243WIN",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY H014D308 DLX ENG 308 WIN | 619835300119",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/107373.jpg",
+                        "available":"Out of Stock",
+                        "id":"19053",
+                        "brand":"HENRY",
+                        "upc":"619835300119",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Lever-Action",
+                        "product_url":"/product/19053/HENRYH014D308DLXENG308WIN",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY SIDE GATE 410G 24 Inch 6RD | 619835500052",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128848.jpg",
+                        "available":"Out of Stock",
+                        "id":"439424",
+                        "brand":"HENRY",
+                        "upc":"619835500052",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Action",
+                        "product_url":"/product/439424/HENRYSIDEGATE410G246RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HENRY SHOTGUN 410 20 6RD | 619835500069",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128849.jpg",
+                        "available":"Out of Stock",
+                        "id":"439485",
+                        "brand":"HENRY",
+                        "upc":"619835500069",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Action",
+                        "product_url":"/product/439485/HENRYSHOTGUN410206RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

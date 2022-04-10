@@ -1,0 +1,530 @@
+
+        [
+            
+                    {
+                        "name":"PTR 91 GIR 308 18 Inch PKZ SCPMT20 | 897903002213",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/102283.jpg",
+                        "available":"Out of Stock",
+                        "id":"20422",
+                        "brand":"PTR",
+                        "upc":"897903002213",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20422/PTR91GIR30818PKZSCPMT20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 GI 308 18 Inch PKZ/GRN 20RD | 897903002312",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/132918.jpg",
+                        "available":"Out of Stock",
+                        "id":"20421",
+                        "brand":"PTR",
+                        "upc":"897903002312",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20421/PTR91GI30818PKZGRN20RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 32KCR 7.62X39 W/MNT | 897903002350",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/PTR202_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"20435",
+                        "brand":"PTR",
+                        "upc":"897903002350",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20435/PTR32KCR762X39WMNT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 32KCR 7.62X39 8.5 Inch W/MNT | 897903002374",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/PTR203_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"26229",
+                        "brand":"PTR",
+                        "upc":"897903002374",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/26229/PTR32KCR762X3985WMNT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 CA FR 308 18 InchBLK CA 10 | 897903002411",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110695.jpg",
+                        "available":"Out of Stock",
+                        "id":"240560",
+                        "brand":"PTR",
+                        "upc":"897903002411",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/240560/PTR91CAFR30818BLKCA10",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR91 GIR 308 18 FDE SCP 10 CA | 897903002428",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110694.jpg",
+                        "available":"Out of Stock",
+                        "id":"240559",
+                        "brand":"PTR",
+                        "upc":"897903002428",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/240559/PTR91GIR30818FDESCP10CA",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR91 GIR 308 18 FDE 10RD CA | 897903002619",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/113581.jpg",
+                        "available":"Out of Stock",
+                        "id":"106942",
+                        "brand":"PTR",
+                        "upc":"897903002619",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/106942/PTR91GIR30818FDE10RDCA",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 32 KFR 7.62X39 16 Inch BLK 30 | 897903002688",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/102287.jpg",
+                        "available":"Out of Stock",
+                        "id":"20433",
+                        "brand":"PTR",
+                        "upc":"897903002688",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20433/PTR32KFR762X3916BLK30",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 A3S .308 18 Inch BLK 20RD | 897903002718",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123761.jpg",
+                        "available":"Out of Stock",
+                        "id":"20429",
+                        "brand":"PTR",
+                        "upc":"897903002718",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20429/PTR91A3S30818BLK20RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 FR 308 18 InchBLK HANDGRD20 | 897903002770",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/102284.jpg",
+                        "available":"Out of Stock",
+                        "id":"20423",
+                        "brand":"PTR",
+                        "upc":"897903002770",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20423/PTR91FR30818BLKHANDGRD20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 9C 9MM PISTOL MLOK 30RD | 897903003012",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/102281.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20436",
+                        "brand":"PTR",
+                        "upc":"897903003012",
+                        
+                        "price":1681.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20436/PTR9C9MMPISTOLMLOK30RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 GIR 308 16 Inch FDE SCP 20 | 897903003098",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110697.jpg",
+                        "available":"Out of Stock",
+                        "id":"20432",
+                        "brand":"PTR",
+                        "upc":"897903003098",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20432/PTR91GIR30816FDESCP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 9C 9MM PISTOL MLOK TB 30RD | 897903003104",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/102282.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20437",
+                        "brand":"PTR",
+                        "upc":"897903003104",
+                        
+                        "price":1681.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20437/PTR9C9MMPISTOLMLOKTB30RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 GI .308 18 Inch FDE 10RD CA | 897903003142",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110696.jpg",
+                        "available":"Out of Stock",
+                        "id":"240561",
+                        "brand":"PTR",
+                        "upc":"897903003142",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/240561/PTR91GI30818FDE10RDCA",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 9KT 9MM 5.16 Inch TB MLOK 30RD | 897903003173",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110251.jpg",
+                        "available":"Out of Stock",
+                        "id":"239291",
+                        "brand":"PTR",
+                        "upc":"897903003173",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/239291/PTR9KT9MM516TBMLOK30RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR PTR608 9R 9MM 16 Inch MLOK | 897903003180",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110252.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"239292",
+                        "brand":"PTR",
+                        "upc":"897903003180",
+                        
+                        "price":1567.00,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/239292/PTRPTR6089R9MM16MLOK",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR PTR408 9R 9MM 16 Inch MLOK CA | 897903003227",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110693.jpg",
+                        "available":"Out of Stock",
+                        "id":"239290",
+                        "brand":"PTR",
+                        "upc":"897903003227",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/239290/PTRPTR4089R9MM16MLOKCA",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 GIRK 308 16 Inch PKZ SCP 20 | 897903003371",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123760.jpg",
+                        "available":"Out of Stock",
+                        "id":"271154",
+                        "brand":"PTR",
+                        "upc":"897903003371",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/271154/PTR91GIRK30816PKZSCP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 GIRK 308 16 Inch PKZ CA 10 | 897903003395",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/PTR409_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"295481",
+                        "brand":"PTR",
+                        "upc":"897903003395",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/295481/PTR91GIRK30816PKZCA10",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 A3SK 308 16 Inch BLK 20 | 897903003418",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123762.jpg",
+                        "available":"Out of Stock",
+                        "id":"271155",
+                        "brand":"PTR",
+                        "upc":"897903003418",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/271155/PTR91A3SK30816BLK20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 A3SK 308 16 Inch BLK CA 10 | 897903003432",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/PTR410_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"295482",
+                        "brand":"PTR",
+                        "upc":"897903003432",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/295482/PTR91A3SK30816BLKCA10",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

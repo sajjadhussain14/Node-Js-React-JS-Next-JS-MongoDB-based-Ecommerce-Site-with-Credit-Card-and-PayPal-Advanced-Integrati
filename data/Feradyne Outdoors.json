@@ -1,0 +1,304 @@
+
+        [
+            
+                    {
+                        "name":"CX INTERCEPRT CROSSBOW KIT | 44734202613",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GF20261.jpg",
+                        "available":"Out of Stock",
+                        "id":"260506",
+                        "brand":"FERADYNE OUTDOORS",
+                        "upc":"44734202613",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Bows and Crossbows",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260506/CXINTERCEPRTCROSSBOWKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FERADYNE OUTDOORS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAXIMA HUNTER 20 CROSSBOLT 6PK | 44734521134",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GF52113.jpg",
+                        "available":"Out of Stock",
+                        "id":"260520",
+                        "brand":"FERADYNE OUTDOORS",
+                        "upc":"44734521134",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Arrows",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260520/MAXIMAHUNTER20CROSSBOLT6PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FERADYNE OUTDOORS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAXIMA HUNTER 22 CROSSBOLT 6PK | 44734521141",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GF52114.jpg",
+                        "available":"Out of Stock",
+                        "id":"260521",
+                        "brand":"FERADYNE OUTDOORS",
+                        "upc":"44734521141",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Arrows",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260521/MAXIMAHUNTER22CROSSBOLT6PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FERADYNE OUTDOORS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAXIMA BLUE STREAK 22XBOLT 5PK | 44734521226",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GF52122.jpg",
+                        "available":"Out of Stock",
+                        "id":"260522",
+                        "brand":"FERADYNE OUTDOORS",
+                        "upc":"44734521226",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Arrows",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260522/MAXIMABLUESTREAK22XBOLT5PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FERADYNE OUTDOORS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAYHEM 20 CROSSBOLT 6PK | 44734521325",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GF52132.jpg",
+                        "available":"Out of Stock",
+                        "id":"260523",
+                        "brand":"FERADYNE OUTDOORS",
+                        "upc":"44734521325",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Arrows",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260523/MAYHEM20CROSSBOLT6PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FERADYNE OUTDOORS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAYHEM 22 CROSSBOLT 6PK | 44734521332",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GF52133.jpg",
+                        "available":"Out of Stock",
+                        "id":"260524",
+                        "brand":"FERADYNE OUTDOORS",
+                        "upc":"44734521332",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Arrows",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260524/MAYHEM22CROSSBOLT6PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FERADYNE OUTDOORS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAXIMA BLUE 22CROSSBOLT 5PK | 44734521370",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GF52137.jpg",
+                        "available":"Out of Stock",
+                        "id":"260525",
+                        "brand":"FERADYNE OUTDOORS",
+                        "upc":"44734521370",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Arrows",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260525/MAXIMABLUE22CROSSBOLT5PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FERADYNE OUTDOORS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PILEDRIVER 20CROSSBOLT 6PK | 44734521400",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GF52140.jpg",
+                        "available":"Out of Stock",
+                        "id":"260526",
+                        "brand":"FERADYNE OUTDOORS",
+                        "upc":"44734521400",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Arrows",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260526/PILEDRIVER20CROSSBOLT6PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FERADYNE OUTDOORS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PILEDRIVER 22CROSSBOLT 6PK | 44734521417",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GF52141.jpg",
+                        "available":"Out of Stock",
+                        "id":"260527",
+                        "brand":"FERADYNE OUTDOORS",
+                        "upc":"44734521417",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Arrows",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260527/PILEDRIVER22CROSSBOLT6PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FERADYNE OUTDOORS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PILEDRIVER 20XBOLT 3PK LITENOCK | 44734521486",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GF52148.jpg",
+                        "available":"Out of Stock",
+                        "id":"260528",
+                        "brand":"FERADYNE OUTDOORS",
+                        "upc":"44734521486",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Arrows",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260528/PILEDRIVER20XBOLT3PKLITENOCK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FERADYNE OUTDOORS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CROSSBOW RELEASE BOLT | 44734556044",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GF55604.jpg",
+                        "available":"Out of Stock",
+                        "id":"260565",
+                        "brand":"FERADYNE OUTDOORS",
+                        "upc":"44734556044",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Arrows",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260565/CROSSBOWRELEASEBOLT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FERADYNE OUTDOORS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CROSSBOW UNIVERAL ROPE COCKER | 44734978112",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GF20811.jpg",
+                        "available":"Out of Stock",
+                        "id":"260517",
+                        "brand":"FERADYNE OUTDOORS",
+                        "upc":"44734978112",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260517/CROSSBOWUNIVERALROPECOCKER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FERADYNE OUTDOORS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KING KONG LADDERSTAND | 8.20752E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GF42033.jpg",
+                        "available":"Out of Stock",
+                        "id":"260519",
+                        "brand":"FERADYNE OUTDOORS",
+                        "upc":"8.20752E+11",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260519/KINGKONGLADDERSTAND",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FERADYNE OUTDOORS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

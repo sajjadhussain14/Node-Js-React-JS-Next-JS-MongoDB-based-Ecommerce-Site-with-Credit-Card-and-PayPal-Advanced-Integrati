@@ -1,0 +1,74 @@
+
+        [
+            
+                    {
+                        "name":".45LC/410GA SNGL PSTL 10BBL BLUE | 144506",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/21150.jpg",
+                        "available":"Out of Stock",
+                        "id":"35350",
+                        "brand":"EAGLE IMPORTS INC. COMANCHE",
+                        "upc":"144506",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/35350/45LC410GASNGLPSTL10BBLBLUE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"EAGLE IMPORTS INC. COMANCHE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":".45LC/.410GA SNGL PSTL 10 BBSTNK | 144513",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/DLSCP60000.jpg",
+                        "available":"Out of Stock",
+                        "id":"259595",
+                        "brand":"EAGLE IMPORTS INC. COMANCHE",
+                        "upc":"144513",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/259595/45LC410GASNGLPSTL10BBSTNK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"EAGLE IMPORTS INC. COMANCHE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"45LC/.410GA SNGL SHOTPSTL 6 NKL | 144544",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/78869.jpg",
+                        "available":"Out of Stock",
+                        "id":"49116",
+                        "brand":"EAGLE IMPORTS INC. COMANCHE",
+                        "upc":"144544",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/49116/45LC410GASNGLSHOTPSTL6NKL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"EAGLE IMPORTS INC. COMANCHE"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

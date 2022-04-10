@@ -1,0 +1,480 @@
+
+        [
+            
+                    {
+                        "name":"BREN CLS MG 12GA 2 3/4 5 | 4030128120188",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/37900.jpg",
+                        "available":"Out of Stock",
+                        "id":"8425",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128120188",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8425/BRENCLSMG12GA2345",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN BM MG 12GA 3 Inch 5 | 4030128120270",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/37896.jpg",
+                        "available":"Out of Stock",
+                        "id":"8426",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128120270",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8426/BRENBMMG12GA35",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN TACT HD 12GA 2 3/4 5 | 4030128120515",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60353.jpg",
+                        "available":"Out of Stock",
+                        "id":"8429",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128120515",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8429/BRENTACTHD12GA2345",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN MG CRUSH 12GA 3 Inch1.5 5 | 4030128120522",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/79733.jpg",
+                        "available":"Out of Stock",
+                        "id":"8430",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128120522",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8430/BRENMGCRUSH12GA3155",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN HFLD GRN 12GA 2 3/4 5 | 4030128120782",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60352.jpg",
+                        "available":"Out of Stock",
+                        "id":"8433",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128120782",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8433/BRENHFLDGRN12GA2345",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN SLUG 12GA 2 3/4 Inch 5 | 4030128120881",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/31550.jpg",
+                        "available":"Out of Stock",
+                        "id":"8435",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128120881",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8435/BRENSLUG12GA2345",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN KO 12GA 2 3/4 5 | 4030128120973",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/A120970.gif",
+                        "available":"Out of Stock",
+                        "id":"8436",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128120973",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8436/BRENKO12GA2345",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN RM SABOT 12GA 3 5 | 4030128121284",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/2447.jpg",
+                        "available":"Out of Stock",
+                        "id":"8441",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128121284",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8441/BRENRMSABOT12GA35",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN BARRIER 12GA 1 3/8 5 | 4030128121420",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/31288.jpg",
+                        "available":"Out of Stock",
+                        "id":"8443",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128121420",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8443/BRENBARRIER12GA1385",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN TOPAS SABOT 12GA 2 3/4 5 | 4030128121932",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/101513.jpg",
+                        "available":"Out of Stock",
+                        "id":"54933",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128121932",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/54933/BRENTOPASSABOT12GA2345",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN CLS MG 16GA 2 3/4 5 | 4030128160184",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/114541.jpg",
+                        "available":"Out of Stock",
+                        "id":"8495",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128160184",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8495/BRENCLSMG16GA2345",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN CLS MG 16GA 2 1/2 5 | 4030128160191",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/132275.jpg",
+                        "available":"Out of Stock",
+                        "id":"71344",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128160191",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/71344/BRENCLSMG16GA2125",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN HFLD GRN 20 2 3/4 5 | 4030128200170",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/112800.jpg",
+                        "available":"Out of Stock",
+                        "id":"8580",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128200170",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8580/BRENHFLDGRN202345",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN MG 20GA 3 Inch 5 | 4030128200279",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/A2115611.gif",
+                        "available":"Out of Stock",
+                        "id":"8615",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128200279",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8615/BRENMG20GA35",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN TACT HD 20GA 2 3/4 5 | 4030128200293",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/85100.jpg",
+                        "available":"Out of Stock",
+                        "id":"8579",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128200293",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8579/BRENTACTHD20GA2345",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN KO 20GA 2 3/4 5 | 4030128200989",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/A2009827.gif",
+                        "available":"Out of Stock",
+                        "id":"8581",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128200989",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8581/BRENKO20GA2345",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN MG CE 410 2 1/2 5 | 4030128211220",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/A2112252.gif",
+                        "available":"Out of Stock",
+                        "id":"8614",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128211220",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8614/BRENMGCE4102125",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN MG 28GA 2 3/4 5 | 4030128280127",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120162.jpg",
+                        "available":"Out of Stock",
+                        "id":"8768",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128280127",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8768/BRENMG28GA2345",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BREN MG 410GA 3 Inch 5 | 4030128360287",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/A2115638.gif",
+                        "available":"Out of Stock",
+                        "id":"8616",
+                        "brand":"BRENNEKE",
+                        "upc":"4030128360287",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Slug",
+                        "product_url":"/product/8616/BRENMG410GA35",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRENNEKE"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

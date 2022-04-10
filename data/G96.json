@@ -1,0 +1,189 @@
+
+        [
+            
+                    {
+                        "name":"G96 1055 Gun Treatment Spray Lubricant 4.5 oz | 029841105507",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BHPRODIMAGES/G96 1055.jpg",
+                        "available":"In Stock",
+                        "id":"102501",
+                        "brand":"G96",
+                        "upc":"029841105507",
+                        "price": 8.00,
+                        "Dept":"Supplies",
+                        "Typ":"",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/102501/G961055GunTreatmentSprayLubricant45oz",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"G96"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"G96 1055P Gun Treatment Spray Lubricant 12 oz | 029841105538",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BHPRODIMAGES/G96 1055P.jpg",
+                        "available":"Out of Stock",
+                        "id":"102502",
+                        "brand":"G96",
+                        "upc":"029841105538",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/102502/G961055PGunTreatmentSprayLubricant12oz",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"G96"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"G96 GUN BLUE CREAM GUN BLUE CREAM 3 OZ | 029841106405",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38478.jpg",
+                        "available":"Out of Stock",
+                        "id":"957",
+                        "brand":"G96",
+                        "upc":"029841106405",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/957/G96GUNBLUECREAMGUNBLUECREAM3OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"G96"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"G96 RFG GREASE IN SYRING 13 CC | 616774104303",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/1043.gif",
+                        "available":"In Stock",
+                        "id":"924",
+                        "brand":"G96",
+                        "upc":"616774104303",
+                        "price": 7.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Triggers",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/924/G96RFGGREASEINSYRING13CC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"G96"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"G96 LIQUID GUN GREASE 20Z | 616774106307",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1212619.jpg",
+                        "available":"In Stock",
+                        "id":"78536",
+                        "brand":"G96",
+                        "upc":"616774106307",
+                        "price":11.00,
+                        "Dept":"Accessories",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/78536/G96LIQUIDGUNGREASE20Z",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"G96"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"G96 FIREARM CLEANER DEGREASER | 616774108806",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/1088G96.gif",
+                        "available":"In Stock",
+                        "id":"1131",
+                        "brand":"G96",
+                        "upc":"616774108806",
+                        "price": 7.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Grips",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/1131/G96FIREARMCLEANERDEGREASER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"G96"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"G96 MILITARY GRADE BORE SOLVENT 16/OZ GLASS JAR | 616774110700",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BHPRODIMAGES/G96 1107.jpg",
+                        "available":"In Stock",
+                        "id":"102506",
+                        "brand":"G96",
+                        "upc":"616774110700",
+                        "price":27.00,
+                        "Dept":"Supplies",
+                        "Typ":"",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/102506/G96MILITARYGRADEBORESOLVENT16OZGLASSJAR",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"G96"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"G96 SYNTHETIC BIOCLP GUN OIL 4OZ | 616774205307",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1213283.jpg",
+                        "available":"Out of Stock",
+                        "id":"78619",
+                        "brand":"G96",
+                        "upc":"616774205307",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/78619/G96SYNTHETICBIOCLPGUNOIL4OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"G96"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

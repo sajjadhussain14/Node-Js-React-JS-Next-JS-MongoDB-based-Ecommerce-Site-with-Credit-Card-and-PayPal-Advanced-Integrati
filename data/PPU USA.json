@@ -1,0 +1,605 @@
+
+        [
+            
+                    {
+                        "name":"PPU 3006 BLANK M1999 15 | 8605003807124",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57107.jpg",
+                        "available":"Out of Stock",
+                        "id":"44541",
+                        "brand":"PPU USA",
+                        "upc":"8605003807124",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44541/PPU3006BLANKM199915",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 9X19 NATO 124 FMJ 50 | 8605003807353",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56216.jpg",
+                        "available":"Out of Stock",
+                        "id":"44307",
+                        "brand":"PPU USA",
+                        "upc":"8605003807353",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44307/PPU9X19NATO124FMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 243 WIN 100 SP 20 | 8605003812340",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56536.jpg",
+                        "available":"Out of Stock",
+                        "id":"44388",
+                        "brand":"PPU USA",
+                        "upc":"8605003812340",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44388/PPU243WIN100SP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 7MM RMG 174 PSP 20 | 8605003812685",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57025.jpg",
+                        "available":"Out of Stock",
+                        "id":"44488",
+                        "brand":"PPU USA",
+                        "upc":"8605003812685",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44488/PPU7MMRMG174PSP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 6.5X57 MAUSER 139 SP BT 2 | 8605003812739",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57030.jpg",
+                        "available":"Out of Stock",
+                        "id":"44493",
+                        "brand":"PPU USA",
+                        "upc":"8605003812739",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44493/PPU65X57MAUSER139SPBT2",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 7.92 KURZ 124 FMJ 20 | 8605003812906",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57047.jpg",
+                        "available":"Out of Stock",
+                        "id":"44508",
+                        "brand":"PPU USA",
+                        "upc":"8605003812906",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44508/PPU792KURZ124FMJ20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 8X57 IRS 196 SP 20 | 8605003812937",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120052.jpg",
+                        "available":"Out of Stock",
+                        "id":"267493",
+                        "brand":"PPU USA",
+                        "upc":"8605003812937",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/267493/PPU8X57IRS196SP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 8X50R LEBEL 200 FMJ 20 | 8605003812944",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/APP8L.jpg",
+                        "available":"Out of Stock",
+                        "id":"315575",
+                        "brand":"PPU USA",
+                        "upc":"8605003812944",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/315575/PPU8X50RLEBEL200FMJ20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 8X56R MANNLICHER 208FMJ 20 | 8605003812951",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/APP856F.jpg",
+                        "available":"Out of Stock",
+                        "id":"424529",
+                        "brand":"PPU USA",
+                        "upc":"8605003812951",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/424529/PPU8X56RMANNLICHER208FMJ20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 8.56R MANNLICHER 208 SP 20 | 8605003812968",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/APP856S.jpg",
+                        "available":"Out of Stock",
+                        "id":"424530",
+                        "brand":"PPU USA",
+                        "upc":"8605003812968",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/424530/PPU856RMANNLICHER208SP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 9.3X62 285 SP 20 | 8605003812975",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57050.jpg",
+                        "available":"Out of Stock",
+                        "id":"44511",
+                        "brand":"PPU USA",
+                        "upc":"8605003812975",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44511/PPU93X62285SP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 9.3X74R 285 SP 20 | 8605003812982",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57051.jpg",
+                        "available":"Out of Stock",
+                        "id":"44512",
+                        "brand":"PPU USA",
+                        "upc":"8605003812982",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44512/PPU93X74R285SP20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 357 MAG 158 FPJ 50 | 8605003813101",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57065.jpg",
+                        "available":"Out of Stock",
+                        "id":"44521",
+                        "brand":"PPU USA",
+                        "upc":"8605003813101",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44521/PPU357MAG158FPJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 5.56X45 M193 BAT PK 200 | 8605003813132",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56206.jpg",
+                        "available":"Out of Stock",
+                        "id":"44300",
+                        "brand":"PPU USA",
+                        "upc":"8605003813132",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44300/PPU556X45M193BATPK200",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 7.65 PARA 93 FMJ 50 | 8605003813231",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/57093.jpg",
+                        "available":"Out of Stock",
+                        "id":"44533",
+                        "brand":"PPU USA",
+                        "upc":"8605003813231",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44533/PPU765PARA93FMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 9MMBRWN LONG 108FMJ50 | 8605003813309",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131018.jpg",
+                        "available":"Out of Stock",
+                        "id":"438519",
+                        "brand":"PPU USA",
+                        "upc":"8605003813309",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/438519/PPU9MMBRWNLONG108FMJ50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 5.56X45 M855 BAT PK 200 | 8605003814658",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56209.jpg",
+                        "available":"Out of Stock",
+                        "id":"44303",
+                        "brand":"PPU USA",
+                        "upc":"8605003814658",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44303/PPU556X45M855BATPK200",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 7.62X51 M80 145 FMJ BT 20 | 8605003814696",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56210.jpg",
+                        "available":"Out of Stock",
+                        "id":"44304",
+                        "brand":"PPU USA",
+                        "upc":"8605003814696",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44304/PPU762X51M80145FMJBT20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 9X19 NATO 124 FMJ BPCK 200 | 8605003814719",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56219.jpg",
+                        "available":"Out of Stock",
+                        "id":"309448",
+                        "brand":"PPU USA",
+                        "upc":"8605003814719",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/309448/PPU9X19NATO124FMJBPCK200",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 7.62X51 M80 145 BAT PK 200 | 8605003814733",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56215.jpg",
+                        "available":"Out of Stock",
+                        "id":"44306",
+                        "brand":"PPU USA",
+                        "upc":"8605003814733",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44306/PPU762X51M80145BATPK200",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU MATCH .50BMG FMJ 725GR 5 | 8605003817017",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128265.jpg",
+                        "available":"Out of Stock",
+                        "id":"437104",
+                        "brand":"PPU USA",
+                        "upc":"8605003817017",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/437104/PPUMATCH50BMGFMJ725GR5",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU PPS76239 7.62X39 182FMJ | 8605003817437",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131017.jpg",
+                        "available":"Out of Stock",
+                        "id":"315576",
+                        "brand":"PPU USA",
+                        "upc":"8605003817437",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/315576/PPUPPS76239762X39182FMJ",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU 38 SPL 158 SWC HP 50 | 8605003817536",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120055.jpg",
+                        "available":"Out of Stock",
+                        "id":"267343",
+                        "brand":"PPU USA",
+                        "upc":"8605003817536",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/267343/PPU38SPL158SWCHP50",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU M33 .50BMG FMJ 625GR 5 | 8605003819653",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128263.jpg",
+                        "available":"Out of Stock",
+                        "id":"437151",
+                        "brand":"PPU USA",
+                        "upc":"8605003819653",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/437151/PPUM3350BMGFMJ625GR5",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PPU USA"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

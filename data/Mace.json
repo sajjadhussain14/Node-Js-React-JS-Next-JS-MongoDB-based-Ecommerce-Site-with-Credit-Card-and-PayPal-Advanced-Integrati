@@ -1,0 +1,730 @@
+
+        [
+            
+                    {
+                        "name":"MSI 80105 NYLON HOLSTER | 022188801057",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54966.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6880",
+                        "brand":"MACE",
+                        "upc":"022188801057",
+                        
+                        "price":10.68,
+                        "Dept":"Accessories",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6880/MSI80105NYLONHOLSTER",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MSI 80106 LEATHER HOLSTER | 022188801064",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/KRPRODIMAGES/MS-80106.png",
+                        "available":"Out of Stock",
+                        "id":"170102",
+                        "brand":"MACE",
+                        "upc":"022188801064",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/170102/MSI80106LEATHERHOLSTER",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE TRIPLE ACTION POLICE Old part  80112 | 022188801125",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/42813.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6882",
+                        "brand":"MACE",
+                        "upc":"022188801125",
+                        
+                        "price":12.99,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6882/MACETRIPLEACTIONPOLICEOldpart80112",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE TRIPLE ACTION POCKET Old part  80141 | 022188801361",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MSI80136_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"64472",
+                        "brand":"MACE",
+                        "upc":"022188801361",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/64472/MACETRIPLEACTIONPOCKETOldpart80141",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE TRIPLE ACTION PERSONAL Old part  80136 | 022188801415",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/42812.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6891",
+                        "brand":"MACE",
+                        "upc":"022188801415",
+                        
+                        "price":10.99,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6891/MACETRIPLEACTIONPERSONALOldpart80136",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Mace Muzzle K9 Attack Defense Spray  Personal Model | 022188801460",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/42801.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"40919",
+                        "brand":"MACE",
+                        "upc":"022188801460",
+                        
+                        "price":10.99,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/40919/MaceMuzzleK9AttackDefenseSprayPersonalModel",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE PERSONAL SPRAY BLACK Old part  80153 | 022188801538",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/42808.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6895",
+                        "brand":"MACE",
+                        "upc":"022188801538",
+                        
+                        "price":10.99,
+                        "Dept":"Safety Products",
+                        "Typ":"Pepper Sprays",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6895/MACEPERSONALSPRAYBLACKOldpart80153",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE POLICE PERSONAL SPRAY Old part  80170 | 022188801705",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MSI80170_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"64474",
+                        "brand":"MACE",
+                        "upc":"022188801705",
+                        
+                        "price":11.99,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/64474/MACEPOLICEPERSONALSPRAYOldpart80170",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE PEPPER GEL MAGNUM 4 Old part  80270 | 022188802702",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/37993.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6913",
+                        "brand":"MACE",
+                        "upc":"022188802702",
+                        
+                        "price":14.99,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6913/MACEPEPPERGELMAGNUM4Oldpart80270",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE PEPPER GEL MAGNUM 9 Old part  80272 | 022188802726",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/KRPRODIMAGES/MS-80272.png",
+                        "available":"In Stock Vendor",
+                        "id":"170107",
+                        "brand":"MACE",
+                        "upc":"022188802726",
+                        
+                        "price":37.74,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/170107/MACEPEPPERGELMAGNUM9Oldpart80272",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE ERGO STUN BLACK Old part  80323 | 022188803235",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/118786.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6914",
+                        "brand":"MACE",
+                        "upc":"022188803235",
+                        
+                        "price":27.99,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6914/MACEERGOSTUNBLACKOldpart80323",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE SPORT SPRAY PINK Old part  80328 | 022188803280",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/85862.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"50707",
+                        "brand":"MACE",
+                        "upc":"022188803280",
+                        
+                        "price":13.99,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/50707/MACESPORTSPRAYPINKOldpart80328",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MSI SPORT SPRAY BLACK Old part  80329 | 022188803297",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MSI80329_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6917",
+                        "brand":"MACE",
+                        "upc":"022188803297",
+                        
+                        "price":13.99,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6917/MSISPORTSPRAYBLACKOldpart80329",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MSI 80346 BEAR PEPPER | 022188803464",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54962.jpg",
+                        "available":"Out of Stock",
+                        "id":"6918",
+                        "brand":"MACE",
+                        "upc":"022188803464",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6918/MSI80346BEARPEPPER",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE PERSONAL SPRAY PINK Old part  80347 | 022188803471",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/63043.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"45751",
+                        "brand":"MACE",
+                        "upc":"022188803471",
+                        
+                        "price":11.99,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/45751/MACEPERSONALSPRAYPINKOldpart80347",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE NIGHT DEFENDER W/ LED Old part  80352 | 022188803525",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MSI80352_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"64479",
+                        "brand":"MACE",
+                        "upc":"022188803525",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/64479/MACENIGHTDEFENDERWLEDOldpart80352",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE POCKET SPRAY PINK Old part  80353 | 022188803532",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MSI80353_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6919",
+                        "brand":"MACE",
+                        "upc":"022188803532",
+                        
+                        "price":11.99,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6919/MACEPOCKETSPRAYPINKOldpart80353",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MSI BEAR SPRAY HOLSTER | 022188803648",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/KRPRODIMAGES/MS-80364.png",
+                        "available":"In Stock Vendor",
+                        "id":"170108",
+                        "brand":"MACE",
+                        "upc":"022188803648",
+                        
+                        "price": 7.86,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/170108/MSIBEARSPRAYHOLSTER",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MSI 80390 10 PF KEYCS11GR | 022188803907",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/58338.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6922",
+                        "brand":"MACE",
+                        "upc":"022188803907",
+                        
+                        "price": 8.99,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6922/MSI8039010PFKEYCS11GR",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Mace KeyGuard Pepper Spray  Black Hard Case | 022188803914",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/58339.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6923",
+                        "brand":"MACE",
+                        "upc":"022188803914",
+                        
+                        "price": 8.99,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6923/MaceKeyGuardPepperSprayBlackHardCase",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE PEPPER GUN 2.0 Old part  80406 | 022188804065",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/108968.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"59134",
+                        "brand":"MACE",
+                        "upc":"022188804065",
+                        
+                        "price":49.80,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/59134/MACEPEPPERGUN20Oldpart80406",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MSI OC PEPPER CARTRIDGE 2 PACK | 022188804218",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54965.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6928",
+                        "brand":"MACE",
+                        "upc":"022188804218",
+                        
+                        "price":12.12,
+                        "Dept":"Safety Products",
+                        "Typ":"Personal Defense",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6928/MSIOCPEPPERCARTRIDGE2PACK",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE 1 OC CART/ 1 WATER CART Old part  80422 | 022188804225",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MSI80422_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"64485",
+                        "brand":"MACE",
+                        "upc":"022188804225",
+                        
+                        "price":11.40,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/64485/MACE1OCCART1WATERCARTOldpart80422",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE PERSONAL ALARM BLK Old part  80457 | 022188804577",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/118784.jpg",
+                        "available":"Out of Stock",
+                        "id":"6935",
+                        "brand":"MACE",
+                        "upc":"022188804577",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6935/MACEPERSONALALARMBLKOldpart80457",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE PERSONAL ALARM RED Old part  80458 | 022188804584",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MSI80458_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"64486",
+                        "brand":"MACE",
+                        "upc":"022188804584",
+                        
+                        "price":10.68,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/64486/MACEPERSONALALARMREDOldpart80458",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE PEPPER GEL MAGNUM 3 Old part  80269 | 022188805352",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MSI80535_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"309702",
+                        "brand":"MACE",
+                        "upc":"022188805352",
+                        
+                        "price":13.56,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/309702/MACEPEPPERGELMAGNUM3Oldpart80269",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE POCKET SPRAY BLACK Old part  80332 | 022188807455",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/127770.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"309711",
+                        "brand":"MACE",
+                        "upc":"022188807455",
+                        
+                        "price":11.04,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/309711/MACEPOCKETSPRAYBLACKOldpart80332",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE COMPACT PINK SPRAY | 022188807875",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/127775.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"315442",
+                        "brand":"MACE",
+                        "upc":"022188807875",
+                        
+                        "price": 9.30,
+                        "Dept":"Safety Products",
+                        "Typ":"Pepper Sprays",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/315442/MACECOMPACTPINKSPRAY",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MACE ERGO STUN PINK Old part  80324 | 022188808148",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/127786.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"425249",
+                        "brand":"MACE",
+                        "upc":"022188808148",
+                        
+                        "price":24.90,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/425249/MACEERGOSTUNPINKOldpart80324",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

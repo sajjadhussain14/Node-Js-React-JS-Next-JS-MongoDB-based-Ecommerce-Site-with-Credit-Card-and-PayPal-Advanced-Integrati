@@ -1,0 +1,75 @@
+
+        [
+            
+                    {
+                        "name":"Uncle Mikes Deluxe 52 Inch Shotgun Case | 638003224316",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73884.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"3315",
+                        "brand":"UNCLE MIKES",
+                        "upc":"638003224316",
+                        
+                        "price":13.38,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cases",
+                        "SUBTYP_1":"Rifle Cases",
+                        "product_url":"/product/3315/UncleMikesDeluxe52ShotgunCase",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"UNCLE MIKES"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 4PSTL RANGE BAG | 764503911613",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/835.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"31444",
+                        "brand":"GLOCK",
+                        "upc":"764503911613",
+                        
+                        "price":34.92,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cases",
+                        "SUBTYP_1":"Rifle Cases",
+                        "product_url":"/product/31444/GLOCK4PSTLRANGEBAG",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

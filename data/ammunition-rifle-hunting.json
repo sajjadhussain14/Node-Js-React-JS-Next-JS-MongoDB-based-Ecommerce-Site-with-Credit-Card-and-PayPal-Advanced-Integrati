@@ -1,0 +1,1160 @@
+
+        [
+            
+                    {
+                        "name":"WINCHESTER X223R2 64 PP 20 | 020892202122",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/65936.jpg",
+                        "available":"Out of Stock",
+                        "id":"11039",
+                        "brand":"WINCHESTER",
+                        "upc":"020892202122",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/11039/WINCHESTERX223R264PP20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WINCHESTER USA2232 45 JHP 40 | 020892212411",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/67772.jpg",
+                        "available":"Out of Stock",
+                        "id":"10854",
+                        "brand":"WINCHESTER",
+                        "upc":"020892212411",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/10854/WINCHESTERUSA223245JHP40",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WINCHESTER W223K 223 55 FMJ 20 | 020892213111",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/65942.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"46799",
+                        "brand":"WINCHESTER",
+                        "upc":"020892213111",
+                        
+                        "price":13.62,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/46799/WINCHESTERW223K22355FMJ20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WINCHESTER SBST223B 55 20 | 020892213906",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/68027.jpg",
+                        "available":"Out of Stock",
+                        "id":"10684",
+                        "brand":"WINCHESTER",
+                        "upc":"020892213906",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/10684/WINCHESTERSBST223B5520",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WINCHESTER X223P1 40 VXPT 20 | 020892219953",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/84060.jpg",
+                        "available":"Out of Stock",
+                        "id":"11037",
+                        "brand":"WINCHESTER",
+                        "upc":"020892219953",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/11037/WINCHESTERX223P140VXPT20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WINCHESTER X223P 55 VXPT 20 | 020892219977",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/84059.jpg",
+                        "available":"Out of Stock",
+                        "id":"11036",
+                        "brand":"WINCHESTER",
+                        "upc":"020892219977",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/11036/WINCHESTERX223P55VXPT20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Winchester Match Rifle Ammunition .223 Rem 69 gr BTHP 20/Box | 020892220157",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/89157.jpg",
+                        "available":"Out of Stock",
+                        "id":"10558",
+                        "brand":"WINCHESTER",
+                        "upc":"020892220157",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/10558/WinchesterMatchRifleAmmunition223Rem69grBTHP20Box",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WINCHESTER X223DS 64 EPTPT 20 | 020892223080",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/22373.jpg",
+                        "available":"Out of Stock",
+                        "id":"35445",
+                        "brand":"WINCHESTER",
+                        "upc":"020892223080",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/35445/WINCHESTERX223DS64EPTPT20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WINCHESTER W2231000 223 55 FMJ 1000 | 020892225060",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/46630.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"41937",
+                        "brand":"WINCHESTER",
+                        "upc":"020892225060",
+                        
+                        "price":651.48,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/41937/WINCHESTERW223100022355FMJ1000",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WINCHESTER WM855K 5.56 62GR FMJ 20 | 020892228474",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/129082.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"424481",
+                        "brand":"WINCHESTER",
+                        "upc":"020892228474",
+                        
+                        "price":14.28,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/424481/WINCHESTERWM855K55662GRFMJ20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WINCHESTER WM855200 5.56 62GR FMJ 200 | 020892228641",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/129083.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"424482",
+                        "brand":"WINCHESTER",
+                        "upc":"020892228641",
+                        
+                        "price":139.86,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/424482/WINCHESTERWM85520055662GRFMJ200",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Winchester USA Lake City M855 Rifle Ammunition 5.56mm 62gr Green Tip 3060 fps 420/ct Ammo Can | 020892229242",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/138134.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"450958",
+                        "brand":"WINCHESTER",
+                        "upc":"020892229242",
+                        
+                        "price":401.88,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/450958/WinchesterUSALakeCityM855RifleAmmunition556mm62grGreenTip3060fps420ctAmmoCan",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WINCHESTER WM80 7.62x51 149GR FMJ 20 | 020892229716",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/129086.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"424480",
+                        "brand":"WINCHESTER",
+                        "upc":"020892229716",
+                        
+                        "price":24.60,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/424480/WINCHESTERWM80762x51149GRFMJ20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WINCHESTER W223ST 223 64GR DT 20 | 020892229877",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/132175.jpg",
+                        "available":"Out of Stock",
+                        "id":"438210",
+                        "brand":"WINCHESTER",
+                        "upc":"020892229877",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/438210/WINCHESTERW223ST22364GRDT20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Winchester M118 Long Range Rifle Ammunition 7.62x51mm 175gr BTHP 20/ct | 020892230538",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/133693.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"452103",
+                        "brand":"WINCHESTER",
+                        "upc":"020892230538",
+                        
+                        "price":56.52,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/452103/WinchesterM118LongRangeRifleAmmunition762x51mm175grBTHP20ct",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WINCHESTER VALOR 5.56 62GR FMJ 125 | 020892230798",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/137724.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"485036",
+                        "brand":"WINCHESTER",
+                        "upc":"020892230798",
+                        
+                        "price":105.78,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/485036/WINCHESTERVALOR55662GRFMJ125",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Federal Premium CapeShok Rifle Ammunition .458 Win Mag 500 gr SAF 2090 fps  20/box | 029465061210",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/63662.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"45954",
+                        "brand":"FEDERAL/VISTA",
+                        "upc":"029465061210",
+                        
+                        "price":150.36,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/45954/FederalPremiumCapeShokRifleAmmunition458WinMag500grSAF2090fps20box",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FEDERAL/VISTA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Federal American Eagle Rifle Ammunition .308 Win 150 gr FMJBT 2820 fps  20/box | 029465085339",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/65970.jpg",
+                        "available":"Out of Stock",
+                        "id":"46820",
+                        "brand":"FEDERAL/VISTA",
+                        "upc":"029465085339",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/46820/FederalAmericanEagleRifleAmmunition308Win150grFMJBT2820fps20box",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FEDERAL/VISTA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Federal Premium Gold Medal Sierra MatchKing Rifle Ammunition .223 Rem 69 gr BTHP 2950 fps  20/box | 029465089320",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/67120.jpg",
+                        "available":"Out of Stock",
+                        "id":"9652",
+                        "brand":"FEDERAL/VISTA",
+                        "upc":"029465089320",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/9652/FederalPremiumGoldMedalSierraMatchKingRifleAmmunition223Rem69grBTHP2950fps20box",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FEDERAL/VISTA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Federal Premium CapeShok Rifle Ammunition .458 Win Mag 500 gr TBSS 1950 fps  20/box | 029465089566",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/67151.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"47063",
+                        "brand":"FEDERAL/VISTA",
+                        "upc":"029465089566",
+                        
+                        "price":164.82,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/47063/FederalPremiumCapeShokRifleAmmunition458WinMag500grTBSS1950fps20box",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FEDERAL/VISTA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Federal American Eagle Rifle Ammunition .223 Rem 50 gr JHP 3325 fps 20/ct | 029465091026",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/67320.jpg",
+                        "available":"Out of Stock",
+                        "id":"47114",
+                        "brand":"FEDERAL/VISTA",
+                        "upc":"029465091026",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/47114/FederalAmericanEagleRifleAmmunition223Rem50grJHP3325fps20ct",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FEDERAL/VISTA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Remington Premier Match Rifle Ammunition .223 Rem 62 gr HP 3025 fps  20/box | 047700173405",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56114.jpg",
+                        "available":"Out of Stock",
+                        "id":"44251",
+                        "brand":"REMINGTON",
+                        "upc":"047700173405",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/44251/RemingtonPremierMatchRifleAmmunition223Rem62grHP3025fps20box",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"REMINGTON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"REMINGTON UMC 223REM 45GR JHP 200 | 047700364506",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/15936.jpg",
+                        "available":"Out of Stock",
+                        "id":"34457",
+                        "brand":"REMINGTON",
+                        "upc":"047700364506",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/34457/REMINGTONUMC223REM45GRJHP200",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"REMINGTON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Remington Premier AccuTip Rifle Ammunition .223 Rem 55 gr ATV 3240 fps  20/box | 047700381701",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56169.jpg",
+                        "available":"Out of Stock",
+                        "id":"10401",
+                        "brand":"REMINGTON",
+                        "upc":"047700381701",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/10401/RemingtonPremierAccuTipRifleAmmunition223Rem55grATV3240fps20box",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"REMINGTON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HR 8232 375 RUG 300 DGS 20 | 090255382327",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/42206.jpg",
+                        "available":"Out of Stock",
+                        "id":"9841",
+                        "brand":"HORNADY",
+                        "upc":"090255382327",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/9841/HR8232375RUG300DGS20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HORNADY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HR SO 8269 500N 570DGS 20 SEASONAL | 090255382693",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/52475.jpg",
+                        "available":"Out of Stock",
+                        "id":"43401",
+                        "brand":"HORNADY",
+                        "upc":"090255382693",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/43401/HRSO8269500N570DGS20SEASONAL",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HORNADY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HR SO MATCH 50BMG 750AMAX 10 | 090255382709",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56792.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"9851",
+                        "brand":"HORNADY",
+                        "upc":"090255382709",
+                        
+                        "price":77.76,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/9851/HRSOMATCH50BMG750AMAX10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HORNADY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HR SO 8585 458WIN 500DGS20 SEASONAL | 090255385854",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/87696.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"51089",
+                        "brand":"HORNADY",
+                        "upc":"090255385854",
+                        
+                        "price":130.32,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/51089/HRSO8585458WIN500DGS20SEASONAL",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HORNADY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HR MATCH 6MM CRDM 108ELD 20 | 090255813913",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/22919.jpg",
+                        "available":"Out of Stock",
+                        "id":"9770",
+                        "brand":"HORNADY",
+                        "upc":"090255813913",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/9770/HRMATCH6MMCRDM108ELD20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HORNADY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HR VE 6MMCRDM 87VMAX 20 | 090255813937",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/50599.jpg",
+                        "available":"Out of Stock",
+                        "id":"9772",
+                        "brand":"HORNADY",
+                        "upc":"090255813937",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/9772/HRVE6MMCRDM87VMAX20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HORNADY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HR 82322 375HH 300DGS 20 | 090255823226",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/52465.jpg",
+                        "available":"Out of Stock",
+                        "id":"43397",
+                        "brand":"HORNADY",
+                        "upc":"090255823226",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/43397/HR82322375HH300DGS20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HORNADY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Aguila Rifle Ammunition 7.62x51mm 150 gr FMJBT 2750 fps 20/ct | 640420003252",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/96110.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"8578",
+                        "brand":"TXAT  DBA AGUILA AMMUNITION",
+                        "upc":"640420003252",
+                        
+                        "price":22.62,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/8578/AguilaRifleAmmunition762x51mm150grFMJBT2750fps20ct",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TXAT  DBA AGUILA AMMUNITION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Aguila Rifle Ammunition .308 Win 150 gr FMJBT 2750 fps 20/ct | 640420003306",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/44462.jpg",
+                        "available":"Out of Stock",
+                        "id":"8572",
+                        "brand":"TXAT  DBA AGUILA AMMUNITION",
+                        "upc":"640420003306",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/8572/AguilaRifleAmmunition308Win150grFMJBT2750fps20ct",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TXAT  DBA AGUILA AMMUNITION"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

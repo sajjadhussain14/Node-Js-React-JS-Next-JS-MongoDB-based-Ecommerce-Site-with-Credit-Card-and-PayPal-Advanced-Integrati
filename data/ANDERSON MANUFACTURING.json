@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"AR15 BUFFER DETENT SPRING | 6.618E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/AMAM19.jpg",
+                        "available":"Out of Stock",
+                        "id":"257488",
+                        "brand":"ANDERSON MANUFACTURING",
+                        "upc":"6.618E+11",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/257488/AR15BUFFERDETENTSPRING",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ANDERSON MANUFACTURING"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AR15 CARBINE LENGTH BUFFER MILLSPEC | 6.62909E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/AMAM17CAR.jpg",
+                        "available":"Out of Stock",
+                        "id":"257487",
+                        "brand":"ANDERSON MANUFACTURING",
+                        "upc":"6.62909E+11",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/257487/AR15CARBINELENGTHBUFFERMILLSPEC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ANDERSON MANUFACTURING"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

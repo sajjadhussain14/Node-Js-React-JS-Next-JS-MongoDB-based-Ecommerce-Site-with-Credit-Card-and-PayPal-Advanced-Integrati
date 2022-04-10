@@ -1,0 +1,143 @@
+
+        [
+            
+                    {
+                        "name":"RWS 2317378 Superdome Pellets .177 Pellet Lead 500 | 723364174063",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16003.jpg",
+                        "available":"In Stock",
+                        "id":"3443",
+                        "brand":"RWS",
+                        "upc":"723364174063",
+                        "price": 6.00,
+                        "Dept":"Air Guns",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/3443/RWS2317378SuperdomePellets177PelletLead500",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"RWS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UMAREX LEGENDS M1A1 RIFLE | 723364518201",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/KNPRODIMAGES/1703592_1.jpg",
+                        "available":"In Stock",
+                        "id":"308610",
+                        "brand":"RWS",
+                        "upc":"723364518201",
+                        "price":207.00,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/308610/UMAREXLEGENDSM1A1RIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"RWS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UMX GLK 17 GEN4 BLOWBACK .177BB | 723364552021",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/KNPRODIMAGES/1703555_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"78963",
+                        "brand":"RWS",
+                        "upc":"723364552021",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/78963/UMXGLK17GEN4BLOWBACK177BB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"RWS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RWS Air Pistol 2255208 Glock 17 Gen3 CO2 177 BB 18rd Black Frame Black Polymer Grip | 723364552083",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/118335.jpg",
+                        "available":"Out of Stock",
+                        "id":"78962",
+                        "brand":"RWS",
+                        "upc":"723364552083",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/78962/RWSAirPistol2255208Glock17Gen3CO2177BB18rdBlackFrameBlackPolymerGrip",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"RWS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UMX T4E 50 CAL RUBBER BALL 10 CT | 723364923005",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BNPRODIMAGES/53760.jpg",
+                        "available":"Out of Stock",
+                        "id":"423547",
+                        "brand":"RWS",
+                        "upc":"723364923005",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/423547/UMXT4E50CALRUBBERBALL10CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"RWS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UMA 2292301 T4E BY P2P PEPPERBALLS RED/WHITE 10CT | 723364923012",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/127484.jpg",
+                        "available":"Out of Stock",
+                        "id":"423548",
+                        "brand":"RWS",
+                        "upc":"723364923012",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/423548/UMA2292301T4EBYP2PPEPPERBALLSREDWHITE10CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"RWS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,557 @@
+
+        [
+            
+                    {
+                        "name":"COLT KING COBRA 357 MAG HGR 3IN BBL SS | 098289001283",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/109307.jpg",
+                        "available":"Out of Stock",
+                        "id":"70578",
+                        "brand":"COLTMFG",
+                        "upc":"098289001283",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/70578/COLTKINGCOBRA357MAGHGR3INBBLSS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Colt Mfg SM2FO Cobra CA Compliant 38 Special 6 Round 2 Inch Stainless Steel Black Hogue Rubber Grip | 098289007094",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24996.jpg",
+                        "available":"Out of Stock",
+                        "id":"18615",
+                        "brand":"COLTMFG",
+                        "upc":"098289007094",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/18615/ColtMfgSM2FOCobraCACompliant38Special6Round2StainlessSteelBlackHogueRubberGrip",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COLT NIGHT COBRA HGR 38SPLP 2IN BBL MATTE BLACK DLC | 098289007117",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/102839.jpg",
+                        "available":"Out of Stock",
+                        "id":"18613",
+                        "brand":"COLTMFG",
+                        "upc":"098289007117",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/18613/COLTNIGHTCOBRAHGR38SPLP2INBBLMATTEBLACKDLC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Colt Mfg COBRASS2BB Cobra Bright Cobra Revolver Double 38 Special 2 Inch 6 Rd Black Composite Grip Mirror Polished Stainless Steel | 098289007148",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104952.jpg",
+                        "available":"Out of Stock",
+                        "id":"56983",
+                        "brand":"COLTMFG",
+                        "upc":"098289007148",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/56983/ColtMfgCOBRASS2BBCobraBrightCobraRevolverDouble38Special26RdBlackCompositeGripMirrorPolishedStainlessSteel",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Colt Mfg O1991 1911 1991 Government 45 ACP 5 Inch 71 Blued Carbon Steel Rosewood Grip | 098289011176",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36291.jpg",
+                        "available":"Out of Stock",
+                        "id":"14457",
+                        "brand":"COLTMFG",
+                        "upc":"098289011176",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14457/ColtMfgO199119111991Government45ACP571BluedCarbonSteelRosewoodGrip",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COLT MODEL O MUSTANG POCKETLITE HGA 380ACP 2.75IN BBL ANODIZESTAINLESS | 098289015112",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36288.jpg",
+                        "available":"Out of Stock",
+                        "id":"14976",
+                        "brand":"COLTMFG",
+                        "upc":"098289015112",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14976/COLTMODELOMUSTANGPOCKETLITEHGA380ACP275INBBLANODIZESTAINLESS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COLT MODEL O MUSTANG LITE HGA 380ACP 2.75IN BBL MATTE BLACKSTAINLESS | 098289015365",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/95518.jpg",
+                        "available":"Out of Stock",
+                        "id":"14975",
+                        "brand":"COLTMFG",
+                        "upc":"098289015365",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14975/COLTMODELOMUSTANGLITEHGA380ACP275INBBLMATTEBLACKSTAINLESS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Colt Mfg O1970A1CS 1911 Government Series 70 45 ACP Single 5 Inch 71 Rosewood Grip Blued Carbon Steel Slide | 098289041364",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36102.jpg",
+                        "available":"Out of Stock",
+                        "id":"14448",
+                        "brand":"COLTMFG",
+                        "upc":"098289041364",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14448/ColtMfgO1970A1CS1911GovernmentSeries7045ACPSingle571RosewoodGripBluedCarbonSteelSlide",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COLT MODEL O RAIL GUN HGA 45ACP 5IN BBL SS WHITE DOT CARRY NOVAK SIGHTS | 098289042088",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60672.jpg",
+                        "available":"Out of Stock",
+                        "id":"14154",
+                        "brand":"COLTMFG",
+                        "upc":"098289042088",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14154/COLTMODELORAILGUNHGA45ACP5INBBLSSWHITEDOTCARRYNOVAKSIGHTS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COLT MODEL O M45A1 HGA 45ACP 5IN BBL FDE WHITE DOT CARRY NOVAK SIGHTS | 098289042644",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/93099.jpg",
+                        "available":"Out of Stock",
+                        "id":"14153",
+                        "brand":"COLTMFG",
+                        "upc":"098289042644",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14153/COLTMODELOM45A1HGA45ACP5INBBLFDEWHITEDOTCARRYNOVAKSIGHTS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Colt Mfg O5870A1 1911 Gold Cup National Match Series 70 45 ACP 5 Inch 81 Blued Carbon Steel Walnut w/Gold Medallion Grip | 098289042927",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/95532.jpg",
+                        "available":"Out of Stock",
+                        "id":"14933",
+                        "brand":"COLTMFG",
+                        "upc":"098289042927",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14933/ColtMfgO5870A11911GoldCupNationalMatchSeries7045ACP581BluedCarbonSteelWalnutwGoldMedallionGrip",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Colt Mfg O4840XE 1911 Lightweight Commander 45 ACP 4.25 Inch 81 Blued Carbon Steel Black Cherry Checkered G10 Grip | 098289111050",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/4239.jpg",
+                        "available":"Out of Stock",
+                        "id":"14852",
+                        "brand":"COLTMFG",
+                        "upc":"098289111050",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14852/ColtMfgO4840XE1911LightweightCommander45ACP42581BluedCarbonSteelBlackCherryCheckeredG10Grip",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Colt Mfg O2020XE 1911 Delta Elite 10mm Auto 5 Inch 81 Stainless Steel Black Polymer Delta Medallion Grip | 098289111159",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/17863.jpg",
+                        "available":"Out of Stock",
+                        "id":"14473",
+                        "brand":"COLTMFG",
+                        "upc":"098289111159",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14473/ColtMfgO2020XE1911DeltaElite10mmAuto581StainlessSteelBlackPolymerDeltaMedallionGrip",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COLT MODEL O DEFENDER  HGA 45ACP 3IN BBL ANODIZEBLUED NOVAK NIGHT SIGHTS | 098289111180",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/19162.jpg",
+                        "available":"Out of Stock",
+                        "id":"14979",
+                        "brand":"COLTMFG",
+                        "upc":"098289111180",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14979/COLTMODELODEFENDERHGA45ACP3INBBLANODIZEBLUEDNOVAKNIGHTSIGHTS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Colt Mfg O5070XE 1911 Gold Cup Trophy 45 ACP 5 Inch 81 Stainless Steel Blue G10 w/Logo Grip | 098289111210",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/25027.jpg",
+                        "available":"Out of Stock",
+                        "id":"14859",
+                        "brand":"COLTMFG",
+                        "upc":"098289111210",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14859/ColtMfgO5070XE1911GoldCupTrophy45ACP581StainlessSteelBlueG10wLogoGrip",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COLT MODEL O COMBAT COMMANDER  HGA 9MM 4.5IN BBL BLUED WDCN SIGHTS | 098289111357",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/25081.jpg",
+                        "available":"Out of Stock",
+                        "id":"14856",
+                        "brand":"COLTMFG",
+                        "upc":"098289111357",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14856/COLTMODELOCOMBATCOMMANDERHGA9MM45INBBLBLUEDWDCNSIGHTS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Colt Mfg O4940XE 1911 Combat Commander 45 ACP 4.25 Inch 81 Blued Carbon Steel Black Cherry G10 Grip | 098289111364",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/25080.jpg",
+                        "available":"Out of Stock",
+                        "id":"14855",
+                        "brand":"COLTMFG",
+                        "upc":"098289111364",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14855/ColtMfgO4940XE1911CombatCommander45ACP42581BluedCarbonSteelBlackCherryG10Grip",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COLT MODEL O DELTA ELITE RAIL  HGA 10MM 5IN BBL SS WHITE DOT CARRY NOVAK SIGHTS | 098289111388",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24999.jpg",
+                        "available":"Out of Stock",
+                        "id":"14472",
+                        "brand":"COLTMFG",
+                        "upc":"098289111388",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14472/COLTMODELODELTAELITERAILHGA10MM5INBBLSSWHITEDOTCARRYNOVAKSIGHTS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COLT MODEL O COMPETITION SERIES GOVERNMENT HGA 45ACP 5IN BBL SS FOA SIGHTS | 098289111449",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/35126.jpg",
+                        "available":"Out of Stock",
+                        "id":"20070",
+                        "brand":"COLTMFG",
+                        "upc":"098289111449",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/20070/COLTMODELOCOMPETITIONSERIESGOVERNMENTHGA45ACP5INBBLSSFOASIGHTS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COLT MODEL O COMPETITION SERIES GOVERNMENT HGA 45ACP 5IN BBL BLUED FOA SIGHTS | 098289111470",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/35129.jpg",
+                        "available":"Out of Stock",
+                        "id":"20083",
+                        "brand":"COLTMFG",
+                        "upc":"098289111470",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/20083/COLTMODELOCOMPETITIONSERIESGOVERNMENTHGA45ACP5INBBLBLUEDFOASIGHTS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Colt Mfg O5070GCL Gold Cup Lite 45 ACP 5 Inch 81 Stainless Steel Blue G10 Checkered w/Scallop Grip | 098289111883",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104959.jpg",
+                        "available":"Out of Stock",
+                        "id":"20091",
+                        "brand":"COLTMFG",
+                        "upc":"098289111883",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/20091/ColtMfgO5070GCLGoldCupLite45ACP581StainlessSteelBlueG10CheckeredwScallopGrip",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COLT MODEL O COMBAT ELITE SERIES GOVERNMENT HGA 45ACP 5IN BBL TT ELITE NNS SIGHTS | 098289111890",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104953.jpg",
+                        "available":"Out of Stock",
+                        "id":"20073",
+                        "brand":"COLTMFG",
+                        "upc":"098289111890",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/20073/COLTMODELOCOMBATELITESERIESGOVERNMENTHGA45ACP5INBBLTTELITENNSSIGHTS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Colt AR15 223 Remington/5.56 NATO 30 rd Black Finish | 098289900081",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36076.jpg",
+                        "available":"Out of Stock",
+                        "id":"39498",
+                        "brand":"COLTMFG",
+                        "upc":"098289900081",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/39498/ColtAR15223Remington556NATO30rdBlackFinish",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Colt Mfg AR15 223 Rem/5.56 NATO 20rd Black Finish | 098289900098",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/76655.jpg",
+                        "available":"Out of Stock",
+                        "id":"48656",
+                        "brand":"COLTMFG",
+                        "upc":"098289900098",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48656/ColtMfgAR15223Rem556NATO20rdBlackFinish",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"COLTMFG"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,30 @@
+
+        [
+            
+                    {
+                        "name":"RABBIT IN DISTRESS CALL | 029057346114",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/115970.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"31695",
+                        "brand":"DUELL",
+                        "upc":"029057346114",
+                        
+                        "price":2327.50,
+                        "Dept":"Supplies",
+                        "Typ":"Targets",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/31695/RABBITINDISTRESSCALL",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"DUELL"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

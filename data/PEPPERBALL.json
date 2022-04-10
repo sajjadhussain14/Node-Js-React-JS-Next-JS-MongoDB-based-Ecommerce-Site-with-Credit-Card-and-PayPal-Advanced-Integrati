@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"UTS/PEPPERBALL 490010166 LifeLite Rechargeable Battery Kit Rechargeable CR123 | 849176001660",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/114726.jpg",
+                        "available":"In Stock",
+                        "id":"250948",
+                        "brand":"PEPPERBALL",
+                        "upc":"849176001660",
+                        "price":19.00,
+                        "Dept":"Accessories",
+                        "Typ":"Lights Lasers Batteries",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/250948/UTSPEPPERBALL490010166LifeLiteRechargeableBatteryKitRechargeableCR123",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PEPPERBALL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PEPPERBALL LIFELITE REFILL KIT | 849176001783",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/114724.jpg",
+                        "available":"In Stock",
+                        "id":"250975",
+                        "brand":"PEPPERBALL",
+                        "upc":"849176001783",
+                        "price":24.00,
+                        "Dept":"Safety Products",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/250975/PEPPERBALLLIFELITEREFILLKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PEPPERBALL"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

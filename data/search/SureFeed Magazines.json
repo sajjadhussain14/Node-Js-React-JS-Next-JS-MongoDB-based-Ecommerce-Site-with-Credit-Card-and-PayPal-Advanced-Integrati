@@ -1,0 +1,80 @@
+
+        [
+            
+                    {
+                        "name":"SI ENH MAGAZINE PLATE FOR PM  SIEMP5FDE | 700598351026 | STRIKE INDUSTRIES | Gun Parts | Magazines | EMPTY",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/126726.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"436799",
+                        "brand":"STRIKE INDUSTRIES",
+                        "upc":"700598351026",
+                        
+                        "price":10.95,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/436799/SIENHMAGAZINEPLATEFORPMSIEMP5FDE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STRIKE INDUSTRIES"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD XD MAGAZINE LOADER  XD3510ML | 706397865672 | SPRINGFIELD | Hunting | Magazines | Speedloaders",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32579.jpg",
+                        "available":"Out of Stock",
+                        "id":"38369",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397865672",
+                        
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/38369/SPRINGFIELDXDMAGAZINELOADERXD3510ML",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SI GLOCK 19 MAGAZINE PLATE  SIEMPG19 | 793811763348 | STRIKE INDUSTRIES | Gun Parts | Magazines | EMPTY",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/126727.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"426463",
+                        "brand":"STRIKE INDUSTRIES",
+                        "upc":"793811763348",
+                        
+                        "price":14.95,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/426463/SIGLOCK19MAGAZINEPLATESIEMPG19",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STRIKE INDUSTRIES"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,373 @@
+
+        [
+            
+                    {
+                        "name":"POINTED PELLET .177 CALIBER 7.4 GRAIN 250 COUNT | 028478017719",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39012.jpg",
+                        "available":"Out of Stock",
+                        "id":"25660",
+                        "brand":"CROSMAN",
+                        "upc":"028478017719",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25660/POINTEDPELLET177CALIBER74GRAIN250COUNT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CO2 POWERLETS 12 GRAM / 5 PACK | 028478023123",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39016.jpg",
+                        "available":"Out of Stock",
+                        "id":"3450",
+                        "brand":"CROSMAN",
+                        "upc":"028478023123",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/3450/CO2POWERLETS12GRAM5PACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COPPERHEAD .177 COPPER COATED 5.3GR BB 2500 COUNT | 028478074705",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39033.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"40217",
+                        "brand":"CROSMAN",
+                        "upc":"028478074705",
+                        "price": 4.31,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/40217/COPPERHEAD177COPPERCOATED53GRBB2500COUNT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"760 PUMPMASTER AIR RIFLE.177 BLK | 028478076013",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39004.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"40194",
+                        "brand":"CROSMAN",
+                        "upc":"028478076013",
+                        "price":41.51,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/40194/760PUMPMASTERAIRRIFLE177BLK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"760 PUMPMASTER PINK  BOLT ACTION VARIABLE PUMP RIFLE  0.177 CAL | 028478129610",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/53646.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"43763",
+                        "brand":"CROSMAN",
+                        "upc":"028478129610",
+                        "price":42.71,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/43763/760PUMPMASTERPINKBOLTACTIONVARIABLEPUMPRIFLE0177CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HIGH PRESSURE HAND PUMP 3000 PSI 3 STAGE PUMP | 028478132061",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/76604.jpg",
+                        "available":"Out of Stock",
+                        "id":"21970",
+                        "brand":"CROSMAN",
+                        "upc":"028478132061",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Crossbow Accessories",
+                        "SUBTYP_1":"Cocking Devices",
+                        "product_url":"/product/21970/HIGHPRESSUREHANDPUMP3000PSI3STAGEPUMP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"POWERSHOT GOLD FLIGHT PENETRATOR GOLD .177 CALIBER 8.5 GRAIN 125 COUNT | 028478137240",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/80719.jpg",
+                        "available":"Out of Stock",
+                        "id":"22851",
+                        "brand":"CROSMAN",
+                        "upc":"028478137240",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/22851/POWERSHOTGOLDFLIGHTPENETRATORGOLD177CALIBER85GRAIN125COUNT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LEADFREE PELLETS .22 100CT 16.7 | 028478137257",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/80720.jpg",
+                        "available":"Out of Stock",
+                        "id":"22852",
+                        "brand":"CROSMAN",
+                        "upc":"028478137257",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/22852/LEADFREEPELLETS22100CT167",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PIONEER AIRBOW BLK PCP POWERED W/REALTREE AP CAMO DECALS  6X40 SCOPE | 028478148772",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8799.jpg",
+                        "available":"Out of Stock",
+                        "id":"11511",
+                        "brand":"CROSMAN",
+                        "upc":"028478148772",
+                        "price":null,
+                        "Dept":"Archery",
+                        "Typ":"Bows and Crossbows",
+                        "SUBTYP_1":"Crossbows",
+                        "product_url":"/product/11511/PIONEERAIRBOWBLKPCPPOWEREDWREALTREEAPCAMODECALS6X40SCOPE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AIRBOW 6PACK PURE CARBON ARROWS | 028478149250",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8800.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"9293",
+                        "brand":"CROSMAN",
+                        "upc":"028478149250",
+                        "price":72.95,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Crossbows",
+                        "product_url":"/product/9293/AIRBOW6PACKPURECARBONARROWS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DPMS SBR FULL AUTO BLK  CO2 POWERED FULL AUTO BB AIR RIFLE | 028478150676",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110289.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"61035",
+                        "brand":"CROSMAN",
+                        "upc":"028478150676",
+                        "price":182.15,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/61035/DPMSSBRFULLAUTOBLKCO2POWEREDFULLAUTOBBAIRRIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WADCUTTER PELLET .177 CALIBER 7.4 GRAIN 250 COUNT | 028478617704",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39036.jpg",
+                        "available":"Out of Stock",
+                        "id":"5965",
+                        "brand":"CROSMAN",
+                        "upc":"028478617704",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/5965/WADCUTTERPELLET177CALIBER74GRAIN250COUNT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"POINTED PELLET .177 CALIBER 7.4 GRAIN 1250 COUNT | 28478125025",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CKP1250.jpg",
+                        "available":"Out of Stock",
+                        "id":"259347",
+                        "brand":"CROSMAN",
+                        "upc":"28478125025",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259347/POINTEDPELLET177CALIBER74GRAIN1250COUNT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"POWERSHOT FAST FLIGHT PENETRATOR ORANGE .177 CALIBER 5.4 GRAIN 150 COUNT | 28478137226",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CKLF1754.jpg",
+                        "available":"Out of Stock",
+                        "id":"259346",
+                        "brand":"CROSMAN",
+                        "upc":"28478137226",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259346/POWERSHOTFASTFLIGHTPENETRATORORANGE177CALIBER54GRAIN150COUNT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL ALL WEATHER .177 W/SCPE | 28478139954",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CK30131.jpg",
+                        "available":"Out of Stock",
+                        "id":"259331",
+                        "brand":"CROSMAN",
+                        "upc":"28478139954",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259331/TACTICALALLWEATHER177WSCPE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WADCUTTER PELLET .177 CALIBER 7.4 GRAIN 1250 COUNT | 28478712508",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/CK71250.jpg",
+                        "available":"Out of Stock",
+                        "id":"259333",
+                        "brand":"CROSMAN",
+                        "upc":"28478712508",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259333/WADCUTTERPELLET177CALIBER74GRAIN1250COUNT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROSMAN"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

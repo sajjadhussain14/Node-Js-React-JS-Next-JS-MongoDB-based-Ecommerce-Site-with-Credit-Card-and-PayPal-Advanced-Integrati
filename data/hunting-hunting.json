@@ -1,0 +1,40 @@
+
+        [
+            
+                    {
+                        "name":"PH1099106 | 661120418344",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/1099106.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"415095",
+                        "brand":"BATTENFIELD",
+                        "upc":"661120418344",
+                        
+                        "price":222.78,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/415095/PH1099106",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BATTENFIELD"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

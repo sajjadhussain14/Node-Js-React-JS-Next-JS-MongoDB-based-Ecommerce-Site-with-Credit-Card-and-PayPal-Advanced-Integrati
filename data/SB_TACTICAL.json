@@ -1,0 +1,810 @@
+
+        [
+            
+                    {
+                        "name":"SB Tactical SBM401SB SBM4 AR Brace SBM4 AR Platforms Black ElastoPolymer | 699618782066",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/21103.jpg",
+                        "available":"Out of Stock",
+                        "id":"27871",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782066",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/27871/SBTacticalSBM401SBSBM4ARBraceSBM4ARPlatformsBlackElastoPolymer",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB TACT AR PISTOL BRACE SOB BLK | 699618782080",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/21105.jpg",
+                        "available":"Out of Stock",
+                        "id":"28206",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782080",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/28206/SBTACTARPISTOLBRACESOBBLK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SOB4701SB AK Brace SOB47 ElastoPolymer Black 11.6 Inch L x 1.6 Inch W | 699618782134",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/21181.jpg",
+                        "available":"In Stock",
+                        "id":"28210",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782134",
+                        "price":119.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/28210/SBTacticalSOB4701SBAKBraceSOB47ElastoPolymerBlack116Lx16W",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBTEVO CZ Brace SBTEVO CZ Scorpion ElastoPolymer Black 10.2 Inch L x 1.25 Inch W | 699618782202",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/22007.jpg",
+                        "available":"Out of Stock",
+                        "id":"27886",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782202",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/27886/SBTacticalSBTEVOCZBraceSBTEVOCZScorpionElastoPolymerBlack102Lx125W",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB TACTICAL AR PISTOL BUFFER TUBE BLACK ALUMINUM 1.2 Inch DIA | 699618782233",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/SBTSTDT_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"28470",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782233",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Tools",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/28470/SBTACTICALARPISTOLBUFFERTUBEBLACKALUMINUM12DIA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical MPX01SB MPX PSB Sig MCX/MPX Black ElastoPolymer | 699618782288",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/21152.jpg",
+                        "available":"In Stock",
+                        "id":"25080",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782288",
+                        "price":159.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/25080/SBTacticalMPX01SBMPXPSBSigMCXMPXBlackElastoPolymer",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical PDW01SB AR Brace PDW AR Platforms Black ElastoPolymer | 699618782295",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/21180.jpg",
+                        "available":"Out of Stock",
+                        "id":"25870",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782295",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/25870/SBTacticalPDW01SBARBracePDWARPlatformsBlackElastoPolymer",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBM4701SB AK Brace SBM47 ElastoPolymer Black 11.6 Inch L x 1.6 Inch W | 699618782318",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/43224.jpg",
+                        "available":"In Stock",
+                        "id":"27873",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782318",
+                        "price":119.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/27873/SBTacticalSBM4701SBAKBraceSBM47ElastoPolymerBlack116Lx16W",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBTEV02SB CZ Brace SBTEVO CZ Scorpion ElastoPolymer FDE 10.2 Inch L x 1.25 Inch W | 699618782363",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/43225.jpg",
+                        "available":"Out of Stock",
+                        "id":"27887",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782363",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/27887/SBTacticalSBTEV02SBCZBraceSBTEVOCZScorpionElastoPolymerFDE102Lx125W",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB TACT CZ BREN 805 FOLDING BRACE BK | 699618782400",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/SBTSBT805-01-SB_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"27882",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782400",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Grips",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/27882/SBTACTCZBREN805FOLDINGBRACEBK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical MAG20BLK SB Mag20 AR 223/5.56 Polymer Black | 699618782417",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/44314.jpg",
+                        "available":"In Stock",
+                        "id":"23795",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782417",
+                        "price":31.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Magazine Accessories",
+                        "product_url":"/product/23795/SBTacticalMAG20BLKSBMag20AR223556PolymerBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBA301SB AR Brace SBA3 AR Platforms Black ElastoPolymer | 699618782455",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45653.jpg",
+                        "available":"Out of Stock",
+                        "id":"27860",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782455",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/27860/SBTacticalSBA301SBARBraceSBA3ARPlatformsBlackElastoPolymer",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBA302SB AR Brace SBA3 AR Platforms Flat Dark Earth ElastoPolymer | 699618782462",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45654.jpg",
+                        "available":"Out of Stock",
+                        "id":"27861",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782462",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/27861/SBTacticalSBA302SBARBraceSBA3ARPlatformsFlatDarkEarthElastoPolymer",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBL01SB AR Brace SBL 7.8 Inch L x 1.6 Inch W ElastoPolymer Black | 699618782479",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45632.jpg",
+                        "available":"Out of Stock",
+                        "id":"27867",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782479",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/27867/SBTacticalSBL01SBARBraceSBL78Lx16WElastoPolymerBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB TACTICAL SBL BRACE FDE SBT LOGO | 699618782486",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45639.jpg",
+                        "available":"Out of Stock",
+                        "id":"27868",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782486",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/27868/SBTACTICALSBLBRACEFDESBTLOGO",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBMINI01SB AR Brace Mini ElastoPolymer Black with SBT Logo | 699618782493",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45650.jpg",
+                        "available":"In Stock",
+                        "id":"27875",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782493",
+                        "price":63.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/27875/SBTacticalSBMINI01SBARBraceMiniElastoPolymerBlackwithSBTLogo",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBT5A01SB HK Brace SBT5A HK MP5 Aluminum Black 10.2 Inch L x 1.25 Inch W | 699618782516",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45047.jpg",
+                        "available":"Out of Stock",
+                        "id":"27880",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782516",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/27880/SBTacticalSBT5A01SBHKBraceSBT5AHKMP5AluminumBlack102Lx125W",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBT5KA01SB HK Brace SBT5KA HK MP5K 6061T6 Aluminum Black 10.5 Inch L x 1.25 Inch W | 699618782523",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45048.jpg",
+                        "available":"Out of Stock",
+                        "id":"27881",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782523",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/27881/SBTacticalSBT5KA01SBHKBraceSBT5KAHKMP5K6061T6AluminumBlack105Lx125W",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBTI01SB Specialty Brace SBTi BT APC/HK UMP ElastoPolymer Black 10.5 Inch L x 1.25 Inch W | 699618782578",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45665.jpg",
+                        "available":"Out of Stock",
+                        "id":"41705",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782578",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/41705/SBTacticalSBTI01SBSpecialtyBraceSBTiBTAPCHKUMPElastoPolymerBlack105Lx125W",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical 870SBM401 AR Brace Remington Tac14 10.25 Inch L x 2.1 Inch W ElastoPolymer Black | 699618782608",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45691.jpg",
+                        "available":"In Stock",
+                        "id":"7104",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782608",
+                        "price":159.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/7104/SBTactical870SBM401ARBraceRemingtonTac141025Lx21WElastoPolymerBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical 590SBM401 Shotgun Brace Mossberg 590 Shockwave 10.25 Inch L x 2.1 Inch W ElastoPolymer Black | 699618782622",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45693.jpg",
+                        "available":"Out of Stock",
+                        "id":"5753",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782622",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/5753/SBTactical590SBM401ShotgunBraceMossberg590Shockwave1025Lx21WElastoPolymerBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical 590SBL01S Shotgun Brace Mossgerg 590 Shockwave 11.75 Inch L x 1.6 Inch W ElastoPolymer Black | 699618782639",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45694.jpg",
+                        "available":"Out of Stock",
+                        "id":"5752",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782639",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/5752/SBTactical590SBL01SShotgunBraceMossgerg590Shockwave1175Lx16WElastoPolymerBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical CZPDW01SB CZPDW CZ Scorpion 6061T6 Aluminum 3Pos Black | 699618782738",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/112433.jpg",
+                        "available":"Out of Stock",
+                        "id":"65575",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782738",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/65575/SBTacticalCZPDW01SBCZPDWCZScorpion6061T6Aluminum3PosBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical FS1913 Specialty Brace FS1913 Black Specialty Brace FS1913 | 699618782813",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110014.jpg",
+                        "available":"Out of Stock",
+                        "id":"65577",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782813",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/65577/SBTacticalFS1913SpecialtyBraceFS1913BlackSpecialtyBraceFS1913",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical HKPDW HK Brace PDW Aluminum Black Hardcoat Anodized 3.28 Inch | 699618782868",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110016.jpg",
+                        "available":"In Stock",
+                        "id":"239373",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782868",
+                        "price":263.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/239373/SBTacticalHKPDWHKBracePDWAluminumBlackHardcoatAnodized328",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical 1022A301SB Specialty Brace Ruger 10/22 Charger TD Brace Kit ElastoPolymer Black | 699618782875",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110759.jpg",
+                        "available":"In Stock",
+                        "id":"239369",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782875",
+                        "price":159.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/239369/SBTactical1022A301SBSpecialtyBraceRuger1022ChargerTDBraceKitElastoPolymerBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB TACT AK TO AR BRACE ADPTR W/O | 699618782912",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/130068.jpg",
+                        "available":"In Stock",
+                        "id":"239372",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782912",
+                        "price":35.00,
+                        "Dept":"Optics",
+                        "Typ":"Tools",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/239372/SBTACTAKTOARBRACEADPTRWO",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBA4BLK SBA4 A4 AR Platforms Black | 699618782929",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110012.jpg",
+                        "available":"Out of Stock",
+                        "id":"239375",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782929",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/239375/SBTacticalSBA4BLKSBA4A4ARPlatformsBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBA4FDE SB A4 Carbine Flat Dark Earth | 699618782936",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110013.jpg",
+                        "available":"Out of Stock",
+                        "id":"239376",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618782936",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/239376/SBTacticalSBA4FDESBA4CarbineFlatDarkEarth",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical AR Brace SB PDW 3Position Flat Dark Earth | 699618783056",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120987.jpg",
+                        "available":"Out of Stock",
+                        "id":"239374",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618783056",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/239374/SBTacticalARBraceSBPDW3PositionFlatDarkEarth",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical T13SBA301SB SBA3 T13 Brace 5Position Black | 699618783100",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120991.jpg",
+                        "available":"Out of Stock",
+                        "id":"271194",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618783100",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/271194/SBTacticalT13SBA301SBSBA3T13Brace5PositionBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical T13SBA401SB TAC13SBA4 Remington Tac13 Brace Black | 699618783117",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120992.jpg",
+                        "available":"In Stock",
+                        "id":"271195",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618783117",
+                        "price":215.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/271195/SBTacticalT13SBA401SBTAC13SBA4RemingtonTac13BraceBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBA403MSB SBA4 AR with Carbine Extension 5Position Gray | 699618783124",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120988.jpg",
+                        "available":"Out of Stock",
+                        "id":"273063",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618783124",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/273063/SBTacticalSBA403MSBSBA4ARwithCarbineExtension5PositionGray",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical SBA404SB SBA4 AR with Carbon Extension 5Position OD Green | 699618783131",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120989.jpg",
+                        "available":"Out of Stock",
+                        "id":"273064",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618783131",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/273064/SBTacticalSBA404SBSBA4ARwithCarbonExtension5PositionODGreen",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SB Tactical FS1913A01SB SBT Side Folding Brace with 1913 Hinge Black | 699618783148",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120990.jpg",
+                        "available":"Out of Stock",
+                        "id":"273065",
+                        "brand":"SBTACTICAL",
+                        "upc":"699618783148",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Braces",
+                        "product_url":"/product/273065/SBTacticalFS1913A01SBSBTSideFoldingBracewith1913HingeBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SBTACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

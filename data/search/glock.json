@@ -1,0 +1,3955 @@
+
+        [
+            
+                    {
+                        "name":"GLOCK 19 GEN3 9MM FXD USA 10  UI1950201 | 764503001123 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8039.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"239723",
+                        "brand":"GLOCK",
+                        "upc":"764503001123",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/239723/GLOCK19GEN39MMFXDUSA10UI1950201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 19 GEN3 9MM FXD USA 15  UI1950203 | 764503001130 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8028.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"439994",
+                        "brand":"GLOCK",
+                        "upc":"764503001130",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/439994/GLOCK19GEN39MMFXDUSA15UI1950203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 22 GEN3 40SW FXD USA 10  UI2250201 | 764503001161 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8044.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"239726",
+                        "brand":"GLOCK",
+                        "upc":"764503001161",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/239726/GLOCK22GEN340SWFXDUSA10UI2250201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 22 GEN3 40SW FXD USA 15  UI2250203 | 764503001178 | Glock | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8033.jpg",
+                        "available":"Out of Stock",
+                        "id":"70304",
+                        "brand":"GLOCK",
+                        "upc":"764503001178",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/70304/GLOCK22GEN340SWFXDUSA15UI2250203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 40 GEN4 MOS 10MM AS 10  PG4030101MOS | 764503002656 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97431.jpg",
+                        "available":"Out of Stock",
+                        "id":"53207",
+                        "brand":"GLOCK",
+                        "upc":"764503002656",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/53207/GLOCK40GEN4MOS10MMAS10PG4030101MOS",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 40 GEN4 MOS 10MM AS 15  PG4030103MOS | 764503002670 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97432.jpg",
+                        "available":"Out of Stock",
+                        "id":"20268",
+                        "brand":"GLOCK",
+                        "upc":"764503002670",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20268/GLOCK40GEN4MOS10MMAS15PG4030103MOS",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G27 40SW 10RD  MF00285 PKG | 764503002854 | Glock | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/40978.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"40530",
+                        "brand":"GLOCK",
+                        "upc":"764503002854",
+                        
+                        "price":30.72,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/40530/GLOCKMAGG2740SW10RDMF00285PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG 43 9MM EXT 6RD  MF08855 PKG | 764503003950 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/2192.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24519",
+                        "brand":"GLOCK",
+                        "upc":"764503003950",
+                        
+                        "price":30.72,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24519/GLOCKMAG439MMEXT6RDMF08855PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G43 9MM 6RD  MF43006 PKG | 764503003967 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/2191.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24546",
+                        "brand":"GLOCK",
+                        "upc":"764503003967",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24546/GLOCKMAGG439MM6RDMF43006PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK KD39179 FDE FLD KNFSAW  KD39179 | 764503007088 | GLOCK | Knives and Tools | Fixed ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8019.jpg",
+                        "available":"Out of Stock",
+                        "id":"22619",
+                        "brand":"GLOCK",
+                        "upc":"764503007088",
+                        
+                        "price":null,
+                        "Dept":"Knives and Tools",
+                        "Typ":"Fixed",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/22619/GLOCKKD39179FDEFLDKNFSAWKD39179",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK KG39180 GRY FLD KNFSAW  KG39180 | 764503007095 | GLOCK | Knives and Tools | Other Blades-Accessories ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8017.jpg",
+                        "available":"Out of Stock",
+                        "id":"32838",
+                        "brand":"GLOCK",
+                        "upc":"764503007095",
+                        
+                        "price":null,
+                        "Dept":"Knives and Tools",
+                        "Typ":"Other Blades-Accessories",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/32838/GLOCKKG39180GRYFLDKNFSAWKG39180",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK KF39181 BFG FLD KNFSAW  KF39181 | 764503007101 | GLOCK | Knives and Tools | Other Blades-Accessories ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8018.jpg",
+                        "available":"Out of Stock",
+                        "id":"32839",
+                        "brand":"GLOCK",
+                        "upc":"764503007101",
+                        
+                        "price":null,
+                        "Dept":"Knives and Tools",
+                        "Typ":"Other Blades-Accessories",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/32839/GLOCKKF39181BFGFLDKNFSAWKF39181",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK KD039179 FDE FLD KS PKG  KD039179 | 764503007118 | Glock | Knives and Tools | Fixed ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8019.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"81657",
+                        "brand":"GLOCK",
+                        "upc":"764503007118",
+                        
+                        "price":29.34,
+                        "Dept":"Knives and Tools",
+                        "Typ":"Fixed",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/81657/GLOCKKD039179FDEFLDKSPKGKD039179",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK KG039180 GRY FLD KS PKG  KG039180 | 764503007125 | GLOCK | Knives and Tools | Fixed ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8020.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"22622",
+                        "brand":"GLOCK",
+                        "upc":"764503007125",
+                        
+                        "price":29.34,
+                        "Dept":"Knives and Tools",
+                        "Typ":"Fixed",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/22622/GLOCKKG039180GRYFLDKSPKGKG039180",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK KF039181 BFG FLD KS PKG  KF039181 | 764503007132 | GLOCK | Knives and Tools | Fixed ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8024.jpg",
+                        "available":"Out of Stock",
+                        "id":"32840",
+                        "brand":"GLOCK",
+                        "upc":"764503007132",
+                        
+                        "price":null,
+                        "Dept":"Knives and Tools",
+                        "Typ":"Fixed",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/32840/GLOCKKF039181BFGFLDKSPKGKF039181",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G19 GEN5 9MM 15RD  33812 | 764503015595 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45163.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"4067",
+                        "brand":"GLOCK",
+                        "upc":"764503015595",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/4067/GLOCKMAGG19GEN59MM15RD33812",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG 17/34 GEN5 9MM 17RD  33814 | 764503015656 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45157.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"4068",
+                        "brand":"GLOCK",
+                        "upc":"764503015656",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/4068/GLOCKMAG1734GEN59MM17RD33814",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK NIGHT SIGHTS 9MM/40 SET  39928 | 764503019210 | GLOCK | Optics | Sights | Pistol",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/GLSP39928_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"62459",
+                        "brand":"GLOCK",
+                        "upc":"764503019210",
+                        
+                        "price":63.36,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Pistol",
+                        "product_url":"/product/62459/GLOCKNIGHTSIGHTS9MM40SET39928",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK NIGHT SIGHTS 10MM/45 SET  39929 | 764503019227 | GLOCK | Optics | Sights | Pistol",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/GLSP39929_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"62460",
+                        "brand":"GLOCK",
+                        "upc":"764503019227",
+                        
+                        "price":63.36,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Pistol",
+                        "product_url":"/product/62460/GLOCKNIGHTSIGHTS10MM45SET39929",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK NIGHT SIGHTS G42/G43 SET  39930 | 764503019234 | GLOCK | Optics | Sights | Pistol",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/GLSP39930_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"62461",
+                        "brand":"GLOCK",
+                        "upc":"764503019234",
+                        
+                        "price":63.36,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Pistol",
+                        "product_url":"/product/62461/GLOCKNIGHTSIGHTSG42G43SET39930",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 43 9MM FXD OD 6  PI4357201 | 764503020490 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GLPI4357201.jpg",
+                        "available":"Out of Stock",
+                        "id":"417259",
+                        "brand":"GLOCK",
+                        "upc":"764503020490",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/417259/GLOCK439MMFXDOD6PI4357201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK BACK PACK BLK  AS02000 | 764503023521 | GLOCK | Cleaning & Storage ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/GLAS02000_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"57186",
+                        "brand":"GLOCK",
+                        "upc":"764503023521",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"EMPTY",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/57186/GLOCKBACKPACKBLKAS02000",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK BACK PACK COY TAN  AS02001 | 764503023538 | GLOCK | Cleaning & Storage ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105328.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"57187",
+                        "brand":"GLOCK",
+                        "upc":"764503023538",
+                        
+                        "price":56.52,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"EMPTY",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/57187/GLOCKBACKPACKCOYTANAS02001",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 19 GEN5 9MM USA FXD 10RD  UA1950201 | 764503026157 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/GLUA1950201_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"62462",
+                        "brand":"GLOCK",
+                        "upc":"764503026157",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/62462/GLOCK19GEN59MMUSAFXD10RDUA1950201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 19 GEN5 9MM USA FXD 15RD  UA1950203 | 764503026171 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106702.jpg",
+                        "available":"Out of Stock",
+                        "id":"21022",
+                        "brand":"GLOCK",
+                        "upc":"764503026171",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/21022/GLOCK19GEN59MMUSAFXD15RDUA1950203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 12639 SPT HLST 20/21  HO02639 | 764503026393 | GLOCK | Accessories | Holsters ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73411.jpg",
+                        "available":"Out of Stock",
+                        "id":"333",
+                        "brand":"GLOCK",
+                        "upc":"764503026393",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/333/GLOCK12639SPTHLST2021HO02639",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G19 GEN5 9MM 10RD  47289 PKG | 764503026683 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/46606.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"41919",
+                        "brand":"GLOCK",
+                        "upc":"764503026683",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/41919/GLOCKMAGG19GEN59MM10RD47289PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG 17/34 GEN5 9MM 10RD  47290 PKG | 764503026690 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/46601.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"41918",
+                        "brand":"GLOCK",
+                        "upc":"764503026690",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/41918/GLOCKMAG1734GEN59MM10RD47290PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock G19X FDE GNS Compact 9mm Pistol 17/rd  PX1950703 | 764503026911 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/50344.jpg",
+                        "available":"Out of Stock",
+                        "id":"20438",
+                        "brand":"GLOCK",
+                        "upc":"764503026911",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20438/GlockG19XFDEGNSCompact9mmPistol17rdPX1950703",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G17 9MM FDE 17RD  47459 | 764503027352 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105662.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"57294",
+                        "brand":"GLOCK",
+                        "upc":"764503027352",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/57294/GLOCKMAGG179MMFDE17RD47459",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G19 9MM FDE 15RD  47461 | 764503027376 | GLOCK | Accessories | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105664.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"57296",
+                        "brand":"GLOCK",
+                        "upc":"764503027376",
+                        
+                        "price":23.76,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/57296/GLOCKMAGG199MMFDE15RD47461",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG 9MM OD/ORG 33RD  47462 | 764503027383 | GLOCK | Accessories | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105665.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"57297",
+                        "brand":"GLOCK",
+                        "upc":"764503027383",
+                        
+                        "price":34.92,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/57297/GLOCKMAG9MMODORG33RD47462",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG 9MM FDE/ORG 33RD  47463 | 764503027390 | GLOCK | Accessories | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105666.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"57298",
+                        "brand":"GLOCK",
+                        "upc":"764503027390",
+                        
+                        "price":34.92,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/57298/GLOCKMAG9MMFDEORG33RD47463",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG 9MM BLK/ORG 24RD  47464 | 764503027406 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105667.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"4918",
+                        "brand":"GLOCK",
+                        "upc":"764503027406",
+                        
+                        "price":34.92,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/4918/GLOCKMAG9MMBLKORG24RD47464",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG 17/19X 9MM COY 17RD  47487 | 764503027857 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/101519.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"4919",
+                        "brand":"GLOCK",
+                        "upc":"764503027857",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/4919/GLOCKMAG1719X9MMCOY17RD47487",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG 17/19X 9MM COY 19RD  47488 | 764503027864 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/101520.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"4920",
+                        "brand":"GLOCK",
+                        "upc":"764503027864",
+                        
+                        "price":30.72,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/4920/GLOCKMAG1719X9MMCOY19RD47488",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK Double Pistol Case Black  AP60300 | 764503029035 | GLOCK | Cleaning & Storage | Handgun Cases",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105325.jpg",
+                        "available":"Out of Stock",
+                        "id":"57184",
+                        "brand":"GLOCK",
+                        "upc":"764503029035",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"EMPTY",
+                        "SUBTYP_1":"Handgun Cases",
+                        "product_url":"/product/57184/GLOCKDoublePistolCaseBlackAP60300",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK DOUBLE PISTOL CASE GRAY  AP60301 | 764503029042 | GLOCK | Cleaning & Storage | Handgun Cases",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105326.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"57185",
+                        "brand":"GLOCK",
+                        "upc":"764503029042",
+                        
+                        "price":21.18,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"EMPTY",
+                        "SUBTYP_1":"Handgun Cases",
+                        "product_url":"/product/57185/GLOCKDOUBLEPISTOLCASEGRAYAP60301",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG 17/19X 9MM COY 10RD  47779PKG | 764503030765 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/GL47779.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"57737",
+                        "brand":"GLOCK",
+                        "upc":"764503030765",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/57737/GLOCKMAG1719X9MMCOY10RD47779PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock Single Magazine Pouch Fits Glock 20 21 29 30  MP03080 | 764503030802 | GLOCK | Apparel | Holsters ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73412.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"384",
+                        "brand":"GLOCK",
+                        "upc":"764503030802",
+                        
+                        "price": 7.02,
+                        "Dept":"Apparel",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/384/GlockSingleMagazinePouchFitsGlock20212930MP03080",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock 45 G5 9mm 17rd Magazine 4.02 Inch Barrel Front Serrations  PA455S203 | 764503030895 | Glock | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106731.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20184",
+                        "brand":"GLOCK",
+                        "upc":"764503030895",
+                        
+                        "price":539.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20184/Glock45G59mm17rdMagazine402BarrelFrontSerrationsPA455S203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock G45 Handgun 9mm Luger 10rd Magazine Glock Sights W/Front Serrations  PA455S201 | 764503030918 | Glock | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106730.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20183",
+                        "brand":"GLOCK",
+                        "upc":"764503030918",
+                        
+                        "price":539.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20183/GlockG45Handgun9mmLuger10rdMagazineGlockSightsWFrontSerrationsPA455S201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAFE ACTION TACTICAL XENON LIGHT Pkg  TAC3166 | 764503031663 | GLOCK | Accessories | Lights Lasers Batteries ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73616.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"3997",
+                        "brand":"GLOCK",
+                        "upc":"764503031663",
+                        
+                        "price":83.76,
+                        "Dept":"Accessories",
+                        "Typ":"Lights Lasers Batteries",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/3997/SAFEACTIONTACTICALXENONLIGHTPkgTAC3166",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 30SF GEN3 45ACP FXD 10RD  PF3050201 | 764503032011 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/53944.jpg",
+                        "available":"Out of Stock",
+                        "id":"20221",
+                        "brand":"GLOCK",
+                        "upc":"764503032011",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20221/GLOCK30SFGEN345ACPFXD10RDPF3050201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock Model 48 Black Handgun 9mm Luger 10rd Magazine 4.17 Inch Barrel Black Slide  PA4850201 | 764503032653 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/113555.jpg",
+                        "available":"Out of Stock",
+                        "id":"247228",
+                        "brand":"GLOCK",
+                        "upc":"764503032653",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/247228/GlockModel48BlackHandgun9mmLuger10rdMagazine417BarrelBlackSlidePA4850201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock 48 Handgun 9mm Luger 10rd Magazine 4.17 Inch Barrel Silver Fixed Glock Sights  PA485SL201 | 764503032707 | Glock | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/107938.jpg",
+                        "available":"Out of Stock",
+                        "id":"70513",
+                        "brand":"GLOCK",
+                        "upc":"764503032707",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/70513/Glock48Handgun9mmLuger10rdMagazine417BarrelSilverFixedGlockSightsPA485SL201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 26 GEN5 RBLT 10RD  PR26555 | 764503033360 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/118111.jpg",
+                        "available":"Out of Stock",
+                        "id":"255745",
+                        "brand":"GLOCK",
+                        "upc":"764503033360",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/255745/GLOCK26GEN5RBLT10RDPR26555",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 45 9MM FSER USA 17RD  UA455S203 | 764503033650 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/137483.jpg",
+                        "available":"Out of Stock",
+                        "id":"426779",
+                        "brand":"GLOCK",
+                        "upc":"764503033650",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/426779/GLOCK459MMFSERUSA17RDUA455S203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 48 Handgun 9MM 10rd Magazine 4.17 Inch Barrel BLACK FXD COMM  UA4850201 | 764503033957 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/125384.jpg",
+                        "available":"Out of Stock",
+                        "id":"294820",
+                        "brand":"GLOCK",
+                        "upc":"764503033957",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/294820/GLOCK48Handgun9MM10rdMagazine417BarrelBLACKFXDCOMMUA4850201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 45 9MM FSER MOS 10RD  PA455S201MOS | 764503034152 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/112842.jpg",
+                        "available":"Out of Stock",
+                        "id":"242062",
+                        "brand":"GLOCK",
+                        "upc":"764503034152",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/242062/GLOCK459MMFSERMOS10RDPA455S201MOS",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock G45 MOS Handgun 9mm Luger 17rd Magazine Fixed Front Sight  PA455S203MOS | 764503034183 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/112843.jpg",
+                        "available":"Out of Stock",
+                        "id":"242063",
+                        "brand":"GLOCK",
+                        "upc":"764503034183",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/242063/GlockG45MOSHandgun9mmLuger17rdMagazineFixedFrontSightPA455S203MOS",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 45 MOS 9MM FSER USA 17RD  UA455S203MOS | 764503034497 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/137484.jpg",
+                        "available":"Out of Stock",
+                        "id":"484768",
+                        "brand":"GLOCK",
+                        "upc":"764503034497",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/484768/GLOCK45MOS9MMFSERUSA17RDUA455S203MOS",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G26 GEN5 9MM 12RD  47702 | 764503035876 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110486.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"238989",
+                        "brand":"GLOCK",
+                        "upc":"764503035876",
+                        
+                        "price":30.72,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/238989/GLOCKMAGG26GEN59MM12RD47702",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G26 GEN5 9MM 10RD  33377 | 764503035883 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110487.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"238988",
+                        "brand":"GLOCK",
+                        "upc":"764503035883",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/238988/GLOCKMAGG26GEN59MM10RD33377",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G44 22LR 10RD  47908 | 764503035913 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/119219.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"264380",
+                        "brand":"GLOCK",
+                        "upc":"764503035913",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/264380/GLOCKMAGG4422LR10RD47908",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock 44 Handgun 22LR 10rd Magazine 4.02 Inch Barrel Black Adjustable Sites  UA4450101 | 764503035920 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/119218.jpg",
+                        "available":"Out of Stock",
+                        "id":"264366",
+                        "brand":"GLOCK",
+                        "upc":"764503035920",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/264366/Glock44Handgun22LR10rdMagazine402BarrelBlackAdjustableSitesUA4450101",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL LIGHT W/BUILT IN LASER Pkg  TAC3680 | 764503036804 | GLOCK | Optics | Sights | Laser",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/113986.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"28945",
+                        "brand":"GLOCK",
+                        "upc":"764503036804",
+                        
+                        "price":234.42,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/28945/TACTICALLIGHTWBUILTINLASERPkgTAC3680",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 43X FXD BLACK 9MM USA 10RD  UX4350201 | 764503037832 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/134254.jpg",
+                        "available":"Out of Stock",
+                        "id":"441089",
+                        "brand":"GLOCK",
+                        "upc":"764503037832",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/441089/GLOCK43XFXDBLACK9MMUSA10RDUX4350201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock Model 43X Handgun 9mm Luger 10rd Magazine 3.41 Inch Barrel Black Slide Fixed Glock Sights  PX4350201 | 764503037894 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/113558.jpg",
+                        "available":"Out of Stock",
+                        "id":"247231",
+                        "brand":"GLOCK",
+                        "upc":"764503037894",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/247231/GlockModel43XHandgun9mmLuger10rdMagazine341BarrelBlackSlideFixedGlockSightsPX4350201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 22 GEN4 RBLT 15RD  UR22501 | 764503040498 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/GLUR2250103REB_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"300068",
+                        "brand":"GLOCK",
+                        "upc":"764503040498",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/300068/GLOCK22GEN4RBLT15RDUR22501",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL LIGHT W/DIMMER  LASER Pkg  TAC4065 | 764503040658 | GLOCK | Optics | Sights | Laser",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/14106.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"28946",
+                        "brand":"GLOCK",
+                        "upc":"764503040658",
+                        
+                        "price":237.18,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/28946/TACTICALLIGHTWDIMMERLASERPkgTAC4065",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock Modular Magwell fits Gen 5 17s 34s and G45s  50431 | 764503041808 | GLOCK | Accessories | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128143.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"423573",
+                        "brand":"GLOCK",
+                        "upc":"764503041808",
+                        
+                        "price":20.64,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/423573/GlockModularMagwellfitsGen517s34sandG45s50431",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK THREADED BBL G44 RH  50480 | 764503041983 | Glock | Gun Parts ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/119220.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"264381",
+                        "brand":"GLOCK",
+                        "upc":"764503041983",
+                        
+                        "price":166.80,
+                        "Dept":"Gun Parts",
+                        "Typ":"EMPTY",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/264381/GLOCKTHREADEDBBLG44RH50480",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 45 REBUILT USA  UR45509 | 764503043505 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/139823.jpg",
+                        "available":"Out of Stock",
+                        "id":"427366",
+                        "brand":"GLOCK",
+                        "upc":"764503043505",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/427366/GLOCK45REBUILTUSAUR45509",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock Model 43X Handgun 9mm Luger 10rd Magazine 3.41 Inch Barrel Black MOS Ready Slide w/Front Rail  PX4350201FRMOS | 764503046629 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128017.jpg",
+                        "available":"Out of Stock",
+                        "id":"425315",
+                        "brand":"GLOCK",
+                        "upc":"764503046629",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/425315/GlockModel43XHandgun9mmLuger10rdMagazine341BarrelBlackMOSReadySlidewFrontRailPX4350201FRMOS",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock Model 48 Handgun 9mm Luger 10rd Magazine 4.17 Inch Barrel Black MOS Slide w/Front Rail  PA4850201FRMOS | 764503046636 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128018.jpg",
+                        "available":"Out of Stock",
+                        "id":"425316",
+                        "brand":"GLOCK",
+                        "upc":"764503046636",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/425316/GlockModel48Handgun9mmLuger10rdMagazine417BarrelBlackMOSSlidewFrontRailPA4850201FRMOS",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 34 GEN3 9MM USA 17  UI3430103 | 764503048746 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/GLUI3430103_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"485229",
+                        "brand":"GLOCK",
+                        "upc":"764503048746",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/485229/GLOCK34GEN39MMUSA17UI3430103",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 43X MOS FXD 5.5lb w/front rails US Made  UX4350201FRMOS | 764503049989 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/137482.jpg",
+                        "available":"Out of Stock",
+                        "id":"487075",
+                        "brand":"GLOCK",
+                        "upc":"764503049989",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/487075/GLOCK43XMOSFXD55lbwfrontrailsUSMadeUX4350201FRMOS",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G26 9MM 12RD  MF06781 PKG | 764503067815 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39698.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"40385",
+                        "brand":"GLOCK",
+                        "upc":"764503067815",
+                        
+                        "price":30.72,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/40385/GLOCKMAGG269MM12RDMF06781PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK G21SF G3 101 .45 ACP 4.6 Inch BBL CA COMP  PF2150201 | 764503072017 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/42282.jpg",
+                        "available":"Out of Stock",
+                        "id":"20218",
+                        "brand":"GLOCK",
+                        "upc":"764503072017",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20218/GLOCKG21SFG310145ACP46BBLCACOMPPF2150201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Mag G33 11rd PKG  MF08820 PKG | 764503088209 | GLOCK | Accessories | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69636.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"47536",
+                        "brand":"GLOCK",
+                        "upc":"764503088209",
+                        
+                        "price":30.72,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/47536/MagG3311rdPKGMF08820PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G19 9MM 10RD  MF10019 PKG | 764503100192 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73426.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24521",
+                        "brand":"GLOCK",
+                        "upc":"764503100192",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24521/GLOCKMAGG199MM10RDMF10019PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G20 10MM 10RD  MF10020 PKG | 764503100208 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73427.jpg",
+                        "available":"Out of Stock",
+                        "id":"48109",
+                        "brand":"GLOCK",
+                        "upc":"764503100208",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/48109/GLOCKMAGG2010MM10RDMF10020PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G23 40SW 10RD  MF10023 PKG | 764503100239 | Glock | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73430.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24524",
+                        "brand":"GLOCK",
+                        "upc":"764503100239",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24524/GLOCKMAGG2340SW10RDMF10023PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G31 357 10RD  MF10031 PKG | 764503100314 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73435.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"48110",
+                        "brand":"GLOCK",
+                        "upc":"764503100314",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/48110/GLOCKMAGG3135710RDMF10031PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 21 GEN4 45ACP FXD 10  PG2150201 | 764503102011 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/76623.jpg",
+                        "available":"Out of Stock",
+                        "id":"20248",
+                        "brand":"GLOCK",
+                        "upc":"764503102011",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20248/GLOCK21GEN445ACPFXD10PG2150201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 21 GEN4 45ACP FXD 13  PG2150203 | 764503102035 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/76622.jpg",
+                        "available":"Out of Stock",
+                        "id":"20249",
+                        "brand":"GLOCK",
+                        "upc":"764503102035",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20249/GLOCK21GEN445ACPFXD13PG2150203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK PERF TSHIRT BLK LG  AA11001 | 764503110016 | GLOCK | Apparel | Tops ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/93857.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"9204",
+                        "brand":"GLOCK",
+                        "upc":"764503110016",
+                        
+                        "price": 9.60,
+                        "Dept":"Apparel",
+                        "Typ":"Tops",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/9204/GLOCKPERFTSHIRTBLKLGAA11001",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK PERF T SHIRT BLK XL  AA11002 | 764503110023 | Glock | Apparel | Tops ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/93858.jpg",
+                        "available":"Out of Stock",
+                        "id":"9205",
+                        "brand":"GLOCK",
+                        "upc":"764503110023",
+                        
+                        "price":null,
+                        "Dept":"Apparel",
+                        "Typ":"Tops",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/9205/GLOCKPERFTSHIRTBLKXLAA11002",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK PERF T SHIRT BLK 2XL  AA11003 | 764503110030 | GLOCK | Apparel | Tops ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/93859.jpg",
+                        "available":"Out of Stock",
+                        "id":"9206",
+                        "brand":"GLOCK",
+                        "upc":"764503110030",
+                        
+                        "price":null,
+                        "Dept":"Apparel",
+                        "Typ":"Tops",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/9206/GLOCKPERFTSHIRTBLK2XLAA11003",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK PERF TSHIRT BLK MD  AA11004 | 764503110047 | GLOCK | Apparel | Tops ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/93856.jpg",
+                        "available":"Out of Stock",
+                        "id":"52432",
+                        "brand":"GLOCK",
+                        "upc":"764503110047",
+                        
+                        "price":null,
+                        "Dept":"Apparel",
+                        "Typ":"Tops",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/52432/GLOCKPERFTSHIRTBLKMDAA11004",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK PERF TSHIRT BLK 3XL  AA11005 | 764503110054 | Glock | Apparel | Tops ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/93860.jpg",
+                        "available":"Out of Stock",
+                        "id":"9207",
+                        "brand":"GLOCK",
+                        "upc":"764503110054",
+                        
+                        "price":null,
+                        "Dept":"Apparel",
+                        "Typ":"Tops",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/9207/GLOCKPERFTSHIRTBLK3XLAA11005",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G33 9MM 33RD  MF17033 PKG | 764503170331 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/40977.jpg",
+                        "available":"Out of Stock",
+                        "id":"24526",
+                        "brand":"GLOCK",
+                        "upc":"764503170331",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24526/GLOCKMAGG339MM33RDMF17033PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock Sport Combat Holster Fits Glock G17 G19 G26 G34 G22 G23 G27 G35 G31 G32 G31 / 9mm .40 cal .357 Glock  Black  HO17043 | 764503170430 | GLOCK | Hunting | Holsters ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73224.jpg",
+                        "available":"Out of Stock",
+                        "id":"2174",
+                        "brand":"GLOCK",
+                        "upc":"764503170430",
+                        
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/2174/GlockSportCombatHolsterFitsGlockG17G19G26G34G22G23G27G35G31G32G319mm40cal357GlockBlackHO17043",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock Sport Duty Holster Available 9mm .40 Caliber  HO17045 | 764503170454 | GLOCK | Hunting | Holsters ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73225.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"48076",
+                        "brand":"GLOCK",
+                        "upc":"764503170454",
+                        
+                        "price":16.08,
+                        "Dept":"Hunting",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/48076/GlockSportDutyHolsterAvailable9mm40CaliberHO17045",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK ENTRNCH TOOL/R W/PCH  ET17070 | 764503170706 | Glock | Accessories | Other ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73408.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13708",
+                        "brand":"GLOCK",
+                        "upc":"764503170706",
+                        
+                        "price":41.88,
+                        "Dept":"Accessories",
+                        "Typ":"Other",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/13708/GLOCKENTRNCHTOOLRWPCHET17070",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock Single Magazine Pouch Glock 17 19 2337  MP17076 | 764503170768 | GLOCK | Apparel | Holsters ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73223.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"2214",
+                        "brand":"GLOCK",
+                        "upc":"764503170768",
+                        
+                        "price": 7.02,
+                        "Dept":"Apparel",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/2214/GlockSingleMagazinePouchGlock17192337MP17076",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock Field Knife  KB17281 | 764503172816 | GLOCK | Knives and Tools | Fixed ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73406.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"2349",
+                        "brand":"GLOCK",
+                        "upc":"764503172816",
+                        
+                        "price":29.34,
+                        "Dept":"Knives and Tools",
+                        "Typ":"Fixed",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/2349/GlockFieldKnifeKB17281",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 17 GEN3 9MM FXD 10RD  PI1750201 | 764503175022 | Glock | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73201.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20275",
+                        "brand":"GLOCK",
+                        "upc":"764503175022",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20275/GLOCK17GEN39MMFXD10RDPI1750201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G19 9MM 15RD  MF19015 PKG | 764503190155 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13257.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24527",
+                        "brand":"GLOCK",
+                        "upc":"764503190155",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24527/GLOCKMAGG199MM15RDMF19015PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 19 GEN3 9MM FXD 10  PI1950201 | 764503195020 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73204.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20276",
+                        "brand":"GLOCK",
+                        "upc":"764503195020",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20276/GLOCK19GEN39MMFXD10PI1950201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G20 10MM 15RD  MF20015 PKG | 764503200151 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13258.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24528",
+                        "brand":"GLOCK",
+                        "upc":"764503200151",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24528/GLOCKMAGG2010MM15RDMF20015PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G22 40SW 22RD  MF22022 PKG | 764503220227 | Glock | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69488.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24531",
+                        "brand":"GLOCK",
+                        "upc":"764503220227",
+                        
+                        "price":34.92,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24531/GLOCKMAGG2240SW22RDMF22022PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock 22 Handgun .40 SW 4.48 Inch Barrel 10 rd Magazine CA Compliant  PI2250201 | 764503225024 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73213.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20277",
+                        "brand":"GLOCK",
+                        "upc":"764503225024",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20277/Glock22Handgun40SW448Barrel10rdMagazineCACompliantPI2250201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G23 40SW 13RD  MF23013 PKG | 764503230134 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13261.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24532",
+                        "brand":"GLOCK",
+                        "upc":"764503230134",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24532/GLOCKMAGG2340SW13RDMF23013PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 23 GEN3 40SW FXD 10RD  PI2350201 | 764503235023 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73216.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20278",
+                        "brand":"GLOCK",
+                        "upc":"764503235023",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20278/GLOCK23GEN340SWFXD10RDPI2350201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G26 9MM 10RD  MF26010 PKG | 764503260100 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73396.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24533",
+                        "brand":"GLOCK",
+                        "upc":"764503260100",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24533/GLOCKMAGG269MM10RDMF26010PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 26 GEN3 9MM FS 10  PI2650201 | 764503265020 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73391.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20279",
+                        "brand":"GLOCK",
+                        "upc":"764503265020",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20279/GLOCK26GEN39MMFS10PI2650201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G27 40SW 9RD  MF27009 PKG | 764503270093 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73397.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24534",
+                        "brand":"GLOCK",
+                        "upc":"764503270093",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24534/GLOCKMAGG2740SW9RDMF27009PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 27 GEN3 40SW FXD CMPT 10  PI2750201 | 764503275029 | Glock | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73394.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20280",
+                        "brand":"GLOCK",
+                        "upc":"764503275029",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20280/GLOCK27GEN340SWFXDCMPT10PI2750201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G29 10MM 10RD  MF29010 PKG | 764503290107 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69637.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24535",
+                        "brand":"GLOCK",
+                        "upc":"764503290107",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24535/GLOCKMAGG2910MM10RDMF29010PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G30 45ACP 9RD  MF30009 PKG | 764503300097 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73419.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24536",
+                        "brand":"GLOCK",
+                        "upc":"764503300097",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24536/GLOCKMAGG3045ACP9RDMF30009PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G30 45ACP 10RD  MF30010 PKG | 764503300103 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73222.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24537",
+                        "brand":"GLOCK",
+                        "upc":"764503300103",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24537/GLOCKMAGG3045ACP10RDMF30010PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 34 GEN3 9MM AS 17  PI3430103 | 764503301346 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13760.jpg",
+                        "available":"Out of Stock",
+                        "id":"102699",
+                        "brand":"GLOCK",
+                        "upc":"764503301346",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/102699/GLOCK34GEN39MMAS17PI3430103",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK G35 G3 151 .40 SW 5.31 Inch BBL  PI3530103 | 764503301353 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13762.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20284",
+                        "brand":"GLOCK",
+                        "upc":"764503301353",
+                        
+                        "price":596.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20284/GLOCKG35G315140SW531BBLPI3530103",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G31 357SIG 15RD  MF31015 PKG | 764503310157 | GLOCK | Accessories | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13262.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24538",
+                        "brand":"GLOCK",
+                        "upc":"764503310157",
+                        
+                        "price":23.76,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24538/GLOCKMAGG31357SIG15RDMF31015PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock G31 Gen 3 Handgun .357 Sig 10rd  Magazines 4.49 Inch Barrel Fixed sights Black  PI3150201 | 764503315022 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73384.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"48108",
+                        "brand":"GLOCK",
+                        "upc":"764503315022",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/48108/GlockG31Gen3Handgun357Sig10rdMagazines449BarrelFixedsightsBlackPI3150201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G32 357SIG 13RD  MF32013 PKG | 764503320132 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13263.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24539",
+                        "brand":"GLOCK",
+                        "upc":"764503320132",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24539/GLOCKMAGG32357SIG13RDMF32013PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 32 GEN3 357SIG FXD 10  PI3250201 | 764503325021 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73388.jpg",
+                        "available":"Out of Stock",
+                        "id":"67635",
+                        "brand":"GLOCK",
+                        "upc":"764503325021",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/67635/GLOCK32GEN3357SIGFXD10PI3250201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G33 357 9RD  MF33009 PKG | 764503330094 | GLOCK | Accessories | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73451.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24540",
+                        "brand":"GLOCK",
+                        "upc":"764503330094",
+                        
+                        "price":23.76,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24540/GLOCKMAGG333579RDMF33009PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 33 GEN3 357SIG FXD 10  PI3350201 | 764503335020 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73400.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20281",
+                        "brand":"GLOCK",
+                        "upc":"764503335020",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20281/GLOCK33GEN3357SIGFXD10PI3350201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 34 GEN3 9MM AS 10  PI3430101 | 764503343018 | Glock | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73452.jpg",
+                        "available":"Out of Stock",
+                        "id":"20282",
+                        "brand":"GLOCK",
+                        "upc":"764503343018",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20282/GLOCK34GEN39MMAS10PI3430101",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK G35 G3 101 .40 SW 5.31 Inch BBL CA COMP  PI3530101 | 764503353017 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73453.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20283",
+                        "brand":"GLOCK",
+                        "upc":"764503353017",
+                        
+                        "price":596.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20283/GLOCKG35G310140SW531BBLCACOMPPI3530101",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G36 45ACP 6RD  MF36006 PKG | 764503360060 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73456.jpg",
+                        "available":"Out of Stock",
+                        "id":"24541",
+                        "brand":"GLOCK",
+                        "upc":"764503360060",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24541/GLOCKMAGG3645ACP6RDMF36006PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G37 45GAP 10RD  MF37010 PKG | 764503370106 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/40976.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24542",
+                        "brand":"GLOCK",
+                        "upc":"764503370106",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24542/GLOCKMAGG3745GAP10RDMF37010PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 37 GEN3 45GAP FS 10  PI3750201 | 764503375026 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73617.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"48116",
+                        "brand":"GLOCK",
+                        "upc":"764503375026",
+                        
+                        "price":516.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/48116/GLOCK37GEN345GAPFS10PI3750201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G38 45GAP 8RD  MF38008 PKG | 764503380082 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69638.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24543",
+                        "brand":"GLOCK",
+                        "upc":"764503380082",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24543/GLOCKMAGG3845GAP8RDMF38008PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 38 45GAP FS 10  PI3850201 | 764503385025 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16509.jpg",
+                        "available":"Out of Stock",
+                        "id":"34560",
+                        "brand":"GLOCK",
+                        "upc":"764503385025",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/34560/GLOCK3845GAPFS10PI3850201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G39 45GAP 6RD  MF39006 PKG | 764503390067 | Glock | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83299.jpg",
+                        "available":"Out of Stock",
+                        "id":"50092",
+                        "brand":"GLOCK",
+                        "upc":"764503390067",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/50092/GLOCKMAGG3945GAP6RDMF39006PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 39 GEN3 45GAP FS 6  PI3950201 | 764503395024 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16514.jpg",
+                        "available":"Out of Stock",
+                        "id":"20286",
+                        "brand":"GLOCK",
+                        "upc":"764503395024",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20286/GLOCK39GEN345GAPFS6PI3950201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 17 GEN3 9MM FXD 17RD  PI1750203 | 764503502170 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13704.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"102656",
+                        "brand":"GLOCK",
+                        "upc":"764503502170",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/102656/GLOCK17GEN39MMFXD17RDPI1750203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock Model 19 Gen3 Compact Handgun 9mm Luger 15rd Magazine 4 Inch Barrel Austria made  PI1950203 | 764503502194 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13711.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"70249",
+                        "brand":"GLOCK",
+                        "upc":"764503502194",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/70249/GlockModel19Gen3CompactHandgun9mmLuger15rdMagazine4BarrelAustriamadePI1950203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 23 GEN3 40SW FXD 13RD  PI2350203 | 764503502231 | Glock | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13740.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"62334",
+                        "brand":"GLOCK",
+                        "upc":"764503502231",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/62334/GLOCK23GEN340SWFXD13RDPI2350203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 31 GEN3 357SIG FXD 15  PI3150203 | 764503502316 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13747.jpg",
+                        "available":"Out of Stock",
+                        "id":"102694",
+                        "brand":"GLOCK",
+                        "upc":"764503502316",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/102694/GLOCK31GEN3357SIGFXD15PI3150203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 32 GEN3 357SIG FXD 13  PI3250203 | 764503502323 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/GLPI3250203_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"102696",
+                        "brand":"GLOCK",
+                        "upc":"764503502323",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/102696/GLOCK32GEN3357SIGFXD13PI3250203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK LOW CROWN HAT  AP60201 | 764503602016 | GLOCK | Accessories | Other ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/GLAP60201_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"10302",
+                        "brand":"GLOCK",
+                        "upc":"764503602016",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Other",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/10302/GLOCKLOWCROWNHATAP60201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 1PSTL RANGE BAG  AP60211 | 764503602115 | GLOCK | Cleaning & Storage ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/GLAP60211.jpg",
+                        "available":"Out of Stock",
+                        "id":"67646",
+                        "brand":"GLOCK",
+                        "upc":"764503602115",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"EMPTY",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/67646/GLOCK1PSTLRANGEBAGAP60211",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK RANGE KIT  AP60220 | 764503602146 | GLOCK | Safety Products | Eye Protection ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/107209.jpg",
+                        "available":"Out of Stock",
+                        "id":"97670",
+                        "brand":"GLOCK",
+                        "upc":"764503602146",
+                        
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Eye Protection",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/97670/GLOCKRANGEKITAP60220",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK G20SF G3 101 10mm 4.6 Inch BBL CA COMP  PF2050201 | 764503662010 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56854.jpg",
+                        "available":"Out of Stock",
+                        "id":"20216",
+                        "brand":"GLOCK",
+                        "upc":"764503662010",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20216/GLOCKG20SFG310110mm46BBLCACOMPPF2050201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 29SF GEN3 10MM FXD 10RD  PF2950201 | 764503672019 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56870.jpg",
+                        "available":"Out of Stock",
+                        "id":"20220",
+                        "brand":"GLOCK",
+                        "upc":"764503672019",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20220/GLOCK29SFGEN310MMFXD10RDPF2950201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 37 GEN4 45GAP FXD 10 RD  PG3750201 | 764503682018 | Glock | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/70837.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"47635",
+                        "brand":"GLOCK",
+                        "upc":"764503682018",
+                        
+                        "price":550.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/47635/GLOCK37GEN445GAPFXD10RDPG3750201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 31 GEN4 357SIG FXD 10RD  PG3150201 | 764503702013 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/70835.jpg",
+                        "available":"Out of Stock",
+                        "id":"62432",
+                        "brand":"GLOCK",
+                        "upc":"764503702013",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/62432/GLOCK31GEN4357SIGFXD10RDPG3150201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 31 GEN4 357SIG FXD 15RD  PG3150203 | 764503702037 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/70831.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"20258",
+                        "brand":"GLOCK",
+                        "upc":"764503702037",
+                        
+                        "price":499.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20258/GLOCK31GEN4357SIGFXD15RDPG3150203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 32 GEN4 357SIG FXD 10RD  PG3250201 | 764503742019 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82613.jpg",
+                        "available":"Out of Stock",
+                        "id":"50004",
+                        "brand":"GLOCK",
+                        "upc":"764503742019",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/50004/GLOCK32GEN4357SIGFXD10RDPG3250201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 32 GEN4 357SIG FXD 13D  PG3250203 | 764503742033 | Glock | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82612.jpg",
+                        "available":"Out of Stock",
+                        "id":"20259",
+                        "brand":"GLOCK",
+                        "upc":"764503742033",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20259/GLOCK32GEN4357SIGFXD13DPG3250203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 29 GEN4 10MM FXD 10RD  PG2950201 | 764503752018 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83296.jpg",
+                        "available":"Out of Stock",
+                        "id":"20256",
+                        "brand":"GLOCK",
+                        "upc":"764503752018",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20256/GLOCK29GEN410MMFXD10RDPG2950201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 30 GEN4 45ACP FXD 10RD  PG3050201 | 764503762017 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83297.jpg",
+                        "available":"Out of Stock",
+                        "id":"20257",
+                        "brand":"GLOCK",
+                        "upc":"764503762017",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20257/GLOCK30GEN445ACPFXD10RDPG3050201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 20 GEN4 10MM FXD 10RD  PG2050201 | 764503802010 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83294.jpg",
+                        "available":"Out of Stock",
+                        "id":"20246",
+                        "brand":"GLOCK",
+                        "upc":"764503802010",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20246/GLOCK20GEN410MMFXD10RDPG2050201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 20 GEN4 10MM FXD 15  PG2050203 | 764503802034 | Glock | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83295.jpg",
+                        "available":"Out of Stock",
+                        "id":"20247",
+                        "brand":"GLOCK",
+                        "upc":"764503802034",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20247/GLOCK20GEN410MMFXD15PG2050203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 33 GEN4 357SIG FXD 10RD  PG3350201 | 764503812019 | Glock | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83298.jpg",
+                        "available":"Out of Stock",
+                        "id":"20260",
+                        "brand":"GLOCK",
+                        "upc":"764503812019",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20260/GLOCK33GEN4357SIGFXD10RDPG3350201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 30S GEN3 45ACP FXD 10RD  PH3050201 | 764503822018 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83988.jpg",
+                        "available":"Out of Stock",
+                        "id":"20274",
+                        "brand":"GLOCK",
+                        "upc":"764503822018",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20274/GLOCK30SGEN345ACPFXD10RDPH3050201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 42 380ACP FXD USA 6  UI4250201 | 764503910616 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/90342.jpg",
+                        "available":"Out of Stock",
+                        "id":"21031",
+                        "brand":"GLOCK",
+                        "upc":"764503910616",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/21031/GLOCK42380ACPFXDUSA6UI4250201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 41 GEN4 45ACP AS 10RD  PG4130101 | 764503910722 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/90340.jpg",
+                        "available":"Out of Stock",
+                        "id":"51604",
+                        "brand":"GLOCK",
+                        "upc":"764503910722",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/51604/GLOCK41GEN445ACPAS10RDPG4130101",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 41 GEN4 45ACP AS 13RD  PG4130103 | 764503910739 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/90341.jpg",
+                        "available":"Out of Stock",
+                        "id":"20269",
+                        "brand":"GLOCK",
+                        "upc":"764503910739",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20269/GLOCK41GEN445ACPAS13RDPG4130103",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G42 380ACP 6RD  MF42006 PKG | 764503911118 | GLOCK | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/92631.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24545",
+                        "brand":"GLOCK",
+                        "upc":"764503911118",
+                        
+                        "price":23.76,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24545/GLOCKMAGG42380ACP6RDMF42006PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MAG G42 380ACP EXT 6RD  MF08833 PKG | 764503911576 | Glock | Gun Parts | Magazines ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/94437.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"24518",
+                        "brand":"GLOCK",
+                        "upc":"764503911576",
+                        
+                        "price":30.72,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/24518/GLOCKMAGG42380ACPEXT6RDMF08833PKG",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MOS ADPT SET 01 G34/35/G41  33531 | 764503911583 | GLOCK | Gun Parts | Other ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/GLSP33531_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"62454",
+                        "brand":"GLOCK",
+                        "upc":"764503911583",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Other",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/62454/GLOCKMOSADPTSET01G3435G4133531",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 4PSTL RANGE BAG  AP60219 | 764503911613 | GLOCK | Cleaning & Storage | Shotgun Cases",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/835.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"31444",
+                        "brand":"GLOCK",
+                        "upc":"764503911613",
+                        
+                        "price":34.92,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"EMPTY",
+                        "SUBTYP_1":"Shotgun Cases",
+                        "product_url":"/product/31444/GLOCK4PSTLRANGEBAGAP60219",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK MOS ADPT SET 02 10MM G40  33736 | 764503912016 | GLOCK | Gun Parts | Other ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/GLSP33736_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"62455",
+                        "brand":"GLOCK",
+                        "upc":"764503912016",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Other",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/62455/GLOCKMOSADPTSET0210MMG4033736",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 43 9MM FXD USA 6  UI4350201 | 764503913358 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/5337.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"21033",
+                        "brand":"GLOCK",
+                        "upc":"764503913358",
+                        
+                        "price":449.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/21033/GLOCK439MMFXDUSA6UI4350201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 21 GEN4 45ACP USA 10  UG2150201 | 764503913631 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8041.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"239725",
+                        "brand":"GLOCK",
+                        "upc":"764503913631",
+                        
+                        "price":546.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/239725/GLOCK21GEN445ACPUSA10UG2150201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 21 GEN4 45ACP FXD USA 13  UG2150203 | 764503913648 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8032.jpg",
+                        "available":"Out of Stock",
+                        "id":"239718",
+                        "brand":"GLOCK",
+                        "upc":"764503913648",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/239718/GLOCK21GEN445ACPFXDUSA13UG2150203",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 30 GEN4 45ACP FXD USA 10  UG3050201 | 764503913730 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8100.jpg",
+                        "available":"Out of Stock",
+                        "id":"239731",
+                        "brand":"GLOCK",
+                        "upc":"764503913730",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/239731/GLOCK30GEN445ACPFXDUSA10UG3050201",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 41 GEN4 MOS 45ACP AS USA10  UG4130101MOS | 764503913853 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8014.jpg",
+                        "available":"Out of Stock",
+                        "id":"62466",
+                        "brand":"GLOCK",
+                        "upc":"764503913853",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/62466/GLOCK41GEN4MOS45ACPASUSA10UG4130101MOS",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 41 GEN4 MOS 45ACP AS USA13  UG4130103MOS | 764503913860 | Glock | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8015.jpg",
+                        "available":"Out of Stock",
+                        "id":"21029",
+                        "brand":"GLOCK",
+                        "upc":"764503913860",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/21029/GLOCK41GEN4MOS45ACPASUSA13UG4130103MOS",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 36FGR GEN3 45ACP FS 6  PI3650201FGR | 764503913884 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8239.jpg",
+                        "available":"Out of Stock",
+                        "id":"20285",
+                        "brand":"GLOCK",
+                        "upc":"764503913884",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/20285/GLOCK36FGRGEN345ACPFS6PI3650201FGR",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Glock G34 Gen 4 Handgun 9mm 17rd Magazine 5.32 Inch Barrel Black Grip REFURBISHED  PR34501 | 764503993435 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/GLPR3450103REB_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"294800",
+                        "brand":"GLOCK",
+                        "upc":"764503993435",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/294800/GlockG34Gen4Handgun9mm17rdMagazine532BarrelBlackGripREFURBISHEDPR34501",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK 35 GEN4 RBLT 15RD  PR35501 | 764503993534 | GLOCK | Firearms | Handguns ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/21827.jpg",
+                        "available":"Out of Stock",
+                        "id":"294802",
+                        "brand":"GLOCK",
+                        "upc":"764503993534",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/294802/GLOCK35GEN4RBLT15RDPR35501",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,74 @@
+
+        [
+            
+                    {
+                        "name":"M34 .177 W/SCOPE  RING 300 SCOP | 038855134090",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/41498.jpg",
+                        "available":"Out of Stock",
+                        "id":"40655",
+                        "brand":"UMAREX",
+                        "upc":"038855134090",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/40655/M34177WSCOPERING300SCOP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"UMAREX"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RWS AIR RIFLE M34 22 CAL | 038855234936",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/49339.jpg",
+                        "available":"Out of Stock",
+                        "id":"3198",
+                        "brand":"UMAREX",
+                        "upc":"038855234936",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/3198/RWSAIRRIFLEM3422CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"UMAREX"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RWS AIR RIFLE M34 .177 CAL | 38855134083",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/RW2166160.jpg",
+                        "available":"Out of Stock",
+                        "id":"258070",
+                        "brand":"UMAREX",
+                        "upc":"38855134083",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/258070/RWSAIRRIFLEM34177CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"UMAREX"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

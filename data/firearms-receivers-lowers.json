@@ -1,0 +1,215 @@
+
+        [
+            
+                    {
+                        "name":"RUGER 5.56/223 LOWER RECEIVER | 736676085064",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24108.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"36156",
+                        "brand":"STURM RUGER  CO",
+                        "upc":"736676085064",
+                        
+                        "price":98.22,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"Lowers",
+                        "product_url":"/product/36156/RUGER556223LOWERRECEIVER",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER  CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI OMNI HYBRID STRIPPED MULTICAL LOWER | 813393017049",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/132089.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18336",
+                        "brand":"ATI",
+                        "upc":"813393017049",
+                        
+                        "price":35.95,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"Lowers",
+                        "product_url":"/product/18336/ATIOMNIHYBRIDSTRIPPEDMULTICALLOWER",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ATI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"YHM STRIPPED LOWER RECVR | 816701011272",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/2357.jpg",
+                        "available":"Out of Stock",
+                        "id":"21208",
+                        "brand":"YANKEE HILL MACHINE CO. INC.",
+                        "upc":"816701011272",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"Lowers",
+                        "product_url":"/product/21208/YHMSTRIPPEDLOWERRECVR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"YANKEE HILL MACHINE CO. INC."
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"YHM STRPD BILLET LOWER RECVR | 816701017618",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98755.jpg",
+                        "available":"Out of Stock",
+                        "id":"21209",
+                        "brand":"YANKEE HILL MACHINE CO. INC.",
+                        "upc":"816701017618",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"Lowers",
+                        "product_url":"/product/21209/YHMSTRPDBILLETLOWERRECVR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"YANKEE HILL MACHINE CO. INC."
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI GALEO LOW RECEIVER 5.56 | 819644023548",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/129486.jpg",
+                        "available":"Out of Stock",
+                        "id":"426826",
+                        "brand":"AMERICAN TACTICAL",
+                        "upc":"819644023548",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"Lowers",
+                        "product_url":"/product/426826/ATIGALEOLOWRECEIVER556",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AMERICAN TACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI MILSPORT STRIPPED LOWER | 892756002687",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/106618.jpg",
+                        "available":"Out of Stock",
+                        "id":"18337",
+                        "brand":"ATI",
+                        "upc":"892756002687",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Receivers",
+                        "SUBTYP_1":"Lowers",
+                        "product_url":"/product/18337/ATIMILSPORTSTRIPPEDLOWER",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ATI"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,5242 @@
+
+[
+
+
+{
+    "id":1,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-black-powder",
+    "TYP":"BLACK POWDER",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":2,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-books-and-videos",
+    "TYP":"BOOKS AND VIDEOS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":3,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-bore-sighter-brushes",
+    "TYP":"BORE SIGHTER/BRUSHES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":4,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-cbd",
+    "TYP":"CBD",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":5,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-electronics-cameras",
+    "TYP":"ELECTRONICS",
+	"SUBTYP_1":"CAMERAS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":6,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-electronics",
+    "TYP":"ELECTRONICS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":7,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-electronics-lasers",
+    "TYP":"ELECTRONICS",
+	"SUBTYP_1":"LASERS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":8,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "test", 
+	"KEYWORDS": "test",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":9,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-firearm-accessories-bipods-monopods-tripods",
+    "TYP":"FIREARM ACCESSORIES",
+	"SUBTYP_1":"BIPODS MONOPODS TRIPODS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":10,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-firearm-accessories-braces",
+    "TYP":"FIREARM ACCESSORIES",
+	"SUBTYP_1":"BRACES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":11,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-firearm-accessories",
+    "TYP":"FIREARM ACCESSORIES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":12,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-firearm-accessories-lights",
+    "TYP":"FIREARM ACCESSORIES",
+	"SUBTYP_1":"LIGHTS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":13,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-firearm-accessories-mounts",
+    "TYP":"FIREARM ACCESSORIES",
+	"SUBTYP_1":"MOUNTS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":14,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-firearm-accessories-rails-bases",
+    "TYP":"FIREARM ACCESSORIES",
+	"SUBTYP_1":"RAILS AND BASES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":15,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-firearm-accessories-recoil-pads-and-shell-holders",
+    "TYP":"FIREARM ACCESSORIES",
+	"SUBTYP_1":"RECOIL PADS AND SHELL HOLDERS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":16,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-firearm-accessories-safety",
+    "TYP":"FIREARM ACCESSORIES",
+	"SUBTYP_1":"SAFETY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":17,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-firearm-accessories-shooting-rests",
+    "TYP":"FIREARM ACCESSORIES",
+	"SUBTYP_1":"SHOOTING RESTS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":18,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-firearm-accessories-speedloaders",
+    "TYP":"FIREARM ACCESSORIES",
+	"SUBTYP_1":"SPEEDLOADERS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":19,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-firearm-accessories-suppressor-accessories",
+    "TYP":"FIREARM ACCESSORIES",
+	"SUBTYP_1":"SUPPRESSOR ACCESSORIES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":20,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-holsters",
+    "TYP":"HOLSTERS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":21,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-knives",
+    "TYP":"KNIVES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":22,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-lights-lasers-batteries",
+    "TYP":"LIGHTS LASERS BATTERIES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":23,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-magazines",
+    "TYP":"MAGAZINES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":24,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-magazines-magazine-accessories",
+    "TYP":"MAGAZINES",
+	"SUBTYP_1":"MAGAZINE ACCESSORIES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":25,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-magazines-magazine-loaders",
+    "TYP":"MAGAZINES",
+	"SUBTYP_1":"MAGAZINE LOADERS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":26,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-magazines-speedloaders",
+    "TYP":"MAGAZINES",
+	"SUBTYP_1":"SPEEDLOADERS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":27,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-other",
+    "TYP":"OTHER",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":28,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-pets-collars",
+    "TYP":"PETS",
+	"SUBTYP_1":"COLLARS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":29,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-pets",
+    "TYP":"PETS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":30,
+    "DEPT": "ACCESSORIES",
+	"URL":"accessories-safes-and-security",
+    "TYP":"SAFES AND SECURITY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":31,
+    "DEPT": "AIR GUNS",
+	"URL":"air-guns-accessories",
+    "TYP":"ACCESSORIES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":32,
+    "DEPT": "AIR GUNS",
+	"URL":"air-guns-air-pistols-and-rifles",
+    "TYP":"AIR PISTOLS AND RIFLES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":33,
+    "DEPT": "AIR GUNS",
+	"URL":"air-guns",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":34,
+    "DEPT": "AMMUNITION",
+	"URL":"ammunition-ammo",
+    "TYP":"AMMO",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":35,
+    "DEPT": "AMMUNITION",
+	"URL":"ammunition-black-powder",
+    "TYP":"BLACK POWDER",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":36,
+    "DEPT": "AMMUNITION",
+	"URL":"ammunition-blanks-slugs",
+    "TYP":"BLANKS/SLUGS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":37,
+    "DEPT": "AMMUNITION",
+	"URL":"ammunition",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":38,
+    "DEPT": "AMMUNITION",
+	"URL":"ammunition-pistol",
+    "TYP":"PISTOL",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":39,
+    "DEPT": "AMMUNITION",
+	"URL":"ammunition-rifle",
+    "TYP":"RIFLE",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":40,
+    "DEPT": "AMMUNITION",
+	"URL":"ammunition-rifle-hunting",
+    "TYP":"RIFLE",
+	"SUBTYP_1":"HUNTING",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":41,
+    "DEPT": "AMMUNITION",
+	"URL":"ammunition-rimfire",
+    "TYP":"RIMFIRE",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":42,
+    "DEPT": "AMMUNITION",
+	"URL":"ammunition-shotshell-birdshot",
+    "TYP":"SHOTSHELL",
+	"SUBTYP_1":"BIRDSHOT",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":43,
+    "DEPT": "AMMUNITION",
+	"URL":"ammunition-shotshell-buckshot",
+    "TYP":"SHOTSHELL",
+	"SUBTYP_1":"BUCKSHOT",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":44,
+    "DEPT": "AMMUNITION",
+	"URL":"ammunition-shotshell",
+    "TYP":"SHOTSHELL",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":45,
+    "DEPT": "AMMUNITION",
+	"URL":"ammunition-shotshell-slug",
+    "TYP":"SHOTSHELL",
+	"SUBTYP_1":"SLUG",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":46,
+    "DEPT": "AMMUNITION",
+	"URL":"ammunition-shotshell-specialty",
+    "TYP":"SHOTSHELL",
+	"SUBTYP_1":"SPECIALTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":47,
+    "DEPT": "APPAREL",
+	"URL":"apparel-baselayer",
+    "TYP":"BASELAYER",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":48,
+    "DEPT": "APPAREL",
+	"URL":"apparel-belts",
+    "TYP":"BELTS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":49,
+    "DEPT": "APPAREL",
+	"URL":"apparel-bottoms",
+    "TYP":"BOTTOMS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":50,
+    "DEPT": "APPAREL",
+	"URL":"apparel",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "Apparel | Buy Apparel Online | Apparel for Sale at Cumulus Firearm Template 1: Cumulus Firearm Template 1", 
+	"KEYWORDS": "Apparel , Buy Shirts Online, Apparels for Sale",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":"ZHNh"
+	
+}
+, 
+
+{
+    "id":51,
+    "DEPT": "APPAREL",
+	"URL":"apparel-footwear-boots",
+    "TYP":"FOOTWEAR",
+	"SUBTYP_1":"BOOTS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":52,
+    "DEPT": "APPAREL",
+	"URL":"apparel-footwear",
+    "TYP":"FOOTWEAR",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":53,
+    "DEPT": "APPAREL",
+	"URL":"apparel-footwear-accessories",
+    "TYP":"FOOTWEAR ACCESSORIES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":54,
+    "DEPT": "APPAREL",
+	"URL":"apparel-gloves",
+    "TYP":"GLOVES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":55,
+    "DEPT": "APPAREL",
+	"URL":"apparel-headwear-and-eyewear-beanies",
+    "TYP":"HEADWEAR AND EYEWEAR",
+	"SUBTYP_1":"BEANIES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":56,
+    "DEPT": "APPAREL",
+	"URL":"apparel-headwear-and-eyewear-caps-hats",
+    "TYP":"HEADWEAR AND EYEWEAR",
+	"SUBTYP_1":"CAPS & HATS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":57,
+    "DEPT": "APPAREL",
+	"URL":"apparel-headwear-and-eyewear",
+    "TYP":"HEADWEAR AND EYEWEAR",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":58,
+    "DEPT": "APPAREL",
+	"URL":"apparel-headwear-and-eyewear-masks",
+    "TYP":"HEADWEAR AND EYEWEAR",
+	"SUBTYP_1":"MASKS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":59,
+    "DEPT": "APPAREL",
+	"URL":"apparel-outerwear",
+    "TYP":"OUTERWEAR",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":60,
+    "DEPT": "APPAREL",
+	"URL":"apparel-outerwear-rainwear",
+    "TYP":"OUTERWEAR",
+	"SUBTYP_1":"RAINWEAR",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":61,
+    "DEPT": "APPAREL",
+	"URL":"apparel-outerwear-vests",
+    "TYP":"OUTERWEAR",
+	"SUBTYP_1":"VESTS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":62,
+    "DEPT": "APPAREL",
+	"URL":"apparel-tops",
+    "TYP":"TOPS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":63,
+    "DEPT": "APPAREL",
+	"URL":"apparel-vests",
+    "TYP":"VESTS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":64,
+    "DEPT": "ARCHERY",
+	"URL":"archery-accessories-bow-shop",
+    "TYP":"ACCESSORIES",
+	"SUBTYP_1":"BOW SHOP",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":65,
+    "DEPT": "ARCHERY",
+	"URL":"archery-accessories",
+    "TYP":"ACCESSORIES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":66,
+    "DEPT": "ARCHERY",
+	"URL":"archery-arrows",
+    "TYP":"ARROWS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":67,
+    "DEPT": "ARCHERY",
+	"URL":"archery-bows-and-crossbows-broadheads",
+    "TYP":"BOWS AND CROSSBOWS",
+	"SUBTYP_1":"BROADHEADS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":68,
+    "DEPT": "ARCHERY",
+	"URL":"archery-bows-and-crossbows-compound",
+    "TYP":"BOWS AND CROSSBOWS",
+	"SUBTYP_1":"COMPOUND",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":69,
+    "DEPT": "ARCHERY",
+	"URL":"archery-bows-and-crossbows-crossbow-bolts-and-arrows",
+    "TYP":"BOWS AND CROSSBOWS",
+	"SUBTYP_1":"CROSSBOW BOLTS AND ARROWS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":70,
+    "DEPT": "ARCHERY",
+	"URL":"archery-bows-and-crossbows-crossbows",
+    "TYP":"BOWS AND CROSSBOWS",
+	"SUBTYP_1":"CROSSBOWS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":71,
+    "DEPT": "ARCHERY",
+	"URL":"archery-bows-and-crossbows",
+    "TYP":"BOWS AND CROSSBOWS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":72,
+    "DEPT": "ARCHERY",
+	"URL":"archery-cases-and-storage",
+    "TYP":"CASES AND STORAGE",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":73,
+    "DEPT": "ARCHERY",
+	"URL":"archery-crossbow-accessories",
+    "TYP":"CROSSBOW ACCESSORIES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":74,
+    "DEPT": "ARCHERY",
+	"URL":"archery",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "archery", 
+	"KEYWORDS": "archery",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":"PGRpdiBzdHlsZT0idGV4dC1hbGlnbjogbGVmdDsiPjxiIHN0eWxlPSJmb250LXNpemU6IDFyZW07Ij5CdXlpbmc8L2I+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMXJlbTsgZm9udC1mYW1pbHk6IENhbGlicmksIFZlcmRhbmEsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsiPiBmaXJlYXJtcyBhdCA8L3NwYW4+PGkgc3R5bGU9ImZvbnQtc2l6ZTogMXJlbTsiPkN1bXVsdXMgVGVtcGxhdGUgMTwvaT48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxcmVtOyBmb250LWZhbWlseTogQ2FsaWJyaSwgVmVyZGFuYSwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyI+IGlzIDwvc3Bhbj48dSBzdHlsZT0iZm9udC1zaXplOiAxcmVtOyI+c2ltcGxlPC91PjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDFyZW07IGZvbnQtZmFtaWx5OiBDYWxpYnJpLCBWZXJkYW5hLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7Ij4gYW5kIHF1aWNrLjwvc3Bhbj48L2Rpdj48ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOiBsZWZ0OyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBDYWxpYnJpLCBWZXJkYW5hLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMXJlbTsiPjxmb250IGNvbG9yPSIjZjc5NjQ2Ij5IYW5kZ3VucyBmb3Igc2FsZSBhdCBhZmZvcmRhYmxlIHJhdGVzLjwvZm9udD48L3NwYW4+PC9kaXY+PGRpdiBzdHlsZT0idGV4dC1hbGlnbjogbGVmdDsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDFyZW07Ij4mbmJzcDtXZSBvZmZlciB5b3UgdG8gYnV5IGZpcmVhcm0gcHJvZHVjdHMgd2l0aCBmZXcgY2xpY2tzIGZvciBtb3JlIGRldGFpbHMgY2FsbCB1czwvc3Bhbj48YSBocmVmPSJ0ZWw6MTIzLTQ1Ni03ODkwIiB0YXJnZXQ9Il9ibGFuayIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6IHJnYigyNTUsIDI1NSwgMjU1KTsgZm9udC1zaXplOiAxcmVtOyI+MTIzLTQ1Ni03ODkwPC9hPjwvZGl2Pg=="
+	
+}
+, 
+
+{
+    "id":75,
+    "DEPT": "CAMPING & OUTDOOR",
+	"URL":"camping-outdoor-backpacks-and-gearbags-and-bags-bag",
+    "TYP":"BACKPACKS & GEARBAGS & BAGS",
+	"SUBTYP_1":"BAG",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":76,
+    "DEPT": "CAMPING & OUTDOOR",
+	"URL":"camping-outdoor-backpacks-and-gearbags-and-bags",
+    "TYP":"BACKPACKS & GEARBAGS & BAGS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":77,
+    "DEPT": "CAMPING & OUTDOOR",
+	"URL":"camping-outdoor-backpacks-and-gearbags-and-bags-pouch",
+    "TYP":"BACKPACKS & GEARBAGS & BAGS",
+	"SUBTYP_1":"POUCH",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":78,
+    "DEPT": "CAMPING & OUTDOOR",
+	"URL":"camping-outdoor-cooking",
+    "TYP":"COOKING",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":79,
+    "DEPT": "CAMPING & OUTDOOR",
+	"URL":"camping-outdoor-coolers-drinkware",
+    "TYP":"COOLERS-DRINKWARE",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":80,
+    "DEPT": "CAMPING & OUTDOOR",
+	"URL":"camping-outdoor",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":81,
+    "DEPT": "CAMPING & OUTDOOR",
+	"URL":"camping-outdoor-food-and-food-storage",
+    "TYP":"FOOD AND FOOD STORAGE",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":82,
+    "DEPT": "CAMPING & OUTDOOR",
+	"URL":"camping-outdoor-hike",
+    "TYP":"HIKE",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":83,
+    "DEPT": "CAMPING & OUTDOOR",
+	"URL":"camping-outdoor-hydration-systems",
+    "TYP":"HYDRATION SYSTEMS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":84,
+    "DEPT": "CAMPING & OUTDOOR",
+	"URL":"camping-outdoor-personal-defense",
+    "TYP":"PERSONAL DEFENSE",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":85,
+    "DEPT": "CAMPING & OUTDOOR",
+	"URL":"camping-outdoor-survival",
+    "TYP":"SURVIVAL",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":86,
+    "DEPT": "CAMPING & OUTDOOR",
+	"URL":"camping-outdoor-tools-and-equipment",
+    "TYP":"TOOLS AND EQUIPMENT",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":87,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cases-ammo-boxes",
+    "TYP":"CASES",
+	"SUBTYP_1":"AMMO BOXES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":88,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cases-archery-cases",
+    "TYP":"CASES",
+	"SUBTYP_1":"ARCHERY CASES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":89,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cases",
+    "TYP":"CASES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":90,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cases-handgun-cases",
+    "TYP":"CASES",
+	"SUBTYP_1":"HANDGUN CASES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":91,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cases-multi-purpose-bags",
+    "TYP":"CASES",
+	"SUBTYP_1":"MULTI-PURPOSE BAGS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":92,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cases-other",
+    "TYP":"CASES",
+	"SUBTYP_1":"OTHER",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":93,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cases-rifle-cases",
+    "TYP":"CASES",
+	"SUBTYP_1":"RIFLE CASES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":94,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cases-shotgun-cases",
+    "TYP":"CASES",
+	"SUBTYP_1":"SHOTGUN CASES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":95,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cases-utility",
+    "TYP":"CASES",
+	"SUBTYP_1":"UTILITY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":96,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cleaning-barrel-cleaning",
+    "TYP":"CLEANING",
+	"SUBTYP_1":"BARREL CLEANING",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":97,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cleaning-cleaning-cloth-brushes-and-patches",
+    "TYP":"CLEANING",
+	"SUBTYP_1":"CLEANING CLOTH BRUSHES AND PATCHES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":98,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cleaning-cleaning-kits",
+    "TYP":"CLEANING",
+	"SUBTYP_1":"CLEANING KITS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":99,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cleaning-cleaning-solvents-lubricants",
+    "TYP":"CLEANING",
+	"SUBTYP_1":"CLEANING SOLVENTS AND LUBRICANTS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":100,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cleaning-other-cleaning-supplies",
+    "TYP":"CLEANING",
+	"SUBTYP_1":"CLEANING SUPPLIES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":101,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-cleaning",
+    "TYP":"CLEANING",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":102,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "Firearms | Buy Firearms Online | Firearm for Sale at Cumulus Firearm Template 1: Cumulus Firearm Template 1", 
+	"KEYWORDS": "guns, tactical, hunting, Mossberg, Colt, Glock, Kimber, Remington, Daniel Defense, gun store, Guns and Ammo, gun classes, firearms, gun pro, Remington, Smith & Wesson, Savage, Ruger, Fun with guns, gun laws, Emergency, Survival Gear, Self Defense, Guns For Sale Online, Guns Safety, Sunrise Outfitters, Searcy Gun Store, Searcy Gun Dealer, Searcy Guns, Arkansas Gun Dealer, Arkansas Gun Store, Arkansas Guns",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":103,
+    "DEPT": "CLEANING & STORAGE",
+	"URL":"cleaning-storage-safes-vaults",
+    "TYP":"SAFES AND VAULTS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":104,
+    "DEPT": "CLOTHES",
+	"URL":"CLOTHES",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":105,
+    "DEPT": "CLOTHES",
+	"URL":"LEVIS",
+    "TYP":"LEVIS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":106,
+    "DEPT": "CLOTHES",
+	"URL":"SWIMWEAR",
+    "TYP":"SWIMWEAR",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":107,
+    "DEPT": "DUTY GEAR",
+	"URL":"duty-gear",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":108,
+    "DEPT": "DUTY GEAR",
+	"URL":"duty-gear-holsters",
+    "TYP":"HOLSTERS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":109,
+    "DEPT": "DUTY GEAR",
+	"URL":"duty-gear-lights",
+    "TYP":"LIGHTS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":110,
+    "DEPT": "DUTY GEAR",
+	"URL":"duty-gear-restraints",
+    "TYP":"RESTRAINTS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":111,
+    "DEPT": "DUTY GEAR",
+	"URL":"duty-gear-training-defense",
+    "TYP":"TRAINING DEFENSE",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":112,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-black-powder",
+    "TYP":"BLACK POWDER",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":113,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-combo",
+    "TYP":"COMBO",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":114,
+    "DEPT": "FIREARMS",
+	"URL":"firearms",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "Firearms | Buy Firearms Online | Firearm for Sale", 
+	"KEYWORDS": "Firearms, Buy Firearm, Firearms for sale, Firearms Sale",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"Firearms - Leading Branded Firearm Products",
+	"seo_cat_text":"PGZvbnQgY29sb3I9IiMyMTI1MjkiPkFyZSB5b3UgbG9va2luZyBmb3IgdGhlIGJlc3QgaG9tZSBkZWZlbnNlIDxzcGFuIGNsYXNzPSJoaWdobGlnaHQiPmZpcmVhcm1zPC9zcGFuPiZuYnNwOyBBcmUgeW91IGEgaHVudGVyLCBzaG9vdGVyLCBvciBtYXJrc21lbiBhbmQgbG9va2luZyBmb3IgdGhlIGJlc3QgZ3VucyBJZiBzb21lb25lIGRpZCBub3QgZ2V0IHRoZSByZWxldmFudCBwcm9kdWN0IHRoYXQgd2hhdCBoZSB3YW50cy4gVGhlbiB0aGUgYnV5ZXJzIHNhaWQsIHdlIGFyZSB0aXJlZCwgYW5kIHRoYXQgaXMgdGhlIGNvbW1vbiBzdGF0ZW1lbnQgb2YgZmlyZWFybSBidXllcnMuIEJ1dCBDPC9mb250PjxzcGFuIHN0eWxlPSJjb2xvcjogcmdiKDczLCA4MCwgODcpOyI+dW11bHVzJm5ic3A7PC9zcGFuPjxmb250IGNvbG9yPSIjMjEyNTI5Ij5uZXZlciByZWZ1c2VkIHRoZSBvbmxpbmUgZmlyZWFybXMgYnV5ZXJzLCBhbmQgd2Ugb2ZmZXIgdGhlIGJlc3QgZmlyZWFybXMgZm9yIHNhbGUgYXQgYWZmb3JkYWJsZSByYXRlcyBuZWFyIHlvdSAyNC83LiBDdW11bHVzIGlzIHRoZSByaWdodCB3ZWJzaXRlIHRvIGJlZ2luIHlvdXIgc2hvcHBpbmcgZm9yIGZpcmVhcm1zIG9ubGluZS4gV2l0aCB0aGUgYmVzdCByYW5nZSBvZiBmaXJlYXJtcyBhdCBhZmZvcmRhYmxlIHByaWNlcywgeW91IGNhbiBidXkgb25saW5lIGhhbmRndW5zLCBibGFjayBwb3dkZXIsIGNvbWJvLCByZWNlaXZlcnMsIHJldm9sdmVycywgcmlmbGVzLCBzaG90Z3VucywgYW5kIG90aGVyIHRhY3RpY2FsIHRvcCBicmFuZGVkIGZpcmVhcm1zLiBXZSBkZWFsIGluIHRoZSB0b3AgZmlyZWFybSBicmFuZHMgbGlrZSBEUE1TLCBHTE9DSywgU21pdGggYW5kIFdlc3NvbiwgVGF1cnVzLCBNb3NzYmVyZywgUmVtaW5ndG9uLCBhbmQgbW9yZS4gV2UgaGF2ZSBhIHdpZGUgcmFuZ2Ugb2YgYXV0b21hdGljIGFuZCBzZW1pLWF1dG9tYXRpYyBmaXJlYXJtcyBpbiBvdXIgc3RvY2suIFdlIGRlYWwgaW4gdGhlIGJlc3QgZ3VucyBmcm9tIHRoZSBtb3N0IHJlbGlhYmxlIGZpcmVhcm1zIG1hbnVmYWN0dXJpbmcgY29tcGFuaWVzLiBZb3UgY2FuIGhhdmUgZnVsbCB0cnVzdCBpbiB5b3VyIGJ1eWluZyBwcm9kdWN0cy4gWW91IGp1c3QgbmVlZCB0byBnbyB0aHJvdWdoIG91ciBmaXJlYXJtcyBwcm9kdWN0cyBhbmQgcGxhY2UgYW4gb3JkZXIgdG8gZ2V0IHlvdXIgZmF2b3JpdGUgZ3Vucy4gV2UgYWxzbyBkZWFsIGluIGFtbXVuaXRpb24sIG9wdGljYWwgcHJvZHVjdHMsIGtuaXZlcywgZ3VuIHBhcnRzLCBmaXJlYXJtcyBhbmQgZ3VuIGNsZWFuaW5nLCBkdXR5IGdlYXJzLCBhbmQgc2FmZXR5IHByb2R1Y3RzLiBCdXkgZmlyZWFybXMgZnJvbSB1cy4gRm9yIG1vcmUgZGV0YWlscywgY2FsbCBhdCA5NTEtNDI2LTAwMDEuPC9mb250Pg=="
+	
+}
+, 
+
+{
+    "id":115,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-frames",
+    "TYP":"FRAMES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":116,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-handguns",
+    "TYP":"HANDGUNS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":117,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-handguns-pistols",
+    "TYP":"HANDGUNS",
+	"SUBTYP_1":"PISTOLS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":118,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-handguns-revolvers",
+    "TYP":"HANDGUNS",
+	"SUBTYP_1":"REVOLVERS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":119,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-muzzleloader",
+    "TYP":"MUZZLELOADER",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":120,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-nfa",
+    "TYP":"NFA",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":121,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-nfa-silencers",
+    "TYP":"NFA",
+	"SUBTYP_1":"SILENCERS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":122,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-receivers",
+    "TYP":"RECEIVERS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":123,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-receivers-lowers",
+    "TYP":"RECEIVERS",
+	"SUBTYP_1":"LOWERS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":124,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-revolvers",
+    "TYP":"REVOLVERS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":125,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles-action",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"ACTION",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":126,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles-bolt-action",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"BOLT-ACTION",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":127,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles-centerfire",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"CENTERFIRE",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":128,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":129,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles-hunting",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"HUNTING",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":130,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles-lever-action",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"LEVER-ACTION",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":131,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles-over-under",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"OVER UNDER",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":132,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles-pump",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"PUMP",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":133,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles-rimfire",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"RIMFIRE",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":134,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles-semi-auto",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"SEMI-AUTO",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":135,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles-side-by-side",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"SIDE BY SIDE",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":136,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles-single-shot",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"SINGLE-SHOT",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":137,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles-sporting",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"SPORTING",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":138,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-rifles-tactical-rifles",
+    "TYP":"RIFLES",
+	"SUBTYP_1":"TACTICAL RIFLES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":139,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-shotguns-action",
+    "TYP":"SHOTGUNS",
+	"SUBTYP_1":"ACTION",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":140,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-shotguns-bolt",
+    "TYP":"SHOTGUNS",
+	"SUBTYP_1":"BOLT",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":141,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-shotguns",
+    "TYP":"SHOTGUNS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":142,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-shotguns-over-under",
+    "TYP":"SHOTGUNS",
+	"SUBTYP_1":"OVER UNDER",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":143,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-shotguns-pump",
+    "TYP":"SHOTGUNS",
+	"SUBTYP_1":"PUMP",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":144,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-shotguns-semi-auto",
+    "TYP":"SHOTGUNS",
+	"SUBTYP_1":"SEMI AUTO",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":145,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-shotguns-side-by-side",
+    "TYP":"SHOTGUNS",
+	"SUBTYP_1":"SIDE BY SIDE",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":146,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-shotguns-single-barrel",
+    "TYP":"SHOTGUNS",
+	"SUBTYP_1":"SINGLE BARREL",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":147,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-shotguns-single-shot-and-bolt",
+    "TYP":"SHOTGUNS",
+	"SUBTYP_1":"SINGLE SHOT AND BOLT",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":148,
+    "DEPT": "FIREARMS",
+	"URL":"firearms-shotguns-tactical",
+    "TYP":"SHOTGUNS",
+	"SUBTYP_1":"TACTICAL",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":149,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-accessories",
+    "TYP":"ACCESSORIES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":150,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-action",
+    "TYP":"ACTION",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":151,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-ar",
+    "TYP":"AR",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":152,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-barrels",
+    "TYP":"BARRELS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":153,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-bipods-rests",
+    "TYP":"BIPODS AND RESTS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":154,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-bolts",
+    "TYP":"BOLTS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":155,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-chokes",
+    "TYP":"CHOKES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":156,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-complete-uppers",
+    "TYP":"COMPLETE UPPERS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":157,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-conversion-kits",
+    "TYP":"CONVERSION KITS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":158,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":159,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-frames-chassis",
+    "TYP":"FRAMES AND CHASSIS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":160,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-gas-blocks",
+    "TYP":"GAS BLOCKS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":161,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-grips",
+    "TYP":"GRIPS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":162,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-gunsmithing",
+    "TYP":"GUNSMITHING",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":163,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-handgun",
+    "TYP":"HANDGUN",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":164,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-long-gun",
+    "TYP":"LONG GUNS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":165,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-magazines",
+    "TYP":"MAGAZINES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":166,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-muzzle-devices",
+    "TYP":"MUZZLE DEVICES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":167,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-other",
+    "TYP":"OTHER",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":168,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-recoil-pads",
+    "TYP":"RECOIL PADS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":169,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-sights",
+    "TYP":"SIGHTS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":170,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-slides",
+    "TYP":"SLIDES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":171,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-slings-and-swivels",
+    "TYP":"SLINGS AND SWIVELS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":172,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-stocks",
+    "TYP":"STOCKS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":173,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-tools",
+    "TYP":"TOOLS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":174,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-triggers",
+    "TYP":"TRIGGERS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":175,
+    "DEPT": "GUN PARTS",
+	"URL":"gun-parts-uppers",
+    "TYP":"UPPERS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":176,
+    "DEPT": "HUNTING",
+	"URL":"hunting-atv",
+    "TYP":"ATV",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":177,
+    "DEPT": "HUNTING",
+	"URL":"hunting-blinds-accessories",
+    "TYP":"BLINDS AND ACCESSORIES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":178,
+    "DEPT": "HUNTING",
+	"URL":"hunting-decoys",
+    "TYP":"DECOYS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":179,
+    "DEPT": "HUNTING",
+	"URL":"hunting",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":180,
+    "DEPT": "HUNTING",
+	"URL":"hunting-feeders",
+    "TYP":"FEEDERS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":181,
+    "DEPT": "HUNTING",
+	"URL":"hunting-hunting",
+    "TYP":"HUNTING",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":182,
+    "DEPT": "HUNTING",
+	"URL":"hunting-repellents",
+    "TYP":"REPELLENTS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":183,
+    "DEPT": "HUNTING",
+	"URL":"hunting-scents",
+    "TYP":"SCENTS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":184,
+    "DEPT": "HUNTING",
+	"URL":"hunting-targets",
+    "TYP":"TARGETS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":185,
+    "DEPT": "KNIVES AND TOOLS",
+	"URL":"knives-and-tools-axes-and-hatches",
+    "TYP":"AXES AND HATCHETS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":186,
+    "DEPT": "KNIVES AND TOOLS",
+	"URL":"knives-and-tools",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":187,
+    "DEPT": "KNIVES AND TOOLS",
+	"URL":"knives-and-tools-fixed",
+    "TYP":"FIXED",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":188,
+    "DEPT": "KNIVES AND TOOLS",
+	"URL":"knives-and-tools-folding",
+    "TYP":"FOLDING",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":189,
+    "DEPT": "KNIVES AND TOOLS",
+	"URL":"knives-and-tools-multi-tools",
+    "TYP":"MULTI-TOOLS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":190,
+    "DEPT": "KNIVES AND TOOLS",
+	"URL":"knives-and-tools-other-blades-accessories",
+    "TYP":"OTHER BLADES-ACCESSORIES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":191,
+    "DEPT": "KNIVES AND TOOLS",
+	"URL":"knives-and-tools-sharpeners-and-accessories",
+    "TYP":"SHARPENERS AND ACCESSORIES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":192,
+    "DEPT": "NM TEST DEPT",
+	"URL":"nm-test-dept",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":193,
+    "DEPT": "NM TEST DEPT",
+	"URL":"nm-test-dept-linked",
+    "TYP":"LINKED DROP DOWNS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":194,
+    "DEPT": "OPTICS",
+	"URL":"optics-accessories",
+    "TYP":"ACCESSORIES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":195,
+    "DEPT": "OPTICS",
+	"URL":"optics-binoculars",
+    "TYP":"BINOCULARS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":196,
+    "DEPT": "OPTICS",
+	"URL":"optics",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":197,
+    "DEPT": "OPTICS",
+	"URL":"optics-nv-thermal",
+    "TYP":"NIGHT VISION AND THERMAL",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":198,
+    "DEPT": "OPTICS",
+	"URL":"optics-nv-thermal-night-vision",
+    "TYP":"NIGHT VISION AND THERMAL",
+	"SUBTYP_1":"NIGHT VISION",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":199,
+    "DEPT": "OPTICS",
+	"URL":"optics-optics",
+    "TYP":"OPTICS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":200,
+    "DEPT": "OPTICS",
+	"URL":"optics-range-finders",
+    "TYP":"RANGE FINDERS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":201,
+    "DEPT": "OPTICS",
+	"URL":"optics-red-dot",
+    "TYP":"RED DOT",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":202,
+    "DEPT": "OPTICS",
+	"URL":"optics-scopes",
+    "TYP":"SCOPES",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":203,
+    "DEPT": "OPTICS",
+	"URL":"optics-scopes-handgun",
+    "TYP":"SCOPES",
+	"SUBTYP_1":"HANDGUN",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":204,
+    "DEPT": "OPTICS",
+	"URL":"optics-scopes-rifle",
+    "TYP":"SCOPES",
+	"SUBTYP_1":"RIFLE",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":205,
+    "DEPT": "OPTICS",
+	"URL":"optics-scopes-spotting",
+    "TYP":"SCOPES",
+	"SUBTYP_1":"SPOTTING",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":206,
+    "DEPT": "OPTICS",
+	"URL":"optics-sights-archery",
+    "TYP":"SIGHTS",
+	"SUBTYP_1":"ARCHERY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":207,
+    "DEPT": "OPTICS",
+	"URL":"optics-sights",
+    "TYP":"SIGHTS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":208,
+    "DEPT": "OPTICS",
+	"URL":"optics-sights-laser",
+    "TYP":"SIGHTS",
+	"SUBTYP_1":"LASER",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":209,
+    "DEPT": "OPTICS",
+	"URL":"optics-sights-pistol",
+    "TYP":"SIGHTS",
+	"SUBTYP_1":"PISTOL",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":210,
+    "DEPT": "OPTICS",
+	"URL":"optics-viewing",
+    "TYP":"VIEWING",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":211,
+    "DEPT": "OPTICS",
+	"URL":"optics-viewing-monoculars",
+    "TYP":"VIEWING",
+	"SUBTYP_1":"MONOCULARS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":212,
+    "DEPT": "SAFETY PRODUCTS",
+	"URL":"safety-products-ear-protection",
+    "TYP":"EAR PROTECTION",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":213,
+    "DEPT": "SAFETY PRODUCTS",
+	"URL":"safety-products",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "safty", 
+	"KEYWORDS": "safty",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":214,
+    "DEPT": "SAFETY PRODUCTS",
+	"URL":"safety-products-eye-protection",
+    "TYP":"EYE PROTECTION",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":215,
+    "DEPT": "SAFETY PRODUCTS",
+	"URL":"safety-products-other",
+    "TYP":"OTHER",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":216,
+    "DEPT": "SAFETY PRODUCTS",
+	"URL":"safety-products-pepper-sprays",
+    "TYP":"PEPPER SPRAYS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":217,
+    "DEPT": "SAFETY PRODUCTS",
+	"URL":"safety-products-safety-and-protection",
+    "TYP":"SAFETY AND PROTECTION",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":218,
+    "DEPT": "SAFETY PRODUCTS",
+	"URL":"safety-products-stun-guns",
+    "TYP":"STUN GUNS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":219,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies",
+    "TYP":"EMPTY",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":220,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-hunting",
+    "TYP":"HUNTING",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":221,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-hunting-gear",
+    "TYP":"HUNTING",
+	"SUBTYP_1":"GEAR",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":222,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-hunting-scents",
+    "TYP":"HUNTING",
+	"SUBTYP_1":"SCENTS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":223,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-hunting-trapping",
+    "TYP":"HUNTING",
+	"SUBTYP_1":"TRAPPING",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":224,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-primers-and-powders",
+    "TYP":"PRIMERS AND POWDERS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":225,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-reloading-accessories",
+    "TYP":"RELOADING",
+	"SUBTYP_1":"ACCESSORIES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":226,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-reloading-brass",
+    "TYP":"RELOADING",
+	"SUBTYP_1":"BRASS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":227,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-reloading-bullet-casting",
+    "TYP":"RELOADING",
+	"SUBTYP_1":"BULLET CASTING",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":228,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-reloading-bullets",
+    "TYP":"RELOADING",
+	"SUBTYP_1":"BULLETS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":229,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-reloading-components",
+    "TYP":"RELOADING",
+	"SUBTYP_1":"COMPONENTS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":230,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-reloading-dies",
+    "TYP":"RELOADING",
+	"SUBTYP_1":"DIES",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":231,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-reloading",
+    "TYP":"RELOADING",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":232,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-reloading-presses and equipment",
+    "TYP":"RELOADING",
+	"SUBTYP_1":"PRESSES AND EQUIPMENT",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":233,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-reloading-tools-and Equipment",
+    "TYP":"RELOADING",
+	"SUBTYP_1":"TOOLS AND EQUIPMENT",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":234,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-reloading-wads",
+    "TYP":"RELOADING",
+	"SUBTYP_1":"WADS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":235,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-targets-electronic",
+    "TYP":"TARGETS",
+	"SUBTYP_1":"ELECTRONIC",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":236,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-targets",
+    "TYP":"TARGETS",
+	"SUBTYP_1":"EMPTY",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":237,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-targets-other",
+    "TYP":"TARGETS",
+	"SUBTYP_1":"OTHER",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+, 
+
+{
+    "id":238,
+    "DEPT": "SUPPLIES",
+	"URL":"supplies-targets-throwers",
+    "TYP":"TARGETS",
+	"SUBTYP_1":"THROWERS",
+	"SUBTYP_2":"EMPTY",
+	"SUBTYP_3":"EMPTY",
+	"SUBTYP_4":"EMPTY",
+	"TITLE": "", 
+	"KEYWORDS": "",
+	
+	"ENTRY_TIME":"N",
+	
+	"DESCRIPTION": ""
+	
+	,"seo_cat_title":"",
+	"seo_cat_text":""
+	
+}
+
+]
+
+

@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"SILVER SHADOW GILBOA M43 CARBINE RIA 7.62X39MM 16IN BBL BLACK 130RD MAG 110RH TWIST | 810703030033",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123201.jpg",
+                        "available":"Out of Stock",
+                        "id":"313361",
+                        "brand":"SILVERSHADOW",
+                        "upc":"810703030033",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/313361/SILVERSHADOWGILBOAM43CARBINERIA762X39MM16INBBLBLACK130RDMAG110RHTWIST",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SILVERSHADOW"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SILVER SHADOW GILBOA M43 PISTOL HGA 7.62X39MM 7.5IN BBL BLK W STABILIZING BRACE 30RD MAG 110RH TW. | 810703030057",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123205.jpg",
+                        "available":"Out of Stock",
+                        "id":"313365",
+                        "brand":"SILVERSHADOW",
+                        "upc":"810703030057",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/313365/SILVERSHADOWGILBOAM43PISTOLHGA762X39MM75INBBLBLKWSTABILIZINGBRACE30RDMAG110RHTW",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SILVERSHADOW"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

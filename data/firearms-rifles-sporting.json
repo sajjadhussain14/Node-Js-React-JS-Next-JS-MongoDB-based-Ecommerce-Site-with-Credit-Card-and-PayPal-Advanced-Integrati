@@ -1,0 +1,40 @@
+
+        [
+            
+                    {
+                        "name":"SW MP 15 SPORTII 5.56 30RD | 022188868104",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/4997.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"15046",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188868104",
+                        
+                        "price":757.20,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Sporting",
+                        "product_url":"/product/15046/SWMP15SPORTII55630RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,97 @@
+
+        [
+            
+                    {
+                        "name":"SHAS MR920 9MM BLK FRAME COMBAT SLIDE BRONZE BBL | 810013431513",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1001.jpg",
+                        "available":"Out of Stock",
+                        "id":"308488",
+                        "brand":"SHADOWSYSTEMS",
+                        "upc":"810013431513",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/308488/SHASMR9209MMBLKFRAMECOMBATSLIDEBRONZEBBL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOWSYSTEMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SHD MR920 CMBT 9MM 15 BZ OP TD | 810013431537",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1003.jpg",
+                        "available":"Out of Stock",
+                        "id":"308490",
+                        "brand":"SHADOWSYSTEMS",
+                        "upc":"810013431537",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/308490/SHDMR920CMBT9MM15BZOPTD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOWSYSTEMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SHAS MR920 9MM BLK FRAME ELITE OPTIC SLIDE THREAD | 810013431599",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1009.jpg",
+                        "available":"Out of Stock",
+                        "id":"308484",
+                        "brand":"SHADOWSYSTEMS",
+                        "upc":"810013431599",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/308484/SHASMR9209MMBLKFRAMEELITEOPTICSLIDETHREAD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOWSYSTEMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SHAS MR920 9MM BLK ELITE OPTICS SLIDE DLC BRNZ | 810013431612",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GSS1011.jpg",
+                        "available":"Out of Stock",
+                        "id":"308486",
+                        "brand":"SHADOWSYSTEMS",
+                        "upc":"810013431612",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/308486/SHASMR9209MMBLKELITEOPTICSSLIDEDLCBRNZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SHADOWSYSTEMS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

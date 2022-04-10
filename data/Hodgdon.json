@@ -1,0 +1,557 @@
+
+        [
+            
+                    {
+                        "name":"HODGDON POWDER 414 8 | 039288500896",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/50513.jpg",
+                        "available":"Out of Stock",
+                        "id":"21331",
+                        "brand":"HODGDON",
+                        "upc":"039288500896",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/21331/HODGDONPOWDER4148",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER US869 RIFLE 8LB | 039288538707",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36169.jpg",
+                        "available":"Out of Stock",
+                        "id":"7094",
+                        "brand":"HODGDON",
+                        "upc":"039288538707",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/7094/HODGDONPOWDERUS869RIFLE8LB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER LEVEREVOLUTION 8LB | 039288800309",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/88743.jpg",
+                        "available":"Out of Stock",
+                        "id":"21921",
+                        "brand":"HODGDON",
+                        "upc":"039288800309",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/21921/HODGDONPOWDERLEVEREVOLUTION8LB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER H322 8 KEG | 39288500261",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDH3228.jpg",
+                        "available":"Out of Stock",
+                        "id":"260847",
+                        "brand":"HODGDON",
+                        "upc":"39288500261",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260847/HODGDONPOWDERH3228KEG",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER BLC2 8 | 39288500339",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDBLC28.jpg",
+                        "available":"Out of Stock",
+                        "id":"260841",
+                        "brand":"HODGDON",
+                        "upc":"39288500339",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260841/HODGDONPOWDERBLC28",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER 4895 8 | 39288500612",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDH48958.jpg",
+                        "available":"Out of Stock",
+                        "id":"260849",
+                        "brand":"HODGDON",
+                        "upc":"39288500612",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260849/HODGDONPOWDER48958",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER H1000 8 | 39288500834",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDH10008.jpg",
+                        "available":"Out of Stock",
+                        "id":"260845",
+                        "brand":"HODGDON",
+                        "upc":"39288500834",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260845/HODGDONPOWDERH10008",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWER 4831 8 | 39288501008",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDH48318.jpg",
+                        "available":"Out of Stock",
+                        "id":"260848",
+                        "brand":"HODGDON",
+                        "upc":"39288501008",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260848/HODGDONPOWER48318",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER HP38 8LB | 39288501381",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDHP388.jpg",
+                        "available":"Out of Stock",
+                        "id":"260851",
+                        "brand":"HODGDON",
+                        "upc":"39288501381",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260851/HODGDONPOWDERHP388LB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER HS6 8 | 39288501817",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDHS68.jpg",
+                        "available":"Out of Stock",
+                        "id":"260852",
+                        "brand":"HODGDON",
+                        "upc":"39288501817",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260852/HODGDONPOWDERHS68",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER H110 8 | 39288502098",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDH1108.jpg",
+                        "available":"Out of Stock",
+                        "id":"260846",
+                        "brand":"HODGDON",
+                        "upc":"39288502098",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260846/HODGDONPOWDERH1108",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER H50BMG 8LB | 39288503095",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDH50BMG8.jpg",
+                        "available":"Out of Stock",
+                        "id":"260850",
+                        "brand":"HODGDON",
+                        "upc":"39288503095",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260850/HODGDONPOWDERH50BMG8LB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON CANNON FUSE WATER RESISTANT LACQUERED 15 | 39288509998",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDFUSE1.jpg",
+                        "available":"Out of Stock",
+                        "id":"260844",
+                        "brand":"HODGDON",
+                        "upc":"39288509998",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Black Powder",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260844/HODGDONCANNONFUSEWATERRESISTANTLACQUERED15",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER STANDARD CLAYS 4 LB | 39288531227",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDCLAYS4.jpg",
+                        "available":"Out of Stock",
+                        "id":"260843",
+                        "brand":"HODGDON",
+                        "upc":"39288531227",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260843/HODGDONPOWDERSTANDARDCLAYS4LB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER UNIVERSAL 4 LB | 39288531265",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDUN4.jpg",
+                        "available":"Out of Stock",
+                        "id":"260861",
+                        "brand":"HODGDON",
+                        "upc":"39288531265",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260861/HODGDONPOWDERUNIVERSAL4LB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER UNIVERSAL 8 LB OVER 18 | 39288531272",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDUN8.jpg",
+                        "available":"Out of Stock",
+                        "id":"260862",
+                        "brand":"HODGDON",
+                        "upc":"39288531272",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260862/HODGDONPOWDERUNIVERSAL8LBOVER18",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER INTERNATIONAL CLAYS 8 | 39288531319",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDINT8.jpg",
+                        "available":"Out of Stock",
+                        "id":"260854",
+                        "brand":"HODGDON",
+                        "upc":"39288531319",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260854/HODGDONPOWDERINTERNATIONALCLAYS8",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER TITEWAD 8 | 39288531401",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDTW8.jpg",
+                        "available":"Out of Stock",
+                        "id":"260860",
+                        "brand":"HODGDON",
+                        "upc":"39288531401",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260860/HODGDONPOWDERTITEWAD8",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER LIL GUN 4LB | 39288531517",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDLIL4.jpg",
+                        "available":"Out of Stock",
+                        "id":"260855",
+                        "brand":"HODGDON",
+                        "upc":"39288531517",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260855/HODGDONPOWDERLILGUN4LB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER LIL GUN 8LB | 39288531524",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDLIL8.jpg",
+                        "available":"Out of Stock",
+                        "id":"260856",
+                        "brand":"HODGDON",
+                        "upc":"39288531524",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260856/HODGDONPOWDERLILGUN8LB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER HYBRID 100V 8LB | 39288544081",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDHY1008.jpg",
+                        "available":"Out of Stock",
+                        "id":"260853",
+                        "brand":"HODGDON",
+                        "upc":"39288544081",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260853/HODGDONPOWDERHYBRID100V8LB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER LONGSHOT 4LB | 39288700111",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDLS4.jpg",
+                        "available":"Out of Stock",
+                        "id":"260857",
+                        "brand":"HODGDON",
+                        "upc":"39288700111",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260857/HODGDONPOWDERLONGSHOT4LB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER LONGSHOT 8LB | 39288700128",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDLS8.jpg",
+                        "available":"Out of Stock",
+                        "id":"260858",
+                        "brand":"HODGDON",
+                        "upc":"39288700128",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260858/HODGDONPOWDERLONGSHOT8LB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HODGDON POWDER SUPERFORMANCE 8LB | 39288800088",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HDSUPER8.jpg",
+                        "available":"Out of Stock",
+                        "id":"260859",
+                        "brand":"HODGDON",
+                        "upc":"39288800088",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/260859/HODGDONPOWDERSUPERFORMANCE8LB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HODGDON"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

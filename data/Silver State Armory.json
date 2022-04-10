@@ -1,0 +1,74 @@
+
+        [
+            
+                    {
+                        "name":"SSA 3006 Spg. 155gr Custom Competition OTM HPBT Ammunition 20 ct | 054041750509",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98627.jpg",
+                        "available":"Out of Stock",
+                        "id":"53612",
+                        "brand":"SILVER STATE ARMORY",
+                        "upc":"054041750509",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/53612/SSA3006Spg155grCustomCompetitionOTMHPBTAmmunition20ct",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SILVER STATE ARMORY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SSA 300 AAC Blackout 220gr BT Ammunition 20 ct | 054041750554",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98626.jpg",
+                        "available":"Out of Stock",
+                        "id":"53611",
+                        "brand":"SILVER STATE ARMORY",
+                        "upc":"054041750554",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/53611/SSA300AACBlackout220grBTAmmunition20ct",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SILVER STATE ARMORY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SILVER STATE ARMORY 7.62X39 123GR VARMAGEDDON TIPPED AMMUNITION 20/COUNT | 054041750707",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/30237.jpg",
+                        "available":"Out of Stock",
+                        "id":"37719",
+                        "brand":"SILVER STATE ARMORY",
+                        "upc":"054041750707",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/37719/SILVERSTATEARMORY762X39123GRVARMAGEDDONTIPPEDAMMUNITION20COUNT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SILVER STATE ARMORY"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,1132 @@
+
+        [
+            
+                    {
+                        "name":"COATED STEEL CLN ROD .17.280 CA | 076683416483",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/47705.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"42206",
+                        "brand":"OUTERS",
+                        "upc":"076683416483",
+                        "price":13.67,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/42206/COATEDSTEELCLNROD17280CA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CLEAN GUNSOLVENT PUMP 4OZ | 076683420244",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/17100.jpg",
+                        "available":"Out of Stock",
+                        "id":"34690",
+                        "brand":"OUTERS",
+                        "upc":"076683420244",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/34690/CLEANGUNSOLVENTPUMP4OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CHEM NITRO SOLVENT PUMP 4 O | 076683420305",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/17101.jpg",
+                        "available":"Out of Stock",
+                        "id":"34691",
+                        "brand":"OUTERS",
+                        "upc":"076683420305",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/34691/CHEMNITROSOLVENTPUMP4O",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CHOKE TUBE  GUN GREASE 1.5 OZ. | 076683420572",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/17108.jpg",
+                        "available":"Out of Stock",
+                        "id":"34695",
+                        "brand":"OUTERS",
+                        "upc":"076683420572",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/34695/CHOKETUBEGUNGREASE15OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CRUD CUTTER 16OZ AEROSOL | 076683420718",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/9136.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"33250",
+                        "brand":"OUTERS",
+                        "upc":"076683420718",
+                        "price": 7.67,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/33250/CRUDCUTTER16OZAEROSOL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"19 PC UNIVERSAL GUN CLEANING KIT | 076683700773",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/47702.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"42204",
+                        "brand":"OUTERS",
+                        "upc":"076683700773",
+                        "price":12.95,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/42204/19PCUNIVERSALGUNCLEANINGKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"28 PC UNIVERSAL ALUM GUN CARE CS | 076683700834",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/9129.jpg",
+                        "available":"Out of Stock",
+                        "id":"33248",
+                        "brand":"OUTERS",
+                        "upc":"076683700834",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/33248/28PCUNIVERSALALUMGUNCARECS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"25 PC UNIV WOOD GUN CLN TOOL BOX | 076683700841",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/47699.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6255",
+                        "brand":"OUTERS",
+                        "upc":"076683700841",
+                        "price":42.23,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/6255/25PCUNIVWOODGUNCLNTOOLBOX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"62 PC UNIVERSAL ALUM GUN CARE CS | 076683700902",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/9128.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"33247",
+                        "brand":"OUTERS",
+                        "upc":"076683700902",
+                        "price":58.55,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/33247/62PCUNIVERSALALUMGUNCARECS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"32 PC UNIVERSAL ALUM GUN CARE CS | 076683700919",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/47701.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"42203",
+                        "brand":"OUTERS",
+                        "upc":"076683700919",
+                        "price":35.15,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/42203/32PCUNIVERSALALUMGUNCARECS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CLAMSHELL CLEANING KIT UNIVRIFLE/PIST/SHOTGUN | 076683962003",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60022.jpg",
+                        "available":"Out of Stock",
+                        "id":"45197",
+                        "brand":"OUTERS",
+                        "upc":"076683962003",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/45197/CLAMSHELLCLEANINGKITUNIVRIFLEPISTSHOTGUN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CLAMSHELL CLEANING RIFLE KIT 22CAL AL | 076683962171",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60005.jpg",
+                        "available":"Out of Stock",
+                        "id":"45185",
+                        "brand":"OUTERS",
+                        "upc":"076683962171",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/45185/CLAMSHELLCLEANINGRIFLEKIT22CALAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CLAMSHELL CLEANING RIFLE KIT 243/6MM6.5 | 076683962195",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60006.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"45186",
+                        "brand":"OUTERS",
+                        "upc":"076683962195",
+                        "price": 9.71,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/45186/CLAMSHELLCLEANINGRIFLEKIT2436MM65",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CLAMSHELL CLEANING RIFLE KIT 270CAL284 | 076683962218",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60007.jpg",
+                        "available":"Out of Stock",
+                        "id":"45187",
+                        "brand":"OUTERS",
+                        "upc":"076683962218",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/45187/CLAMSHELLCLEANINGRIFLEKIT270CAL284",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CLAMSHELL CLEANING KIT RIFLE 30 TO 32 CAL | 076683962232",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60008.jpg",
+                        "available":"Out of Stock",
+                        "id":"45188",
+                        "brand":"OUTERS",
+                        "upc":"076683962232",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/45188/CLAMSHELLCLEANINGKITRIFLE30TO32CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CLAMSHELL CLEANING RIFLE KIT 4145/458 | 076683962270",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60010.jpg",
+                        "available":"Out of Stock",
+                        "id":"45190",
+                        "brand":"OUTERS",
+                        "upc":"076683962270",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/45190/CLAMSHELLCLEANINGRIFLEKIT4145458",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CLAMSHELL CLEANING KIT 12GA AL | 076683963048",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60017.jpg",
+                        "available":"Out of Stock",
+                        "id":"45194",
+                        "brand":"OUTERS",
+                        "upc":"076683963048",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/45194/CLAMSHELLCLEANINGKIT12GAAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CLAMSHELL CLEANING KIT 20/28 GA | 076683963086",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60019.jpg",
+                        "available":"Out of Stock",
+                        "id":"45195",
+                        "brand":"OUTERS",
+                        "upc":"076683963086",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/45195/CLAMSHELLCLEANINGKIT2028GA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CLAMSHELL CLEANING PISTOL KIT 4145CAL | 076683964182",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60015.jpg",
+                        "available":"Out of Stock",
+                        "id":"45193",
+                        "brand":"OUTERS",
+                        "upc":"076683964182",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/45193/CLAMSHELLCLEANINGPISTOLKIT4145CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"IMP ROD 30 CAL. SS PISTOL  10 | 76683403391",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU40339.jpg",
+                        "available":"Out of Stock",
+                        "id":"262635",
+                        "brand":"OUTERS",
+                        "upc":"76683403391",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262635/IMPROD30CALSSPISTOL10",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BORE CHECKER | 76683408686",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU40868.jpg",
+                        "available":"Out of Stock",
+                        "id":"262636",
+                        "brand":"OUTERS",
+                        "upc":"76683408686",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262636/BORECHECKER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"D TAKE DOWN CLNR 12 GA 3 | 76683417114",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU41711.jpg",
+                        "available":"Out of Stock",
+                        "id":"262637",
+                        "brand":"OUTERS",
+                        "upc":"76683417114",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262637/DTAKEDOWNCLNR12GA3",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"D TAKE DOWN CLNR 20 28 GA | 76683417121",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU41712.jpg",
+                        "available":"Out of Stock",
+                        "id":"262638",
+                        "brand":"OUTERS",
+                        "upc":"76683417121",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262638/DTAKEDOWNCLNR2028GA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GUN CLEANING TOOL SET | 76683419484",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU41948.jpg",
+                        "available":"Out of Stock",
+                        "id":"262639",
+                        "brand":"OUTERS",
+                        "upc":"76683419484",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262639/GUNCLEANINGTOOLSET",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RIFLE BRUSH 20/204CAL540 THRDS | 76683419958",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU41995.jpg",
+                        "available":"Out of Stock",
+                        "id":"262641",
+                        "brand":"OUTERS",
+                        "upc":"76683419958",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262641/RIFLEBRUSH20204CAL540THRDS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PULL THRU CLEANING KIT 338 CAL | 76683420107",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU42010.jpg",
+                        "available":"Out of Stock",
+                        "id":"262642",
+                        "brand":"OUTERS",
+                        "upc":"76683420107",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262642/PULLTHRUCLEANINGKIT338CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CHEM NITRO SOLVENT 2 FL OZ | 76683420329",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU42032.jpg",
+                        "available":"Out of Stock",
+                        "id":"262643",
+                        "brand":"OUTERS",
+                        "upc":"76683420329",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262643/CHEMNITROSOLVENT2FLOZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CHEM GUN OIL 2.25 FL OZ. | 76683420374",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU42037.jpg",
+                        "available":"Out of Stock",
+                        "id":"262644",
+                        "brand":"OUTERS",
+                        "upc":"76683420374",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262644/CHEMGUNOIL225FLOZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RIFLE MOP .20/204 CAL 540THRDS | 76683422415",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU42241.jpg",
+                        "available":"Out of Stock",
+                        "id":"262645",
+                        "brand":"OUTERS",
+                        "upc":"76683422415",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262645/RIFLEMOP20204CAL540THRDS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BAGGED PATCHES BLK2503045 | 76683423559",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU42355.jpg",
+                        "available":"Out of Stock",
+                        "id":"262646",
+                        "brand":"OUTERS",
+                        "upc":"76683423559",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262646/BAGGEDPATCHESBLK2503045",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BAGGED PATC.BLK150 ALL GA | 76683423573",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU42357.jpg",
+                        "available":"Out of Stock",
+                        "id":"262647",
+                        "brand":"OUTERS",
+                        "upc":"76683423573",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262647/BAGGEDPATCBLK150ALLGA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BULK PATCHES ALL SIZES 200 CT | 76683423801",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU42380.jpg",
+                        "available":"Out of Stock",
+                        "id":"262648",
+                        "brand":"OUTERS",
+                        "upc":"76683423801",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262648/BULKPATCHESALLSIZES200CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BULK PATCHES .17.22 CA 250 CT | 76683423825",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU42382.jpg",
+                        "available":"Out of Stock",
+                        "id":"262649",
+                        "brand":"OUTERS",
+                        "upc":"76683423825",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262649/BULKPATCHES1722CA250CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BULK PATCHES .23.28 CA 250 CT | 76683423849",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU42384.jpg",
+                        "available":"Out of Stock",
+                        "id":"262650",
+                        "brand":"OUTERS",
+                        "upc":"76683423849",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262650/BULKPATCHES2328CA250CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BULK PATCHES .30.50 CA 225 CT | 76683423863",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU42386.jpg",
+                        "available":"Out of Stock",
+                        "id":"262651",
+                        "brand":"OUTERS",
+                        "upc":"76683423863",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262651/BULKPATCHES3050CA225CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BULK PATCHES SG 225 CT | 76683423887",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU42388.jpg",
+                        "available":"Out of Stock",
+                        "id":"262652",
+                        "brand":"OUTERS",
+                        "upc":"76683423887",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262652/BULKPATCHESSG225CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CLAMSHELL RIFLE CLEANING KIT 22CAL | 76683462176",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU46217.jpg",
+                        "available":"Out of Stock",
+                        "id":"262654",
+                        "brand":"OUTERS",
+                        "upc":"76683462176",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/262654/CLAMSHELLRIFLECLEANINGKIT22CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CLAMSHELL RIFLE CLEANING KIT 338375CBRASS | 76683462251",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU46225.jpg",
+                        "available":"Out of Stock",
+                        "id":"262658",
+                        "brand":"OUTERS",
+                        "upc":"76683462251",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/262658/CLAMSHELLRIFLECLEANINGKIT338375CBRASS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"OU FOULOUT 357 CAL ORING | 76683470232",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU47023.jpg",
+                        "available":"Out of Stock",
+                        "id":"262663",
+                        "brand":"OUTERS",
+                        "upc":"76683470232",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262663/OUFOULOUT357CALORING",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UNIV 32PC SOFT SIDED GUN CLN KIT | 76683700605",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU70060.jpg",
+                        "available":"Out of Stock",
+                        "id":"262665",
+                        "brand":"OUTERS",
+                        "upc":"76683700605",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262665/UNIV32PCSOFTSIDEDGUNCLNKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UNIV 62PC SOFT SIDED GUN CLN KIT | 76683700629",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU70062.jpg",
+                        "available":"Out of Stock",
+                        "id":"262666",
+                        "brand":"OUTERS",
+                        "upc":"76683700629",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262666/UNIV62PCSOFTSIDEDGUNCLNKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UNIV 32PC BLOW MLD GUN CLN KIT | 76683700728",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU70072.jpg",
+                        "available":"Out of Stock",
+                        "id":"262667",
+                        "brand":"OUTERS",
+                        "upc":"76683700728",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262667/UNIV32PCBLOWMLDGUNCLNKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UNIV 62PC BLOW MLD GUN CLN KIT | 76683700742",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU70074.jpg",
+                        "available":"Out of Stock",
+                        "id":"262668",
+                        "brand":"OUTERS",
+                        "upc":"76683700742",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262668/UNIV62PCBLOWMLDGUNCLNKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"15 PC ALL GAUGE STGUN CLN KIT | 76683700759",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU70075.jpg",
+                        "available":"Out of Stock",
+                        "id":"262669",
+                        "brand":"OUTERS",
+                        "upc":"76683700759",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262669/15PCALLGAUGESTGUNCLNKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"32 PC UNIVERSAL WOOD GUN CLN BOX | 76683700803",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU70080.jpg",
+                        "available":"Out of Stock",
+                        "id":"262670",
+                        "brand":"OUTERS",
+                        "upc":"76683700803",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262670/32PCUNIVERSALWOODGUNCLNBOX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"28 PC UNIV BRASS CLN KIT WDBX.22 | 76683700827",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU70082.jpg",
+                        "available":"Out of Stock",
+                        "id":"262671",
+                        "brand":"OUTERS",
+                        "upc":"76683700827",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262671/28PCUNIVBRASSCLNKITWDBX22",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UNIV 28 PC .22 AND UP ALUM CASE | 76683700933",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU70093.jpg",
+                        "available":"Out of Stock",
+                        "id":"262672",
+                        "brand":"OUTERS",
+                        "upc":"76683700933",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262672/UNIV28PC22ANDUPALUMCASE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DELUXE UNIVERSAL CLEANING KIT | 76683962317",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU96231.jpg",
+                        "available":"Out of Stock",
+                        "id":"262674",
+                        "brand":"OUTERS",
+                        "upc":"76683962317",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262674/DELUXEUNIVERSALCLEANINGKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"D KIT 28 PC GUN CLEANING | 76683980984",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OU98098.jpg",
+                        "available":"Out of Stock",
+                        "id":"262675",
+                        "brand":"OUTERS",
+                        "upc":"76683980984",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262675/DKIT28PCGUNCLEANING",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

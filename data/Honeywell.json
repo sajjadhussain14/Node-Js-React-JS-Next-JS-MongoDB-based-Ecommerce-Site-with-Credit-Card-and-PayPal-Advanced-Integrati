@@ -1,0 +1,511 @@
+
+        [
+            
+                    {
+                        "name":"SMART FIT 2PAR PK SHOOTERS PLUGS | 033552015208",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36909.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"39646",
+                        "brand":"HONEYWELL",
+                        "upc":"033552015208",
+                        "price": 3.23,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/39646/SMARTFIT2PARPKSHOOTERSPLUGS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LEIGHTNING LOF SUPER SLIMLINE EAR | 033552015239",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36902.jpg",
+                        "available":"Out of Stock",
+                        "id":"26413",
+                        "brand":"HONEYWELL",
+                        "upc":"033552015239",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/26413/LEIGHTNINGLOFSUPERSLIMLINEEAR",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LEIGHTNING L1 SLIMLINE EARMUFF | 033552015246",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36903.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"26414",
+                        "brand":"HONEYWELL",
+                        "upc":"033552015246",
+                        "price":10.43,
+                        "Dept":"Safety Products",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/26414/LEIGHTNINGL1SLIMLINEEARMUFF",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LEIGHTNING L2F FOLDING EARMUFF | 033552015253",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36905.jpg",
+                        "available":"Out of Stock",
+                        "id":"26415",
+                        "brand":"HONEYWELL",
+                        "upc":"033552015253",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/26415/LEIGHTNINGL2FFOLDINGEARMUFF",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"IMPACT SPORT ELECTRONIC EARMUFF OD GREEN | 033552015260",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36900.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"26416",
+                        "brand":"HONEYWELL",
+                        "upc":"033552015260",
+                        "price":52.43,
+                        "Dept":"Safety Products",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/26416/IMPACTSPORTELECTRONICEARMUFFODGREEN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Impact Sport Camo MOB Infinity Electronic Earmuff | 033552015307",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/90995.jpg",
+                        "available":"Out of Stock",
+                        "id":"51910",
+                        "brand":"HONEYWELL",
+                        "upc":"033552015307",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/51910/ImpactSportCamoMOBInfinityElectronicEarmuff",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"VAPOR II ANTI FOG BLACK/CLEAR | 033552015352",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/51964.jpg",
+                        "available":"Out of Stock",
+                        "id":"26418",
+                        "brand":"HONEYWELL",
+                        "upc":"033552015352",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Sunglasses",
+                        "product_url":"/product/26418/VAPORIIANTIFOGBLACKCLEAR",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"VAPOR II ANTI FOG BLACK/ORANGE | 033552015376",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/51966.jpg",
+                        "available":"Out of Stock",
+                        "id":"26420",
+                        "brand":"HONEYWELL",
+                        "upc":"033552015376",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Sunglasses",
+                        "product_url":"/product/26420/VAPORIIANTIFOGBLACKORANGE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"QUIET BAND HEARING PROTECTION | 033552015383",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36911.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"26421",
+                        "brand":"HONEYWELL",
+                        "upc":"033552015383",
+                        "price": 5.03,
+                        "Dept":"Safety Products",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/26421/QUIETBANDHEARINGPROTECTION",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"IMPACT PRO ELECTRONIC EARMUFF BLACK | 033552019022",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/79775.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"26426",
+                        "brand":"HONEYWELL",
+                        "upc":"033552019022",
+                        "price":68.75,
+                        "Dept":"Safety Products",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/26426/IMPACTPROELECTRONICEARMUFFBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Impact Sport Bolt Grey Electronic Earmuff | 033552022329",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/58257.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"44766",
+                        "brand":"HONEYWELL",
+                        "upc":"033552022329",
+                        "price":85.91,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/44766/ImpactSportBoltGreyElectronicEarmuff",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"IMPACT SPORT ELECTRONIC EARMUFF TEAL | 033552025214",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/90996.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"51911",
+                        "brand":"HONEYWELL",
+                        "upc":"033552025214",
+                        "price":52.43,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/51911/IMPACTSPORTELECTRONICEARMUFFTEAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"IMPACT SPORT ELECTRONIC EARMUFF PINK | 033552025238",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/5809.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"32716",
+                        "brand":"HONEYWELL",
+                        "upc":"033552025238",
+                        "price":52.43,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/32716/IMPACTSPORTELECTRONICEARMUFFPINK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"IMPACT SPORT ELECTRONIC EARMUFF Black W/Deluxe headband | 033552025245",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/5812.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"32717",
+                        "brand":"HONEYWELL",
+                        "upc":"033552025245",
+                        "price":52.43,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/32717/IMPACTSPORTELECTRONICEARMUFFBlackWDeluxeheadband",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Impact Sport Bolt Black Electronic Earmuff | 033552025252",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/58159.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"26432",
+                        "brand":"HONEYWELL",
+                        "upc":"033552025252",
+                        "price":83.15,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/26432/ImpactSportBoltBlackElectronicEarmuff",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LEIGHTNING L3 HIGH ATT EARMUFF | 033552033189",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83016.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"26434",
+                        "brand":"HONEYWELL",
+                        "upc":"033552033189",
+                        "price":21.95,
+                        "Dept":"Safety Products",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/26434/LEIGHTNINGL3HIGHATTEARMUFF",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GENESIS ANTIFOG BLACK/CLEAR | 033552035701",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/51967.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"26435",
+                        "brand":"HONEYWELL",
+                        "upc":"033552035701",
+                        "price":10.31,
+                        "Dept":"Safety Products",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Sunglasses",
+                        "product_url":"/product/26435/GENESISANTIFOGBLACKCLEAR",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GENESIS ANTIFOG BLK/AMBER | 033552035718",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/51968.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"43210",
+                        "brand":"HONEYWELL",
+                        "upc":"033552035718",
+                        "price":10.31,
+                        "Dept":"Safety Products",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Sunglasses",
+                        "product_url":"/product/43210/GENESISANTIFOGBLKAMBER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GENESIS ANTIFOG BLK/VERMILION | 033552035756",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/51969.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"43211",
+                        "brand":"HONEYWELL",
+                        "upc":"033552035756",
+                        "price":10.31,
+                        "Dept":"Safety Products",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"Sunglasses",
+                        "product_url":"/product/43211/GENESISANTIFOGBLKVERMILION",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"QM24 EARMUFF MULTIPLE POSITION | 33552006138",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HQQM24.jpg",
+                        "available":"Out of Stock",
+                        "id":"261116",
+                        "brand":"HONEYWELL",
+                        "upc":"33552006138",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/261116/QM24EARMUFFMULTIPLEPOSITION",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HL800 EYEWEAR MULTIPACK 2PCK | 33552017097",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HQR01709.jpg",
+                        "available":"Out of Stock",
+                        "id":"261117",
+                        "brand":"HONEYWELL",
+                        "upc":"33552017097",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/261117/HL800EYEWEARMULTIPACK2PCK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SUPER LEIGHT 5PAR SHOOTERS EARPL | 33552841333",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HQR84133.jpg",
+                        "available":"Out of Stock",
+                        "id":"261122",
+                        "brand":"HONEYWELL",
+                        "upc":"33552841333",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/261122/SUPERLEIGHT5PARSHOOTERSEARPL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HONEYWELL"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

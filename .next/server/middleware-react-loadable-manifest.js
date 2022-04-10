@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"..\\components\\home\\BrandSlider.js -> react-owl-carousel":{id:2568,files:["static/chunks/568.92fb7f45d831896b.js"]},"..\\components\\product\\RelatedProducts.js -> react-owl-carousel":{id:2568,files:["static/chunks/568.92fb7f45d831896b.js"]},"test2.js -> react-owl-carousel":{id:2568,files:["static/chunks/568.92fb7f45d831896b.js"]}}

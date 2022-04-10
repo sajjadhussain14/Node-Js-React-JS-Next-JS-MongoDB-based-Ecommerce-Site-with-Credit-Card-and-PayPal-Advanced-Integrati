@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"PPU MIL SPEC AMO .50 BMG M33 625GR FMJ 5RDS 20 BOX CASE | 8605003819653",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128263.jpg",
+                        "available":"Out of Stock",
+                        "id":"437151",
+                        "brand":"TRZ",
+                        "upc":"8605003819653",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/437151/PPUMILSPECAMO50BMGM33625GRFMJ5RDS20BOXCASE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TRZ"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PPU MIL SPEC AMO 50 BMG M33 625GR FMJ 120 RDS METAL CAN | 8605003819677",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/128264.jpg",
+                        "available":"Out of Stock",
+                        "id":"437152",
+                        "brand":"TRZ",
+                        "upc":"8605003819677",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Hunting",
+                        "product_url":"/product/437152/PPUMILSPECAMO50BMGM33625GRFMJ120RDSMETALCAN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TRZ"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

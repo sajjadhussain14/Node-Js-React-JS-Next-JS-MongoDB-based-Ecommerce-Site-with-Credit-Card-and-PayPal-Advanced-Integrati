@@ -1,0 +1,1224 @@
+
+        [
+            
+                    {
+                        "name":"B.O.N.E. TOOL 5.56MM | 014895000267",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91969.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13889",
+                        "brand":"OTIS",
+                        "upc":"014895000267",
+                        "price":22.31,
+                        "Dept":"Supplies",
+                        "Typ":"Tools and Equipment",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13889/BONETOOL556MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RIP CORD 5.56MM | 014895000564",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91157.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13969",
+                        "brand":"OTIS",
+                        "upc":"014895000564",
+                        "price":14.99,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13969/RIPCORD556MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RIP CORD 30 CALIBER | 014895000571",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91158.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13971",
+                        "brand":"OTIS",
+                        "upc":"014895000571",
+                        "price":14.99,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13971/RIPCORD30CALIBER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RIP CORD 9MM | 014895000588",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91159.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13972",
+                        "brand":"OTIS",
+                        "upc":"014895000588",
+                        "price":14.99,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13972/RIPCORD9MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RIP CORD 45 CALIBER | 014895000595",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91160.jpg",
+                        "available":"Out of Stock",
+                        "id":"13974",
+                        "brand":"OTIS",
+                        "upc":"014895000595",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13974/RIPCORD45CALIBER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MSR/AR CLEANER 4 OZ | 014895000656",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32274.jpg",
+                        "available":"Out of Stock",
+                        "id":"38296",
+                        "brand":"OTIS",
+                        "upc":"014895000656",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/38296/MSRARCLEANER4OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RIFLE CLEANING SYSTE ALL CALIBER | 014895002100",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48468.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"42374",
+                        "brand":"OTIS",
+                        "upc":"014895002100",
+                        "price":28.55,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/42374/RIFLECLEANINGSYSTEALLCALIBER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RIP CORD 40 CALIBER | 014895002216",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91952.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13973",
+                        "brand":"OTIS",
+                        "upc":"014895002216",
+                        "price":14.99,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13973/RIPCORD40CALIBER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BIO CLP 4 OZ | 014895002667",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32290.jpg",
+                        "available":"Out of Stock",
+                        "id":"38307",
+                        "brand":"OTIS",
+                        "upc":"014895002667",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/38307/BIOCLP4OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"EARSHIELD 26 dB HEARING PROTECTION | 014895003367",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98304.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13961",
+                        "brand":"OTIS",
+                        "upc":"014895003367",
+                        "price":15.23,
+                        "Dept":"Safety Products",
+                        "Typ":"Ear Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/13961/EARSHIELD26dBHEARINGPROTECTION",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"EARSHIELD 31 dB HEARING PROTECTION | 014895003374",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98305.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13962",
+                        "brand":"OTIS",
+                        "upc":"014895003374",
+                        "price":18.95,
+                        "Dept":"Safety Products",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/13962/EARSHIELD31dBHEARINGPROTECTION",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"STAR CHAMBER CLEANING TOOL 5.56MM/AR15 PLATFORMS | 014895003497",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98300.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13891",
+                        "brand":"OTIS",
+                        "upc":"014895003497",
+                        "price":22.43,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13891/STARCHAMBERCLEANINGTOOL556MMAR15PLATFORMS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"STAR CHAMBER CLEANING TOOL 7.62MM/AR10 PLATFORMS | 014895003510",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/OTFG-2717_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13893",
+                        "brand":"OTIS",
+                        "upc":"014895003510",
+                        "price":22.43,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13893/STARCHAMBERCLEANINGTOOL762MMAR10PLATFORMS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"12 PACK STAR CHAMBER CLEANING PADS 5.56MM | 014895003541",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98302.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13892",
+                        "brand":"OTIS",
+                        "upc":"014895003541",
+                        "price": 4.67,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13892/12PACKSTARCHAMBERCLEANINGPADS556MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"12 PACK STAR CHAMBER CLEANING PADS 7.62MM | 014895003558",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98303.jpg",
+                        "available":"Out of Stock",
+                        "id":"13894",
+                        "brand":"OTIS",
+                        "upc":"014895003558",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13894/12PACKSTARCHAMBERCLEANINGPADS762MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"O85 CLP 4 OZ | 014895004036",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32284.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"38304",
+                        "brand":"OTIS",
+                        "upc":"014895004036",
+                        "price": 6.11,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/38304/O85CLP4OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"O85 CLP 4 OZ AEROSOL | 014895004135",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32287.jpg",
+                        "available":"Out of Stock",
+                        "id":"38306",
+                        "brand":"OTIS",
+                        "upc":"014895004135",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/38306/O85CLP4OZAEROSOL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DRY LUBE 4 OZ AEROSOL | 014895004159",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32280.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"22190",
+                        "brand":"OTIS",
+                        "upc":"014895004159",
+                        "price": 6.11,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/22190/DRYLUBE4OZAEROSOL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FIREARM LUBRICANT 4 OZ AEROSOL | 014895004173",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32281.jpg",
+                        "available":"Out of Stock",
+                        "id":"22192",
+                        "brand":"OTIS",
+                        "upc":"014895004173",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/22192/FIREARMLUBRICANT4OZAEROSOL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DEFENDER SERIES 5.56MM/7.62MM CLEANING KIT | 014895004685",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32268.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13939",
+                        "brand":"OTIS",
+                        "upc":"014895004685",
+                        "price":66.35,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/13939/DEFENDERSERIES556MM762MMCLEANINGKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DEFENDER SERIES 5.56MM/9MM CLEANING KIT | 014895004692",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32270.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13938",
+                        "brand":"OTIS",
+                        "upc":"014895004692",
+                        "price":66.35,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/13938/DEFENDERSERIES556MM9MMCLEANINGKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DEFENDER SERIES .38CAL/9MM CLEANING KIT | 014895004708",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32266.jpg",
+                        "available":"Out of Stock",
+                        "id":"13941",
+                        "brand":"OTIS",
+                        "upc":"014895004708",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/13941/DEFENDERSERIES38CAL9MMCLEANINGKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DEFENDER SERIES .223CAL/5.56MM CLEANING KIT | 014895004746",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32263.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13937",
+                        "brand":"OTIS",
+                        "upc":"014895004746",
+                        "price":58.07,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/13937/DEFENDERSERIES223CAL556MMCLEANINGKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LONG TERM PROTECTANT 4 OZ AEROSOL | 014895005064",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32283.jpg",
+                        "available":"Out of Stock",
+                        "id":"38303",
+                        "brand":"OTIS",
+                        "upc":"014895005064",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/38303/LONGTERMPROTECTANT4OZAEROSOL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"9MM PATRIOT SERIES PISTOL KIT | 014895005118",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39085.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13928",
+                        "brand":"OTIS",
+                        "upc":"014895005118",
+                        "price":15.71,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/13928/9MMPATRIOTSERIESPISTOLKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":".40 CAL PATRIOT SERIES PISTOL KIT | 014895005132",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39086.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13925",
+                        "brand":"OTIS",
+                        "upc":"014895005132",
+                        "price":15.71,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/13925/40CALPATRIOTSERIESPISTOLKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":".45 CAL PATRIOT SERIES PISTOL KIT | 014895005149",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39087.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13926",
+                        "brand":"OTIS",
+                        "upc":"014895005149",
+                        "price":15.71,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/13926/45CALPATRIOTSERIESPISTOLKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":".17 CAL PATRIOT SERIES RIFLE KIT | 014895005156",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39088.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13921",
+                        "brand":"OTIS",
+                        "upc":"014895005156",
+                        "price":13.62,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/13921/17CALPATRIOTSERIESRIFLEKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":".22 CAL PATRIOT SERIES RIFLE KIT | 014895005170",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39089.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13922",
+                        "brand":"OTIS",
+                        "upc":"014895005170",
+                        "price":19.31,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/13922/22CALPATRIOTSERIESRIFLEKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":".223 CAL PATRIOT SERIES RIFLE KIT | 014895005187",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39090.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13923",
+                        "brand":"OTIS",
+                        "upc":"014895005187",
+                        "price":19.31,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/13923/223CALPATRIOTSERIESRIFLEKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"12 GA. PATRIOT SERIES SHOTGUN KIT | 014895005217",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39092.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13920",
+                        "brand":"OTIS",
+                        "upc":"014895005217",
+                        "price":15.71,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/13920/12GAPATRIOTSERIESSHOTGUNKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL CLEAN KIT 6 BRUSHES | 014895007501",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16789.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13929",
+                        "brand":"OTIS",
+                        "upc":"014895007501",
+                        "price":35.75,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13929/TACTICALCLEANKIT6BRUSHES",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" Inch2 Inch Inch SMALL CALIBER CLEANING PATCHES 100 Inch | 014895009239",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48475.jpg",
+                        "available":"Out of Stock",
+                        "id":"13943",
+                        "brand":"OTIS",
+                        "upc":"014895009239",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13943/2SMALLCALIBERCLEANINGPATCHES100",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRASS SCRAPER SET | 014895009321",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48606.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13946",
+                        "brand":"OTIS",
+                        "upc":"014895009321",
+                        "price":13.91,
+                        "Dept":"Supplies",
+                        "Typ":"Tools",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13946/BRASSSCRAPERSET",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" Inch3 Inch Inch CLEANING PATCHES 100 Inch | 014895009604",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16798.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13944",
+                        "brand":"OTIS",
+                        "upc":"014895009604",
+                        "price": 7.67,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13944/3CLEANINGPATCHES100",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ELITE W/710 KIT 750 INS | 014895010006",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16790.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13884",
+                        "brand":"OTIS",
+                        "upc":"014895010006",
+                        "price":125.51,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Stands",
+                        "product_url":"/product/13884/ELITEW710KIT750INS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPORTSMANS MAT | 014895038000",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/9106.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"33238",
+                        "brand":"OTIS",
+                        "upc":"014895038000",
+                        "price":14.51,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/33238/SPORTSMANSMAT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MSR/AR Cleaning System .223/5.56MM | 014895055618",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83788.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13918",
+                        "brand":"OTIS",
+                        "upc":"014895055618",
+                        "price":44.51,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Kits",
+                        "product_url":"/product/13918/MSRARCleaningSystem223556MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COPPER REMOVER 4 OZ | 014895219041",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32273.jpg",
+                        "available":"Out of Stock",
+                        "id":"38295",
+                        "brand":"OTIS",
+                        "upc":"014895219041",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/38295/COPPERREMOVER4OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COMPLETE GUN CLEANER 4 OZ | 014895239049",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32272.jpg",
+                        "available":"Out of Stock",
+                        "id":"38294",
+                        "brand":"OTIS",
+                        "upc":"014895239049",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/38294/COMPLETEGUNCLEANER4OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"9 PACK AP BRUSHES 3 NYLON/3 BRONZE/3 STAINLESS STEEL | 014895316092",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/9113.jpg",
+                        "available":"Out of Stock",
+                        "id":"33239",
+                        "brand":"OTIS",
+                        "upc":"014895316092",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/33239/9PACKAPBRUSHES3NYLON3BRONZE3STAINLESSSTEEL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"OTIS RELOAD PATCHES/BIOCLP COMBO | 014895919019",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/52661.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"13945",
+                        "brand":"OTIS",
+                        "upc":"014895919019",
+                        "price": 6.47,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/13945/OTISRELOADPATCHESBIOCLPCOMBO",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":".2230 CAL RIFLE CLEAN KIT | 14895002001",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OYFG200.jpg",
+                        "available":"Out of Stock",
+                        "id":"262690",
+                        "brand":"OTIS",
+                        "upc":"14895002001",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262690/2230CALRIFLECLEANKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":".223/5.56MM RIFLE CLEANING KIT | 14895002230",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OYFG223.jpg",
+                        "available":"Out of Stock",
+                        "id":"248408",
+                        "brand":"OTIS",
+                        "upc":"14895002230",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/248408/223556MMRIFLECLEANINGKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CANSTER POPRFLPSTL BRUSH 100 38C | 14895003381",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OY108338.jpg",
+                        "available":"Out of Stock",
+                        "id":"262684",
+                        "brand":"OTIS",
+                        "upc":"14895003381",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262684/CANSTERPOPRFLPSTLBRUSH10038C",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CANSTR POP RFLPSTL BRUSH 100 40C | 14895003411",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OY108340.jpg",
+                        "available":"Out of Stock",
+                        "id":"262685",
+                        "brand":"OTIS",
+                        "upc":"14895003411",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262685/CANSTRPOPRFLPSTLBRUSH10040C",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"5.56MM CHAMBER BRUSH | 14895003671",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OYFG367HT.jpg",
+                        "available":"Out of Stock",
+                        "id":"248418",
+                        "brand":"OTIS",
+                        "upc":"14895003671",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/248418/556MMCHAMBERBRUSH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"2 OZ SLOVENT PACKAGED | 14895009024",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OYFG902.jpg",
+                        "available":"Out of Stock",
+                        "id":"262700",
+                        "brand":"OTIS",
+                        "upc":"14895009024",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262700/2OZSLOVENTPACKAGED",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"7.62 MM CHAMBER BRUSH | 14895036808",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OYFG368HT.jpg",
+                        "available":"Out of Stock",
+                        "id":"262694",
+                        "brand":"OTIS",
+                        "upc":"14895036808",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262694/762MMCHAMBERBRUSH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CANSTER POP RFLPSTL BRUSH100 30C | 14895083307",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OY108330.jpg",
+                        "available":"Out of Stock",
+                        "id":"262683",
+                        "brand":"OTIS",
+                        "upc":"14895083307",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262683/CANSTERPOPRFLPSTLBRUSH10030C",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CANTR POP RFLPSTL BRUSH100 41CA | 14895083413",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OY108341.jpg",
+                        "available":"Out of Stock",
+                        "id":"262686",
+                        "brand":"OTIS",
+                        "upc":"14895083413",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262686/CANTRPOPRFLPSTLBRUSH10041CA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CANTR POP RFLPSTL BRUSH100 45CA | 14895083451",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OY108345.jpg",
+                        "available":"Out of Stock",
+                        "id":"262687",
+                        "brand":"OTIS",
+                        "upc":"14895083451",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/262687/CANTRPOPRFLPSTLBRUSH10045CA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" Inch3 Inch Inch PANOPLY PATCHES  30 CAL  75 Inch | 14895970751",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/OYFG97075.jpg",
+                        "available":"Out of Stock",
+                        "id":"262701",
+                        "brand":"OTIS",
+                        "upc":"14895970751",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262701/3PANOPLYPATCHES30CAL75",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OTIS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

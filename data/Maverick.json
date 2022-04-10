@@ -1,0 +1,180 @@
+
+        [
+            
+                    {
+                        "name":"MAV 88 CRUSR 12GA 18.5 Inch 5RD | 049533310088",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/115358.jpg",
+                        "available":"Out of Stock",
+                        "id":"247409",
+                        "brand":"MAVERICK",
+                        "upc":"049533310088",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Single Shot and Bolt",
+                        "product_url":"/product/247409/MAV88CRUSR12GA1855RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MAVERICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAV 88 FLD 12GA CAMO 28 Inch 5RD | 049533310125",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120392.jpg",
+                        "available":"Out of Stock",
+                        "id":"264567",
+                        "brand":"MAVERICK",
+                        "upc":"049533310125",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/264567/MAV88FLD12GACAMO285RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MAVERICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAV 88 12/24 RB RS | 049533310446",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/42607.jpg",
+                        "available":"Out of Stock",
+                        "id":"16079",
+                        "brand":"MAVERICK",
+                        "upc":"049533310446",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Tactical",
+                        "product_url":"/product/16079/MAV881224RBRS",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MAVERICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAV 88 CRUSR 12GA 20 Inch 7RD | 049533310804",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/115359.jpg",
+                        "available":"Out of Stock",
+                        "id":"247410",
+                        "brand":"MAVERICK",
+                        "upc":"049533310804",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Single Shot and Bolt",
+                        "product_url":"/product/247410/MAV88CRUSR12GA207RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MAVERICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAV 88 FLD 20GA CAMO 26 Inch 5RD | 049533322012",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120393.jpg",
+                        "available":"Out of Stock",
+                        "id":"264568",
+                        "brand":"MAVERICK",
+                        "upc":"049533322012",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Tactical",
+                        "product_url":"/product/264568/MAV88FLD20GACAMO265RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MAVERICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAV 88 FLD 20GA CAMO 22 Inch 5RD | 049533322036",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120394.jpg",
+                        "available":"Out of Stock",
+                        "id":"264569",
+                        "brand":"MAVERICK",
+                        "upc":"049533322036",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Tactical",
+                        "product_url":"/product/264569/MAV88FLD20GACAMO225RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MAVERICK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAV 88 CRUSR 20GA 18.5 Inch 6RD | 049533322043",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/115360.jpg",
+                        "available":"Out of Stock",
+                        "id":"247411",
+                        "brand":"MAVERICK",
+                        "upc":"049533322043",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Tactical",
+                        "product_url":"/product/247411/MAV88CRUSR20GA1856RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MAVERICK"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

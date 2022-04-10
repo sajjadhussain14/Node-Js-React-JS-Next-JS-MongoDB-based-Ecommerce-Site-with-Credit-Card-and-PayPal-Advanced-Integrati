@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":".338 250GR SCENAR HPBT 100/BX | 6.41827E+12",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/LP4PL8017.jpg",
+                        "available":"Out of Stock",
+                        "id":"261541",
+                        "brand":"LAPUA",
+                        "upc":"6.41827E+12",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/261541/338250GRSCENARHPBT100BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LAPUA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":".308 155GR SCENAR HPBT 100/BOX | 8.41827E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/LP4PL7073.jpg",
+                        "available":"Out of Stock",
+                        "id":"261542",
+                        "brand":"LAPUA",
+                        "upc":"8.41827E+11",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/261542/308155GRSCENARHPBT100BOX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LAPUA"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,212 @@
+
+        [
+            
+                    {
+                        "name":"CVA AC1501 PowerBelt SpeedClip PowerBelt Bullet, Mag Pellet Charge, 209 Primers 3 | 043125115013",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16613.jpg",
+                        "available":"Out of Stock",
+                        "id":"12983",
+                        "brand":"POWERBELTBULLETS",
+                        "upc":"043125115013",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Black Powder",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/12983/CVAAC1501PowerBeltSpeedClipPowerBeltBulletMagPelletCharge209Primers3",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELTBULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CVA AC1589 Powerbelt Copper 50 Black Powder Hollow Point 245 GR 15 Pack | 043125115891",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/53280.jpg",
+                        "available":"In Stock",
+                        "id":"12993",
+                        "brand":"POWERBELTBULLETS",
+                        "upc":"043125115891",
+                        "price":14.00,
+                        "Dept":"Ammunition",
+                        "Typ":"Black Powder",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/12993/CVAAC1589PowerbeltCopper50BlackPowderHollowPoint245GR15Pack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELTBULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CVA AC1595 Powerbelt Copper 50 Black Powder Hollow Point 295 GR 15 Pack | 043125115952",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/35769.jpg",
+                        "available":"In Stock",
+                        "id":"12999",
+                        "brand":"POWERBELTBULLETS",
+                        "upc":"043125115952",
+                        "price":14.00,
+                        "Dept":"Ammunition",
+                        "Typ":"Black Powder",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/12999/CVAAC1595PowerbeltCopper50BlackPowderHollowPoint295GR15Pack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELTBULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Powerbelt AC1600AT 45 Black Powder AeroTip 280 GR 15 | 043125116003",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110622.jpg",
+                        "available":"In Stock",
+                        "id":"72415",
+                        "brand":"POWERBELTBULLETS",
+                        "upc":"043125116003",
+                        "price":22.00,
+                        "Dept":"Ammunition",
+                        "Typ":"Black Powder",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/72415/PowerbeltAC1600AT45BlackPowderAeroTip280GR15",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELTBULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CVA AC1550AT Powerbelt Aerolite 50 Black Powder AeroTip 250 GR 15 Pack | 043125125500",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/77641.jpg",
+                        "available":"Out of Stock",
+                        "id":"12986",
+                        "brand":"POWERBELTBULLETS",
+                        "upc":"043125125500",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Black Powder",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/12986/CVAAC1550ATPowerbeltAerolite50BlackPowderAeroTip250GR15Pack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELTBULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CVA AC1553AT Powerbelt Platinum 50 Black Powder AeroTip 270 GR 15 Pack | 043125125531",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/34972.jpg",
+                        "available":"Out of Stock",
+                        "id":"12987",
+                        "brand":"POWERBELTBULLETS",
+                        "upc":"043125125531",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Black Powder",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/12987/CVAAC1553ATPowerbeltPlatinum50BlackPowderAeroTip270GR15Pack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELTBULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CVA AC1589AT Powerbelt Copper 50 Black Powder AeroTip 245 GR 15 Pack | 043125125890",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/53281.jpg",
+                        "available":"In Stock",
+                        "id":"12994",
+                        "brand":"POWERBELTBULLETS",
+                        "upc":"043125125890",
+                        "price":16.00,
+                        "Dept":"Ammunition",
+                        "Typ":"Black Powder",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/12994/CVAAC1589ATPowerbeltCopper50BlackPowderAeroTip245GR15Pack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELTBULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CVA AC1595AT Powerbelt Copper 50 Black Powder AeroTip 295 GR 15 Pack | 043125125951",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/34909.jpg",
+                        "available":"In Stock",
+                        "id":"13000",
+                        "brand":"POWERBELTBULLETS",
+                        "upc":"043125125951",
+                        "price":16.00,
+                        "Dept":"Ammunition",
+                        "Typ":"Black Powder",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/13000/CVAAC1595ATPowerbeltCopper50BlackPowderAeroTip295GR15Pack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELTBULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CVA AC1597AT Powerbelt Copper 54 Black Powder AeroTip 348 GR 15 Pack | 043125125975",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/34911.jpg",
+                        "available":"In Stock",
+                        "id":"13003",
+                        "brand":"POWERBELTBULLETS",
+                        "upc":"043125125975",
+                        "price":17.00,
+                        "Dept":"Ammunition",
+                        "Typ":"Black Powder",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/13003/CVAAC1597ATPowerbeltCopper54BlackPowderAeroTip348GR15Pack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"POWERBELTBULLETS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

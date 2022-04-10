@@ -1,0 +1,40 @@
+
+        [
+            
+                    {
+                        "name":"PA AZ 6.5 CRDM SNAP CAP 2 | 666692123009",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/AZ12300_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"1570",
+                        "brand":"PACHMAYR/TACSTAR",
+                        "upc":"666692123009",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Blanks/Slugs",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/1570/PAAZ65CRDMSNAPCAP2",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR/TACSTAR"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

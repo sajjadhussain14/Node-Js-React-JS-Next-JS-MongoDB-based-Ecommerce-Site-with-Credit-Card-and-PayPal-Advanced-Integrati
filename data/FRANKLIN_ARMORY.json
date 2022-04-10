@@ -1,0 +1,235 @@
+
+        [
+            
+                    {
+                        "name":"Franklin Armory 1195 F17L Standard SemiAutomatic 17 WSM 20 Inch 101 Black Adjustable Magpul MOE Synthetic Stock OD Green Aluminum Receiver | 818725010477",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/92207.jpg",
+                        "available":"Out of Stock",
+                        "id":"52179",
+                        "brand":"FRANKLINARMORY",
+                        "upc":"818725010477",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/52179/FranklinArmory1195F17LStandardSemiAutomatic17WSM20101BlackAdjustableMagpulMOESyntheticStockODGreenAluminumReceiver",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FRANKLINARMORY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Franklin Armory M4 Carbine SemiAutomatic 223 Remington/5.56 NATO 16 Inch 301 6Position Black Stk Black Hard Coat Anodized | 818725010668",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/25635.jpg",
+                        "available":"Out of Stock",
+                        "id":"36597",
+                        "brand":"FRANKLINARMORY",
+                        "upc":"818725010668",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/36597/FranklinArmoryM4CarbineSemiAutomatic223Remington556NATO163016PositionBlackStkBlackHardCoatAnodized",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FRANKLINARMORY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FRANKLIN ARMORY DFM MAGAZINE 5.56MM 10RD METAL CA/CT/NY LEGAL | 818725010866",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/25477.jpg",
+                        "available":"Out of Stock",
+                        "id":"36546",
+                        "brand":"FRANKLINARMORY",
+                        "upc":"818725010866",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/36546/FRANKLINARMORYDFMMAGAZINE556MM10RDMETALCACTNYLEGAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FRANKLINARMORY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FRANKLIN ARMORY DFM MAGAZINE 6.8 SPC 10RD METAL CA/CT/NY LEGAL | 818725010903",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/25479.jpg",
+                        "available":"Out of Stock",
+                        "id":"36548",
+                        "brand":"FRANKLINARMORY",
+                        "upc":"818725010903",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/36548/FRANKLINARMORYDFMMAGAZINE68SPC10RDMETALCACTNYLEGAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FRANKLINARMORY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FRANKLIN ARMORY DFM MAGAZINE 7.62X39MM 10RD METAL CA/CT/NY LEGAL | 818725010910",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/25481.jpg",
+                        "available":"Out of Stock",
+                        "id":"36550",
+                        "brand":"FRANKLINARMORY",
+                        "upc":"818725010910",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/36550/FRANKLINARMORYDFMMAGAZINE762X39MM10RDMETALCACTNYLEGAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FRANKLINARMORY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FRANKLIN ARMORY DFM BOLT CATCH WITH ROLL PIN | 818725010941",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/25483.jpg",
+                        "available":"In Stock",
+                        "id":"36552",
+                        "brand":"FRANKLINARMORY",
+                        "upc":"818725010941",
+                        "price":17.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/36552/FRANKLINARMORYDFMBOLTCATCHWITHROLLPIN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FRANKLINARMORY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FRANKLIN ARMORY F17 20RD MAGAZINE BLACK | 818725011320",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/25476.jpg",
+                        "available":"Out of Stock",
+                        "id":"36545",
+                        "brand":"FRANKLINARMORY",
+                        "upc":"818725011320",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/36545/FRANKLINARMORYF1720RDMAGAZINEBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FRANKLINARMORY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FRANKLIN ARMORY BINARY TRIGGER SYSTEM III STRAIGHT TRIGGER PACKAGE | 818725011450",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/5645A.jpg",
+                        "available":"Out of Stock",
+                        "id":"417175",
+                        "brand":"FRANKLINARMORY",
+                        "upc":"818725011450",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Triggers",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/417175/FRANKLINARMORYBINARYTRIGGERSYSTEMIIISTRAIGHTTRIGGERPACKAGE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FRANKLINARMORY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FRANKLIN ARMORY AKC1 BUNARY TRIGGER AK | 818725011863",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/5718A.jpg",
+                        "available":"Out of Stock",
+                        "id":"311461",
+                        "brand":"FRANKLINARMORY",
+                        "upc":"818725011863",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Triggers",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/311461/FRANKLINARMORYAKC1BUNARYTRIGGERAK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FRANKLINARMORY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Franklin Armory 3130 CA7 CA Compliant 5.56 NATO 7.50 Inch 101 Black Hard Coat Anodized Black Polymer Grip Buffer Tube | 818725011955",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/108690.jpg",
+                        "available":"Out of Stock",
+                        "id":"58935",
+                        "brand":"FRANKLINARMORY",
+                        "upc":"818725011955",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/58935/FranklinArmory3130CA7CACompliant556NATO750101BlackHardCoatAnodizedBlackPolymerGripBufferTube",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FRANKLINARMORY"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

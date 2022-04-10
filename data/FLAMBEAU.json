@@ -1,0 +1,120 @@
+
+        [
+            
+                    {
+                        "name":"SUPERMAX HEAVYSHOT SUPERBLK EAGL | 6.14541E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/FVMD1022.jpg",
+                        "available":"Out of Stock",
+                        "id":"260404",
+                        "brand":"FLAMBEAU",
+                        "upc":"6.14541E+11",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Muzzle Devices",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260404/SUPERMAXHEAVYSHOTSUPERBLKEAGL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FLAMBEAU"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FLAMBEAU SOFT CROSSBOW CASE CAMO | 71617000950",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/FV6466BU.jpg",
+                        "available":"Out of Stock",
+                        "id":"260403",
+                        "brand":"FLAMBEAU",
+                        "upc":"71617000950",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cases",
+                        "SUBTYP_1":"Archery Cases",
+                        "product_url":"/product/260403/FLAMBEAUSOFTCROSSBOWCASECAMO",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FLAMBEAU"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MINASKA M1 BASIC ELECTRIC CALL | 71617008895",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/FVMD600.jpg",
+                        "available":"Out of Stock",
+                        "id":"260405",
+                        "brand":"FLAMBEAU",
+                        "upc":"71617008895",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Decoys",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260405/MINASKAM1BASICELECTRICCALL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FLAMBEAU"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"520HEAVY GA DECOY CORD | 71617051129",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/FV5110CD.jpg",
+                        "available":"Out of Stock",
+                        "id":"260401",
+                        "brand":"FLAMBEAU",
+                        "upc":"71617051129",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Decoys",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260401/520HEAVYGADECOYCORD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FLAMBEAU"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"275LIGHT GADECOY CORDEACH | 71617951009",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/FV5100CD.jpg",
+                        "available":"Out of Stock",
+                        "id":"260400",
+                        "brand":"FLAMBEAU",
+                        "upc":"71617951009",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Decoys",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/260400/275LIGHTGADECOYCORDEACH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FLAMBEAU"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,74 @@
+
+        [
+            
+                    {
+                        "name":"UTG AR15 M4/15 ACCURIZING BUFFER WEDGE | 4.11227E+12",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/LIRBA005.jpg",
+                        "available":"Out of Stock",
+                        "id":"261530",
+                        "brand":"LEAPERS",
+                        "upc":"4.11227E+12",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/261530/UTGAR15M415ACCURIZINGBUFFERWEDGE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LEAPERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UTG PRO COMMERCIAL 6POSITION BUFFER TUBE | 4.71227E+12",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/LITLU006.jpg",
+                        "available":"Out of Stock",
+                        "id":"261529",
+                        "brand":"LEAPERS",
+                        "upc":"4.71227E+12",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/261529/UTGPROCOMMERCIAL6POSITIONBUFFERTUBE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LEAPERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AIRSOFT GRND PELLET .2G 2000BOTT | 4.71564E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/LISOFTPP20B3.jpg",
+                        "available":"Out of Stock",
+                        "id":"261531",
+                        "brand":"LEAPERS",
+                        "upc":"4.71564E+11",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/261531/AIRSOFTGRNDPELLET2G2000BOTT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LEAPERS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

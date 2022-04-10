@@ -1,0 +1,764 @@
+
+        [
+            
+                    {
+                        "name":"FN 47104 FNP9 9mm Luger 10rd Stainless Detachable | 818513000055",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62588.jpg",
+                        "available":"In Stock",
+                        "id":"45704",
+                        "brand":"FN",
+                        "upc":"818513000055",
+                        "price":39.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/45704/FN47104FNP99mmLuger10rdStainlessDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 47103 FNP9 9mm Luger FN FNP9 16rd Silver Detachable | 818513000062",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/17135.jpg",
+                        "available":"Out of Stock",
+                        "id":"34696",
+                        "brand":"FN",
+                        "upc":"818513000062",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/34696/FN47103FNP99mmLugerFNFNP916rdSilverDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 3810110093 PS90/P90 5.7x28mm 50rd Black Detachable | 818513001656",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/78907.jpg",
+                        "available":"Out of Stock",
+                        "id":"23439",
+                        "brand":"FN",
+                        "upc":"818513001656",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/23439/FN3810110093PS90P9057x28mm50rdBlackDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 3866100320 FiveseveN 5.7x28mm 10rd Black Detachable | 818513002523",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/17122.jpg",
+                        "available":"Out of Stock",
+                        "id":"4309",
+                        "brand":"FN",
+                        "upc":"818513002523",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/4309/FN3866100320FiveseveN57x28mm10rdBlackDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 3866100030 FiveseveN 5.7x28mm 20rd Black Detachable | 818513003018",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/17123.jpg",
+                        "available":"Out of Stock",
+                        "id":"4371",
+                        "brand":"FN",
+                        "upc":"818513003018",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/4371/FN3866100030FiveseveN57x28mm20rdBlackDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN FNP9 9mm 15 rd Blue Finish | 818513003346",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/17136.jpg",
+                        "available":"Out of Stock",
+                        "id":"34697",
+                        "brand":"FN",
+                        "upc":"818513003346",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/34697/FNFNP99mm15rdBlueFinish",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 3816101050 PS90 5.7x28mm 30rd Smoke Detachable | 818513003582",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/33128.jpg",
+                        "available":"In Stock",
+                        "id":"23440",
+                        "brand":"FN",
+                        "upc":"818513003582",
+                        "price":39.00,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/23440/FN3816101050PS9057x28mm30rdSmokeDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAG FN P90 5.7X28MM 10RD BLK | 818513003667",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MGFN3816101040_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"64011",
+                        "brand":"FN",
+                        "upc":"818513003667",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/64011/MAGFNP9057X28MM10RDBLK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 3108929210 FNAR 308 Win 20rd Black Detachable | 818513006125",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/55812.jpg",
+                        "available":"Out of Stock",
+                        "id":"14021",
+                        "brand":"FN",
+                        "upc":"818513006125",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/14021/FN3108929210FNAR308Win20rdBlackDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 474562 FNP45 45 ACP 15rd Black Detachable | 818513006675",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/53899.jpg",
+                        "available":"Out of Stock",
+                        "id":"4915",
+                        "brand":"FN",
+                        "upc":"818513006675",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/4915/FN474562FNP4545ACP15rdBlackDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 98890 SCAR 17S 308 Win,7.62 NATO 20rd Black/FDE Detachable | 845737000028",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/72756.jpg",
+                        "available":"Out of Stock",
+                        "id":"8235",
+                        "brand":"FN",
+                        "upc":"845737000028",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/8235/FN98890SCAR17S308Win762NATO20rdBlackFDEDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 98892 SCAR 17S 308 Win,7.62 NATO 20rd Black Detachable | 845737000035",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/72757.jpg",
+                        "available":"Out of Stock",
+                        "id":"8237",
+                        "brand":"FN",
+                        "upc":"845737000035",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/8237/FN98892SCAR17S308Win762NATO20rdBlackDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN SPR A5M 308 Winchester 5 rd Black Finish | 845737000417",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/74290.jpg",
+                        "available":"Out of Stock",
+                        "id":"48162",
+                        "brand":"FN",
+                        "upc":"845737000417",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/48162/FNSPRA5M308Winchester5rdBlackFinish",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN P12 Black 12 Gauge 18 Inch 3 Inch 51 | 845737001063",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83457.jpg",
+                        "available":"Out of Stock",
+                        "id":"15440",
+                        "brand":"FN",
+                        "upc":"845737001063",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/15440/FNP12Black12Gauge18351",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 663304 FNS 9mm Luger FN FNS 10rd Black Detachable | 845737001179",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83461.jpg",
+                        "available":"Out of Stock",
+                        "id":"6123",
+                        "brand":"FN",
+                        "upc":"845737001179",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/6123/FN663304FNS9mmLugerFNFNS10rdBlackDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 663226 FNX 45 ACP FN FNX 15rd Black/FDE Detachable | 845737002534",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83466.jpg",
+                        "available":"Out of Stock",
+                        "id":"6121",
+                        "brand":"FN",
+                        "upc":"845737002534",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/6121/FN663226FNX45ACPFNFNX15rdBlackFDEDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 663225 FNX 45 ACP 15rd Black Detachable | 845737002541",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83464.jpg",
+                        "available":"Out of Stock",
+                        "id":"6120",
+                        "brand":"FN",
+                        "upc":"845737002541",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/6120/FN663225FNX45ACP15rdBlackDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 663221 FNX 45 ACP 10rd Black Detachable | 845737002558",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83465.jpg",
+                        "available":"Out of Stock",
+                        "id":"6119",
+                        "brand":"FN",
+                        "upc":"845737002558",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6119/FN663221FNX45ACP10rdBlackDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 663222 FNX 45 ACP FN FNX 10rd Black/FDE Detachable | 845737002565",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/83467.jpg",
+                        "available":"Out of Stock",
+                        "id":"50121",
+                        "brand":"FN",
+                        "upc":"845737002565",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/50121/FN663222FNX45ACPFNFNX10rdBlackFDEDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 3868929300 FiveseveN 5.7x28mm 4.8 Inch 201 Black Matte Black Steel Black Polymer Grip | 845737003302",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/84945.jpg",
+                        "available":"Out of Stock",
+                        "id":"16052",
+                        "brand":"FN",
+                        "upc":"845737003302",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16052/FN3868929300FiveseveN57x28mm48201BlackMatteBlackSteelBlackPolymerGrip",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 3868929350 FiveseveN 5.7x28mm 4.8 Inch 201 Flat Dark Earth Black Steel Slide Flat Dark Earth Polymer Grip Adjustable Sights | 845737003364",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/84947.jpg",
+                        "available":"Out of Stock",
+                        "id":"16054",
+                        "brand":"FN",
+                        "upc":"845737003364",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16054/FN3868929350FiveseveN57x28mm48201FlatDarkEarthBlackSteelSlideFlatDarkEarthPolymerGripAdjustableSights",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FNH MAG 7.62 10RD FDE SCAR 17S LE | 845737003777",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97722.jpg",
+                        "available":"Out of Stock",
+                        "id":"8234",
+                        "brand":"FN",
+                        "upc":"845737003777",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/8234/FNHMAG76210RDFDESCAR17SLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 6647821 FNS 9mm Luger FN FNS Compact 10rd Black Detachable | 845737006044",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24471.jpg",
+                        "available":"Out of Stock",
+                        "id":"6131",
+                        "brand":"FN",
+                        "upc":"845737006044",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/6131/FN6647821FNS9mmLugerFNFNSCompact10rdBlackDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FNH FNS9 COMP MAG 12 RD BLK LE | 845737006051",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24470.jpg",
+                        "available":"Out of Stock",
+                        "id":"6130",
+                        "brand":"FN",
+                        "upc":"845737006051",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/6130/FNHFNS9COMPMAG12RDBLKLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 56460 M249S  223 Rem,5.56 NATO 18.50 Inch 301 Black | 845737006846",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/3093.jpg",
+                        "available":"Out of Stock",
+                        "id":"17076",
+                        "brand":"FN",
+                        "upc":"845737006846",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/17076/FN56460M249S223Rem556NATO1850301Black",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 201000321 509 9mm Luger 17rd Black Detachable | 845737007768",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36527.jpg",
+                        "available":"Out of Stock",
+                        "id":"3016",
+                        "brand":"FN",
+                        "upc":"845737007768",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/3016/FN2010003215099mmLuger17rdBlackDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 201000322 509 9mm Luger 10 Round Stainless Steel Black Finish | 845737007775",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36528.jpg",
+                        "available":"Out of Stock",
+                        "id":"3017",
+                        "brand":"FN",
+                        "upc":"845737007775",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/3017/FN2010003225099mmLuger10RoundStainlessSteelBlackFinish",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN M249S Para 223 Rem,5.56 NATO 16.10 Inch 301 Black Collapsible Stock | 845737008062",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24483.jpg",
+                        "available":"Out of Stock",
+                        "id":"17077",
+                        "brand":"FN",
+                        "upc":"845737008062",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/17077/FNM249SPara223Rem556NATO1610301BlackCollapsibleStock",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 66100002 509 9mm Luger 4 Inch 171 Black Black Interchangeable Backstrap Grip No Manual Safety | 845737008079",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/35105.jpg",
+                        "available":"Out of Stock",
+                        "id":"17331",
+                        "brand":"FN",
+                        "upc":"845737008079",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/17331/FN661000025099mmLuger4171BlackBlackInterchangeableBackstrapGripNoManualSafety",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 20100064 FNS 9mm Luger FN FNS Compact 17rd Black/FDE Detachable | 845737008482",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/100182.jpg",
+                        "available":"Out of Stock",
+                        "id":"3019",
+                        "brand":"FN",
+                        "upc":"845737008482",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/3019/FN20100064FNS9mmLugerFNFNSCompact17rdBlackFDEDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN M249S Para 5.56 NATO 16.10 Inch 301 Flat Dark Earth Black Collapsible Stock | 845737009687",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48140.jpg",
+                        "available":"Out of Stock",
+                        "id":"42287",
+                        "brand":"FN",
+                        "upc":"845737009687",
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/42287/FNM249SPara556NATO1610301FlatDarkEarthBlackCollapsibleStock",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FN 201000323 509 9mm Luger 24rd Black Detachable | 845737009793",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105890.jpg",
+                        "available":"Out of Stock",
+                        "id":"3018",
+                        "brand":"FN",
+                        "upc":"845737009793",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Magazine Loaders",
+                        "product_url":"/product/3018/FN2010003235099mmLuger24rdBlackDetachable",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FNH MAG 509 PISTOL 9MM 10 RD FDE | 845737010096",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/109633.jpg",
+                        "available":"Out of Stock",
+                        "id":"240172",
+                        "brand":"FN",
+                        "upc":"845737010096",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/240172/FNHMAG509PISTOL9MM10RDFDE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FN"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

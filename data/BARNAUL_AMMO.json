@@ -1,0 +1,97 @@
+
+        [
+            
+                    {
+                        "name":"BARNAUL AMMO 223 REM 62GR FMJ STEEL POLYCOATED CASE 20RD BX | 4607094860174",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/137145.jpg",
+                        "available":"Out of Stock",
+                        "id":"309683",
+                        "brand":"BARNAULAMMO",
+                        "upc":"4607094860174",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Specialty",
+                        "product_url":"/product/309683/BARNAULAMMO223REM62GRFMJSTEELPOLYCOATEDCASE20RDBX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BARNAULAMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Barnaul Ammo 762X39FMJ123 7.62X39mm 123 GR Full Metal Jacket 20 Bx/ 25 Cs 500 Rounds Total | 4607094860266",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110194.jpg",
+                        "available":"Out of Stock",
+                        "id":"71941",
+                        "brand":"BARNAULAMMO",
+                        "upc":"4607094860266",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Specialty",
+                        "product_url":"/product/71941/BarnaulAmmo762X39FMJ123762X39mm123GRFullMetalJacket20Bx25Cs500RoundsTotal",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BARNAULAMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BARNAUL AMO 40SW 165GR FMJ STEEL POLYCOATED CASE 50RD BOX 10 BOXES PER CASE | 4607094863113",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/137162.jpg",
+                        "available":"Out of Stock",
+                        "id":"414686",
+                        "brand":"BARNAULAMMO",
+                        "upc":"4607094863113",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/414686/BARNAULAMO40SW165GRFMJSTEELPOLYCOATEDCASE50RDBOX10BOXESPERCASE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BARNAULAMMO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BARNAUL 762X54R 148GR FMJ148 20/500 | 4607094863304",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/137169.jpg",
+                        "available":"Out of Stock",
+                        "id":"243018",
+                        "brand":"BARNAULAMMO",
+                        "upc":"4607094863304",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Specialty",
+                        "product_url":"/product/243018/BARNAUL762X54R148GRFMJ14820500",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BARNAULAMMO"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

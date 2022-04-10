@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"THERMACELL REFILL VALUE 4PK | 1.81752E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/TWR4.jpg",
+                        "available":"Out of Stock",
+                        "id":"259379",
+                        "brand":"THERMACELL REPELLENTS INC.",
+                        "upc":"1.81752E+11",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259379/THERMACELLREFILLVALUE4PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THERMACELL REPELLENTS INC."
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HEATED INSOLE CAR CHARGER | 8.43654E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/TWTHSCC1.jpg",
+                        "available":"Out of Stock",
+                        "id":"259380",
+                        "brand":"THERMACELL REPELLENTS INC.",
+                        "upc":"8.43654E+11",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Hunting",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259380/HEATEDINSOLECARCHARGER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THERMACELL REPELLENTS INC."
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

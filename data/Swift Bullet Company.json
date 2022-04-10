@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":".470 CAL .475DIA 500 GR 50/BX | 7.13351E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/SB47500.jpg",
+                        "available":"Out of Stock",
+                        "id":"258079",
+                        "brand":"SWIFT BULLET COMPANY",
+                        "upc":"7.13351E+11",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/258079/470CAL475DIA500GR50BX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SWIFT BULLET COMPANY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":".338CAL 338DIA 210GR 100/BOX | 7.13352E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/SB84210.jpg",
+                        "available":"Out of Stock",
+                        "id":"258080",
+                        "brand":"SWIFT BULLET COMPANY",
+                        "upc":"7.13352E+11",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/258080/338CAL338DIA210GR100BOX",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SWIFT BULLET COMPANY"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

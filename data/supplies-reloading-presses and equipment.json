@@ -1,0 +1,40 @@
+
+        [
+            
+                    {
+                        "name":"Frankford Arsenal Powder Trickler | 661120035350",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/FA903535_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"75406",
+                        "brand":"BATTENFIELD",
+                        "upc":"661120035350",
+                        
+                        "price":21.72,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Presses and Equipment",
+                        "product_url":"/product/75406/FrankfordArsenalPowderTrickler",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BATTENFIELD"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

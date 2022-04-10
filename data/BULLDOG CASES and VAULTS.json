@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"EXTREME HOLSTER BC RUGER P90 | 6.72353E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/JZFSN8.jpg",
+                        "available":"Out of Stock",
+                        "id":"261364",
+                        "brand":"BULLDOG CASES AND VAULTS",
+                        "upc":"6.72353E+11",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/261364/EXTREMEHOLSTERBCRUGERP90",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BULLDOG CASES AND VAULTS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"EXTREME HOLSTER BC GLK 1719 | 6.72383E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/JZFSN7.jpg",
+                        "available":"Out of Stock",
+                        "id":"261365",
+                        "brand":"BULLDOG CASES AND VAULTS",
+                        "upc":"6.72383E+11",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/261365/EXTREMEHOLSTERBCGLK1719",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BULLDOG CASES AND VAULTS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

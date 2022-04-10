@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"338CAL 338DIA 300GR HYBRID OTM 250 COUNT | 6.79459E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/BB33794.jpg",
+                        "available":"Out of Stock",
+                        "id":"258063",
+                        "brand":"BERGER BULLETS",
+                        "upc":"6.79459E+11",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/258063/338CAL338DIA300GRHYBRIDOTM250COUNT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BERGER BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BERGER RELOADING MANUAL 1ST ED | 9.78062E+12",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/BB5011111.jpg",
+                        "available":"Out of Stock",
+                        "id":"258075",
+                        "brand":"BERGER BULLETS",
+                        "upc":"9.78062E+12",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Other",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/258075/BERGERRELOADINGMANUAL1STED",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BERGER BULLETS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

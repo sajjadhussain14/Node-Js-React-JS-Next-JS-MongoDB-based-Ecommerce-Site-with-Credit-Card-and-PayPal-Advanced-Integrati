@@ -1,0 +1,255 @@
+
+        [
+            
+                    {
+                        "name":"LIBERTY 308 WIN 100 FHPLF 20 | 019962272431",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1940.jpg",
+                        "available":"Out of Stock",
+                        "id":"31750",
+                        "brand":"LIBERTY",
+                        "upc":"019962272431",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/31750/LIBERTY308WIN100FHPLF20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIBERTY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Liberty Civil Defense Handgun Ammunition .45 ACP P 78 gr 1900 fps SCHP 20/ct | 696859105609",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/86376.jpg",
+                        "available":"Out of Stock",
+                        "id":"9419",
+                        "brand":"LIBERTY",
+                        "upc":"696859105609",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9419/LibertyCivilDefenseHandgunAmmunition45ACPP78gr1900fpsSCHP20ct",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIBERTY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Liberty Civil Defense Handgun Ammunition 9mm P 50gr SCHP 2000 fps 20/ct | 696859105623",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/86374.jpg",
+                        "available":"Out of Stock",
+                        "id":"9421",
+                        "brand":"LIBERTY",
+                        "upc":"696859105623",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9421/LibertyCivilDefenseHandgunAmmunition9mmP50grSCHP2000fps20ct",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIBERTY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Liberty Civil Defense Rifle Ammunition .223 Rem 55 gr SCHP 3000 fps 20/ct | 696859105630",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/22507.jpg",
+                        "available":"Out of Stock",
+                        "id":"10706",
+                        "brand":"LIBERTY",
+                        "upc":"696859105630",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/10706/LibertyCivilDefenseRifleAmmunition223Rem55grSCHP3000fps20ct",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIBERTY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LIBERTY 223 REM 55 FHPLF 20 | 696859105647",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BHPRODIMAGES/LIB LASC223018.jpg",
+                        "available":"Out of Stock",
+                        "id":"104610",
+                        "brand":"LIBERTY",
+                        "upc":"696859105647",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/104610/LIBERTY223REM55FHPLF20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIBERTY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Liberty Civil Defense Handgun Ammunition .380 Auto 50 gr SCHP 1500 fps 20/ct | 696859105654",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/90776.jpg",
+                        "available":"Out of Stock",
+                        "id":"9418",
+                        "brand":"LIBERTY",
+                        "upc":"696859105654",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9418/LibertyCivilDefenseHandgunAmmunition380Auto50grSCHP1500fps20ct",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIBERTY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Liberty Civil Defense Handgun Ammunition .45 Colt 78 gr SCHP 1800 fps 20/ct | 748252054975",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98422.jpg",
+                        "available":"Out of Stock",
+                        "id":"9420",
+                        "brand":"LIBERTY",
+                        "upc":"748252054975",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9420/LibertyCivilDefenseHandgunAmmunition45Colt78grSCHP1800fps20ct",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIBERTY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Liberty Civil Defense Handgun Ammunition 10mm Auto 60 gr SCHP 2400 fps 20/ct | 748252054982",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98421.jpg",
+                        "available":"Out of Stock",
+                        "id":"9415",
+                        "brand":"LIBERTY",
+                        "upc":"748252054982",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9415/LibertyCivilDefenseHandgunAmmunition10mmAuto60grSCHP2400fps20ct",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIBERTY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Liberty Civil Defense Handgun Ammunition .38 Spl 50 gr SCHP 1500 fps 20/ct | 748252232113",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/93261.jpg",
+                        "available":"Out of Stock",
+                        "id":"9417",
+                        "brand":"LIBERTY",
+                        "upc":"748252232113",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9417/LibertyCivilDefenseHandgunAmmunition38Spl50grSCHP1500fps20ct",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIBERTY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Liberty Civil Defense Handgun Ammunition .357 Mag 50 gr SCHP 2100 fps 20/ct | 748252888136",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98420.jpg",
+                        "available":"Out of Stock",
+                        "id":"9416",
+                        "brand":"LIBERTY",
+                        "upc":"748252888136",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Pistol",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/9416/LibertyCivilDefenseHandgunAmmunition357Mag50grSCHP2100fps20ct",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LIBERTY"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,55 @@
+
+        [
+            
+                    {
+                        "name":"DALY 601 FIELD 12/28 MAX5 3 Inch  930.232 | 8053800941402 | CHARLES DALY | Firearms | Shotguns | Semi Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120423.jpg",
+                        "available":"Out of Stock",
+                        "id":"307130",
+                        "brand":"CHARLES DALY",
+                        "upc":"8053800941402",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Semi Auto",
+                        "product_url":"/product/307130/DALY601FIELD1228MAX53930232",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHARLES DALY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"LITTLE BADGER 22LR RIFLE Black/OD Green 16.5IN BBL w/ 4x20 Scope  500.232 | 8053800941570 | CHIAPPA FIREARMS | Firearms | Rifles ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120468.jpg",
+                        "available":"Out of Stock",
+                        "id":"294285",
+                        "brand":"CHIAPPA FIREARMS",
+                        "upc":"8053800941570",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/294285/LITTLEBADGER22LRRIFLEBlackODGreen165INBBLw4x20Scope500232",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHIAPPA FIREARMS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

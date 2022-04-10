@@ -1,0 +1,565 @@
+
+        [
+            
+                    {
+                        "name":"SAV TRGT ACTN STD RB/LP | 011356181824",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/79147.jpg",
+                        "available":"Out of Stock",
+                        "id":"49172",
+                        "brand":"SAVAGE",
+                        "upc":"011356181824",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/49172/SAVTRGTACTNSTDRBLP",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAV TRGT ACTN 223 RB/LP | 011356181831",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/79146.jpg",
+                        "available":"Out of Stock",
+                        "id":"49171",
+                        "brand":"SAVAGE",
+                        "upc":"011356181831",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/49171/SAVTRGTACTN223RBLP",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAV TRGT ACTN STD RB/RP | 011356181848",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/79149.jpg",
+                        "available":"Out of Stock",
+                        "id":"15485",
+                        "brand":"SAVAGE",
+                        "upc":"011356181848",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/15485/SAVTRGTACTNSTDRBRP",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAV TRGT ACTN 223 RB/RP | 011356181855",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/79148.jpg",
+                        "available":"Out of Stock",
+                        "id":"49173",
+                        "brand":"SAVAGE",
+                        "upc":"011356181855",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/49173/SAVTRGTACTN223RBRP",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAV TRGT ACTN 223 LL/RE | 011356186362",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/79150.jpg",
+                        "available":"Out of Stock",
+                        "id":"49175",
+                        "brand":"SAVAGE",
+                        "upc":"011356186362",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/49175/SAVTRGTACTN223LLRE",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAV TRGT ACTN STD LL/RE | 011356186379",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/79151.jpg",
+                        "available":"Out of Stock",
+                        "id":"49176",
+                        "brand":"SAVAGE",
+                        "upc":"011356186379",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/49176/SAVTRGTACTNSTDLLRE",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TC 8700 CON G2 FRM PSTL | 090161024366",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/33855.jpg",
+                        "available":"Out of Stock",
+                        "id":"20890",
+                        "brand":"THOMPSON",
+                        "upc":"090161024366",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20890/TC8700CONG2FRMPSTL",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TC 8750 CON G2 PSTL FRM | 090161024441",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26879.jpg",
+                        "available":"Out of Stock",
+                        "id":"20892",
+                        "brand":"THOMPSON",
+                        "upc":"090161024441",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20892/TC8750CONG2PSTLFRM",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TC 8720 CON G2 FRM RFL | 090161025721",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/33856.jpg",
+                        "available":"Out of Stock",
+                        "id":"20891",
+                        "brand":"THOMPSON",
+                        "upc":"090161025721",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20891/TC8720CONG2FRMRFL",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TC 8770 CON G2 FRM RFL SS | 090161033733",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26880.jpg",
+                        "available":"Out of Stock",
+                        "id":"20893",
+                        "brand":"THOMPSON",
+                        "upc":"090161033733",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20893/TC8770CONG2FRMRFLSS",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TC 1870 PRO RFL FRM ASSY | 090161034310",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/37284.jpg",
+                        "available":"Out of Stock",
+                        "id":"20850",
+                        "brand":"THOMPSON",
+                        "upc":"090161034310",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20850/TC1870PRORFLFRMASSY",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TC 1885 PRO RFL FRM ASSY | 090161034730",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/37287.jpg",
+                        "available":"Out of Stock",
+                        "id":"20855",
+                        "brand":"THOMPSON",
+                        "upc":"090161034730",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20855/TC1885PRORFLFRMASSY",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TC 1887 PRO HNTR FRM ASSY | 090161037090",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/84553.jpg",
+                        "available":"Out of Stock",
+                        "id":"20856",
+                        "brand":"THOMPSON",
+                        "upc":"090161037090",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20856/TC1887PROHNTRFRMASSY",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TC 1920 PRO HTR FRM ASSY | 090161039520",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/46056.jpg",
+                        "available":"Out of Stock",
+                        "id":"20857",
+                        "brand":"THOMPSON",
+                        "upc":"090161039520",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20857/TC1920PROHTRFRMASSY",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TC 6297 PRO HNTR FRM ASSY | 090161046993",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73967.jpg",
+                        "available":"Out of Stock",
+                        "id":"20888",
+                        "brand":"THOMPSON",
+                        "upc":"090161046993",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20888/TC6297PROHNTRFRMASSY",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CZ 527 7.62x39 ACTION ONLY | 806703000268",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/G00026.jpg",
+                        "available":"Out of Stock",
+                        "id":"304821",
+                        "brand":"CZ",
+                        "upc":"806703000268",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Frames",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/304821/CZ527762x39ACTIONONLY",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CZ"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

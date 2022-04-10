@@ -1,0 +1,1790 @@
+
+        [
+            
+                    {
+                        "name":"SW MP 15 SPORTII FXD 5.56 10RD | 022188868111",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/5000.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"15047",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188868111",
+                        
+                        "price":757.20,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/15047/SWMP15SPORTIIFXD55610RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW MP 15 TACT 5.56 16 30RD | 022188869385",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23970.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"15127",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188869385",
+                        
+                        "price":1150.80,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/15127/SWMP15TACT5561630RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AUTO 1927A DLX 45CAL 100DRUM | 602686211086",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/AUT1100D_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"20788",
+                        "brand":"AUTOORDINANCE",
+                        "upc":"602686211086",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20788/AUTO1927ADLX45CAL100DRUM",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AUTOORDINANCE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AUTO 1927A DLX 45CAL GLD 50DRM | 602686214032",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/4214.jpg",
+                        "available":"Out of Stock",
+                        "id":"20791",
+                        "brand":"AUTOORDINANCE",
+                        "upc":"602686214032",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20791/AUTO1927ADLX45CALGLD50DRM",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AUTOORDINANCE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AUTO 1927A DLX 45CAL CRM 50DRM | 602686214131",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/138191.jpg",
+                        "available":"Out of Stock",
+                        "id":"59959",
+                        "brand":"AUTOORDINANCE",
+                        "upc":"602686214131",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/59959/AUTO1927ADLX45CALCRM50DRM",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AUTOORDINANCE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"THOMPSON M1 CARBINE 45ACP 30RD | 602686221009",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/41632.jpg",
+                        "available":"Out of Stock",
+                        "id":"20946",
+                        "brand":"KAHR",
+                        "upc":"602686221009",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20946/THOMPSONM1CARBINE45ACP30RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KAHR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"M1 Lightweight Carbine Tommy Gun .45 Cal. 30 round stick magazine | 602686222006",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/41633.jpg",
+                        "available":"Out of Stock",
+                        "id":"40665",
+                        "brand":"KAHR",
+                        "upc":"602686222006",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/40665/M1LightweightCarbineTommyGun45Cal30roundstickmagazine",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KAHR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 WLNT 22 CA 10RD | 706397019020",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/11812.jpg",
+                        "available":"Out of Stock",
+                        "id":"33727",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397019020",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/33727/SPRINGFIELDM1A308WLNT22CA10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 BLACK 22 CA 10RD | 706397019068",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/11811.jpg",
+                        "available":"Out of Stock",
+                        "id":"33726",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397019068",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/33726/SPRINGFIELDM1A308BLACK22CA10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 NM BLK 22 CA 10 | 706397019266",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27088.jpg",
+                        "available":"Out of Stock",
+                        "id":"19882",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397019266",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/19882/SPRINGFIELDM1A308NMBLK22CA10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 NAT WLNT 22 CA 10 | 706397029029",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32599.jpg",
+                        "available":"Out of Stock",
+                        "id":"38372",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397029029",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/38372/SPRINGFIELDM1A308NATWLNT22CA10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 OS WALNUT 22 10 | 706397031022",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27448.jpg",
+                        "available":"Out of Stock",
+                        "id":"20631",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397031022",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20631/SPRINGFIELDM1A308OSWALNUT2210",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 MCMILLIAN 22 10 | 706397038045",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27196.jpg",
+                        "available":"Out of Stock",
+                        "id":"20634",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397038045",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20634/SPRINGFIELDM1A308MCMILLIAN2210",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 OS WLNT 22 CA 10 | 706397039028",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32901.jpg",
+                        "available":"Out of Stock",
+                        "id":"38397",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397039028",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/38397/SPRINGFIELDM1A308OSWLNT22CA10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 NM SS/WLNT CA 10 | 706397869045",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32900.jpg",
+                        "available":"Out of Stock",
+                        "id":"38396",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397869045",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/38396/SPRINGFIELDM1A308NMSSWLNTCA10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 OS SS WLNT CA 10 | 706397869052",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32902.jpg",
+                        "available":"Out of Stock",
+                        "id":"38398",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397869052",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/38398/SPRINGFIELDM1A308OSSSWLNTCA10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 MCMILIAN 22 CA 10 | 706397869069",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/32903.jpg",
+                        "available":"Out of Stock",
+                        "id":"38399",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397869069",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/38399/SPRINGFIELDM1A308MCMILIAN22CA10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 M21 ADJ 22 CA 10 | 706397869908",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/53870.jpg",
+                        "available":"Out of Stock",
+                        "id":"43804",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397869908",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/43804/SPRINGFIELDM1A308M21ADJ22CA10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 NM WALNUT NY 10 | 706397905934",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/4043.jpg",
+                        "available":"Out of Stock",
+                        "id":"32285",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397905934",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/32285/SPRINGFIELDM1A308NMWALNUTNY10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SPRINGFIELD M1A .308 NM BLACK NY 10RD | 706397905941",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/4044.jpg",
+                        "available":"Out of Stock",
+                        "id":"32286",
+                        "brand":"SPRINGFIELD",
+                        "upc":"706397905941",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/32286/SPRINGFIELDM1A308NMBLACKNY10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SPRINGFIELD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Ruger MiniThirty Rifle 7.62x39mm 20rd Magazine 18.50 Inch Barrel Black Stock | 736676058532",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/61812.jpg",
+                        "available":"Out of Stock",
+                        "id":"17247",
+                        "brand":"STURM RUGER  CO",
+                        "upc":"736676058532",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/17247/RugerMiniThirtyRifle762x39mm20rdMagazine1850BarrelBlackStock",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER  CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS 9MM CAR TRGT STCK 10 | 752334009951",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60668.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18230",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334009951",
+                        
+                        "price":269.00,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18230/HP9TS9MMCARTRGTSTCK10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 380TS CAR TRGT STK 10RD | 752334038074",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/5142.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"16277",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334038074",
+                        
+                        "price":293.94,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16277/HP380TSCARTRGTSTK10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR W/FWD GRP  LT | 752334099921",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62395.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18227",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334099921",
+                        
+                        "price":362.34,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18227/HP9TSCARWFWDGRPLT",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR W/FWD GP LT LSR | 752334099938",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62396.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18228",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334099938",
+                        
+                        "price":406.74,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18228/HP9TSCARWFWDGPLTLSR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR FWD/TUFF1 GRP | 752334099945",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62394.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18235",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334099945",
+                        
+                        "price":333.54,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18235/HP9TSCARFWDTUFF1GRP",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 40TS CAR TRGT STCK 10RD | 752334401007",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69685.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"16313",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334401007",
+                        
+                        "price":269.00,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16313/HP40TSCARTRGTSTCK10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR TRGT STCK 10RD | 752334500021",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69681.jpg",
+                        "available":"Out of Stock",
+                        "id":"16347",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334500021",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16347/HP45TSCARTRGTSTCK10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR PINK TGT STK 10 | 752334600004",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1949.jpg",
+                        "available":"Out of Stock",
+                        "id":"18239",
+                        "brand":"HIPOINT",
+                        "upc":"752334600004",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18239/HP9TSCARPINKTGTSTK10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HIPOINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR DD TRGT STK 10 | 752334600028",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1948.jpg",
+                        "available":"Out of Stock",
+                        "id":"18232",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334600028",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18232/HP9TSCARDDTRGTSTK10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR WL TRGT STK 10 | 752334600035",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1950.jpg",
+                        "available":"Out of Stock",
+                        "id":"18240",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334600035",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18240/HP9TSCARWLTRGTSTK10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR WL TRGT STCK 9 | 752334600097",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1956.jpg",
+                        "available":"Out of Stock",
+                        "id":"16358",
+                        "brand":"HIPOINT",
+                        "upc":"752334600097",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16358/HP45TSCARWLTRGTSTCK9",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HIPOINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR OD TRGT STK 10 | 752334600127",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/49669.jpg",
+                        "available":"Out of Stock",
+                        "id":"18237",
+                        "brand":"HIPOINT",
+                        "upc":"752334600127",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18237/HP9TSCARODTRGTSTK10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HIPOINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR FDE TRGT STK 10 | 752334600134",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/49668.jpg",
+                        "available":"Out of Stock",
+                        "id":"18233",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334600134",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18233/HP9TSCARFDETRGTSTK10",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 10TS CAR TRGT STCK 10MM 10R | 752334900104",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45217.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"15096",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334900104",
+                        
+                        "price":368.34,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/15096/HP10TSCARTRGTSTCK10MM10R",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"VSKA AK Rifle 7.62x39 Russian Red wood furn. Chevron Compensator 130rd | 787450721784",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/136765.jpg",
+                        "available":"Out of Stock",
+                        "id":"481416",
+                        "brand":"CENTURY ARMS",
+                        "upc":"787450721784",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/481416/VSKAAKRifle762x39RussianRedwoodfurnChevronCompensator130rd",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CENTURY ARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"IWI ZION 5.56 16 BLK 30RD | 818004021392",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120326.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"294999",
+                        "brand":"IWI",
+                        "upc":"818004021392",
+                        
+                        "price":828.00,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/294999/IWIZION55616BLK30RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"IWI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI RIA MS 450BUSH 16 InchPKZ KM 5 | 819644021643",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105892.jpg",
+                        "available":"Out of Stock",
+                        "id":"15311",
+                        "brand":"ATI",
+                        "upc":"819644021643",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/15311/ATIRIAMS450BUSH16PKZKM5",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ATI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI AR15 MS 5.56 ALUM RCV 30 | 819644025313",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/119494.jpg",
+                        "available":"Out of Stock",
+                        "id":"267101",
+                        "brand":"AMERICAN TACTICAL",
+                        "upc":"819644025313",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/267101/ATIAR15MS556ALUMRCV30",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AMERICAN TACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ATI OMNI MAXX 5.56 13 InchMLOK 30 | 819644025597",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/132078.jpg",
+                        "available":"Out of Stock",
+                        "id":"308654",
+                        "brand":"AMERICAN TACTICAL",
+                        "upc":"819644025597",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/308654/ATIOMNIMAXX55613MLOK30",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AMERICAN TACTICAL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRGD BM9 RFL 9MM 16 Inch FDE 33RD | 850009585196",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/118713.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"266941",
+                        "brand":"BRIGADE",
+                        "upc":"850009585196",
+                        
+                        "price":860.34,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/266941/BRGDBM9RFL9MM16FDE33RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BRIGADE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"IWI X95 TAVOR 300AAC 16.5 Inch 30R | 859735005954",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/11962.jpg",
+                        "available":"Out of Stock",
+                        "id":"21132",
+                        "brand":"IWI",
+                        "upc":"859735005954",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/21132/IWIX95TAVOR300AAC16530R",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"IWI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 715T ADJ STK 22LR 25R | 884110372093",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/76659.jpg",
+                        "available":"Out of Stock",
+                        "id":"48658",
+                        "brand":"MOSSBERG",
+                        "upc":"884110372093",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/48658/MOSSBERG715TADJSTK22LR25R",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 715T 22 16.25ADJ 25RD | 884110372345",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/79830.jpg",
+                        "available":"Out of Stock",
+                        "id":"16235",
+                        "brand":"MOSSBERG",
+                        "upc":"884110372345",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16235/MOSSBERG715T221625ADJ25RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 715T FLAT TOP 22LR 16.25IN BBL HALOGRAPHIC GREEN DOT 25RD FDE | 884110372406",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120164.jpg",
+                        "available":"Out of Stock",
+                        "id":"264565",
+                        "brand":"MOSSBERG",
+                        "upc":"884110372406",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/264565/MOSSBERG715TFLATTOP22LR1625INBBLHALOGRAPHICGREENDOT25RDFDE",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 GIR 308 18 Inch PKZ SCPMT20 | 897903002213",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/102283.jpg",
+                        "available":"Out of Stock",
+                        "id":"20422",
+                        "brand":"PTR",
+                        "upc":"897903002213",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20422/PTR91GIR30818PKZSCPMT20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 GI 308 18 Inch PKZ/GRN 20RD | 897903002312",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/132918.jpg",
+                        "available":"Out of Stock",
+                        "id":"20421",
+                        "brand":"PTR",
+                        "upc":"897903002312",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20421/PTR91GI30818PKZGRN20RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 32 KFR 7.62X39 16 Inch BLK 30 | 897903002688",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/102287.jpg",
+                        "available":"Out of Stock",
+                        "id":"20433",
+                        "brand":"PTR",
+                        "upc":"897903002688",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20433/PTR32KFR762X3916BLK30",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 A3S .308 18 Inch BLK 20RD | 897903002718",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123761.jpg",
+                        "available":"Out of Stock",
+                        "id":"20429",
+                        "brand":"PTR",
+                        "upc":"897903002718",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20429/PTR91A3S30818BLK20RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 FR 308 18 InchBLK HANDGRD20 | 897903002770",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/102284.jpg",
+                        "available":"Out of Stock",
+                        "id":"20423",
+                        "brand":"PTR",
+                        "upc":"897903002770",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20423/PTR91FR30818BLKHANDGRD20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PTR 91 GIR 308 16 Inch FDE SCP 20 | 897903003098",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/110697.jpg",
+                        "available":"Out of Stock",
+                        "id":"20432",
+                        "brand":"PTR",
+                        "upc":"897903003098",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/20432/PTR91GIR30816FDESCP20",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PTR"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,900 @@
+
+    [
+        
+            {
+                "Dept":"ACCESSORIES",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"BLACK POWDER",
+                                        "typ_url":"accessories-black-powder",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/35648.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"BOOKS AND VIDEOS",
+                                        "typ_url":"accessories-books-and-videos",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23239.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"ELECTRONICS",
+                                        "typ_url":"accessories-electronics",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27966.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"FIREARM ACCESSORIES",
+                                        "typ_url":"accessories-firearm-accessories",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8868.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"HOLSTERS",
+                                        "typ_url":"accessories-holsters",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/29301.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"LIGHTS LASERS BATTERIES",
+                                        "typ_url":"accessories-lights-lasers-batteries",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97871.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"MAGAZINES",
+                                        "typ_url":"accessories-magazines",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/52979.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"OTHER",
+                                        "typ_url":"accessories-other",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23239.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"AIR GUNS",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"ACCESSORIES",
+                                        "typ_url":"air-guns-accessories",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39033.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"AIR PISTOLS AND RIFLES",
+                                        "typ_url":"air-guns-air-pistols-and-rifles",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39033.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"AMMUNITION",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"BLACK POWDER",
+                                        "typ_url":"ammunition-black-powder",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/30518.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"PISTOL",
+                                        "typ_url":"ammunition-pistol",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/63665.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"RIFLE",
+                                        "typ_url":"ammunition-rifle",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/63665.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"RIMFIRE",
+                                        "typ_url":"ammunition-rimfire",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/63665.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"SHOTSHELL",
+                                        "typ_url":"ammunition-shotshell",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/63665.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"APPAREL",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"BELTS",
+                                        "typ_url":"apparel-belts",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/30474.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"GLOVES",
+                                        "typ_url":"apparel-gloves",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/113498.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"HEADWEAR AND EYEWEAR",
+                                        "typ_url":"apparel-headwear-and-eyewear",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/89245.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"OUTERWEAR",
+                                        "typ_url":"apparel-outerwear",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/89245.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"ARCHERY",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"ACCESSORIES",
+                                        "typ_url":"archery-accessories",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60341.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"ARROWS",
+                                        "typ_url":"archery-arrows",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8800.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"BOWS AND CROSSBOWS",
+                                        "typ_url":"archery-bows-and-crossbows",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8800.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"CAMPING & OUTDOOR",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"COOKING",
+                                        "typ_url":"camping-outdoor-cooking",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/42449.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"SURVIVAL",
+                                        "typ_url":"camping-outdoor-survival",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/58669.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"CLEANING & STORAGE",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"CASES",
+                                        "typ_url":"cleaning-storage-cases",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/100886.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"CLEANING",
+                                        "typ_url":"cleaning-storage-cleaning",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16152.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"SAFES AND VAULTS",
+                                        "typ_url":"cleaning-storage-safes-vaults",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56198.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"CLOTHES",
+                "Typs":
+                [
+                    
+                ]
+            }
+            , 
+            {
+                "Dept":"DUTY GEAR",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"RESTRAINTS",
+                                        "typ_url":"duty-gear-restraints",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26834.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"TRAINING DEFENSE",
+                                        "typ_url":"duty-gear-training-defense",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/42808.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"FIREARMS",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"FRAMES",
+                                        "typ_url":"firearms-frames",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/33419.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"RIFLES",
+                                        "typ_url":"firearms-rifles",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/108674.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"SHOTGUNS",
+                                        "typ_url":"firearms-shotguns",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/108674.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"GUN PARTS",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"ACCESSORIES",
+                                        "typ_url":"gun-parts-accessories",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98052.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"BARRELS",
+                                        "typ_url":"gun-parts-barrels",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/46302.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"BIPODS AND RESTS",
+                                        "typ_url":"gun-parts-bipods-rests",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8868.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"FRAMES AND CHASSIS",
+                                        "typ_url":"gun-parts-frames-chassis",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/33419.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"GRIPS",
+                                        "typ_url":"gun-parts-grips",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/95948.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"GUNSMITHING",
+                                        "typ_url":"gun-parts-gunsmithing",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/89947.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"HANDGUN",
+                                        "typ_url":"gun-parts-handgun",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/28350.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"MAGAZINES",
+                                        "typ_url":"gun-parts-magazines",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/52979.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"MUZZLE DEVICES",
+                                        "typ_url":"gun-parts-muzzle-devices",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98052.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"OTHER",
+                                        "typ_url":"gun-parts-other",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/44208.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"RECOIL PADS",
+                                        "typ_url":"gun-parts-recoil-pads",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/30426.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"SLIDES",
+                                        "typ_url":"gun-parts-slides",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/44208.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"SLINGS AND SWIVELS",
+                                        "typ_url":"gun-parts-slings-and-swivels",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98052.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"STOCKS",
+                                        "typ_url":"gun-parts-stocks",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/95948.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"HUNTING",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"BLINDS AND ACCESSORIES",
+                                        "typ_url":"hunting-blinds-accessories",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/335.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"DECOYS",
+                                        "typ_url":"hunting-decoys",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8848.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"FEEDERS",
+                                        "typ_url":"hunting-feeders",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8088.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"HUNTING",
+                                        "typ_url":"hunting-hunting",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/335.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"REPELLENTS",
+                                        "typ_url":"hunting-repellents",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/30892.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"SCENTS",
+                                        "typ_url":"hunting-scents",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/335.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"TARGETS",
+                                        "typ_url":"hunting-targets",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23422.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"KNIVES AND TOOLS",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"FIXED",
+                                        "typ_url":"knives-and-tools-fixed",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62842.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"FOLDING",
+                                        "typ_url":"knives-and-tools-folding",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62842.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"OTHER BLADES-ACCESSORIES",
+                                        "typ_url":"knives-and-tools-other-blades-accessories",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/28350.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"NM TEST DEPT",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"LINKED DROP DOWNS",
+                                        "typ_url":"nm-test-dept-linked",
+                                        "prod_image":"/prodimages/136-default-s.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"OPTICS",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"ACCESSORIES",
+                                        "typ_url":"optics-accessories",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/28032.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"BINOCULARS",
+                                        "typ_url":"optics-binoculars",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104263.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"NIGHT VISION AND THERMAL",
+                                        "typ_url":"optics-nv-thermal",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/25447.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"RANGE FINDERS",
+                                        "typ_url":"optics-range-finders",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104263.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"RED DOT",
+                                        "typ_url":"optics-red-dot",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104977.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"SCOPES",
+                                        "typ_url":"optics-scopes",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104255.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"SIGHTS",
+                                        "typ_url":"optics-sights",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38356.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"SAFETY PRODUCTS",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"EAR PROTECTION",
+                                        "typ_url":"safety-products-ear-protection",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98304.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"EYE PROTECTION",
+                                        "typ_url":"safety-products-eye-protection",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/51967.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"PEPPER SPRAYS",
+                                        "typ_url":"safety-products-pepper-sprays",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/42808.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"STUN GUNS",
+                                        "typ_url":"safety-products-stun-guns",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/30892.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            , 
+            {
+                "Dept":"SUPPLIES",
+                "Typs":
+                [
+                    
+                                    {
+                                        "typ_name":"HUNTING",
+                                        "typ_url":"supplies-hunting",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8848.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"PRIMERS AND POWDERS",
+                                        "typ_url":"supplies-primers-and-powders",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98052.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"RELOADING",
+                                        "typ_url":"supplies-reloading",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98052.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                                    ,
+                                
+                                    {
+                                        "typ_name":"TARGETS",
+                                        "typ_url":"supplies-targets",
+                                        "prod_image":"https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/8868.jpg"
+                                       
+                                    }
+                                    
+                                   
+                             
+                ]
+            }
+            
+    ]

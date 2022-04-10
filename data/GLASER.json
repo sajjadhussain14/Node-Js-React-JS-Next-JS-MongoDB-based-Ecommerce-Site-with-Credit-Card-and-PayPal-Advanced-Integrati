@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"POWERBALL 357SIG 100GR 20 PAK | 7.57751E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GYPB357SG100.jpg",
+                        "available":"Out of Stock",
+                        "id":"259244",
+                        "brand":"GLASER",
+                        "upc":"7.57751E+11",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259244/POWERBALL357SIG100GR20PAK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLASER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"POWERBALL 45 ACP P 165GR 20PK | 7.5775E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/GYPB45165.jpg",
+                        "available":"Out of Stock",
+                        "id":"259243",
+                        "brand":"GLASER",
+                        "upc":"7.5775E+11",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Brass",
+                        "product_url":"/product/259243/POWERBALL45ACPP165GR20PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLASER"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

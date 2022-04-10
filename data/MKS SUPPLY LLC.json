@@ -1,0 +1,955 @@
+
+        [
+            
+                    {
+                        "name":"HP MAG C9  CF380L 8RD | 752334000248",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48306.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"12680",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334000248",
+                        
+                        "price":15.54,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/12680/HPMAGC9CF380L8RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP CL C9  CF380 10RD | 752334001009",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/15802.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"12664",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334001009",
+                        
+                        "price":18.36,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/12664/HPCLC9CF38010RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP MAG 4095TS 40SW 10RD | 752334003409",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48343.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"12674",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334003409",
+                        
+                        "price":18.36,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/12674/HPMAG4095TS40SW10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HIPT CF 380 2TONE POLY 3.5 Inch 8RD | 752334003805",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48311.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"14142",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334003805",
+                        
+                        "price":139.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/14142/HIPTCF3802TONEPOLY358RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP CL 4595TS 45ACP 9RD | 752334004536",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48344.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"12676",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334004536",
+                        
+                        "price":18.36,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/12676/HPCL4595TS45ACP9RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS 9MM CAR TRGT STCK 10 | 752334009951",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60668.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18230",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334009951",
+                        
+                        "price":269.00,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18230/HP9TS9MMCARTRGTSTCK10",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP C9 9MM 3.5 WL 8RD | 752334010025",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1962.jpg",
+                        "available":"Out of Stock",
+                        "id":"18051",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334010025",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/18051/HPC99MM35WL8RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP C9 9MM 3.5 DD 8RD | 752334010032",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1960.jpg",
+                        "available":"Out of Stock",
+                        "id":"18047",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334010032",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/18047/HPC99MM35DD8RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JCP 40SW 4.5 WL 10RD | 752334010049",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1965.jpg",
+                        "available":"Out of Stock",
+                        "id":"16147",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334010049",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/16147/HPJCP40SW45WL10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JHP 45ACP 4.5 WL 9RD | 752334010063",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1968.jpg",
+                        "available":"Out of Stock",
+                        "id":"16175",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334010063",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/16175/HPJHP45ACP45WL9RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 380ACP W/CS  TUFF1 GRP | 752334038036",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13236.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"16265",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334038036",
+                        
+                        "price":172.74,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/16265/HP380ACPWCSTUFF1GRP",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 380ACP W/LCKBX PKG | 752334038050",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91046.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18599",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334038050",
+                        
+                        "price":185.94,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/18599/HP380ACPWLCKBXPKG",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 380ACP TRGR GRD LASR | 752334038067",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97703.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"53265",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334038067",
+                        
+                        "price":279.54,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53265/HP380ACPTRGRGRDLASR",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 380TS CAR TRGT STK 10RD | 752334038074",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/5142.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"16277",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334038074",
+                        
+                        "price":293.94,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16277/HP380TSCARTRGTSTK10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP COMP 40TS/45TS CARB | 752334040978",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/4097.gif",
+                        "available":"In Stock Vendor",
+                        "id":"4466",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334040978",
+                        
+                        "price":15.54,
+                        "Dept":"Gun Parts",
+                        "Typ":"Muzzle Devices",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/4466/HPCOMP40TS45TSCARB",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP C9 9MM W/CS  TUFF1 GRP | 752334091505",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13237.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18263",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334091505",
+                        
+                        "price":184.74,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/18263/HPC99MMWCSTUFF1GRP",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP C9 9MM 3.5 BLK 8RD | 752334091604",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48302.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"14146",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334091604",
+                        
+                        "price":149.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14146/HPC99MM35BLK8RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP C9 9MM W/LCKBX PKG | 752334091611",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91047.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18049",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334091611",
+                        
+                        "price":199.14,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/18049/HPC99MMWLCKBXPKG",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR W/FWD GRP  LT | 752334099921",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62395.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18227",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334099921",
+                        
+                        "price":362.34,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18227/HP9TSCARWFWDGRPLT",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR W/FWD GP LT LSR | 752334099938",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62396.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18228",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334099938",
+                        
+                        "price":406.74,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18228/HP9TSCARWFWDGPLTLSR",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR FWD/TUFF1 GRP | 752334099945",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62394.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18235",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334099945",
+                        
+                        "price":333.54,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18235/HP9TSCARFWDTUFF1GRP",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JCP 40SW 4.5 BLK 10RD | 752334340108",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48341.jpg",
+                        "available":"Out of Stock",
+                        "id":"16144",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334340108",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16144/HPJCP40SW45BLK10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JCP 40SW CS  TUFF1 GRP | 752334340139",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56878.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"16149",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334340139",
+                        
+                        "price":184.74,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/16149/HPJCP40SWCSTUFF1GRP",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JCP 40SW TRGR GRD LASR | 752334340177",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97705.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"53267",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334340177",
+                        
+                        "price":292.74,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53267/HPJCP40SWTRGRGRDLASR",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JHP 45ACP 4.5 BLK 9RD | 752334345103",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48342.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"16172",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334345103",
+                        
+                        "price":155.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/16172/HPJHP45ACP45BLK9RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JHP 45ACP CS/TUFF1 GRP | 752334345134",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56880.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"16177",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334345134",
+                        
+                        "price":184.74,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/16177/HPJHP45ACPCSTUFF1GRP",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JHP 45ACP LKBX PK | 752334345141",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91065.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"16176",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334345141",
+                        
+                        "price":199.14,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/16176/HPJHP45ACPLKBXPK",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JHP 45ACP TRGR GRD LASR | 752334345165",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97706.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"53268",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334345165",
+                        
+                        "price":292.74,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/53268/HPJHP45ACPTRGRGRDLASR",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 40TS CAR TRGT STCK 10RD | 752334401007",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69685.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"16313",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334401007",
+                        
+                        "price":269.00,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16313/HP40TSCARTRGTSTCK10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS 9MM CARB w/ CTC SCOPE | 752334401113",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/LIPPRODIMAGES/HP995TSRDCT.jpg",
+                        "available":"Out of Stock",
+                        "id":"314701",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334401113",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Single-Shot",
+                        "product_url":"/product/314701/HP9TS9MMCARBwCTCSCOPE",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR TRGT STCK 10RD | 752334500021",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69681.jpg",
+                        "available":"Out of Stock",
+                        "id":"16347",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334500021",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16347/HP45TSCARTRGTSTCK10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR FWD/TUFF1 GRP | 752334500038",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69684.jpg",
+                        "available":"Out of Stock",
+                        "id":"16352",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334500038",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/16352/HP45TSCARFWDTUFF1GRP",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR DD TRGT STK 10 | 752334600028",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1948.jpg",
+                        "available":"Out of Stock",
+                        "id":"18232",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334600028",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18232/HP9TSCARDDTRGTSTK10",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR WL TRGT STK 10 | 752334600035",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1950.jpg",
+                        "available":"Out of Stock",
+                        "id":"18240",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334600035",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18240/HP9TSCARWLTRGTSTK10",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR FDE TRGT STK 10 | 752334600134",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/49668.jpg",
+                        "available":"Out of Stock",
+                        "id":"18233",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334600134",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18233/HP9TSCARFDETRGTSTK10",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 10TS CAR TRGT STCK 10MM 10R | 752334900104",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/45217.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"15096",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334900104",
+                        
+                        "price":368.34,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/15096/HP10TSCARTRGTSTCK10MM10R",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP MAG 9TS CAR 9MM 10RD | 752334995001",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48316.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"12678",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334995001",
+                        
+                        "price":18.36,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/12678/HPMAG9TSCAR9MM10RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP MAG 4595TS 45EXT RED BALL20 | 752334995025",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/104373.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"12675",
+                        "brand":"MKS SUPPLY LLC",
+                        "upc":"752334995025",
+                        
+                        "price":32.52,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/12675/HPMAG4595TS45EXTREDBALL20",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MKS SUPPLY LLC"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

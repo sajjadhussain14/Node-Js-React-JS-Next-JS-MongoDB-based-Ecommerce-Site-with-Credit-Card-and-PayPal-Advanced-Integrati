@@ -1,0 +1,74 @@
+
+        [
+            
+                    {
+                        "name":"SR206 FRNT REST SHORT BAG VARMNT | 7.62781E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/UYVBSR906.jpg",
+                        "available":"Out of Stock",
+                        "id":"259887",
+                        "brand":"SMART RELOADER HELVETICA TRAD",
+                        "upc":"7.62781E+11",
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Bipods Monopods Tripods",
+                        "product_url":"/product/259887/SR206FRNTRESTSHORTBAGVARMNT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMART RELOADER HELVETICA TRAD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SMART MEDIA SIFTER | 7.62781E+12",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/UYVBSR00526.jpg",
+                        "available":"Out of Stock",
+                        "id":"259889",
+                        "brand":"SMART RELOADER HELVETICA TRAD",
+                        "upc":"7.62781E+12",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Accessories",
+                        "product_url":"/product/259889/SMARTMEDIASIFTER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMART RELOADER HELVETICA TRAD"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SR55 UNIVERSAL POWDER FULLEL | 7.62788E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/UYVBSR0055.jpg",
+                        "available":"Out of Stock",
+                        "id":"259890",
+                        "brand":"SMART RELOADER HELVETICA TRAD",
+                        "upc":"7.62788E+11",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Accessories",
+                        "product_url":"/product/259890/SR55UNIVERSALPOWDERFULLEL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMART RELOADER HELVETICA TRAD"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

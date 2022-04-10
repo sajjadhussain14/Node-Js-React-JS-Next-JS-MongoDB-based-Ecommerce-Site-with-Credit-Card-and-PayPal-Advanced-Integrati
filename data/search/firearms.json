@@ -1,0 +1,1613 @@
+
+        [
+            
+                    {
+                        "name":"HIPT CF 380 2TONE POLY 3.5 Inch 8RDCF380 | 752334003805 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48311.jpg",
+                        "available":"Out of Stock",
+                        "id":"14142",
+                        "brand":"HI-POINT",
+                        "upc":"752334003805",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14142/HIPTCF3802TONEPOLY358RDCF380",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS 9MM CAR TRGT STCK 10995TS | 752334009951 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60668.jpg",
+                        "available":"Out of Stock",
+                        "id":"18230",
+                        "brand":"HI-POINT",
+                        "upc":"752334009951",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18230/HP9TS9MMCARTRGTSTCK10995TS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR CA PDL GRP995TS CA | 752334009968 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/100463.jpg",
+                        "available":"Out of Stock",
+                        "id":"18231",
+                        "brand":"HI-POINT",
+                        "upc":"752334009968",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18231/HP9TSCARCAPDLGRP995TSCA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 380ACP PI CPSR 810RDCF380 PI | 752334010001 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1958.jpg",
+                        "available":"Out of Stock",
+                        "id":"18600",
+                        "brand":"HI-POINT",
+                        "upc":"752334010001",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/18600/HP380ACPPICPSR810RDCF380PI",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JCP 40SW 4.5 WL 10RD34010 WC | 752334010049 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1965.jpg",
+                        "available":"Out of Stock",
+                        "id":"16147",
+                        "brand":"HI-POINT",
+                        "upc":"752334010049",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16147/HPJCP40SW45WL10RD34010WC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JCP 40SW 4.5 DD 10RD34010 DD | 752334010056 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1963.jpg",
+                        "available":"Out of Stock",
+                        "id":"16145",
+                        "brand":"HI-POINT",
+                        "upc":"752334010056",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16145/HPJCP40SW45DD10RD34010DD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JHP 45ACP 4.5 WL 9RD34510 WC | 752334010063 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1968.jpg",
+                        "available":"Out of Stock",
+                        "id":"16175",
+                        "brand":"HI-POINT",
+                        "upc":"752334010063",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16175/HPJHP45ACP45WL9RD34510WC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JHP 45ACP 4.5 DD 9RD34510 DD | 752334010070 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1966.jpg",
+                        "available":"Out of Stock",
+                        "id":"16173",
+                        "brand":"HI-POINT",
+                        "upc":"752334010070",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16173/HPJHP45ACP45DD9RD34510DD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JCP 40SW 4.5 PNK 10RD34010 PI | 752334010094 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1964.jpg",
+                        "available":"Out of Stock",
+                        "id":"31752",
+                        "brand":"HI-POINT",
+                        "upc":"752334010094",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/31752/HPJCP40SW45PNK10RD34010PI",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JHP 45ACP 4.5 PNK 9RD34510 PI | 752334010100 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1967.jpg",
+                        "available":"Out of Stock",
+                        "id":"16174",
+                        "brand":"HI-POINT",
+                        "upc":"752334010100",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16174/HPJHP45ACP45PNK9RD34510PI",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 380ACP W/CPSR 810RDCF380COMP | 752334038012 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48330.jpg",
+                        "available":"Out of Stock",
+                        "id":"18597",
+                        "brand":"HI-POINT",
+                        "upc":"752334038012",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/18597/HP380ACPWCPSR810RDCF380COMP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 380ACP W/CS  TUFF1 GRPCF380HC | 752334038036 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/13236.jpg",
+                        "available":"Out of Stock",
+                        "id":"16265",
+                        "brand":"HI-POINT",
+                        "upc":"752334038036",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16265/HP380ACPWCSTUFF1GRPCF380HC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 380ACP W/LCKBX PKGCF380HSP | 752334038050 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91046.jpg",
+                        "available":"Out of Stock",
+                        "id":"18599",
+                        "brand":"HI-POINT",
+                        "upc":"752334038050",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/18599/HP380ACPWLCKBXPKGCF380HSP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 380ACP TRGR GRD LASRCF380LLTGM | 752334038067 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97703.jpg",
+                        "available":"Out of Stock",
+                        "id":"53265",
+                        "brand":"HI-POINT",
+                        "upc":"752334038067",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/53265/HP380ACPTRGRGRDLASRCF380LLTGM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 380TS CAR TRGT STK 10RD3895TS | 752334038074 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/5142.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"16277",
+                        "brand":"HI-POINT",
+                        "upc":"752334038074",
+                        
+                        "price":293.94,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16277/HP380TSCARTRGTSTK10RD3895TS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 380TS CAR FWD/TUFF1 GRP3895TS FG | 752334038098 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/5143.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"32544",
+                        "brand":"HI-POINT",
+                        "upc":"752334038098",
+                        
+                        "price":326.34,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/32544/HP380TSCARFWDTUFF1GRP3895TSFG",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP C9 9MM 3.5 BLK 8RD916 | 752334091604 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48302.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"14146",
+                        "brand":"HI-POINT",
+                        "upc":"752334091604",
+                        
+                        "price":149.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/14146/HPC99MM35BLK8RD916",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP C9 9MM W/LCKBX PKG916HSP | 752334091611 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91047.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18049",
+                        "brand":"HI-POINT",
+                        "upc":"752334091611",
+                        
+                        "price":199.14,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/18049/HPC99MMWLCKBXPKG916HSP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP C9 9MM W/GALCO LTHR HLST916G | 752334091659 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56875.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18048",
+                        "brand":"HI-POINT",
+                        "upc":"752334091659",
+                        
+                        "price":207.54,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/18048/HPC99MMWGALCOLTHRHLST916G",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP C9 9MM W/CS  KRSHW KNF916HCKN | 752334091680 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/79737.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"49236",
+                        "brand":"HI-POINT",
+                        "upc":"752334091680",
+                        
+                        "price":223.14,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/49236/HPC99MMWCSKRSHWKNF916HCKN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP C9 9MM W/NYL HLST916NYL | 752334091802 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56876.jpg",
+                        "available":"Out of Stock",
+                        "id":"44442",
+                        "brand":"HI-POINT",
+                        "upc":"752334091802",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/44442/HPC99MMWNYLHLST916NYL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP C9 9MM TRGR GRD LASR916LLTGM | 752334091819 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97704.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"53266",
+                        "brand":"HI-POINT",
+                        "upc":"752334091819",
+                        
+                        "price":292.74,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/53266/HPC99MMTRGRGRDLASR916LLTGM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR W/FWD GRP  LT995TS FG FL | 752334099921 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62395.jpg",
+                        "available":"Out of Stock",
+                        "id":"18227",
+                        "brand":"HI-POINT",
+                        "upc":"752334099921",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18227/HP9TSCARWFWDGRPLT995TSFGFL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR FWD/TUFF1 GRP995TS FG | 752334099945 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62394.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18235",
+                        "brand":"HI-POINT",
+                        "upc":"752334099945",
+                        
+                        "price":333.54,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18235/HP9TSCARFWDTUFF1GRP995TSFG",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS 9MM CAR RED DT SCP995TS RD | 752334099976 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60861.jpg",
+                        "available":"Out of Stock",
+                        "id":"18229",
+                        "brand":"HI-POINT",
+                        "upc":"752334099976",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18229/HP9TS9MMCARREDDTSCP995TSRD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JCP 40SW 4.5 BLK 10RD34010 | 752334340108 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48341.jpg",
+                        "available":"Out of Stock",
+                        "id":"16144",
+                        "brand":"HI-POINT",
+                        "upc":"752334340108",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16144/HPJCP40SW45BLK10RD34010",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JCP 40SW CS  TUFF1 GRP34013 | 752334340139 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56878.jpg",
+                        "available":"Out of Stock",
+                        "id":"16149",
+                        "brand":"HI-POINT",
+                        "upc":"752334340139",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16149/HPJCP40SWCSTUFF1GRP34013",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JCP 40SW LKBX PKG34011HSP | 752334340146 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91049.jpg",
+                        "available":"Out of Stock",
+                        "id":"16148",
+                        "brand":"HI-POINT",
+                        "upc":"752334340146",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16148/HPJCP40SWLKBXPKG34011HSP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JCP 40SW TRGR GRD LASR34010LLTGM | 752334340177 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97705.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"53267",
+                        "brand":"HI-POINT",
+                        "upc":"752334340177",
+                        
+                        "price":292.74,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/53267/HPJCP40SWTRGRGRDLASR34010LLTGM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JHP 45ACP 4.5 BLK 9RD34510 | 752334345103 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48342.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"16172",
+                        "brand":"HI-POINT",
+                        "upc":"752334345103",
+                        
+                        "price":155.00,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16172/HPJHP45ACP45BLK9RD34510",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JHP 45ACP CS/TUFF1 GRP34513 | 752334345134 | HI-POINT | Firearms | Revolvers | Revolvers",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/56880.jpg",
+                        "available":"Out of Stock",
+                        "id":"16177",
+                        "brand":"HI-POINT",
+                        "upc":"752334345134",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Revolvers",
+                        "SUBTYP_1":"Revolvers",
+                        "product_url":"/product/16177/HPJHP45ACPCSTUFF1GRP34513",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JHP 45ACP LKBX PK34511HSP | 752334345141 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/91065.jpg",
+                        "available":"Out of Stock",
+                        "id":"16176",
+                        "brand":"HI-POINT",
+                        "upc":"752334345141",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/16176/HPJHP45ACPLKBXPK34511HSP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP JHP 45ACP TRGR GRD LASR34510LLTGM | 752334345165 | HI-POINT | Firearms | Handguns | Pistols",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/97706.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"53268",
+                        "brand":"HI-POINT",
+                        "upc":"752334345165",
+                        
+                        "price":292.74,
+                        "Dept":"Firearms",
+                        "Typ":"Handguns",
+                        "SUBTYP_1":"Pistols",
+                        "product_url":"/product/53268/HPJHP45ACPTRGRGRDLASR34510LLTGM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 40TS CAR TRGT STCK 10RD4095TS | 752334401007 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69685.jpg",
+                        "available":"Out of Stock",
+                        "id":"16313",
+                        "brand":"HI-POINT",
+                        "upc":"752334401007",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16313/HP40TSCARTRGTSTCK10RD4095TS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 40TS CAR FWD/TUFF1 GRPS4095TS FG | 752334401014 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69690.jpg",
+                        "available":"Out of Stock",
+                        "id":"16316",
+                        "brand":"HI-POINT",
+                        "upc":"752334401014",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16316/HP40TSCARFWDTUFF1GRPS4095TSFG",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 40TS CAR W/LAS40/45 104095TS LAZ | 752334401021 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69686.jpg",
+                        "available":"Out of Stock",
+                        "id":"16317",
+                        "brand":"HI-POINT",
+                        "upc":"752334401021",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16317/HP40TSCARWLAS4045104095TSLAZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 40TS CAR W/RED DOT SCP4095TS RD | 752334401045 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69689.jpg",
+                        "available":"Out of Stock",
+                        "id":"16312",
+                        "brand":"HI-POINT",
+                        "upc":"752334401045",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16312/HP40TSCARWREDDOTSCP4095TSRD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 40TS CAR W/FWD GRP  LT4095TS FG FL | 752334401052 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/G4095FGFL.gif",
+                        "available":"Out of Stock",
+                        "id":"16310",
+                        "brand":"HI-POINT",
+                        "upc":"752334401052",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16310/HP40TSCARWFWDGRPLT4095TSFGFL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 40TS CAR FWD GRP LT LSR4095TS FG FL LAZ | 752334401069 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/G4095FGFLLAZ.gif",
+                        "available":"Out of Stock",
+                        "id":"16311",
+                        "brand":"HI-POINT",
+                        "upc":"752334401069",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16311/HP40TSCARFWDGRPLTLSR4095TSFGFLLAZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 40TS CAR W/PP 40 KIT4095TS PRO | 752334401076 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/0134926.jpg",
+                        "available":"Out of Stock",
+                        "id":"69423",
+                        "brand":"HI-POINT",
+                        "upc":"752334401076",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/69423/HP40TSCARWPP40KIT4095TSPRO",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS 9MM CARB w/ CTC SCOPE995TS RDCT | 752334401113 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/995TS-RDCT.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"314701",
+                        "brand":"HI-POINT",
+                        "upc":"752334401113",
+                        
+                        "price":383.94,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/314701/HP9TS9MMCARBwCTCSCOPE995TSRDCT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 40TS CAR CA PDL GRP4095TS CA | 752334401205 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/100464.jpg",
+                        "available":"Out of Stock",
+                        "id":"16314",
+                        "brand":"HI-POINT",
+                        "upc":"752334401205",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16314/HP40TSCARCAPDLGRP4095TSCA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR TRGT STCK 10RD4595TS | 752334500021 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69681.jpg",
+                        "available":"Out of Stock",
+                        "id":"16347",
+                        "brand":"HI-POINT",
+                        "upc":"752334500021",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16347/HP45TSCARTRGTSTCK10RD4595TS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR FWD/TUFF1 GRP4595TS FG | 752334500038 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69684.jpg",
+                        "available":"Out of Stock",
+                        "id":"16352",
+                        "brand":"HI-POINT",
+                        "upc":"752334500038",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16352/HP45TSCARFWDTUFF1GRP4595TSFG",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR W/FWD GRP  LT4595TS FG FL | 752334500045 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/G4595TSFGFL.gif",
+                        "available":"Out of Stock",
+                        "id":"16353",
+                        "brand":"HI-POINT",
+                        "upc":"752334500045",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16353/HP45TSCARWFWDGRPLT4595TSFGFL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR FWD GRP LT LSR4595TS FG FL LAZ | 752334500052 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/0131154.jpg",
+                        "available":"Out of Stock",
+                        "id":"69385",
+                        "brand":"HI-POINT",
+                        "upc":"752334500052",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/69385/HP45TSCARFWDGRPLTLSR4595TSFGFLLAZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR LAS40/45 10RD4595TS LAZ | 752334500069 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69682.jpg",
+                        "available":"Out of Stock",
+                        "id":"47540",
+                        "brand":"HI-POINT",
+                        "upc":"752334500069",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/47540/HP45TSCARLAS404510RD4595TSLAZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR W/RED DT SCP4595TS RD | 752334500076 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/69688.jpg",
+                        "available":"Out of Stock",
+                        "id":"16357",
+                        "brand":"HI-POINT",
+                        "upc":"752334500076",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16357/HP45TSCARWREDDTSCP4595TSRD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR PINK TGT STK 10995TS PI | 752334600004 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1949.jpg",
+                        "available":"Out of Stock",
+                        "id":"18239",
+                        "brand":"HI-POINT",
+                        "upc":"752334600004",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18239/HP9TSCARPINKTGTSTK10995TSPI",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR DD TRGT STK 10995TS DD | 752334600028 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1948.jpg",
+                        "available":"Out of Stock",
+                        "id":"18232",
+                        "brand":"HI-POINT",
+                        "upc":"752334600028",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18232/HP9TSCARDDTRGTSTK10995TSDD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR WL TRGT STK 10995TS WC | 752334600035 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1950.jpg",
+                        "available":"Out of Stock",
+                        "id":"18240",
+                        "brand":"HI-POINT",
+                        "upc":"752334600035",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18240/HP9TSCARWLTRGTSTK10995TSWC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 40TS CAR PNK TGT STK 104095TS PI | 752334600042 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1952.jpg",
+                        "available":"Out of Stock",
+                        "id":"16318",
+                        "brand":"HI-POINT",
+                        "upc":"752334600042",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16318/HP40TSCARPNKTGTSTK104095TSPI",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 40TS CAR DD TRGT STK 104095TS DD | 752334600059 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1951.jpg",
+                        "available":"Out of Stock",
+                        "id":"16315",
+                        "brand":"HI-POINT",
+                        "upc":"752334600059",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16315/HP40TSCARDDTRGTSTK104095TSDD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 40TS CAR WL TRGT STK 104095TS WC | 752334600066 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1953.jpg",
+                        "available":"Out of Stock",
+                        "id":"16319",
+                        "brand":"HI-POINT",
+                        "upc":"752334600066",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16319/HP40TSCARWLTRGTSTK104095TSWC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR PNK TRGT STK 94595TS PI | 752334600073 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1955.jpg",
+                        "available":"Out of Stock",
+                        "id":"16356",
+                        "brand":"HI-POINT",
+                        "upc":"752334600073",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16356/HP45TSCARPNKTRGTSTK94595TSPI",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR DD TRGT STCK 94595TS DD | 752334600080 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1954.jpg",
+                        "available":"Out of Stock",
+                        "id":"16349",
+                        "brand":"HI-POINT",
+                        "upc":"752334600080",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16349/HP45TSCARDDTRGTSTCK94595TSDD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR WL TRGT STCK 94595TS WC | 752334600097 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1956.jpg",
+                        "available":"Out of Stock",
+                        "id":"16358",
+                        "brand":"HI-POINT",
+                        "upc":"752334600097",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16358/HP45TSCARWLTRGTSTCK94595TSWC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR OD TRGT STK 10995TS OD | 752334600127 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/49669.jpg",
+                        "available":"Out of Stock",
+                        "id":"18237",
+                        "brand":"HI-POINT",
+                        "upc":"752334600127",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18237/HP9TSCARODTRGTSTK10995TSOD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR FDE TRGT STK 10995TS FDE | 752334600134 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/49668.jpg",
+                        "available":"Out of Stock",
+                        "id":"18233",
+                        "brand":"HI-POINT",
+                        "upc":"752334600134",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18233/HP9TSCARFDETRGTSTK10995TSFDE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR OD TRGT STCK 94595TS OD | 752334600141 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/49671.jpg",
+                        "available":"Out of Stock",
+                        "id":"16354",
+                        "brand":"HI-POINT",
+                        "upc":"752334600141",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16354/HP45TSCARODTRGTSTCK94595TSOD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR FDE TRGT STK 94595TS FDE | 752334600158 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/49670.jpg",
+                        "available":"Out of Stock",
+                        "id":"16350",
+                        "brand":"HI-POINT",
+                        "upc":"752334600158",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16350/HP45TSCARFDETRGTSTK94595TSFDE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR OD CA PDL GRP995TS OD CA | 752334600165 | HI-POINT | Firearms | Rifles | Semi-Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/G995TSODCA.gif",
+                        "available":"Out of Stock",
+                        "id":"18238",
+                        "brand":"HI-POINT",
+                        "upc":"752334600165",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/18238/HP9TSCARODCAPDLGRP995TSODCA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 9TS CAR FDE CA PDL GRP995TS FDE CA | 752334600172 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/G995TSFDECA.gif",
+                        "available":"Out of Stock",
+                        "id":"18234",
+                        "brand":"HI-POINT",
+                        "upc":"752334600172",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/18234/HP9TSCARFDECAPDLGRP995TSFDECA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR OD CA PDL GRP4595TS OD CA | 752334600189 | HI-POINT | Firearms | Rifles | Semi-Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/G4595TSODCA.gif",
+                        "available":"Out of Stock",
+                        "id":"16355",
+                        "brand":"HI-POINT",
+                        "upc":"752334600189",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/16355/HP45TSCARODCAPDLGRP4595TSODCA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 45TS CAR FDE CA PDL GRP4595TS FDE CA | 752334600196 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/G4595TSFDECA.gif",
+                        "available":"Out of Stock",
+                        "id":"16351",
+                        "brand":"HI-POINT",
+                        "upc":"752334600196",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/16351/HP45TSCARFDECAPDLGRP4595TSFDECA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HP 10MM TS CAR RLTREE EDG CMO1095TS EDGE | 752334900111 | HI-POINT | Firearms | Rifles | Tactical Rifles",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/100460.jpg",
+                        "available":"Out of Stock",
+                        "id":"15098",
+                        "brand":"HI-POINT",
+                        "upc":"752334900111",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Tactical Rifles",
+                        "product_url":"/product/15098/HP10MMTSCARRLTREEEDGCMO1095TSEDGE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HI-POINT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BC FIREARM CLOTH  CHAMOISBCGCLTHLG | 888151026526 | BIRCHWOOD CASEY | Cleaning & Storage | EMPTY | EMPTY",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/124231.jpg",
+                        "available":"Out of Stock",
+                        "id":"274785",
+                        "brand":"BIRCHWOOD CASEY",
+                        "upc":"888151026526",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"EMPTY",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/274785/BCFIREARMCLOTHCHAMOISBCGCLTHLG",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BIRCHWOOD CASEY"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

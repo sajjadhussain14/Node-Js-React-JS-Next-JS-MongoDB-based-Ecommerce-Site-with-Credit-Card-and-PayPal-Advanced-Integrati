@@ -1,0 +1,21 @@
+{
+  "settings": {
+    "avaiable": "all-items",
+    "_comment": "Put one of these values in above: all-items, in-stock-items, out-of-stock-items"
+  },
+
+  "newestSorting": {
+    "option": "no",
+    "_comment": "Put yes or no on newestSorting"
+  },
+
+  "brandSorting": {
+    "option": "yes",
+    "_comment": "Put yes or no on newestSorting"
+  },
+
+  "sortingDefault": {
+    "option": "Default",
+    "_comment": "Put one of these values in above: Default, name(a-z), name(z-a), price-high-to-low, price-low-to-high, newest, brands"
+  }
+}

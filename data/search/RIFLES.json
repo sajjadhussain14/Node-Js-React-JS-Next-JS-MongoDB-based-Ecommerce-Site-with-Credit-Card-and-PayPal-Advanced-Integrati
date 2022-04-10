@@ -1,0 +1,480 @@
+
+        [
+            
+                    {
+                        "name":"LY RIFLE MAINTENANCE GUN MAT  04051 | 011516040510 | Lyman | Cleaning & Storage ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/7973.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"470",
+                        "brand":"LYMAN",
+                        "upc":"011516040510",
+                        
+                        "price":28.26,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"EMPTY",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/470/LYRIFLEMAINTENANCEGUNMAT04051",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"LYMAN"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"REMINGTON CLEANING ROD RIFLE 40  16224 | 047700162249 | Remington | Cleaning & Storage ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/RT16224.jpg",
+                        "available":"Out of Stock",
+                        "id":"421084",
+                        "brand":"REMINGTON",
+                        "upc":"047700162249",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"EMPTY",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/421084/REMINGTONCLEANINGRODRIFLE4016224",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"REMINGTON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AUTO VIOLIN CASE FOR RIFLES  T30 | 602686210324 | AUTO-ORDINANCE | Cleaning & Storage ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/41641.jpg",
+                        "available":"Out of Stock",
+                        "id":"28827",
+                        "brand":"AUTO-ORDINANCE",
+                        "upc":"602686210324",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"EMPTY",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/28827/AUTOVIOLINCASEFORRIFLEST30",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"AUTO-ORDINANCE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HECKLER AND KOCH HK416 RIFLE 22LR 16 Inch 10  81000402 | 642230257054 | HECKLER and KOCH | Firearms | Rifles | Semi-Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/108065.jpg",
+                        "available":"Out of Stock",
+                        "id":"17657",
+                        "brand":"HECKLER AND KOCH",
+                        "upc":"642230257054",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/17657/HECKLERANDKOCHHK416RIFLE22LR161081000402",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HECKLER AND KOCH"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HECKLER AND KOCH HK416 RIFLE 22LR 16.1 Inch 20  81000401 | 642230257870 | HECKLER and KOCH | Firearms | Rifles | Semi-Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/108064.jpg",
+                        "available":"Out of Stock",
+                        "id":"17656",
+                        "brand":"HECKLER AND KOCH",
+                        "upc":"642230257870",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/17656/HECKLERANDKOCHHK416RIFLE22LR1612081000401",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HECKLER AND KOCH"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HECKLER AND KOCH MR762 RIFLE PACKAGE 10RD  81000498 | 642230261655 | HECKLER and KOCH | Firearms | Rifles | Semi-Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131981.jpg",
+                        "available":"Out of Stock",
+                        "id":"423507",
+                        "brand":"HECKLER AND KOCH",
+                        "upc":"642230261655",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/423507/HECKLERANDKOCHMR762RIFLEPACKAGE10RD81000498",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HECKLER AND KOCH"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HECKLER AND KOCH MP5 RIFLE 22LR 25RD  81000468 | 642230262072 | HECKLER and KOCH | Firearms | Rifles | Semi-Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/HK81000468_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"439163",
+                        "brand":"HECKLER AND KOCH",
+                        "upc":"642230262072",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/439163/HECKLERANDKOCHMP5RIFLE22LR25RD81000468",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HECKLER AND KOCH"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HECKLER AND KOCH MP5 RIFLE 22LR 10RD  81000469 | 642230262089 | HECKLER and KOCH | Firearms | Rifles | Semi-Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/HK81000469_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"439164",
+                        "brand":"HECKLER AND KOCH",
+                        "upc":"642230262089",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/439164/HECKLERANDKOCHMP5RIFLE22LR10RD81000469",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HECKLER AND KOCH"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WLT TAC R1 22LR RIFLE 20RD  5760500 | 723364212994 | Walther | Firearms | Rifles | Semi-Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/109265.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"17205",
+                        "brand":"WALTHER",
+                        "upc":"723364212994",
+                        
+                        "price":382.80,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/17205/WLTTACR122LRRIFLE20RD5760500",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WALTHER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"WLT TAC R1 22LR RIFLE 10RD  576050010 | 723364214257 | Walther | Firearms | Rifles | Semi-Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/109266.jpg",
+                        "available":"Out of Stock",
+                        "id":"17206",
+                        "brand":"WALTHER",
+                        "upc":"723364214257",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/17206/WLTTACR122LRRIFLE10RD576050010",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WALTHER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Ruger American Rife .450 Bushmaster Adjustable Trigger 16 Inch Barrel FDE/Black Finish  16950 | 736676169504 | Sturm Ruger & Co | Firearms | Rifles ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27181.jpg",
+                        "available":"Out of Stock",
+                        "id":"15372",
+                        "brand":"STURM RUGER & CO",
+                        "upc":"736676169504",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/15372/RugerAmericanRife450BushmasterAdjustableTrigger16BarrelFDEBlackFinish16950",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER & CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RUGER AMERICAN PREDATOR VORTEX PKG GRN/BLK W/ADJ TRIGGER 6.5 Creedmoor 22 Inch  16953 | 736676169535 | Sturm Ruger & Co | Firearms | Rifles ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27176.jpg",
+                        "available":"Out of Stock",
+                        "id":"15373",
+                        "brand":"STURM RUGER & CO",
+                        "upc":"736676169535",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/15373/RUGERAMERICANPREDATORVORTEXPKGGRNBLKWADJTRIGGER65Creedmoor2216953",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER & CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RUGER AMERICAN RIFLE RANCH 7.62X39 16 Inch BBL 5RD  16976 | 736676169764 | Sturm Ruger & Co | Firearms | Rifles ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/44368.jpg",
+                        "available":"Out of Stock",
+                        "id":"15375",
+                        "brand":"STURM RUGER & CO",
+                        "upc":"736676169764",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/15375/RUGERAMERICANRIFLERANCH762X3916BBL5RD16976",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER & CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Ruger Precision Rifle .338 Lapua Mag 5rd Magazine 26 Inch Barrel Anodized coating  18080 | 736676180806 | Sturm Ruger & Co | Firearms | Rifles ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/107244.jpg",
+                        "available":"Out of Stock",
+                        "id":"15482",
+                        "brand":"STURM RUGER & CO",
+                        "upc":"736676180806",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/15482/RugerPrecisionRifle338LapuaMag5rdMagazine26BarrelAnodizedcoating18080",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER & CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Ruger Precision Rifle .300 Win Mag 5rd Magazine 26 Inch Barrel Anodized coating  18081 | 736676180813 | Sturm Ruger & Co | Firearms | Rifles ",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/107245.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"15483",
+                        "brand":"STURM RUGER & CO",
+                        "upc":"736676180813",
+                        
+                        "price":1898.40,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"EMPTY",
+                        "product_url":"/product/15483/RugerPrecisionRifle300WinMag5rdMagazine26BarrelAnodizedcoating18081",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"STURM RUGER & CO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DH RIFLE 4 10RD  8401 | 859901005429 | DIAMONDHEAD USA | Firearms | Rifles | Semi-Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GDH8401.jpg",
+                        "available":"Out of Stock",
+                        "id":"297434",
+                        "brand":"DIAMONDHEAD USA",
+                        "upc":"859901005429",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/297434/DHRIFLE410RD8401",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"DIAMONDHEAD USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DH RIFLE 5 10RD  8501 | 859901005436 | DIAMONDHEAD USA | Firearms | Rifles | Semi-Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GDH8501.jpg",
+                        "available":"Out of Stock",
+                        "id":"297435",
+                        "brand":"DIAMONDHEAD USA",
+                        "upc":"859901005436",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/297435/DHRIFLE510RD8501",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"DIAMONDHEAD USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DH RIFLE 6 10RD  8601 | 859901005443 | DIAMONDHEAD USA | Firearms | Rifles | Semi-Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GDH8601.jpg",
+                        "available":"Out of Stock",
+                        "id":"297436",
+                        "brand":"DIAMONDHEAD USA",
+                        "upc":"859901005443",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/297436/DHRIFLE610RD8601",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"DIAMONDHEAD USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DH RIFLE 3 10RD  8301 | 859901005481 | DIAMONDHEAD USA | Firearms | Rifles | Semi-Auto",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/GDH8301.jpg",
+                        "available":"Out of Stock",
+                        "id":"297433",
+                        "brand":"DIAMONDHEAD USA",
+                        "upc":"859901005481",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Semi-Auto",
+                        "product_url":"/product/297433/DHRIFLE310RD8301",
+                         
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"DIAMONDHEAD USA"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

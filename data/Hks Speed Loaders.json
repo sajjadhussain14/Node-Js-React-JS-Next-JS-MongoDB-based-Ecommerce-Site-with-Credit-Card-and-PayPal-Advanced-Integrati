@@ -1,0 +1,280 @@
+
+        [
+            
+                    {
+                        "name":"HKS SPEED LDR 22K | 088652000227",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82007.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"3424",
+                        "brand":"HKS SPEED LOADERS",
+                        "upc":"088652000227",
+                        
+                        "price": 8.34,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/3424/HKSSPEEDLDR22K",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HKS SPEED LOADERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HKS SPEED LDR 36A | 088652000364",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82003.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"4203",
+                        "brand":"HKS SPEED LOADERS",
+                        "upc":"088652000364",
+                        
+                        "price": 8.34,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/4203/HKSSPEEDLDR36A",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HKS SPEED LOADERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HKS SPEED LDR CA44 | 088652000449",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82010.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"12455",
+                        "brand":"HKS SPEED LOADERS",
+                        "upc":"088652000449",
+                        
+                        "price": 8.34,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/12455/HKSSPEEDLDRCA44",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HKS SPEED LOADERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HKS SPEED LDR 48K | 088652000487",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/HK48K.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"417460",
+                        "brand":"HKS SPEED LOADERS",
+                        "upc":"088652000487",
+                        
+                        "price": 8.34,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/417460/HKSSPEEDLDR48K",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HKS SPEED LOADERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HKS SPEED LDR 57M | 088652000579",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82009.jpg",
+                        "available":"Out of Stock",
+                        "id":"5721",
+                        "brand":"HKS SPEED LOADERS",
+                        "upc":"088652000579",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/5721/HKSSPEEDLDR57M",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HKS SPEED LOADERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HKS SPEED LDR MK3A | 088652001118",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82004.jpg",
+                        "available":"Out of Stock",
+                        "id":"24862",
+                        "brand":"HKS SPEED LOADERS",
+                        "upc":"088652001118",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/24862/HKSSPEEDLDRMK3A",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HKS SPEED LOADERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HKS SPEED LDR 22J | 088652002214",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82019.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"3422",
+                        "brand":"HKS SPEED LOADERS",
+                        "upc":"088652002214",
+                        
+                        "price": 8.34,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/3422/HKSSPEEDLDR22J",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HKS SPEED LOADERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HKS SPEED LDR 22HR | 088652002290",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82020.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"3421",
+                        "brand":"HKS SPEED LOADERS",
+                        "upc":"088652002290",
+                        
+                        "price": 8.34,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/3421/HKSSPEEDLDR22HR",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HKS SPEED LOADERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HKS SPEED LDR 32J | 088652003211",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/75403.jpg",
+                        "available":"Out of Stock",
+                        "id":"48379",
+                        "brand":"HKS SPEED LOADERS",
+                        "upc":"088652003211",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/48379/HKSSPEEDLDR32J",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HKS SPEED LOADERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HKS SPEED LDR 586A/GP100 | 088652005864",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82006.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"5737",
+                        "brand":"HKS SPEED LOADERS",
+                        "upc":"088652005864",
+                        
+                        "price": 8.34,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/5737/HKSSPEEDLDR586AGP100",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HKS SPEED LOADERS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HKS SPEED LDR 587A | 088652005871",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82042.jpg",
+                        "available":"Out of Stock",
+                        "id":"5742",
+                        "brand":"HKS SPEED LOADERS",
+                        "upc":"088652005871",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/5742/HKSSPEEDLDR587A",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HKS SPEED LOADERS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,2604 @@
+
+        [
+            
+                    {
+                        "name":"KB RIFLE/HNDGUN STEEL CLEAN ROD | 026249000021",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/KLS170_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"27522",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000021",
+                        "price":13.55,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/27522/KBRIFLEHNDGUNSTEELCLEANROD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ALL GAUGE SHOTGUN CLEANING ROD | 026249000038",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1203234.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"35925",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000038",
+                        "price":17.51,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/35925/ALLGAUGESHOTGUNCLEANINGROD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB AIRGUN CLEANER ROD .177/.200 | 026249000052",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBAIR174.jpg",
+                        "available":"Out of Stock",
+                        "id":"35933",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000052",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/35933/KBAIRGUNCLEANERROD177200",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB .17 CAL SMALL BORE ROD | 026249000076",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23774.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"35942",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000076",
+                        "price":17.87,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/35942/KB17CALSMALLBOREROD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KLEENBORE CLASSIC HANDGUN CLEANING KIT .22 | 026249000083",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23603.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"22470",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000083",
+                        "price":21.83,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/22470/KLEENBORECLASSICHANDGUNCLEANINGKIT22",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KLEENBORE CLASSIC HANDGUN CLEANING KIT .38/.357/9MM | 026249000113",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23606.jpg",
+                        "available":"Out of Stock",
+                        "id":"25971",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000113",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/25971/KLEENBORECLASSICHANDGUNCLEANINGKIT383579MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KLEENBORE CLASSIC HANDGUN CLEANING KIT 44/45 CALS | 026249000120",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23607.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"22471",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000120",
+                        "price":21.83,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/22471/KLEENBORECLASSICHANDGUNCLEANINGKIT4445CALS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KLEENBORE CLASSIC RIFLE CLEANING KIT 22/225 CALS | 026249000137",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23608.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"22467",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000137",
+                        "price":21.95,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/22467/KLEENBORECLASSICRIFLECLEANINGKIT22225CALS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KLEENBORE CLASSIC RIFLE CLEANING KIT 2436.5MM | 026249000144",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23609.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"22466",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000144",
+                        "price":21.95,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/22466/KLEENBORECLASSICRIFLECLEANINGKIT24365MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KLEENBORE CLASSIC RIFLE CLEANING KIT 30 CAL | 026249000168",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23611.jpg",
+                        "available":"Out of Stock",
+                        "id":"22469",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000168",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/22469/KLEENBORECLASSICRIFLECLEANINGKIT30CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KLEENBORE CLASSIC RIFLE/HANDGUN CLEANING KIT .41/.45CAL | 026249000182",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23613.jpg",
+                        "available":"Out of Stock",
+                        "id":"35904",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000182",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/35904/KLEENBORECLASSICRIFLEHANDGUNCLEANINGKIT4145CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB UNIVERSAL CLEANING KIT | 026249000199",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23601.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"30063",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000199",
+                        "price":23.99,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/30063/KBUNIVERSALCLEANINGKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB CLEANING KIT 12 GA | 026249000212",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23670.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"28079",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000212",
+                        "price":26.63,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/28079/KBCLEANINGKIT12GA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB CLEANING KIT 20 GA | 026249000229",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23671.jpg",
+                        "available":"Out of Stock",
+                        "id":"28080",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000229",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/28080/KBCLEANINGKIT20GA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB 61/2  RODS STD MODEL | 026249000373",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23658.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"25584",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000373",
+                        "price": 8.87,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/25584/KB612RODSSTDMODEL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB 33  RODS STD MODEL | 026249000380",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23717.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"25585",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000380",
+                        "price":15.95,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/25585/KB33RODSSTDMODEL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB GUNK OUT DEGREASER 16 OZ | 026249000502",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23666.jpg",
+                        "available":"Out of Stock",
+                        "id":"20094",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000502",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/20094/KBGUNKOUTDEGREASER16OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH .177 CAL RIFLE | 026249000533",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23685.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"8504",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000533",
+                        "price": 1.67,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8504/BRONZEBRUSH177CALRIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH 22 CAL RIFLE | 026249000540",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23635.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"8505",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000540",
+                        "price": 1.67,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8505/BRONZEBRUSH22CALRIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH .243/.25CAL RIFLE | 026249000557",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23636.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"8506",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000557",
+                        "price": 1.67,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8506/BRONZEBRUSH24325CALRIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH .270/7MM CAL RIFLE | 026249000564",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23637.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"8508",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000564",
+                        "price": 1.67,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8508/BRONZEBRUSH2707MMCALRIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH 30 CAL RIFLE | 026249000571",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23638.jpg",
+                        "available":"Out of Stock",
+                        "id":"8511",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000571",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8511/BRONZEBRUSH30CALRIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH 35/9MM CAL RIFLE | 026249000595",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23639.jpg",
+                        "available":"Out of Stock",
+                        "id":"8512",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000595",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8512/BRONZEBRUSH359MMCALRIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH .44/.45 CAL RIFLE | 026249000618",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23688.jpg",
+                        "available":"Out of Stock",
+                        "id":"8513",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000618",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8513/BRONZEBRUSH4445CALRIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH 20 GAUGE SHOTGUN | 026249000649",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23641.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"8515",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000649",
+                        "price": 1.67,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8515/BRONZEBRUSH20GAUGESHOTGUN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH 12GA SHOTGUN | 026249000663",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23643.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"8516",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000663",
+                        "price": 1.67,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8516/BRONZEBRUSH12GASHOTGUN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH .22 CAL HANDGUN | 026249000687",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23727.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"8520",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000687",
+                        "price": 1.67,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8520/BRONZEBRUSH22CALHANDGUN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH 38/.357 CAL HANDGUN | 026249000717",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23644.jpg",
+                        "available":"Out of Stock",
+                        "id":"8524",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000717",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8524/BRONZEBRUSH38357CALHANDGUN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH 41 CAL HANDGUN | 026249000724",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23730.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"8525",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000724",
+                        "price": 1.67,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8525/BRONZEBRUSH41CALHANDGUN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH 44/.45 CAL HANDGUN | 026249000731",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23645.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"8526",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000731",
+                        "price": 1.67,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8526/BRONZEBRUSH4445CALHANDGUN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB NYLON UTILITY BRUSH | 026249000977",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23657.jpg",
+                        "available":"Out of Stock",
+                        "id":"30117",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000977",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/30117/KBNYLONUTILITYBRUSH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB ST/STEEL UTILITY BRUSH | 026249000984",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123720.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"30118",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000984",
+                        "price": 2.75,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/30118/KBSTSTEELUTILITYBRUSH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE UTILITY BRUSH | 026249000991",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123721.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"30119",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249000991",
+                        "price": 2.75,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/30119/BRONZEUTILITYBRUSH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchKLEENBORE CLEANING PATCHES 7/8 Inch Inch SQAURE SMALL BORE Inch | 026249001202",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23782.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"25664",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249001202",
+                        "price": 2.87,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/25664/KLEENBORECLEANINGPATCHES78SQAURESMALLBORE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchKLEENBORE CLEANING PATCHES 21/4 Inch Inch .38.45 CALS Inch | 026249001233",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23662.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"25673",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249001233",
+                        "price": 2.99,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Stands",
+                        "product_url":"/product/25673/KLEENBORECLEANINGPATCHES2143845CALS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchKLEENBORE CLEANING PATCHES 3 Inch Inch 12/16 GAUGE Inch | 026249001240",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23663.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"25674",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249001240",
+                        "price": 2.99,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/25674/KLEENBORECLEANINGPATCHES31216GAUGE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB LEAD AWAY CLEANING CLOTH | 026249001264",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23632.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"18478",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249001264",
+                        "price": 6.47,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/18478/KBLEADAWAYCLEANINGCLOTH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RIFLE/HAND BRASS SLOTTED PATCH HOLDER | 026249001905",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23753.jpg",
+                        "available":"Out of Stock",
+                        "id":"35938",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249001905",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/35938/RIFLEHANDBRASSSLOTTEDPATCHHOLDER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB ALUMINUM ADAPTOR | 026249001967",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23676.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"35923",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249001967",
+                        "price": 2.75,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/35923/KBALUMINUMADAPTOR",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UNIVERSAL KIT W/SAFTCLAD ROD | 026249002056",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23602.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"27822",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002056",
+                        "price":30.83,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/27822/UNIVERSALKITWSAFTCLADROD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB UNIVERSAL SAFTCLAD ROD | 026249002063",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23678.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"35924",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002063",
+                        "price":23.75,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/35924/KBUNIVERSALSAFTCLADROD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB ROD 33  SAFTCLAD ONEPIECE | 026249002117",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23709.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"27825",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002117",
+                        "price":17.15,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/27825/KBROD33SAFTCLADONEPIECE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB 6 1/2  SAFTCLAD HANDGUN RO | 026249002476",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23708.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"27823",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002476",
+                        "price": 9.59,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/27823/KB612SAFTCLADHANDGUNRO",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAG/WEL BRSH 22/25/380/9MM STRA | 026249002490",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23745.jpg",
+                        "available":"Out of Stock",
+                        "id":"35937",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002490",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/35937/MAGWELBRSH22253809MMSTRA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KLEENBORE CLASSIC HANDGUN CLEANING KIT 40/41/10MM | 026249002568",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23710.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"22472",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002568",
+                        "price":21.83,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/22472/KLEENBORECLASSICHANDGUNCLEANINGKIT404110MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchKLEENBORE COTTON PATCH 21/4 Inch Inch 3845CAL  41020GA Inch | 026249002674",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23783.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"35945",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002674",
+                        "price": 8.51,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/35945/KLEENBORECOTTONPATCH2143845CAL41020GA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchKLEENBORE COTTON PATCH  3 Inch Inch 1216GA SUP SHOOTER 250 PACK Inch | 026249002681",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23784.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"35946",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002681",
+                        "price":11.39,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/35946/KLEENBORECOTTONPATCH31216GASUPSHOOTER250PACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchKLEENBORE COTTON PATCH 11/4 Inch Inch 22270CAL SUP SHOOTER Inch | 026249002698",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23785.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"35947",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002698",
+                        "price": 9.35,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Stands",
+                        "product_url":"/product/35947/KLEENBORECOTTONPATCH11422270CALSUPSHOOTER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchKLEENBORE COTTON PATCH 13/4 Inch Inch 2835CAL SUP SHOOTER Inch | 026249002704",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23786.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"35948",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002704",
+                        "price":10.31,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Stands",
+                        "product_url":"/product/35948/KLEENBORECOTTONPATCH1342835CALSUPSHOOTER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchKLEENBORE COTTON PATCH 21/4 Inch Inch 3845CAL 41020GA SUP SHOOTER Inch | 026249002711",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23787.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"35949",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002711",
+                        "price":12.71,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Stands",
+                        "product_url":"/product/35949/KLEENBORECOTTONPATCH2143845CAL41020GASUPSHOOTER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchKLEENBORE COTTON PATCH 3 Inch Inch 1216GA SUP SHOOTER 500 PACK Inch | 026249002728",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23788.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"35950",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002728",
+                        "price":18.71,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Stands",
+                        "product_url":"/product/35950/KLEENBORECOTTONPATCH31216GASUPSHOOTER500PACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"12GA CHAMBER MATE BRUSH | 026249002773",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23777.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"27897",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002773",
+                        "price": 7.91,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/27897/12GACHAMBERMATEBRUSH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH 50 CAL RIFLE | 026249002810",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23769.jpg",
+                        "available":"Out of Stock",
+                        "id":"8529",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249002810",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8529/BRONZEBRUSH50CALRIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"POCKIT HANDGUN CLEANING KIT .22 | 026249003084",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23795.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"26014",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249003084",
+                        "price":15.95,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/26014/POCKITHANDGUNCLEANINGKIT22",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"POCKIT HANDGUN CLEANING KIT 38/357/9MM | 026249003091",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23796.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"26015",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249003091",
+                        "price":15.95,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/26015/POCKITHANDGUNCLEANINGKIT383579MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"POCKIT HANDGUN CLEANING KIT 40/10MM | 026249003107",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23797.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"26016",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249003107",
+                        "price":15.95,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/26016/POCKITHANDGUNCLEANINGKIT4010MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"POCKIT HANDGUN CLEANING KIT 44/45 CAL | 026249003114",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23798.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"26017",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249003114",
+                        "price":15.95,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/26017/POCKITHANDGUNCLEANINGKIT4445CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"POLICE SPECIAL CL KIT 38/357/9MM | 026249003190",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23590.jpg",
+                        "available":"Out of Stock",
+                        "id":"35891",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249003190",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/35891/POLICESPECIALCLKIT383579MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"POLICE SPECIAL CL KIT 40/41/10MM | 026249003206",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23591.jpg",
+                        "available":"Out of Stock",
+                        "id":"35892",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249003206",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/35892/POLICESPECIALCLKIT404110MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACT UNIV CLEANING SYSTEM | 026249003596",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39801.jpg",
+                        "available":"Out of Stock",
+                        "id":"40408",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249003596",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/40408/TACTUNIVCLEANINGSYSTEM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAFTCLAD CLEANING ROD .17C 33 | 026249003732",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/23153.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"27824",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"026249003732",
+                        "price":21.59,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/27824/SAFTCLADCLEANINGROD17C33",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AR15/M16 BUFFER SYS ACCUWEDGE | 26249000014",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBACU1.jpg",
+                        "available":"Out of Stock",
+                        "id":"261385",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000014",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261385/AR15M16BUFFERSYSACCUWEDGE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB BLACK POWDER KIT | 26249000205",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBBK214.jpg",
+                        "available":"Out of Stock",
+                        "id":"261386",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000205",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261386/KBBLACKPOWDERKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KLEENBORE ALL CAL FIELD CLEANING KIT BLACK | 26249000281",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBPOU301B.jpg",
+                        "available":"Out of Stock",
+                        "id":"261411",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000281",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261411/KLEENBOREALLCALFIELDCLEANINGKITBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NYLON BRUSH .40 CAL HANDGUN | 26249000298",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBA191N.jpg",
+                        "available":"Out of Stock",
+                        "id":"261376",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000298",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261376/NYLONBRUSH40CALHANDGUN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH 8MM RIFLE | 26249000588",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBA163.jpg",
+                        "available":"Out of Stock",
+                        "id":"261369",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000588",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261369/BRONZEBRUSH8MMRIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH 375/380 CAL RIFLE | 26249000601",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBA160.jpg",
+                        "available":"Out of Stock",
+                        "id":"261368",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000601",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261368/BRONZEBRUSH375380CALRIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH .410 GAUGE SHOTGUN | 26249000625",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBA183.jpg",
+                        "available":"Out of Stock",
+                        "id":"261372",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000625",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261372/BRONZEBRUSH410GAUGESHOTGUN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH .32 CAL RIFLE | 26249000700",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBA189.jpg",
+                        "available":"Out of Stock",
+                        "id":"261375",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000700",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261375/BRONZEBRUSH32CALRIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH 50 CAL BLACK POWDER | 26249000779",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBBP194.jpg",
+                        "available":"Out of Stock",
+                        "id":"261388",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000779",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261388/BRONZEBRUSH50CALBLACKPOWDER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB BLACK PWDR.BR.54/.55 CAL | 26249000786",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBBP195.jpg",
+                        "available":"Out of Stock",
+                        "id":"261390",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000786",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261390/KBBLACKPWDRBR5455CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB STS BR.38/.357CAL | 26249000861",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBSS211.jpg",
+                        "available":"Out of Stock",
+                        "id":"261418",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000861",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261418/KBSTSBR38357CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB STAIN.STEEL BR. 20GA | 26249000892",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBSS219.jpg",
+                        "available":"Out of Stock",
+                        "id":"261421",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000892",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261421/KBSTAINSTEELBR20GA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB STAIN.STEEL.BR. 30 CAL. | 26249000908",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBSS214.jpg",
+                        "available":"Out of Stock",
+                        "id":"261419",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000908",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261419/KBSTAINSTEELBR30CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB CHAMBER BRUSH 44 CAL SS | 26249000946",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBC203.jpg",
+                        "available":"Out of Stock",
+                        "id":"261392",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000946",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261392/KBCHAMBERBRUSH44CALSS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"223/5.56MM MILITARY BORE BRUSH | 26249000953",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBM16B.jpg",
+                        "available":"Out of Stock",
+                        "id":"261400",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000953",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261400/223556MMMILITARYBOREBRUSH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"223/5.56MM MILITARY CHAMBR BRUSH | 26249000960",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBM16C.jpg",
+                        "available":"Out of Stock",
+                        "id":"261401",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249000960",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261401/223556MMMILITARYCHAMBRBRUSH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB COTTON BORE MOP .40.45 CAL | 26249001035",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBMOP223.jpg",
+                        "available":"Out of Stock",
+                        "id":"261404",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001035",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261404/KBCOTTONBOREMOP4045CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB COTTON BORE MOP 28  20 GA | 26249001059",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBMOP225.jpg",
+                        "available":"Out of Stock",
+                        "id":"261405",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001059",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261405/KBCOTTONBOREMOP2820GA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB BRASS JAG .22 THRU .25 CAL | 26249001080",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBJAG227.jpg",
+                        "available":"Out of Stock",
+                        "id":"261394",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001080",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261394/KBBRASSJAG22THRU25CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB BRASS JAG .357 / .38 / 9MM | 26249001103",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBJAG229.jpg",
+                        "available":"Out of Stock",
+                        "id":"261395",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001103",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261395/KBBRASSJAG357389MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB BRASS JAG .41 / 410 / 10MM | 26249001110",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBJAG230.jpg",
+                        "available":"Out of Stock",
+                        "id":"261396",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001110",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261396/KBBRASSJAG4141010MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB BRASS JAG .44 / .45  CAL | 26249001127",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBJAG231.jpg",
+                        "available":"Out of Stock",
+                        "id":"261397",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001127",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261397/KBBRASSJAG4445CAL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB ALUM JAG 16/20 GA | 26249001134",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBJAG233.jpg",
+                        "available":"Out of Stock",
+                        "id":"261398",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001134",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261398/KBALUMJAG1620GA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB ALUM. JAG  12 GA. | 26249001141",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBJAG234.jpg",
+                        "available":"Out of Stock",
+                        "id":"261399",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001141",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261399/KBALUMJAG12GA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchKLEENBORE CLEANING PATCHES 11/4 Inch Inch .22.270 CALS Inch | 26249001219",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBP201.jpg",
+                        "available":"Out of Stock",
+                        "id":"261409",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001219",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/261409/KLEENBORECLEANINGPATCHES11422270CALS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchKLEENBORE CLEANING PATCHES 13/4 Inch Inch .28.35 CALS Inch | 26249001226",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBP202.jpg",
+                        "available":"Out of Stock",
+                        "id":"261410",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001226",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/261410/KLEENBORECLEANINGPATCHES1342835CALS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BORE INSPECTION LIGHT W/BATT. | 26249001387",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBBL304.jpg",
+                        "available":"Out of Stock",
+                        "id":"261387",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001387",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261387/BOREINSPECTIONLIGHTWBATT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ADAPTER KLEENBORE TO OUTERS | 26249001882",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBACC9.jpg",
+                        "available":"Out of Stock",
+                        "id":"261384",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001882",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261384/ADAPTERKLEENBORETOOUTERS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RIFLE/HAND STEEL SLOTTED PATCH HOLDER | 26249001899",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBACC10.jpg",
+                        "available":"Out of Stock",
+                        "id":"261379",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001899",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261379/RIFLEHANDSTEELSLOTTEDPATCHHOLDER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB BRASS MUZZLE GUARD SG / BP | 26249001974",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBACC18.jpg",
+                        "available":"Out of Stock",
+                        "id":"261380",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001974",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261380/KBBRASSMUZZLEGUARDSGBP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRASS BLACKPOWDER 5/1627 | 26249001981",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBACC19.jpg",
+                        "available":"Out of Stock",
+                        "id":"261381",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249001981",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261381/BRASSBLACKPOWDER51627",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB BLACK POWDER BALL PUSHER | 26249002001",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBACC21.jpg",
+                        "available":"Out of Stock",
+                        "id":"261382",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249002001",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261382/KBBLACKPOWDERBALLPUSHER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB 10 SOLVENT 3 OZ | 26249002148",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBS10A.jpg",
+                        "available":"Out of Stock",
+                        "id":"261413",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249002148",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261413/KB10SOLVENT3OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB TWISTED COILED BRUSH BRZ 12G | 26249002452",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBT318.jpg",
+                        "available":"Out of Stock",
+                        "id":"261422",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249002452",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261422/KBTWISTEDCOILEDBRUSHBRZ12G",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB TWISTED COILED BRUSH BRZ 20G | 26249002469",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBT321.jpg",
+                        "available":"Out of Stock",
+                        "id":"261423",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249002469",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261423/KBTWISTEDCOILEDBRUSHBRZ20G",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB STS BRUSH 40/41/10MM | 26249002483",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBSS215.jpg",
+                        "available":"Out of Stock",
+                        "id":"261420",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249002483",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261420/KBSTSBRUSH404110MM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB BRASS SHOTGUN ADAPTER | 26249002551",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBACC23.jpg",
+                        "available":"Out of Stock",
+                        "id":"261383",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249002551",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261383/KBBRASSSHOTGUNADAPTER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"12 GA CHAMBER CLEANING TOOL | 26249002759",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBSC225.jpg",
+                        "available":"Out of Stock",
+                        "id":"261415",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249002759",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261415/12GACHAMBERCLEANINGTOOL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"20 GA CHAMBER CLEANING TOOL | 26249002766",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBSC226.jpg",
+                        "available":"Out of Stock",
+                        "id":"261416",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249002766",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261416/20GACHAMBERCLEANINGTOOL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"20GA CHAMBER MATE BRUSH | 26249002780",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBSC206.jpg",
+                        "available":"Out of Stock",
+                        "id":"261414",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249002780",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261414/20GACHAMBERMATEBRUSH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NYLON BRUSH .30 CAL RIFLE | 26249002957",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBA180N.jpg",
+                        "available":"Out of Stock",
+                        "id":"261371",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249002957",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261371/NYLONBRUSH30CALRIFLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NYLON BRUSH .22 CAL HANDGUN | 26249002964",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBA188N.jpg",
+                        "available":"Out of Stock",
+                        "id":"261374",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249002964",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261374/NYLONBRUSH22CALHANDGUN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NYLON BRUSH .45 CAL HANDGUN | 26249002995",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBA192N.jpg",
+                        "available":"Out of Stock",
+                        "id":"261377",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249002995",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261377/NYLONBRUSH45CALHANDGUN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NYLON BRUSH 12GA SHOTGUN | 26249003015",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBA186N.jpg",
+                        "available":"Out of Stock",
+                        "id":"261373",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249003015",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261373/NYLONBRUSH12GASHOTGUN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NYLON BRUSH .50CAL BLACK POWDER | 26249003039",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBBP194N.jpg",
+                        "available":"Out of Stock",
+                        "id":"261389",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249003039",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261389/NYLONBRUSH50CALBLACKPOWDER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"NYLON BRUSH .54/.55CAL BLACK POWDER | 26249003046",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBBP195N.jpg",
+                        "available":"Out of Stock",
+                        "id":"261391",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249003046",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261391/NYLONBRUSH5455CALBLACKPOWDER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KB 10 SOLVENT 2 OZ. SQUEEZE | 26249003275",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBS10.jpg",
+                        "available":"Out of Stock",
+                        "id":"261412",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249003275",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261412/KB10SOLVENT2OZSQUEEZE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRONZE BRUSH .475/.480 CAL HANDGUN | 26249003602",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBA195.jpg",
+                        "available":"Out of Stock",
+                        "id":"261378",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249003602",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261378/BRONZEBRUSH475480CALHANDGUN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":".22 CAL CHAMBER FLAG 2 PER PKG | 26249003633",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBCF22.jpg",
+                        "available":"Out of Stock",
+                        "id":"247980",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249003633",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/247980/22CALCHAMBERFLAG2PERPKG",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"9MM .40.45 CAL CHAMBER FLAG 2/PK | 26249003640",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBCF9.jpg",
+                        "available":"Out of Stock",
+                        "id":"261393",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249003640",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261393/9MM4045CALCHAMBERFLAG2PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":".204 CAL. SBORE BRONZE BOREBRUSH | 26249003794",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBA176.jpg",
+                        "available":"Out of Stock",
+                        "id":"261370",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249003794",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261370/204CALSBOREBRONZEBOREBRUSH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BRASS N BRUSH CLEANING TOOL | 26249012246",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/KBUT224.jpg",
+                        "available":"Out of Stock",
+                        "id":"261424",
+                        "brand":"SAFARILAND / KLEEN BORE",
+                        "upc":"26249012246",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/261424/BRASSNBRUSHCLEANINGTOOL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAFARILAND / KLEEN BORE"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

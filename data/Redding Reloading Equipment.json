@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"RED SLIDE BAR PRIMER FEED SYSTEM | 6.11761E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/RB99600.jpg",
+                        "available":"Out of Stock",
+                        "id":"256387",
+                        "brand":"REDDING RELOADING EQUIPMENT",
+                        "upc":"6.11761E+11",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Accessories",
+                        "product_url":"/product/256387/REDSLIDEBARPRIMERFEEDSYSTEM",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"REDDING RELOADING EQUIPMENT"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"30 CAL CARBIDE SIZE BUTTON KIT | 6.1176E+11",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/RB49307.jpg",
+                        "available":"Out of Stock",
+                        "id":"256386",
+                        "brand":"REDDING RELOADING EQUIPMENT",
+                        "upc":"6.1176E+11",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Reloading",
+                        "SUBTYP_1":"Accessories",
+                        "product_url":"/product/256386/30CALCARBIDESIZEBUTTONKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"REDDING RELOADING EQUIPMENT"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

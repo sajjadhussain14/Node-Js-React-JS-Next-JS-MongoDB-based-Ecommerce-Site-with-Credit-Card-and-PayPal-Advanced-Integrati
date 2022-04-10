@@ -1,0 +1,61 @@
+
+        [
+            
+                    {
+                        "name":"Easybird Autofeed Sixpacker Trap | 076683409119",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1920174.jpg",
+                        "available":"Out of Stock",
+                        "id":"79326",
+                        "brand":"CHAMPIONTARGETS",
+                        "upc":"076683409119",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Targets",
+                        "SUBTYP_1":"Clays",
+                        "product_url":"/product/79326/EasybirdAutofeedSixpackerTrap",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHAMPIONTARGETS"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CHAMPION WORKHORSE/WHEELYBIRD WOBBLE BASE | 604544619065",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/40924.jpg",
+                        "available":"Out of Stock",
+                        "id":"79769",
+                        "brand":"CHAMPIONTARGETS",
+                        "upc":"604544619065",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Targets",
+                        "SUBTYP_1":"Clays",
+                        "product_url":"/product/79769/CHAMPIONWORKHORSEWHEELYBIRDWOBBLEBASE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHAMPIONTARGETS"
+                            }
+                            ,
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                }
+                            
+                        ]
+                    }
+                    
+        ]
+    

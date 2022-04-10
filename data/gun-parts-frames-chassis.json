@@ -1,0 +1,145 @@
+
+        [
+            
+                    {
+                        "name":"TC 8720 CON G2 FRM RFL | 090161025721",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/33856.jpg",
+                        "available":"Out of Stock",
+                        "id":"20891",
+                        "brand":"THOMPSON",
+                        "upc":"090161025721",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Frames and Chassis",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20891/TC8720CONG2FRMRFL",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TC 8770 CON G2 FRM RFL SS | 090161033733",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26880.jpg",
+                        "available":"Out of Stock",
+                        "id":"20893",
+                        "brand":"THOMPSON",
+                        "upc":"090161033733",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Frames and Chassis",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20893/TC8770CONG2FRMRFLSS",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TC 1870 PRO RFL FRM ASSY | 090161034310",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/37284.jpg",
+                        "available":"Out of Stock",
+                        "id":"20850",
+                        "brand":"THOMPSON",
+                        "upc":"090161034310",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Frames and Chassis",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20850/TC1870PRORFLFRMASSY",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TC 1920 PRO HTR FRM ASSY | 090161039520",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/46056.jpg",
+                        "available":"Out of Stock",
+                        "id":"20857",
+                        "brand":"THOMPSON",
+                        "upc":"090161039520",
+                        
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Frames and Chassis",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/20857/TC1920PROHTRFRMASSY",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$301-$400"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

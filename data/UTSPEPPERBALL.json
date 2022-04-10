@@ -1,0 +1,166 @@
+
+        [
+            
+                    {
+                        "name":"UTS/PEPPERBALL 769030212 TCP Air Pistol SemiAutomatic CO2 .68 Caliber 6 rd | 849176002124",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/114727.jpg",
+                        "available":"Out of Stock",
+                        "id":"251078",
+                        "brand":"UTSPEPPERBALL",
+                        "upc":"849176002124",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Air Pistols and Rifles",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/251078/UTSPEPPERBALL769030212TCPAirPistolSemiAutomaticCO268Caliber6rd",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"UTSPEPPERBALL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UTS/PEPPERBALL 520010213 TCP Open Top Holster Pepperball TCP Launcher Plastic Black | 849176002131",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/114730.jpg",
+                        "available":"Out of Stock",
+                        "id":"251080",
+                        "brand":"UTSPEPPERBALL",
+                        "upc":"849176002131",
+                        "price":null,
+                        "Dept":"Duty Gear",
+                        "Typ":"Holsters",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/251080/UTSPEPPERBALL520010213TCPOpenTopHolsterPepperballTCPLauncherPlasticBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"UTSPEPPERBALL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UTS/PEPPERBALL 970010215 TCP Round Projectile Refill Kit Includes Inert VXR/Live VXR Projectile 4 CO2 cartridges | 849176002155",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/114729.jpg",
+                        "available":"Out of Stock",
+                        "id":"251079",
+                        "brand":"UTSPEPPERBALL",
+                        "upc":"849176002155",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/251079/UTSPEPPERBALL970010215TCPRoundProjectileRefillKitIncludesInertVXRLiveVXRProjectile4CO2cartridges",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"UTSPEPPERBALL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UTS/PEPPERBALL 970010216 TCP VXR Projectile Refill Kit | 849176002162",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/114728.jpg",
+                        "available":"Out of Stock",
+                        "id":"250949",
+                        "brand":"UTSPEPPERBALL",
+                        "upc":"849176002162",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Safety and Protection",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/250949/UTSPEPPERBALL970010216TCPVXRProjectileRefillKit",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"UTSPEPPERBALL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UTS/PEPPERBALL 100841105 Inert 0.68x7.2 Projectiles 20 Rounds | 849176011058",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/114723.jpg",
+                        "available":"Out of Stock",
+                        "id":"251180",
+                        "brand":"UTSPEPPERBALL",
+                        "upc":"849176011058",
+                        "price":null,
+                        "Dept":"Air Guns",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/251180/UTSPEPPERBALL100841105Inert068x72Projectiles20Rounds",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"UTSPEPPERBALL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UTS/PEPPERBALL 705011108 Lifelite Launcher 350 Lumens 5 Rounds | 849176011089",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/114722.jpg",
+                        "available":"Out of Stock",
+                        "id":"251179",
+                        "brand":"UTSPEPPERBALL",
+                        "upc":"849176011089",
+                        "price":null,
+                        "Dept":"Safety Products",
+                        "Typ":"Pepper Sprays",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/251179/UTSPEPPERBALL705011108LifeliteLauncher350Lumens5Rounds",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"UTSPEPPERBALL"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"UTS/PEPPERBALL 520014399 LifeLite Nylon Black | 849176043998",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/114725.jpg",
+                        "available":"In Stock",
+                        "id":"251181",
+                        "brand":"UTSPEPPERBALL",
+                        "upc":"849176043998",
+                        "price":19.00,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Bipods Monopods Tripods",
+                        "product_url":"/product/251181/UTSPEPPERBALL520014399LifeLiteNylonBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"UTSPEPPERBALL"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

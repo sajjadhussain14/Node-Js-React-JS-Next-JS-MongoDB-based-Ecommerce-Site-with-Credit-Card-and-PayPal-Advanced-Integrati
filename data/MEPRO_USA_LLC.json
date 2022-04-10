@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"Meprolight ML68601 TruDot RDS Reflex 1x 33x20mm 1.8 MOA Dot Reticle Black | 840103145754",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/95417.jpg",
+                        "available":"In Stock",
+                        "id":"24517",
+                        "brand":"MEPROUSALLC",
+                        "upc":"840103145754",
+                        "price":491.00,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"Laser",
+                        "product_url":"/product/24517/MeprolightML68601TruDotRDSReflex1x33x20mm18MOADotReticleBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEPROUSALLC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MEPRO USA LLC ML68503 Pro V2 1x 2 MOA Green Dot/Bullseye/300 Blackout Black | 840103166872",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/126246.jpg",
+                        "available":"Out of Stock",
+                        "id":"435445",
+                        "brand":"MEPROUSALLC",
+                        "upc":"840103166872",
+                        "price":null,
+                        "Dept":"Optics",
+                        "Typ":"Sights",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/435445/MEPROUSALLCML68503ProV21x2MOAGreenDotBullseye300BlackoutBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MEPROUSALLC"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

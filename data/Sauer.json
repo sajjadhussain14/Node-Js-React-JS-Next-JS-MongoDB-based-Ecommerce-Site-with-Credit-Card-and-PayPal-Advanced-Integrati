@@ -1,0 +1,205 @@
+
+        [
+            
+                    {
+                        "name":"SAUR SL5 3 12GA/18.5 3RD | 810496022840",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/131859.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"439934",
+                        "brand":"SAUER",
+                        "upc":"810496022840",
+                        
+                        "price":999.60,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Tactical",
+                        "product_url":"/product/439934/SAURSL5312GA1853RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAUER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAUR SL5 3 12GA/18.5 GHOST 3 | 810496022857",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/BLSASA3G12V32_1.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"441088",
+                        "brand":"SAUER",
+                        "upc":"810496022857",
+                        
+                        "price":1132.80,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/441088/SAURSL5312GA185GHOST3",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAUER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAUR 100 CERATECH .243 5RD | 810496022949",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/140047.jpg",
+                        "available":"Out of Stock",
+                        "id":"498578",
+                        "brand":"SAUER",
+                        "upc":"810496022949",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Bolt-Action",
+                        "product_url":"/product/498578/SAUR100CERATECH2435RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAUER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAUR 100 CERATECH 300WMG 4RD | 810496022963",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/140046.jpg",
+                        "available":"Out of Stock",
+                        "id":"498580",
+                        "brand":"SAUER",
+                        "upc":"810496022963",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Bolt-Action",
+                        "product_url":"/product/498580/SAUR100CERATECH300WMG4RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAUER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAUR 100 CERATECH 6.5x55 5RD | 810496022994",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/140045.jpg",
+                        "available":"Out of Stock",
+                        "id":"498583",
+                        "brand":"SAUER",
+                        "upc":"810496022994",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Bolt-Action",
+                        "product_url":"/product/498583/SAUR100CERATECH65x555RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAUER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAUR 100 CERATECH 7MM RMG 4RD | 810496023038",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/140044.jpg",
+                        "available":"Out of Stock",
+                        "id":"498587",
+                        "brand":"SAUER",
+                        "upc":"810496023038",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Bolt-Action",
+                        "product_url":"/product/498587/SAUR100CERATECH7MMRMG4RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAUER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAUR 100 CERATECH 8MM MAU 5RD | 810496023045",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/140043.jpg",
+                        "available":"Out of Stock",
+                        "id":"498588",
+                        "brand":"SAUER",
+                        "upc":"810496023045",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Bolt-Action",
+                        "product_url":"/product/498588/SAUR100CERATECH8MMMAU5RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAUER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAUR 100 CERATECH 9.3x62 5RD | 810496023052",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/140042.jpg",
+                        "available":"Out of Stock",
+                        "id":"498589",
+                        "brand":"SAUER",
+                        "upc":"810496023052",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Bolt-Action",
+                        "product_url":"/product/498589/SAUR100CERATECH93x625RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAUER"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

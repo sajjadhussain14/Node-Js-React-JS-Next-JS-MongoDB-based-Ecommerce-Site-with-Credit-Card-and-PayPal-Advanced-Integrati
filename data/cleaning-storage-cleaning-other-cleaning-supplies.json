@@ -1,0 +1,250 @@
+
+        [
+            
+                    {
+                        "name":"WINCHESTER 32BL2P BLANK 50 | 020892201583",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/65293.jpg",
+                        "available":"Out of Stock",
+                        "id":"8855",
+                        "brand":"WINCHESTER",
+                        "upc":"020892201583",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/8855/WINCHESTER32BL2PBLANK50",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"WINCHESTER"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HOPPES ALL GA 3PC ALUM SHGN KIT | 026285510027",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/87261.jpg",
+                        "available":"Out of Stock",
+                        "id":"28047",
+                        "brand":"HOPPES",
+                        "upc":"026285510027",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/28047/HOPPESALLGA3PCALUMSHGNKIT",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HOPPES"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HOPPES SILICON GUN CLOTH | 026285511055",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/87135.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"21229",
+                        "brand":"HOPPES",
+                        "upc":"026285511055",
+                        
+                        "price": 2.64,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/21229/HOPPESSILICONGUNCLOTH",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HOPPES"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HOPPES GUN CLEAN KIT 12 GAUGE | 026285511352",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/87119.jpg",
+                        "available":"Out of Stock",
+                        "id":"28042",
+                        "brand":"HOPPES",
+                        "upc":"026285511352",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/28042/HOPPESGUNCLEANKIT12GAUGE",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HOPPES"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HOPPES .40 CAL TORNADO BRUSH | 026285515176",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/87278.jpg",
+                        "available":"Out of Stock",
+                        "id":"21237",
+                        "brand":"HOPPES",
+                        "upc":"026285515176",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/21237/HOPPES40CALTORNADOBRUSH",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HOPPES"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HOPPES 3PACK BRUSH/SWAB KIT .270/7MM | 026285517750",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/87859.jpg",
+                        "available":"Out of Stock",
+                        "id":"51121",
+                        "brand":"HOPPES",
+                        "upc":"026285517750",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/51121/HOPPES3PACKBRUSHSWABKIT2707MM",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HOPPES"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"OUTR SHTGN KT ALL GA | 076683963000",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/60021.jpg",
+                        "available":"Out of Stock",
+                        "id":"45196",
+                        "brand":"OUTERS/VISTA",
+                        "upc":"076683963000",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/45196/OUTRSHTGNKTALLGA",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"OUTERS/VISTA"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

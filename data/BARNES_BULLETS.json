@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"Barnes Bullets 29013 VORTX LR Rifle 300 Win Mag 190 gr LRX Boat Tail 20 Bx/ 10 Cs | 716876131907",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36216.jpg",
+                        "available":"Out of Stock",
+                        "id":"39521",
+                        "brand":"BARNESBULLETS",
+                        "upc":"716876131907",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Specialty",
+                        "product_url":"/product/39521/BarnesBullets29013VORTXLRRifle300WinMag190grLRXBoatTail20Bx10Cs",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BARNESBULLETS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Barnes Bullets 28986 VORTX LR Rifle 6.5 Creedmoor 127 gr LRX Boat Tail 20 Bx/ 10 Cs | 716876165124",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36075.jpg",
+                        "available":"Out of Stock",
+                        "id":"39497",
+                        "brand":"BARNESBULLETS",
+                        "upc":"716876165124",
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Rifle",
+                        "SUBTYP_1":"Specialty",
+                        "product_url":"/product/39497/BarnesBullets28986VORTXLRRifle65Creedmoor127grLRXBoatTail20Bx10Cs",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BARNESBULLETS"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

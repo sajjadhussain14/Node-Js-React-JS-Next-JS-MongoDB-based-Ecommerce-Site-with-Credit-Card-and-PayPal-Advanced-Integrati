@@ -1,0 +1,51 @@
+
+        [
+            
+                    {
+                        "name":"SNGLE MANTLE PROPANE LANTERN | 49794142015",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/TI14201.jpg",
+                        "available":"Out of Stock",
+                        "id":"259261",
+                        "brand":"TEXSPORT INC",
+                        "upc":"49794142015",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Survival",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259261/SNGLEMANTLEPROPANELANTERN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TEXSPORT INC"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CAST IRON SKILLET 13 | 49794145085",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/TI14508.jpg",
+                        "available":"Out of Stock",
+                        "id":"259262",
+                        "brand":"TEXSPORT INC",
+                        "upc":"49794145085",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Survival",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/259262/CASTIRONSKILLET13",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TEXSPORT INC"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

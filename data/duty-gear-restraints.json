@@ -1,0 +1,460 @@
+
+        [
+            
+                    {
+                        "name":"SW HANDCUFF KEY NOT M104 | 022188056495",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26170.jpg",
+                        "available":"Out of Stock",
+                        "id":"36746",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188056495",
+                        
+                        "price":null,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/36746/SWHANDCUFFKEYNOTM104",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW M300 BLUE HINGED HANDCUFF | 022188500950",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26834.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"36877",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188500950",
+                        
+                        "price":40.60,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/36877/SWM300BLUEHINGEDHANDCUFF",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW M300 NKL HINGED HANDCUFF | 022188500967",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26833.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"36876",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188500967",
+                        
+                        "price":36.40,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/36876/SWM300NKLHINGEDHANDCUFF",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW M1001 BLUE HANDCUFF | 022188501018",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26312.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"36778",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188501018",
+                        
+                        "price":42.30,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/36778/SWM1001BLUEHANDCUFF",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW M100 NICKEL HANDCUFF | 022188501032",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26313.jpg",
+                        "available":"Out of Stock",
+                        "id":"4132",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188501032",
+                        
+                        "price":null,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/4132/SWM100NICKELHANDCUFF",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW M103 STAINLESS HANDCUFF | 022188501056",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26239.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"36751",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188501056",
+                        
+                        "price":50.40,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/36751/SWM103STAINLESSHANDCUFF",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW M104 NKL MAX SEC HANDCUFF | 022188501070",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26236.jpg",
+                        "available":"Out of Stock",
+                        "id":"36750",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188501070",
+                        
+                        "price":null,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/36750/SWM104NKLMAXSECHANDCUFF",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW M110 NICKEL HANDCUFF | 022188501186",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26016.jpg",
+                        "available":"Out of Stock",
+                        "id":"36739",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188501186",
+                        
+                        "price":null,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/36739/SWM110NICKELHANDCUFF",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SWLE STD LEG IRONS NKL | 022188501216",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26330.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"36780",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188501216",
+                        
+                        "price":47.60,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/36780/SWLESTDLEGIRONSNKL",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SWLE 100MP LEVER LCK NKL CUFF | 022188501223",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/1969.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"31753",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188501223",
+                        
+                        "price":31.44,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/31753/SWLE100MPLEVERLCKNKLCUFF",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW M1 NICKEL HANDCUFF | 022188501322",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26107.jpg",
+                        "available":"Out of Stock",
+                        "id":"4133",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188501322",
+                        
+                        "price":null,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/4133/SWM1NICKELHANDCUFF",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SWLE 1H HANDCUFFS HNGNKL | 022188501339",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/82752.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"50034",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188501339",
+                        
+                        "price":49.00,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/50034/SWLE1HHANDCUFFSHNGNKL",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SWLE 100P HANDCUFFS STDNPP | 022188501353",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/15096.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"34255",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188501353",
+                        
+                        "price":28.98,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/34255/SWLE100PHANDCUFFSSTDNPP",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

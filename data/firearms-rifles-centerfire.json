@@ -1,0 +1,180 @@
+
+        [
+            
+                    {
+                        "name":"SW MP 1522 SPORT 10RD CA | 022188868227",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/5259.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"15048",
+                        "brand":"SMITH AND WESSON",
+                        "upc":"022188868227",
+                        
+                        "price":452.40,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Centerfire",
+                        "product_url":"/product/15048/SWMP1522SPORT10RDCA",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SMITH AND WESSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"HMR Hunting  Match Rifle  6.5 Creedmoor  Molded MiniChassis Stock | 043125014415",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/9839.jpg",
+                        "available":"Out of Stock",
+                        "id":"18386",
+                        "brand":"BERGARA",
+                        "upc":"043125014415",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Centerfire",
+                        "product_url":"/product/18386/HMRHuntingMatchRifle65CreedmoorMoldedMiniChassisStock",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"BERGARA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ARMSCOR M1600 22LR | 4806015511113",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/35263.jpg",
+                        "available":"Out of Stock",
+                        "id":"16528",
+                        "brand":"ARMSCO",
+                        "upc":"4806015511113",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Centerfire",
+                        "product_url":"/product/16528/ARMSCORM160022LR",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$101-$200"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ARMSCO"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ROSSI CIRCUIT JUDGE 45LC/410GA 18.5 Inch BRL BLUE/HW STOCK | 662205984624",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62787.jpg",
+                        "available":"Out of Stock",
+                        "id":"20648",
+                        "brand":"TAURUS INTERNATIONALINC  ROSSI",
+                        "upc":"662205984624",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Centerfire",
+                        "product_url":"/product/20648/ROSSICIRCUITJUDGE45LC410GA185BRLBLUEHWSTOCK",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TAURUS INTERNATIONALINC  ROSSI"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Rossi .45 Colt .410 ga POLISHED BK 18.5 Inch 5RDS | 662205985553",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/74802.jpg",
+                        "available":"Out of Stock",
+                        "id":"20650",
+                        "brand":"TAURUS INTERNATIONALINC  ROSSI",
+                        "upc":"662205985553",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Rifles",
+                        "SUBTYP_1":"Centerfire",
+                        "product_url":"/product/20650/Rossi45Colt410gaPOLISHEDBK1855RDS",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"TAURUS INTERNATIONALINC  ROSSI"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

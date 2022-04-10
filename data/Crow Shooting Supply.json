@@ -1,0 +1,143 @@
+
+        [
+            
+                    {
+                        "name":"ACRAGLAS BEDDING KIT | 050806100015",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/30490.jpg",
+                        "available":"Out of Stock",
+                        "id":"37861",
+                        "brand":"CROW SHOOTING SUPPLY",
+                        "upc":"050806100015",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/37861/ACRAGLASBEDDINGKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROW SHOOTING SUPPLY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ACRAGLAS GEL BEDDING KIT | 050806100022",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/30491.jpg",
+                        "available":"Out of Stock",
+                        "id":"37862",
+                        "brand":"CROW SHOOTING SUPPLY",
+                        "upc":"050806100022",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/37862/ACRAGLASGELBEDDINGKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROW SHOOTING SUPPLY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"STEEL BEDDING KIT | 050806100053",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/30498.jpg",
+                        "available":"Out of Stock",
+                        "id":"37868",
+                        "brand":"CROW SHOOTING SUPPLY",
+                        "upc":"050806100053",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/37868/STEELBEDDINGKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROW SHOOTING SUPPLY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"JB BORE CLEANING COMPOUND | 050806101685",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/36890.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"39635",
+                        "brand":"CROW SHOOTING SUPPLY",
+                        "upc":"050806101685",
+                        "price":13.19,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/39635/JBBORECLEANINGCOMPOUND",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROW SHOOTING SUPPLY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FITS ALL SHOTGUN MAGAZINE PLUG | 50806800014",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/AG084115001.jpg",
+                        "available":"Out of Stock",
+                        "id":"257473",
+                        "brand":"CROW SHOOTING SUPPLY",
+                        "upc":"50806800014",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/257473/FITSALLSHOTGUNMAGAZINEPLUG",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROW SHOOTING SUPPLY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FORMULA 44/40 2 OZ. BOTTLE | 82440002002",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/AG082440002.jpg",
+                        "available":"Out of Stock",
+                        "id":"257472",
+                        "brand":"CROW SHOOTING SUPPLY",
+                        "upc":"82440002002",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/257472/FORMULA44402OZBOTTLE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CROW SHOOTING SUPPLY"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

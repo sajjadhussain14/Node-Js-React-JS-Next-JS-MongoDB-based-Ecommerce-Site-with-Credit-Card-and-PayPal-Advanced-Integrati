@@ -1,0 +1,145 @@
+
+        [
+            
+                    {
+                        "name":"Thompson Center Old Style Contender Pistol Composite Forend Fits Carbine  Black | 090161004535",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/TC7629.gif",
+                        "available":"Out of Stock",
+                        "id":"29137",
+                        "brand":"THOMPSON",
+                        "upc":"090161004535",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Recoil Pads and Shell Holders",
+                        "product_url":"/product/29137/ThompsonCenterOldStyleContenderPistolCompositeForendFitsCarbineBlack",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Thompson Center Old Style Contender Pistol Composite Forend 10 Inch Bull Barrels  Black | 090161011137",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/BHPRODIMAGES/TC 7637.jpg",
+                        "available":"Out of Stock",
+                        "id":"110625",
+                        "brand":"THOMPSON",
+                        "upc":"090161011137",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Recoil Pads and Shell Holders",
+                        "product_url":"/product/110625/ThompsonCenterOldStyleContenderPistolCompositeForend10BullBarrelsBlack",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Thompson Center Composite Contender  G2 Contender Pistol Forend 12 Inch or 14 Inch  Black | 090161033757",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26850.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"29152",
+                        "brand":"THOMPSON",
+                        "upc":"090161033757",
+                        
+                        "price":32.88,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Recoil Pads and Shell Holders",
+                        "product_url":"/product/29152/ThompsonCenterCompositeContenderG2ContenderPistolForend12or14Black",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Thompson Center G2 Contender Composite Rifle Butt Stock  Black | 090161033764",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/26851.jpg",
+                        "available":"Out of Stock",
+                        "id":"36884",
+                        "brand":"THOMPSON",
+                        "upc":"090161033764",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Recoil Pads and Shell Holders",
+                        "product_url":"/product/36884/ThompsonCenterG2ContenderCompositeRifleButtStockBlack",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$51-$100"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"THOMPSON"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

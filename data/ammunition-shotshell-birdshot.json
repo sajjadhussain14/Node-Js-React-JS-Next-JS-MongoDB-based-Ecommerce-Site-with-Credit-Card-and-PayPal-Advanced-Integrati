@@ -1,0 +1,75 @@
+
+        [
+            
+                    {
+                        "name":"Federal Premium Black Cloud FS Steel Shotshell 10ga 31/2 15/8oz 1375 fps 2 25rds | 604544623116",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/31921.jpg",
+                        "available":"Out of Stock",
+                        "id":"38157",
+                        "brand":"FEDERAL/VISTA",
+                        "upc":"604544623116",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Birdshot",
+                        "product_url":"/product/38157/FederalPremiumBlackCloudFSSteelShotshell10ga312158oz1375fps225rds",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FEDERAL/VISTA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Federal Premium Black Cloud FS Steel Shotshell 10ga 31/2 15/8oz 1375 fps BB 25rds | 604544623147",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/31920.jpg",
+                        "available":"Out of Stock",
+                        "id":"38156",
+                        "brand":"FEDERAL/VISTA",
+                        "upc":"604544623147",
+                        
+                        "price":null,
+                        "Dept":"Ammunition",
+                        "Typ":"Shotshell",
+                        "SUBTYP_1":"Birdshot",
+                        "product_url":"/product/38156/FederalPremiumBlackCloudFSSteelShotshell10ga312158oz1375fpsBB25rds",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"FEDERAL/VISTA"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

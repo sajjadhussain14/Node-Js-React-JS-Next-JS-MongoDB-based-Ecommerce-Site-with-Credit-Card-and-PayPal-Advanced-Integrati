@@ -1,0 +1,97 @@
+
+        [
+            
+                    {
+                        "name":"SW MODEL 1840 RESTRAINT CHAIN BELT | 022188501001",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1605973.jpg",
+                        "available":"In Stock",
+                        "id":"79039",
+                        "brand":"SWPEPPERSPRAY",
+                        "upc":"022188501001",
+                        "price":22.00,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/79039/SWMODEL1840RESTRAINTCHAINBELT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SWPEPPERSPRAY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW 1800 BELLY CHAIN NK RESTRAINT CHAIN W/CUFFS | 022188501094",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/KRPRODIMAGES/350109.png",
+                        "available":"Out of Stock",
+                        "id":"173910",
+                        "brand":"SWPEPPERSPRAY",
+                        "upc":"022188501094",
+                        "price":null,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/173910/SW1800BELLYCHAINNKRESTRAINTCHAINWCUFFS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SWPEPPERSPRAY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW MODEL 300P PUSHPIN HANDCUFFS STD HINGED NCKL | 022188501384",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/USCPRODIMAGES/1605980.jpg",
+                        "available":"Out of Stock",
+                        "id":"79040",
+                        "brand":"SWPEPPERSPRAY",
+                        "upc":"022188501384",
+                        "price":null,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/79040/SWMODEL300PPUSHPINHANDCUFFSSTDHINGEDNCKL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SWPEPPERSPRAY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW 1850 CHAINS RESTRAINT TRANSPORT CHAIN | 022188501391",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/KRPRODIMAGES/350139.png",
+                        "available":"Out of Stock",
+                        "id":"173911",
+                        "brand":"SWPEPPERSPRAY",
+                        "upc":"022188501391",
+                        "price":null,
+                        "Dept":"Duty Gear",
+                        "Typ":"Restraints",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/173911/SW1850CHAINSRESTRAINTTRANSPORTCHAIN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SWPEPPERSPRAY"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

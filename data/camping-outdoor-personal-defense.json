@@ -1,0 +1,110 @@
+
+        [
+            
+                    {
+                        "name":"MSI OC PEPPER CARTRIDGE 2 PACK | 022188804218",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54965.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"6928",
+                        "brand":"MACE",
+                        "upc":"022188804218",
+                        
+                        "price":12.12,
+                        "Dept":"Camping & Outdoor",
+                        "Typ":"Personal Defense",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6928/MSIOCPEPPERCARTRIDGE2PACK",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MACE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAB BEAR DETERRENT 7.9oz | 023063955391",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/140731.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"286337",
+                        "brand":"SABRE",
+                        "upc":"023063955391",
+                        
+                        "price":33.42,
+                        "Dept":"Camping & Outdoor",
+                        "Typ":"Personal Defense",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/286337/SABBEARDETERRENT79oz",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SABRE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAB BEAR DETERRENT 9.2oz | 023063955407",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123570.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"273382",
+                        "brand":"SABRE",
+                        "upc":"023063955407",
+                        
+                        "price":37.08,
+                        "Dept":"Camping & Outdoor",
+                        "Typ":"Personal Defense",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/273382/SABBEARDETERRENT92oz",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SABRE"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

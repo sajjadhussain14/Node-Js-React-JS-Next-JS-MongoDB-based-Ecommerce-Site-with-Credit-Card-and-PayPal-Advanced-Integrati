@@ -1,0 +1,75 @@
+
+        [
+            
+                    {
+                        "name":"GLOCK Double Pistol Case Black | 764503029035",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105325.jpg",
+                        "available":"Out of Stock",
+                        "id":"57184",
+                        "brand":"GLOCK",
+                        "upc":"764503029035",
+                        
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cases",
+                        "SUBTYP_1":"Handgun Cases",
+                        "product_url":"/product/57184/GLOCKDoublePistolCaseBlack",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GLOCK DOUBLE PISTOL CASE GRAY | 764503029042",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/105326.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"57185",
+                        "brand":"GLOCK",
+                        "upc":"764503029042",
+                        
+                        "price":21.18,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cases",
+                        "SUBTYP_1":"Handgun Cases",
+                        "product_url":"/product/57185/GLOCKDOUBLEPISTOLCASEGRAY",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$11-$25"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"GLOCK"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

@@ -1,0 +1,2857 @@
+
+        [
+            
+                    {
+                        "name":"PA PAD F325 MD BL | 034337000068",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73049.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"3",
+                        "brand":"PACHMAYR",
+                        "upc":"034337000068",
+                        "price":24.35,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/3/PAPADF325MDBL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PAD F325 MD BN | 034337000075",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73297.jpg",
+                        "available":"Out of Stock",
+                        "id":"4",
+                        "brand":"PACHMAYR",
+                        "upc":"034337000075",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Lights",
+                        "product_url":"/product/4/PAPADF325MDBN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PAD F325 SM BL | 034337000105",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73053.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"5",
+                        "brand":"PACHMAYR",
+                        "upc":"034337000105",
+                        "price":24.35,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Lights",
+                        "product_url":"/product/5/PAPADF325SMBL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PAD F325 SM BN | 034337000112",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73296.jpg",
+                        "available":"Out of Stock",
+                        "id":"6",
+                        "brand":"PACHMAYR",
+                        "upc":"034337000112",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/6/PAPADF325SMBN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AMERICAN LEGEND COLT 1911 GRIP | 034337004233",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/62547.jpg",
+                        "available":"Out of Stock",
+                        "id":"45698",
+                        "brand":"PACHMAYR",
+                        "upc":"034337004233",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/45698/AMERICANLEGENDCOLT1911GRIP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA DECELERATOR BL/BASE REC/PAD | 034337014010",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73056.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"198",
+                        "brand":"PACHMAYR",
+                        "upc":"034337014010",
+                        "price":29.63,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/198/PADECELERATORBLBASERECPAD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA DECELERATOR BL/BASE REC/PAD | 034337014133",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73055.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"209",
+                        "brand":"PACHMAYR",
+                        "upc":"034337014133",
+                        "price":29.63,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"Lights",
+                        "product_url":"/product/209/PADECELERATORBLBASERECPAD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PAD SMALL SLIPON BROWN | 034337023067",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73263.jpg",
+                        "available":"Out of Stock",
+                        "id":"303",
+                        "brand":"PACHMAYR",
+                        "upc":"034337023067",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/303/PAPADSMALLSLIPONBROWN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AR 15 Rear Grip | 034337024668",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/28375.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"312",
+                        "brand":"PACHMAYR",
+                        "upc":"034337024668",
+                        "price":19.43,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/312/AR15RearGrip",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA SIGNATURE GRIPBERETTA 84 | 034337024859",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73703.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"322",
+                        "brand":"PACHMAYR",
+                        "upc":"034337024859",
+                        "price":32.87,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/322/PASIGNATUREGRIPBERETTA84",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA SIGNATURE BERETTA 92FSG W/FG | 034337025009",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48453.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"323",
+                        "brand":"PACHMAYR",
+                        "upc":"034337025009",
+                        "price":32.87,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/323/PASIGNATUREBERETTA92FSGWFG",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA GRIPPER CHARTER ARMS | 034337025214",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73025.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"325",
+                        "brand":"PACHMAYR",
+                        "upc":"034337025214",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/325/PAGRIPPERCHARTERARMS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA COMPAC GRIPALL CHART.MDLS. | 034337025238",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73274.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"326",
+                        "brand":"PACHMAYR",
+                        "upc":"034337025238",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/326/PACOMPACGRIPALLCHARTMDLS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA GRIPPER COLT I FRAME | 034337025283",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73239.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"327",
+                        "brand":"PACHMAYR",
+                        "upc":"034337025283",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/327/PAGRIPPERCOLTIFRAME",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Aluminum Speedloader J Frame 5 Shot | 034337026501",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59165.jpg",
+                        "available":"Out of Stock",
+                        "id":"335",
+                        "brand":"PACHMAYR",
+                        "upc":"034337026501",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/335/AluminumSpeedloaderJFrame5Shot",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Aluminum Speedloader K Frame 6 Shot | 034337026525",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59208.jpg",
+                        "available":"Out of Stock",
+                        "id":"336",
+                        "brand":"PACHMAYR",
+                        "upc":"034337026525",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/336/AluminumSpeedloaderKFrame6Shot",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Aluminum Speedloader L Frame 6 Shot | 034337026549",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59210.jpg",
+                        "available":"Out of Stock",
+                        "id":"337",
+                        "brand":"PACHMAYR",
+                        "upc":"034337026549",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"Speedloaders",
+                        "product_url":"/product/337/AluminumSpeedloaderLFrame6Shot",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Aluminum Speedloader N Frame .44 6 Shot | 034337026556",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/111137.jpg",
+                        "available":"Out of Stock",
+                        "id":"240878",
+                        "brand":"PACHMAYR",
+                        "upc":"034337026556",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"Rails and Bases",
+                        "product_url":"/product/240878/AluminumSpeedloaderNFrame446Shot",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA SIGNATURE GRIPCOLT.45 AUTO | 034337029199",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73016.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"368",
+                        "brand":"PACHMAYR",
+                        "upc":"034337029199",
+                        "price":26.51,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/368/PASIGNATUREGRIPCOLT45AUTO",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA SIGNATURE GRIPSAUTO COMBAT | 034337029212",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73042.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"369",
+                        "brand":"PACHMAYR",
+                        "upc":"034337029212",
+                        "price":26.51,
+                        "Dept":"Supplies",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/369/PASIGNATUREGRIPSAUTOCOMBAT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MAG BUMPER KIT FOR 45 AUTO 5/PK | 034337029885",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73293.jpg",
+                        "available":"Out of Stock",
+                        "id":"375",
+                        "brand":"PACHMAYR",
+                        "upc":"034337029885",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/375/MAGBUMPERKITFOR45AUTO5PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GUNSMITH TOOL KIT | 034337030478",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59090.jpg",
+                        "available":"Out of Stock",
+                        "id":"378",
+                        "brand":"PACHMAYR",
+                        "upc":"034337030478",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Tools and Equipment",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/378/GUNSMITHTOOLKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MASTER GUNSMITH SCREW KIT 277PC | 034337030546",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/15574.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"380",
+                        "brand":"PACHMAYR",
+                        "upc":"034337030546",
+                        "price":42.11,
+                        "Dept":"Supplies",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/380/MASTERGUNSMITHSCREWKIT277PC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MST.GUNSMITH HEX HEAD SCREW KIT | 034337030584",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/16084.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"381",
+                        "brand":"PACHMAYR",
+                        "upc":"034337030584",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/381/MSTGUNSMITHHEXHEADSCREWKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MASTER GUNSMITH ULTIMATE GUNSMITH TOOL SET | 034337030850",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/98055.jpg",
+                        "available":"Out of Stock",
+                        "id":"385",
+                        "brand":"PACHMAYR",
+                        "upc":"034337030850",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Tools and Equipment",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/385/MASTERGUNSMITHULTIMATEGUNSMITHTOOLSET",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PRESENTATION NEW MODEL BLACKHAWK/RUGER OLD ARMY | 034337031376",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73003.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"388",
+                        "brand":"PACHMAYR",
+                        "upc":"034337031376",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/388/PAPRESENTATIONNEWMODELBLACKHAWKRUGEROLDARMY",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PRESENTATION REDHAWK | 034337031406",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73005.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"389",
+                        "brand":"PACHMAYR",
+                        "upc":"034337031406",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/389/PAPRESENTATIONREDHAWK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA ROSSI COMPAC | 034337031475",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73015.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"390",
+                        "brand":"PACHMAYR",
+                        "upc":"034337031475",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/390/PAROSSICOMPAC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PRESENTATION SUPER BLACKHAW | 034337031635",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73004.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"391",
+                        "brand":"PACHMAYR",
+                        "upc":"034337031635",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/391/PAPRESENTATIONSUPERBLACKHAW",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PACHMAYR RUGER SEC/SIX GRIPPER | 034337031758",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73275.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"392",
+                        "brand":"PACHMAYR",
+                        "upc":"034337031758",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/392/PACHMAYRRUGERSECSIXGRIPPER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA COMPACT GRIP RUGER SP101 | 034337031833",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73337.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"393",
+                        "brand":"PACHMAYR",
+                        "upc":"034337031833",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/393/PACOMPACTGRIPRUGERSP101",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AZOOM PLASTIC SNAP CAPS 22LR 24PACK | 034337032007",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/88376.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"410",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032007",
+                        "price": 8.39,
+                        "Dept":"Supplies",
+                        "Typ":"Targets",
+                        "SUBTYP_1":"Shooting Rests",
+                        "product_url":"/product/410/AZOOMPLASTICSNAPCAPS22LR24PACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PAD SPORT CLAYS LG BL | 034337032335",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73066.jpg",
+                        "available":"Out of Stock",
+                        "id":"48061",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032335",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48061/PAPADSPORTCLAYSLGBL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PAD SPORT CLAYS MD BL | 034337032359",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73065.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"48060",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032359",
+                        "price":39.35,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48060/PAPADSPORTCLAYSMDBL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA SJG GRIPPER | 034337032496",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73011.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"414",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032496",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/414/PASJGGRIPPER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA SJGS GRIPPER | 034337032502",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73026.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"415",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032502",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/415/PASJGSGRIPPER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA COMPACT GRIP SW RD BT J FRAME | 034337032526",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73014.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"416",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032526",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/416/PACOMPACTGRIPSWRDBTJFRAME",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"COMPT PROF W/O BKSTP SW RD BT | 034337032540",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73237.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"48080",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032540",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48080/COMPTPROFWOBKSTPSWRDBT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA COMPAC GRIPS/SW/SQ.BUTT J | 034337032557",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73233.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"417",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032557",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/417/PACOMPACGRIPSSWSQBUTTJ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA GRIPPER SW K  L FRAME SQB | 034337032649",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73007.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"418",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032649",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/418/PAGRIPPERSWKLFRAMESQB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA SKGP PROF GRIPPER KL FRAME | 034337032656",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73008.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"419",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032656",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/419/PASKGPPROFGRIPPERKLFRAME",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PACHMAYR SW ROUN/BUTT GRIPPER | 034337032663",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73009.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"420",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032663",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/420/PACHMAYRSWROUNBUTTGRIPPER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PRESENTATION SW KL FRAME SQ BUTT | 034337032670",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73002.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"421",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032670",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/421/PRESENTATIONSWKLFRAMESQBUTT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA COMP. GRIP SW KL RD BT FRAME | 034337032700",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73234.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"48078",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032700",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48078/PACOMPGRIPSWKLRDBTFRAME",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA COMPAC PROF SW RD BT KL FRAME | 034337032724",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73238.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"48081",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032724",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48081/PACOMPACPROFSWRDBTKLFRAME",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA SNG GRIPPER SQUARE BUTT | 034337032922",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73010.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"424",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032922",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/424/PASNGGRIPPERSQUAREBUTT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW  N  FRAME ROUND BUTT COMPAC | 034337032977",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73235.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"48079",
+                        "brand":"PACHMAYR",
+                        "upc":"034337032977",
+                        "price":24.17,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48079/SWNFRAMEROUNDBUTTCOMPAC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA SIGNATUR GRIP SW AUTO 39/43 | 034337033066",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73018.jpg",
+                        "available":"Out of Stock",
+                        "id":"48049",
+                        "brand":"PACHMAYR",
+                        "upc":"034337033066",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48049/PASIGNATURGRIPSWAUTO3943",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Grip Extender Smith  Wesson MP Compact 9mm40cal | 034337038931",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59214.jpg",
+                        "available":"Out of Stock",
+                        "id":"459",
+                        "brand":"PACHMAYR",
+                        "upc":"034337038931",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/459/GripExtenderSmithWessonMPCompact9mm40cal",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Grip Extender Springfield XDS | 034337038955",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59218.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"461",
+                        "brand":"PACHMAYR",
+                        "upc":"034337038955",
+                        "price": 7.43,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/461/GripExtenderSpringfieldXDS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA VINDICATO  GRIP ONLY REM 870 | 034337041719",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73289.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"485",
+                        "brand":"PACHMAYR",
+                        "upc":"034337041719",
+                        "price":46.43,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/485/PAVINDICATOGRIPONLYREM870",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DECELERATOR MAGNUM SLIP ON MD BK | 034337044130",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48456.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"25630",
+                        "brand":"PACHMAYR",
+                        "upc":"034337044130",
+                        "price":16.79,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/25630/DECELERATORMAGNUMSLIPONMDBK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DECELERATOR MAGNUM SLIP ON SM BK | 034337044147",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48457.jpg",
+                        "available":"Out of Stock",
+                        "id":"489",
+                        "brand":"PACHMAYR",
+                        "upc":"034337044147",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/489/DECELERATORMAGNUMSLIPONSMBK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DECELERATOR MAGNUM SLIP ON LG BN | 034337044161",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48458.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"490",
+                        "brand":"PACHMAYR",
+                        "upc":"034337044161",
+                        "price":16.79,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/490/DECELERATORMAGNUMSLIPONLGBN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DECELERATOR MAGNUM SLIP ON MD BN | 034337044178",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48459.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"491",
+                        "brand":"PACHMAYR",
+                        "upc":"034337044178",
+                        "price":16.79,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/491/DECELERATORMAGNUMSLIPONMDBN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DECELERATOR MAGNUM SLIP ON SM BN | 034337044185",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48460.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"492",
+                        "brand":"PACHMAYR",
+                        "upc":"034337044185",
+                        "price":16.79,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/492/DECELERATORMAGNUMSLIPONSMBN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Renegade Slip On Recoil Pad Small Black | 034337044208",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/111141.jpg",
+                        "available":"Out of Stock",
+                        "id":"240882",
+                        "brand":"PACHMAYR",
+                        "upc":"034337044208",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/240882/RenegadeSlipOnRecoilPadSmallBlack",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA MEDIUM SLIPON PAD BLACK | 034337044338",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73267.jpg",
+                        "available":"Out of Stock",
+                        "id":"493",
+                        "brand":"PACHMAYR",
+                        "upc":"034337044338",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/493/PAMEDIUMSLIPONPADBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA SMALL SLIPON PAD BLACK | 034337044550",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73266.jpg",
+                        "available":"Out of Stock",
+                        "id":"494",
+                        "brand":"PACHMAYR",
+                        "upc":"034337044550",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/494/PASMALLSLIPONPADBLACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PACHMAYR PLASTIC SNAP CAPS 20GA 2PACK | 034337044840",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73259.jpg",
+                        "available":"Out of Stock",
+                        "id":"48086",
+                        "brand":"PACHMAYR",
+                        "upc":"034337044840",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/48086/PACHMAYRPLASTICSNAPCAPS20GA2PACK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PAD SPORT CLAYS SM. BL. | 034337048565",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73064.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"48059",
+                        "brand":"PACHMAYR",
+                        "upc":"034337048565",
+                        "price":39.35,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48059/PAPADSPORTCLAYSSMBL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GRIP COLT 1911 W/FING GRIP | 034337050087",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73284.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"518",
+                        "brand":"PACHMAYR",
+                        "upc":"034337050087",
+                        "price":25.79,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/518/GRIPCOLT1911WFINGGRIP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"THOMPSON CNTR GRIPPER DECEL GRI | 034337050544",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73280.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"48095",
+                        "brand":"PACHMAYR",
+                        "upc":"034337050544",
+                        "price":60.71,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48095/THOMPSONCNTRGRIPPERDECELGRI",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SW N FRAME SQ BUTT GRIPER DECE | 034337050568",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73279.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"48094",
+                        "brand":"PACHMAYR",
+                        "upc":"034337050568",
+                        "price":32.39,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/48094/SWNFRAMESQBUTTGRIPERDECE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RUGER RED HAWK GRIPER DECEL GRI | 034337050582",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73281.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"523",
+                        "brand":"PACHMAYR",
+                        "upc":"034337050582",
+                        "price":32.39,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/523/RUGERREDHAWKGRIPERDECELGRI",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"GRIPER RUGER SUP BLKHWK BLU ST | 034337050674",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73277.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"524",
+                        "brand":"PACHMAYR",
+                        "upc":"034337050674",
+                        "price":29.15,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/524/GRIPERRUGERSUPBLKHWKBLUST",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SLIPON GRIP LG AUTO W/F GROV | 034337051060",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73083.jpg",
+                        "available":"Out of Stock",
+                        "id":"526",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051060",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/526/SLIPONGRIPLGAUTOWFGROV",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SLIPON GRIP COMP AUTO W/F GRV | 034337051084",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73084.jpg",
+                        "available":"Out of Stock",
+                        "id":"527",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051084",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/527/SLIPONGRIPCOMPAUTOWFGRV",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SLIPON GRIP SM AUTOS 38025S | 034337051107",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73085.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"528",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051107",
+                        "price": 7.09,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/528/SLIPONGRIPSMAUTOS38025S",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"FOR GLOCK 26/27 SLIPON W/FG OPENING | 034337051176",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73552.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"529",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051176",
+                        "price": 7.48,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/529/FORGLOCK2627SLIPONWFGOPENING",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Gripper Universal Pistol SlipOn Grip FDE | 034337051268",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/111139.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"78009",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051268",
+                        "price": 6.95,
+                        "Dept":"Supplies",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/78009/GripperUniversalPistolSlipOnGripFDE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RUGER SUP BLKHAWK GRIPER DECELE | 034337051343",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73325.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"530",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051343",
+                        "price":32.39,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/530/RUGERSUPBLKHAWKGRIPERDECELE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TAC.GRIP GLOVE RUGER SR9  SR40 | 034337051589",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/113498.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"532",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051589",
+                        "price": 8.15,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/532/TACGRIPGLOVERUGERSR9SR40",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL GRIP GLOVES BER.92 FS | 034337051602",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59084.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"534",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051602",
+                        "price": 8.15,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/534/TACTICALGRIPGLOVESBER92FS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL GRIP GLOVES CZ 75/85 | 034337051626",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59085.jpg",
+                        "available":"Out of Stock",
+                        "id":"536",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051626",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/536/TACTICALGRIPGLOVESCZ7585",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL GRIP GLOVES GLK 1721 | 034337051640",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59086.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"538",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051640",
+                        "price": 8.15,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/538/TACTICALGRIPGLOVESGLK1721",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL GRIP GLOVES SW SIGMA | 034337051664",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59087.jpg",
+                        "available":"Out of Stock",
+                        "id":"539",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051664",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/539/TACTICALGRIPGLOVESSWSIGMA",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Tactical Grip Glove  Sig P320 Compact | 034337051671",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59219.jpg",
+                        "available":"Out of Stock",
+                        "id":"540",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051671",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/540/TacticalGripGloveSigP320Compact",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL GRIP GLOVES SIG 220226 | 034337051688",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/59088.jpg",
+                        "available":"Out of Stock",
+                        "id":"541",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051688",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/541/TACTICALGRIPGLOVESSIG220226",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL GRIP GLOVE GLK SUBCOMPT | 034337051756",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/80644.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"546",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051756",
+                        "price": 8.15,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/546/TACTICALGRIPGLOVEGLKSUBCOMPT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL GRIP GLOVE RUGER LC9 | 034337051770",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/80645.jpg",
+                        "available":"Out of Stock",
+                        "id":"548",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051770",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/548/TACTICALGRIPGLOVERUGERLC9",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL GRIP GLOVE SPGFLD XD S | 034337051787",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/88375.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"549",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051787",
+                        "price": 8.15,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/549/TACTICALGRIPGLOVESPGFLDXDS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL GRIP GLOVE SW SHIELD | 034337051794",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/88374.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"550",
+                        "brand":"PACHMAYR",
+                        "upc":"034337051794",
+                        "price": 8.15,
+                        "Dept":"Hunting",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/550/TACTICALGRIPGLOVESWSHIELD",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PAD MED SLIPON BROWN | 034337202233",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/73264.jpg",
+                        "available":"Out of Stock",
+                        "id":"3058",
+                        "brand":"PACHMAYR",
+                        "upc":"034337202233",
+                        "price":null,
+                        "Dept":"Hunting",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/3058/PAPADMEDSLIPONBROWN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"AR 15 Recoil Pad Slipon Fits most M4 style | 034337202257",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/28374.jpg",
+                        "available":"Out of Stock",
+                        "id":"3059",
+                        "brand":"PACHMAYR",
+                        "upc":"034337202257",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Stocks",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/3059/AR15RecoilPadSliponFitsmostM4style",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BUTCHS BORE SHINE 16 OZ. | 044717004067",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38383.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"371",
+                        "brand":"PACHMAYR",
+                        "upc":"044717004067",
+                        "price":20.27,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/371/BUTCHSBORESHINE16OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BUTCHS BORE SHINE 4 OZ. | 044717006528",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38382.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"370",
+                        "brand":"PACHMAYR",
+                        "upc":"044717006528",
+                        "price": 8.03,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/370/BUTCHSBORESHINE4OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BUTCHS BENCH REST GUN OIL 4 OZ. | 044717024959",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38384.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"372",
+                        "brand":"PACHMAYR",
+                        "upc":"044717024959",
+                        "price": 5.99,
+                        "Dept":"Supplies",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/372/BUTCHSBENCHRESTGUNOIL4OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchBUTCHS TWILL PATCHES 11/8 Inch Inch 1000/CT Inch | 044717029015",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38385.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"40091",
+                        "brand":"PACHMAYR",
+                        "upc":"044717029015",
+                        "price":13.67,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/40091/BUTCHSTWILLPATCHES1181000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchBUTCHS TWILL PATCHES 13/4 Inch Inch 750/CT Inch | 044717029046",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/38386.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"40092",
+                        "brand":"PACHMAYR",
+                        "upc":"044717029046",
+                        "price":13.67,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/40092/BUTCHSTWILLPATCHES134750CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BUTCHS BLACK POWDER BORE SHINE 8 OZ | 044717029497",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/54212.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"373",
+                        "brand":"PACHMAYR",
+                        "upc":"044717029497",
+                        "price": 7.31,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/373/BUTCHSBLACKPOWDERBORESHINE8OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"BUTCHS BORE SHINE 8 OZ. | 044717029534",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/48452.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"374",
+                        "brand":"PACHMAYR",
+                        "upc":"044717029534",
+                        "price":11.39,
+                        "Dept":"Supplies",
+                        "Typ":"Firearm Accessories",
+                        "SUBTYP_1":"Cleaning Supplies",
+                        "product_url":"/product/374/BUTCHSBORESHINE8OZ",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TRIUS TRAP CLAY TARGET THROWER | 052122001113",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39105.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"40252",
+                        "brand":"PACHMAYR",
+                        "upc":"052122001113",
+                        "price":75.71,
+                        "Dept":"Supplies",
+                        "Typ":"Targets",
+                        "SUBTYP_1":"Throwers",
+                        "product_url":"/product/40252/TRIUSTRAPCLAYTARGETTHROWER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TRIUS 1 STEP CLAY TARGET THROWER | 052122001618",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39111.jpg",
+                        "available":"Out of Stock",
+                        "id":"40257",
+                        "brand":"PACHMAYR",
+                        "upc":"052122001618",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Targets",
+                        "SUBTYP_1":"Throwers",
+                        "product_url":"/product/40257/TRIUS1STEPCLAYTARGETTHROWER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TRIUS BIRDSHOOTER 2 TRAP | 052122002202",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/39109.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"858",
+                        "brand":"PACHMAYR",
+                        "upc":"052122002202",
+                        "price":55.19,
+                        "Dept":"Supplies",
+                        "Typ":"Targets",
+                        "SUBTYP_1":"Throwers",
+                        "product_url":"/product/858/TRIUSBIRDSHOOTER2TRAP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZOMBIE TARGET DOTS ATTORNEY 10PK | 32873263015",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA4026301.jpg",
+                        "available":"Out of Stock",
+                        "id":"262745",
+                        "brand":"PACHMAYR",
+                        "upc":"32873263015",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Targets",
+                        "SUBTYP_1":"Other",
+                        "product_url":"/product/262745/ZOMBIETARGETDOTSATTORNEY10PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ZOMBIE TARGET DOTS FRANKZAP 10PK | 32873263039",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA4026303.jpg",
+                        "available":"Out of Stock",
+                        "id":"262746",
+                        "brand":"PACHMAYR",
+                        "upc":"32873263039",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Targets",
+                        "SUBTYP_1":"Other",
+                        "product_url":"/product/262746/ZOMBIETARGETDOTSFRANKZAP10PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PAD F250 MD BL | 34337002048",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA00204.jpg",
+                        "available":"Out of Stock",
+                        "id":"262713",
+                        "brand":"PACHMAYR",
+                        "upc":"34337002048",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262713/PAPADF250MDBL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PAD F250 MD BN | 34337002055",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA00205.jpg",
+                        "available":"Out of Stock",
+                        "id":"262714",
+                        "brand":"PACHMAYR",
+                        "upc":"34337002055",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262714/PAPADF250MDBN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DLX FIELD PAD BK BAS F/F325BMBL | 34337003144",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA00314.jpg",
+                        "available":"Out of Stock",
+                        "id":"262715",
+                        "brand":"PACHMAYR",
+                        "upc":"34337003144",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262715/DLXFIELDPADBKBASFF325BMBL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PAD T550 MD BL | 34337008132",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA00813.jpg",
+                        "available":"Out of Stock",
+                        "id":"262716",
+                        "brand":"PACHMAYR",
+                        "upc":"34337008132",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262716/PAPADT550MDBL",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"YOUTH DECELERATOR PAD 1 BLK BASE | 34337013808",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA01380.jpg",
+                        "available":"Out of Stock",
+                        "id":"262717",
+                        "brand":"PACHMAYR",
+                        "upc":"34337013808",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262717/YOUTHDECELERATORPAD1BLKBASE",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA PAD 752B MD BN/NO WHITE LIN | 34337016137",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA01613.jpg",
+                        "available":"Out of Stock",
+                        "id":"262718",
+                        "brand":"PACHMAYR",
+                        "upc":"34337016137",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262718/PAPAD752BMDBNNOWHITELIN",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"ULTRASOFT XLT DBL MAGNUM PAD MED | 34337016403",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA01640.jpg",
+                        "available":"Out of Stock",
+                        "id":"262719",
+                        "brand":"PACHMAYR",
+                        "upc":"34337016403",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262719/ULTRASOFTXLTDBLMAGNUMPADMED",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA SIGNATURE GRIPBRNG.AUTO | 34337024200",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA02420.jpg",
+                        "available":"Out of Stock",
+                        "id":"248140",
+                        "brand":"PACHMAYR",
+                        "upc":"34337024200",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/248140/PASIGNATUREGRIPBRNGAUTO",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA BLACK SPACERS | 34337024552",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA02455.jpg",
+                        "available":"Out of Stock",
+                        "id":"262720",
+                        "brand":"PACHMAYR",
+                        "upc":"34337024552",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262720/PABLACKSPACERS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA CDG GRIPPER | 34337025139",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA02513.jpg",
+                        "available":"Out of Stock",
+                        "id":"262724",
+                        "brand":"PACHMAYR",
+                        "upc":"34337025139",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262724/PACDGGRIPPER",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA COMPAC GRIP COLY  D  FRAME | 34337025153",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA02515.jpg",
+                        "available":"Out of Stock",
+                        "id":"262725",
+                        "brand":"PACHMAYR",
+                        "upc":"34337025153",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262725/PACOMPACGRIPCOLYDFRAME",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA 264 WIN THRU 375 HH | 34337025481",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA02548.jpg",
+                        "available":"Out of Stock",
+                        "id":"262726",
+                        "brand":"PACHMAYR",
+                        "upc":"34337025481",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Accessories",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262726/PA264WINTHRU375HH",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MST.GUNSMTH 6LOBE HEAD SCRW KIT | 34337030614",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA03061.jpg",
+                        "available":"Out of Stock",
+                        "id":"262734",
+                        "brand":"PACHMAYR",
+                        "upc":"34337030614",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Slings and Swivels",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262734/MSTGUNSMTH6LOBEHEADSCRWKIT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA T/C CONT FOREND 10  14 | 34337033738",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA03373.jpg",
+                        "available":"Out of Stock",
+                        "id":"262735",
+                        "brand":"PACHMAYR",
+                        "upc":"34337033738",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262735/PATCCONTFOREND1014",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA CONT FOREND ADAPTOR 1014 | 34337033813",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA03381.jpg",
+                        "available":"Out of Stock",
+                        "id":"262736",
+                        "brand":"PACHMAYR",
+                        "upc":"34337033813",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262736/PACONTFORENDADAPTOR1014",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"PA WHITE SPACERS | 34337034728",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA03472.jpg",
+                        "available":"Out of Stock",
+                        "id":"262737",
+                        "brand":"PACHMAYR",
+                        "upc":"34337034728",
+                        "price":null,
+                        "Dept":"Gun Parts",
+                        "Typ":"Recoil Pads",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262737/PAWHITESPACERS",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"RUGER MARK III/II SIGNATURE GRIP | 34337034827",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA03482.jpg",
+                        "available":"Out of Stock",
+                        "id":"262738",
+                        "brand":"PACHMAYR",
+                        "upc":"34337034827",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262738/RUGERMARKIIIIISIGNATUREGRIP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"DECELERATOR GRIP SW  N  ROUND B | 34337051480",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA05148.jpg",
+                        "available":"Out of Stock",
+                        "id":"262739",
+                        "brand":"PACHMAYR",
+                        "upc":"34337051480",
+                        "price":null,
+                        "Dept":"Supplies",
+                        "Typ":"Primers and Powders",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262739/DECELERATORGRIPSWNROUNDB",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL GRIP GLOVES SW MP | 34337051725",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA05172.jpg",
+                        "available":"Out of Stock",
+                        "id":"248154",
+                        "brand":"PACHMAYR",
+                        "upc":"34337051725",
+                        "price":null,
+                        "Dept":"Apparel",
+                        "Typ":"Gloves",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/248154/TACTICALGRIPGLOVESSWMP",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"TACTICAL GRIP GLOVE DISPLAY 32PC | 34337051800",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA05180.jpg",
+                        "available":"Out of Stock",
+                        "id":"262743",
+                        "brand":"PACHMAYR",
+                        "upc":"34337051800",
+                        "price":null,
+                        "Dept":"Apparel",
+                        "Typ":"Gloves",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/262743/TACTICALGRIPGLOVEDISPLAY32PC",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchBUTCHS TWILL PATCHES 11/8 Inch Inch 500/CT Inch | 44717028827",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA02882.jpg",
+                        "available":"Out of Stock",
+                        "id":"262727",
+                        "brand":"PACHMAYR",
+                        "upc":"44717028827",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262727/BUTCHSTWILLPATCHES118500CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchBUTCHS TWILL PATCHES 13/4 Inch Inch 300/CT Inch | 44717028834",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA02883.jpg",
+                        "available":"Out of Stock",
+                        "id":"262728",
+                        "brand":"PACHMAYR",
+                        "upc":"44717028834",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262728/BUTCHSTWILLPATCHES134300CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchBUTCHS TWILL PATCHES 21/4 Inch Inch 150/CT Inch | 44717028841",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA02884.jpg",
+                        "available":"Out of Stock",
+                        "id":"262729",
+                        "brand":"PACHMAYR",
+                        "upc":"44717028841",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262729/BUTCHSTWILLPATCHES214150CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchBUTCHS TWILL PATCHES 21/2 Inch Inch 100/CT Inch | 44717028858",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA02885.jpg",
+                        "available":"Out of Stock",
+                        "id":"262730",
+                        "brand":"PACHMAYR",
+                        "upc":"44717028858",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262730/BUTCHSTWILLPATCHES212100CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchBUTCHS TWILL PATCHES 3 Inch Inch SQUARE 75/PK Inch | 44717028865",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA02886.jpg",
+                        "available":"Out of Stock",
+                        "id":"262731",
+                        "brand":"PACHMAYR",
+                        "upc":"44717028865",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262731/BUTCHSTWILLPATCHES3SQUARE75PK",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchBUTCHS TWILL PATCHES 3 Inch Inch 300/CT Inch | 44717029114",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA02911.jpg",
+                        "available":"Out of Stock",
+                        "id":"262732",
+                        "brand":"PACHMAYR",
+                        "upc":"44717029114",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262732/BUTCHSTWILLPATCHES3300CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":" InchBUTCHS TWILL PATCHES 11/2 Inch Inch 1000/CT Inch | 44717029138",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/CAPRODIMAGES/PA02913.jpg",
+                        "available":"Out of Stock",
+                        "id":"262733",
+                        "brand":"PACHMAYR",
+                        "upc":"44717029138",
+                        "price":null,
+                        "Dept":"Cleaning & Storage",
+                        "Typ":"Cleaning",
+                        "SUBTYP_1":"Cleaning Solvents and Lubricants",
+                        "product_url":"/product/262733/BUTCHSTWILLPATCHES1121000CT",
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"PACHMAYR"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

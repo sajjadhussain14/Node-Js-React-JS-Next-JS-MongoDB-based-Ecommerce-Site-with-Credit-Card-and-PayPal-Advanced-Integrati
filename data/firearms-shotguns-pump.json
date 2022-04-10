@@ -1,0 +1,775 @@
+
+        [
+            
+                    {
+                        "name":"SAV STEVENS 555 CMPT 410/26 | 011356221568",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/24729.jpg",
+                        "available":"Out of Stock",
+                        "id":"15672",
+                        "brand":"SAVAGE",
+                        "upc":"011356221568",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/15672/SAVSTEVENS555CMPT41026",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Savage Stevens Model 555 16ga 2rd Over/Under 28 Inch Barrel Wood Stock | 011356221780",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/108406.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"58675",
+                        "brand":"SAVAGE",
+                        "upc":"011356221780",
+                        
+                        "price":652.74,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/58675/SavageStevensModel55516ga2rdOverUnder28BarrelWoodStock",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAVAGE 555  InchE Inch 16 GA 28IN BBL 2RD | 011356221797",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/108405.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"58674",
+                        "brand":"SAVAGE",
+                        "upc":"011356221797",
+                        
+                        "price":795.54,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/58674/SAVAGE555E16GA28INBBL2RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Savage Stevens 320 Field Grade Muddy Girl Shotgun 20ga 3 Inch Chamber 5rd Capacity 26 Inch Barrel | 011356225603",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/4457.jpg",
+                        "available":"Out of Stock",
+                        "id":"32423",
+                        "brand":"SAVAGE",
+                        "upc":"011356225603",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/32423/SavageStevens320FieldGradeMuddyGirlShotgun20ga3Chamber5rdCapacity26Barrel",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Savage Stevens 320 Field Grade Shotgun 12ga 3 Inch Chamber 5rd Capacity 28 Inch Barrel Grass Blades Camo | 011356225627",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/4454.jpg",
+                        "available":"Out of Stock",
+                        "id":"32420",
+                        "brand":"SAVAGE",
+                        "upc":"011356225627",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/32420/SavageStevens320FieldGradeShotgun12ga3Chamber5rdCapacity28BarrelGrassBladesCamo",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAV RENEGAUGE 12GA/28 4RD | 011356577764",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/SV57776_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"439134",
+                        "brand":"SAVAGE",
+                        "upc":"011356577764",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/439134/SAVRENEGAUGE12GA284RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SAVAGE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 500 SCORPION 12GA TALO | 015813504249",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MS50424_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"16467",
+                        "brand":"MOSSBERG",
+                        "upc":"015813504249",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/16467/MOSSBERG500SCORPION12GATALO",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 500 DESTROYER 12GA TALO | 015813504317",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MS50431_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"97847",
+                        "brand":"MOSSBERG",
+                        "upc":"015813504317",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/97847/MOSSBERG500DESTROYER12GATALO",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG SHOCK LASER 12GA 14 5RD | 015813506380",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/109192.jpg",
+                        "available":"Out of Stock",
+                        "id":"69131",
+                        "brand":"MOSSBERG",
+                        "upc":"015813506380",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/69131/MOSSBERGSHOCKLASER12GA145RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG SHOCK N SAW 12GA 14 5RD | 015813506472",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/109194.jpg",
+                        "available":"Out of Stock",
+                        "id":"69129",
+                        "brand":"MOSSBERG",
+                        "upc":"015813506472",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/69129/MOSSBERGSHOCKNSAW12GA145RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG SHOCKWAVE SPX 12/14 Inch 5RD | 015813506489",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/109195.jpg",
+                        "available":"Out of Stock",
+                        "id":"69130",
+                        "brand":"MOSSBERG",
+                        "upc":"015813506489",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/69130/MOSSBERGSHOCKWAVESPX12145RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 590 NIGHTSTICK 12/14 TALO | 015813506519",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MS50651_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"16493",
+                        "brand":"MOSSBERG",
+                        "upc":"015813506519",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/16493/MOSSBERG590NIGHTSTICK1214TALO",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$401-$500"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 590 TACT 12GA MLOK 20 8RD | 015813506748",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MS50674_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"295290",
+                        "brand":"MOSSBERG",
+                        "upc":"015813506748",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/295290/MOSSBERG590TACT12GAMLOK208RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 590 TACT 12GA BL 18.5 6RD | 015813506915",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120397.jpg",
+                        "available":"Out of Stock",
+                        "id":"264547",
+                        "brand":"MOSSBERG",
+                        "upc":"015813506915",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/264547/MOSSBERG590TACT12GABL1856RD",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG 590 THDR RCH KUIU 12GA 6R | 015813521451",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/109196.jpg",
+                        "available":"Out of Stock",
+                        "id":"16756",
+                        "brand":"MOSSBERG",
+                        "upc":"015813521451",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/16756/MOSSBERG590THDRRCHKUIU12GA6R",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Mossberg 590 Retrograde Shotgun 12ga 8rd Capacity 20 Inch Barrel Walnut Stock | 015813521505",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MS52150_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"307384",
+                        "brand":"MOSSBERG",
+                        "upc":"015813521505",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/307384/Mossberg590RetrogradeShotgun12ga8rdCapacity20BarrelWalnutStock",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Maverick 88 Cruiser Pistol Grip 12ga 5rd Capacity 18.5 Inch Barrel Pistol Grip | 049533310088",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/115358.jpg",
+                        "available":"Out of Stock",
+                        "id":"247409",
+                        "brand":"MOSSBERG",
+                        "upc":"049533310088",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/247409/Maverick88CruiserPistolGrip12ga5rdCapacity185BarrelPistolGrip",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Mossberg Maverick 88 12ga 7rd Capacity 20 Inch Barrel Black Synthetic Pistol Grip | 049533310804",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/115359.jpg",
+                        "available":"Out of Stock",
+                        "id":"247410",
+                        "brand":"MOSSBERG",
+                        "upc":"049533310804",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/247410/MossbergMaverick8812ga7rdCapacity20BarrelBlackSyntheticPistolGrip",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$201-$300"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"Henry Lever Action Axe .410 Bore | 619835500038",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120848.jpg",
+                        "available":"Out of Stock",
+                        "id":"264780",
+                        "brand":"HENRY REPEATING ARMS COMPANY",
+                        "upc":"619835500038",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/264780/HenryLeverActionAxe410Bore",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"HENRY REPEATING ARMS COMPANY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"CHI 1887 MARES LEG 12/18.5 Inch 5 | 8053670710498",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/5679.jpg",
+                        "available":"Out of Stock",
+                        "id":"18077",
+                        "brand":"CHIAPPA FIREARMS",
+                        "upc":"8053670710498",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/18077/CHI1887MARESLEG121855",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"CHIAPPA FIREARMS"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"VRBP100A 12 GA 5 RD Shotgun Mag Fed Series | 812285025544",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/113731.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"238408",
+                        "brand":"ROCK ISLAND ARMORY",
+                        "upc":"812285025544",
+                        
+                        "price":536.34,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/238408/VRBP100A12GA5RDShotgunMagFedSeries",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$501-$700"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"ROCK ISLAND ARMORY"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"MOSSBERG GOLD RSV 12GA/30 WALNUT | 884110754721",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/RSRPRODIMAGES/MS75472_1.jpg",
+                        "available":"Out of Stock",
+                        "id":"443626",
+                        "brand":"MOSSBERG",
+                        "upc":"884110754721",
+                        
+                        "price":null,
+                        "Dept":"Firearms",
+                        "Typ":"Shotguns",
+                        "SUBTYP_1":"Pump",
+                        "product_url":"/product/443626/MOSSBERGGOLDRSV12GA30WALNUT",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$701 and more"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"MOSSBERG"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

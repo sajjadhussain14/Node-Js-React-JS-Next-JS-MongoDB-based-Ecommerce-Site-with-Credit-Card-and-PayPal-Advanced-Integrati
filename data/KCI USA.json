@@ -1,0 +1,705 @@
+
+        [
+            
+                    {
+                        "name":"KCI MAG AK74 545x39 95RD | 851586008009",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ029.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"97741",
+                        "brand":"KCI USA",
+                        "upc":"851586008009",
+                        
+                        "price":79.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97741/KCIMAGAK74545x3995RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG AR15 GEN2 223 100RD | 851586008016",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ001.jpg",
+                        "available":"Out of Stock",
+                        "id":"97728",
+                        "brand":"KCI USA",
+                        "upc":"851586008016",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97728/KCIMAGAR15GEN2223100RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG MINI14 223 100RD | 851586008023",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ002.jpg",
+                        "available":"Out of Stock",
+                        "id":"97729",
+                        "brand":"KCI USA",
+                        "upc":"851586008023",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97729/KCIMAGMINI14223100RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG SKS 762x39 75RD | 851586008030",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ003.jpg",
+                        "available":"Out of Stock",
+                        "id":"97730",
+                        "brand":"KCI USA",
+                        "upc":"851586008030",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97730/KCIMAGSKS762x3975RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG AK47 762x39 75RD | 851586008047",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ004.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"97731",
+                        "brand":"KCI USA",
+                        "upc":"851586008047",
+                        
+                        "price":79.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97731/KCIMAGAK47762x3975RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG AR15 DRUM 223 50RD | 851586008054",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ036.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"305259",
+                        "brand":"KCI USA",
+                        "upc":"851586008054",
+                        
+                        "price":69.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/305259/KCIMAGAR15DRUM22350RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG GLOCK 40SW DRUM 50RD | 851586008061",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ028.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"97740",
+                        "brand":"KCI USA",
+                        "upc":"851586008061",
+                        
+                        "price":72.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97740/KCIMAGGLOCK40SWDRUM50RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG GLOCK GEN2 9MM 50RD | 851586008078",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ027.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"97739",
+                        "brand":"KCI USA",
+                        "upc":"851586008078",
+                        
+                        "price":61.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97739/KCIMAGGLOCKGEN29MM50RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG AK47 GEN2 762x39 30RD | 851586008092",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ005.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"314709",
+                        "brand":"KCI USA",
+                        "upc":"851586008092",
+                        
+                        "price":10.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/314709/KCIMAGAK47GEN2762x3930RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG AK47 762x39 10RD | 851586008108",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ033.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"97743",
+                        "brand":"KCI USA",
+                        "upc":"851586008108",
+                        
+                        "price": 8.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97743/KCIMAGAK47762x3910RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG AK47 GEN2 762x39 20RD | 851586008115",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ034.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"97747",
+                        "brand":"KCI USA",
+                        "upc":"851586008115",
+                        
+                        "price": 9.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97747/KCIMAGAK47GEN2762x3920RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG AK47 762x39 40RD | 851586008122",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ006.jpg",
+                        "available":"Out of Stock",
+                        "id":"97732",
+                        "brand":"KCI USA",
+                        "upc":"851586008122",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97732/KCIMAGAK47762x3940RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG AR15 POLYMER 223 30RD | 851586008139",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ018PB.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"305257",
+                        "brand":"KCI USA",
+                        "upc":"851586008139",
+                        
+                        "price":10.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/305257/KCIMAGAR15POLYMER22330RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG BERETTA 92SF 9MM 30RD | 851586008146",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ030.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"97742",
+                        "brand":"KCI USA",
+                        "upc":"851586008146",
+                        
+                        "price":11.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97742/KCIMAGBERETTA92SF9MM30RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG GLOCK GEN2 40SW 31RD | 851586008177",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ012.jpg",
+                        "available":"Out of Stock",
+                        "id":"97735",
+                        "brand":"KCI USA",
+                        "upc":"851586008177",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97735/KCIMAGGLOCKGEN240SW31RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG GLOCK GEN2 9MM 17RD | 851586008184",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ007.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"97733",
+                        "brand":"KCI USA",
+                        "upc":"851586008184",
+                        
+                        "price":11.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97733/KCIMAGGLOCKGEN29MM17RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG GLOCK GEN2 9MM 15RD | 851586008191",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ009.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"97734",
+                        "brand":"KCI USA",
+                        "upc":"851586008191",
+                        
+                        "price":11.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97734/KCIMAGGLOCKGEN29MM15RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG GLOCK GEN2 45ACP 26RD | 851586008207",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ013.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"97736",
+                        "brand":"KCI USA",
+                        "upc":"851586008207",
+                        
+                        "price":14.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97736/KCIMAGGLOCKGEN245ACP26RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI CL GLOCK GEN2 40SW 13RD | 851586008221",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/KCI-MZ011.jpg",
+                        "available":"Out of Stock",
+                        "id":"426290",
+                        "brand":"KCI USA",
+                        "upc":"851586008221",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/426290/KCICLGLOCKGEN240SW13RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG GLOCK GEN2 9MM 33RD | 851586008238",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ008.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"305255",
+                        "brand":"KCI USA",
+                        "upc":"851586008238",
+                        
+                        "price":14.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/305255/KCIMAGGLOCKGEN29MM33RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG M1 CARBINE 30CAR 15RD | 851586008245",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ025.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"305258",
+                        "brand":"KCI USA",
+                        "upc":"851586008245",
+                        
+                        "price":11.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/305258/KCIMAGM1CARBINE30CAR15RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG M1 CARBINE 30CAR 30RD | 851586008252",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ026.jpg",
+                        "available":"Out of Stock",
+                        "id":"97738",
+                        "brand":"KCI USA",
+                        "upc":"851586008252",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97738/KCIMAGM1CARBINE30CAR30RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG HK MP5 GEN2 9MM 30RD | 851586008283",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ019.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"97737",
+                        "brand":"KCI USA",
+                        "upc":"851586008283",
+                        
+                        "price":36.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97737/KCIMAGHKMP5GEN29MM30RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG 1911 45ACP 7RD | 851586008290",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ038.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"97745",
+                        "brand":"KCI USA",
+                        "upc":"851586008290",
+                        
+                        "price":11.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97745/KCIMAG191145ACP7RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG HK 91/G3 762x51 20RD | 851586008313",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/2APRODIMAGES/KCI-MZ023.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"426211",
+                        "brand":"KCI USA",
+                        "upc":"851586008313",
+                        
+                        "price": 9.35,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/426211/KCIMAGHK91G3762x5120RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG 1911 45ACP 8RD | 851586008320",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ039.jpg",
+                        "available":"Out of Stock",
+                        "id":"97746",
+                        "brand":"KCI USA",
+                        "upc":"851586008320",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/97746/KCIMAG191145ACP8RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI MAG AR15 ALUMINUM 223 30RD | 851586008337",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ018.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"305256",
+                        "brand":"KCI USA",
+                        "upc":"851586008337",
+                        
+                        "price":10.99,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/305256/KCIMAGAR15ALUMINUM22330RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"KCI CL MP5 9MM 20RD | 851586008351",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/ZDPRODIMAGES/KCIMZ041.jpg",
+                        "available":"Out of Stock",
+                        "id":"426212",
+                        "brand":"KCI USA",
+                        "upc":"851586008351",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Magazines",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/426212/KCICLMP59MM20RD",
+                        
+                        "attributes": 
+                        [
+                            
+                            {
+                                "name":"Brand",
+                                "value":"KCI USA"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

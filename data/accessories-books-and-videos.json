@@ -1,0 +1,40 @@
+
+        [
+            
+                    {
+                        "name":"SIERRA 0500 RF/HG HNDBK5ED | 092763005002",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/27938.jpg",
+                        "available":"Out of Stock",
+                        "id":"27400",
+                        "brand":"SIERRA",
+                        "upc":"092763005002",
+                        
+                        "price":null,
+                        "Dept":"Accessories",
+                        "Typ":"Books and Videos",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/27400/SIERRA0500RFHGHNDBK5ED",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SIERRA"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    

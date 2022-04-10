@@ -1,0 +1,110 @@
+
+        [
+            
+                    {
+                        "name":"SABRE CAMO POCKET UNIT IN SMALL CLAM | 023063100425",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123579.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"273384",
+                        "brand":"SECURITY EQUIPMENT CORPORATION",
+                        "upc":"023063100425",
+                        
+                        "price": 6.36,
+                        "Dept":"Hunting",
+                        "Typ":"Repellents",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/273384/SABRECAMOPOCKETUNITINSMALLCLAM",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$0-$10"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SECURITY EQUIPMENT CORPORATION"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAB BEAR DETERRENT 7.9oz | 023063955391",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/140731.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"286337",
+                        "brand":"SABRE",
+                        "upc":"023063955391",
+                        
+                        "price":33.42,
+                        "Dept":"Hunting",
+                        "Typ":"Repellents",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/286337/SABBEARDETERRENT79oz",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SABRE"
+                            }
+                            
+                        ]
+                    }
+                    , 
+                    {
+                        "name":"SAB BEAR DETERRENT 9.2oz | 023063955407",
+                        "image": "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/123570.jpg",
+                        "available":"In Stock Vendor",
+                        "id":"273382",
+                        "brand":"SABRE",
+                        "upc":"023063955407",
+                        
+                        "price":37.08,
+                        "Dept":"Hunting",
+                        "Typ":"Repellents",
+                        "SUBTYP_1":"",
+                        "product_url":"/product/273382/SABBEARDETERRENT92oz",
+                        
+                        "attributes": 
+                        [
+                            
+                                {
+                                    "name":"Pickup In Store",
+                                    "value":"Not Available"
+                                },
+                            
+                                {
+                                    "name":"Price Range",
+                                    "value":"$26-$50"
+                                },
+                            
+                            {
+                                "name":"Brand",
+                                "value":"SABRE"
+                            }
+                            
+                        ]
+                    }
+                    
+        ]
+    
