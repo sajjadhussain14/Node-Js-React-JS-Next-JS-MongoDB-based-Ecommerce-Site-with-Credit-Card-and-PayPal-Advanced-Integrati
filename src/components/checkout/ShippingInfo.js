@@ -357,9 +357,7 @@ const ShippingInfo = (props) => {
             placeholder="Zip Code*"
             defaultValue={zcode}
           />
-          <label for="zip" className="wizard-form-text-label">
-            Zip Code*
-          </label>
+          <label className="wizard-form-text-label">Zip Code*</label>
           <div className="wizard-form-error"></div>
         </div>
         <div className="form-group col-lg-6 col-md-6 col-sm-12 col-12">
@@ -370,9 +368,7 @@ const ShippingInfo = (props) => {
             placeholder="Phone*"
             defaultValue={phone}
           />
-          <label for="zcode" className="wizard-form-text-label">
-            Phone*
-          </label>
+          <label className="wizard-form-text-label">Phone*</label>
           <div className="wizard-form-error"></div>
         </div>
         <div className="form-group clearfix col-12 text-left">

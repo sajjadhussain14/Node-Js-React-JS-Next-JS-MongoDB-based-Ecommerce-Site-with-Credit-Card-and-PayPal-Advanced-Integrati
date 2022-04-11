@@ -1724,7 +1724,7 @@
         border-bottom: 1px solid #e6e6e6;
       }
 
-      #checkout-main-content .checkout-paypal h6 {
+      #checkout-main-content .checkout-paypal button {
         background: none;
         height: 40px;
         text-align: center;
@@ -1736,11 +1736,14 @@
         width: 100%;
         border-radius: 28px;
         font-family: "Mulish";
+        background-color: #ffc439;
       }
 
-      #checkout-main-content .checkout-paypal h6 img {
+      #checkout-main-content .checkout-paypal button img {
         margin-right: 4px;
         max-width: 50px;
         max-width: 75px;
         margin-top: -5px;
       }
+
+

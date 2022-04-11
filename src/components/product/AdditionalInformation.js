@@ -7,18 +7,56 @@ const AdditionalInformation = (props) => {
       <div className="col-xl-12 col-lg-12 col-md-12  col-sm-12 col-12 pb-4 bg-white product-desc-container">
         <div id="exTab1" className="container-fluid">
           <ul className="nav nav-pills row" id="myTab" role="tablist">
-            <li className="active col-4">   
-              <button class="nav-link active" id="desc-tab" data-bs-toggle="tab" data-bs-target="#desc" type="button" role="tab" aria-controls="desc" aria-selected="true">Description</button>
+            <li className="active col-4">
+              <button
+                className="nav-link active"
+                id="desc-tab"
+                data-bs-toggle="tab"
+                data-bs-target="#desc"
+                type="button"
+                role="tab"
+                aria-controls="desc"
+                aria-selected="true"
+              >
+                Description
+              </button>
             </li>
             <li className="col-4">
-              <button lass="nav-link" id="specs-tab" data-bs-toggle="tab" data-bs-target="#specs" type="button" role="tab" aria-controls="specs" aria-selected="false">Specs</button> 
+              <button
+                lass="nav-link"
+                id="specs-tab"
+                data-bs-toggle="tab"
+                data-bs-target="#specs"
+                type="button"
+                role="tab"
+                aria-controls="specs"
+                aria-selected="false"
+              >
+                Specs
+              </button>
             </li>
             <li className="col-4">
-                <button class="nav-link" id="rev-tab" data-bs-toggle="tab" data-bs-target="#rev" type="button" role="tab" aria-controls="contact" aria-selected="false">Reviews</button>
+              <button
+                className="nav-link"
+                id="rev-tab"
+                data-bs-toggle="tab"
+                data-bs-target="#rev"
+                type="button"
+                role="tab"
+                aria-controls="contact"
+                aria-selected="false"
+              >
+                Reviews
+              </button>
             </li>
           </ul>
           <div className="tab-content clearfix">
-            <div className="tab-pane show active" id="desc" role="tabpanel" aria-labelledby="desc-tab">
+            <div
+              className="tab-pane show active"
+              id="desc"
+              role="tabpanel"
+              aria-labelledby="desc-tab"
+            >
               <div className="card-body desc-content">
                 <p>
                   <strong>
@@ -32,10 +70,20 @@ const AdditionalInformation = (props) => {
                 <p></p>
               </div>
             </div>
-            <div className="tab-pane" id="specs" role="tabpanel" aria-labelledby="specs-tab">
+            <div
+              className="tab-pane"
+              id="specs"
+              role="tabpanel"
+              aria-labelledby="specs-tab"
+            >
               <div className="card-body desc-content">1</div>
             </div>
-            <div className="tab-pane" id="rev" role="tabpanel" aria-labelledby="rev-tab">
+            <div
+              className="tab-pane"
+              id="rev"
+              role="tabpanel"
+              aria-labelledby="rev-tab"
+            >
               <div className="card-body desc-content">
                 <div id="CommentsTab">1</div>
                 <div>

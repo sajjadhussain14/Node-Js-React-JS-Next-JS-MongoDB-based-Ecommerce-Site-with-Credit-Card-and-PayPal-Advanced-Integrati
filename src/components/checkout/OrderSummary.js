@@ -23,8 +23,6 @@ const OrderSummary = (props) => {
 
   if (!tax || tax == "") tax = 0;
 
-  console.log("amountttt1", cartTotal);
-
   try {
     subTotal = parseInt(cartTotal) + parseInt(tax);
   } catch (err) {}

@@ -5,13 +5,19 @@ const PaymentInfo = () => {
     <fieldset className="wizard-fieldset">
       <h5>Payment Information</h5>
       <div className="checkout-paypal">
-        <h6>
+        <button
+          type="button"
+          onClick={(e) => {
+            doPayment(e);
+          }}
+        >
           <img
+            id="checkout"
             src="https://thepediazone.com/wp-content/uploads/2021/04/paypal-information.png"
             alt=""
           />
           Checkout
-        </h6>
+        </button>
       </div>
       <div className="form-group">
         <div className="payment-methods">
@@ -21,9 +27,7 @@ const PaymentInfo = () => {
         </div>
       </div>
       <div className="form-group">
-        <label for="honame" className="wizard-form-text-label">
-          Name On Card*
-        </label>
+        <label className="wizard-form-text-label">Name On Card*</label>
         <input
           type="text"
           className="form-control wizard-required"
@@ -34,9 +38,7 @@ const PaymentInfo = () => {
       <div className="row">
         <div className="col-12">
           <div className="form-group">
-            <label for="cardname" className="wizard-form-text-label">
-              Card Number*
-            </label>
+            <label className="wizard-form-text-label">Card Number*</label>
             <input
               type="text"
               className="form-control wizard-required"
@@ -48,9 +50,7 @@ const PaymentInfo = () => {
       </div>
       <div className="row">
         <div className="col-12">
-          <label for="expirationdate" className="wizard-form-text-label">
-            Expiration Date*
-          </label>
+          <label className="wizard-form-text-label">Expiration Date*</label>
         </div>
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div className="form-group">
@@ -105,9 +105,7 @@ const PaymentInfo = () => {
       <div className="row">
         <div className="col-6">
           <div className="form-group">
-            <label for="cvv2" className="wizard-form-text-label">
-              CVV2*
-            </label>
+            <label className="wizard-form-text-label">CVV2*</label>
             <input
               type="text"
               className="form-control wizard-required"
@@ -135,3 +133,15 @@ const PaymentInfo = () => {
 };
 
 export default PaymentInfo;
+
+const doPayment = async (e) => {
+  let { URL } = process.env;
+  let orderData = "heloooooooooo";
+  e.preventDefault();
+  const response = await fetch(URL + "/api/payment/create-order", {
+    method: "POST",
+    body: JSON.stringify(orderData),
+  });
+  const data = await response.json();
+  window.location.href = data.links[1].href;
+};

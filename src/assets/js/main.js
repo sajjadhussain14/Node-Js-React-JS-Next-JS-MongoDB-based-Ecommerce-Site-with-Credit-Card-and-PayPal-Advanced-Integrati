@@ -303,4 +303,33 @@ export const getHeaderScripts = ($) => {
   $(".anchor").on("click", function () {
     $("div#cartDrpDown").parent().removeClass("hoverToggle");
   });
+
+  $(".edtCart").on("click", function () {
+    $("div#cartDrpDown").parent().removeClass("hoverToggle");
+  });
+};
+
+export const getMotionVariants = () => {
+  let variants = {
+    hidden: { opacity: 0, x: -200 },
+    enter: { opacity: 1, x: 0, y: 0 },
+    exit: { opacity: 0, x: 0, y: 0 },
+  };
+
+  variants = {
+    hidden: {
+      scale: 0.9,
+      opacity: 1,
+    },
+
+    enter: {
+      scale: 1,
+      opacity: 1,
+      transition: {
+        delay: 0.1,
+      },
+    },
+    exit: { opacity: 0, x: 0, y: 0 },
+  };
+  return variants;
 };

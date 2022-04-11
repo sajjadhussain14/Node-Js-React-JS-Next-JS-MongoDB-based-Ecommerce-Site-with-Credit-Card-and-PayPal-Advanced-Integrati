@@ -448,7 +448,7 @@ const BillingInfo = (props) => {
       <br />
 
       {sameBillingAsShipping ? (
-        <div class="alert alert-dark" role="alert">
+        <div className="alert alert-dark" role="alert">
           Same Billing has been Selected as Shipping
         </div>
       ) : (
@@ -480,24 +480,26 @@ const UpdateBilling = async (e, userData, setUserData) => {
   e.preventDefault();
   let { URL } = process.env;
 
-  let billing = {
-    first_name: document.getElementById("billing_fname").value,
-    last_name: document.getElementById("billing_lname").value,
-    phone: document.getElementById("billing_phone").value,
-    address1: document.getElementById("billing_address1").value,
-    address2: document.getElementById("billing_address2").value,
-    email: document.getElementById("billing_email").value,
-    city: document.getElementById("billing_city").value,
-    state: document.getElementById("billing_state").value,
-    zip_code: document.getElementById("billing_zcode").value,
-    country: document.getElementById("billing_country").value,
-  };
-  let newUser = userData;
-  newUser = { ...newUser, billing: billing };
+  try {
+    let billing = {
+      first_name: document.getElementById("billing_fname").value,
+      last_name: document.getElementById("billing_lname").value,
+      phone: document.getElementById("billing_phone").value,
+      address1: document.getElementById("billing_address1").value,
+      address2: document.getElementById("billing_address2").value,
+      email: document.getElementById("billing_email").value,
+      city: document.getElementById("billing_city").value,
+      state: document.getElementById("billing_state").value,
+      zip_code: document.getElementById("billing_zcode").value,
+      country: document.getElementById("billing_country").value,
+    };
+    let newUser = userData;
+    newUser = { ...newUser, billing: billing };
 
-  let response = await updateAccountInfo(e, newUser);
-  if (response.status == 200) {
-    let user = await getCurrentUserData(e);
-    setUserData(user);
-  }
+    let response = await updateAccountInfo(e, newUser);
+    if (response.status == 200) {
+      let user = await getCurrentUserData(e);
+      setUserData(user);
+    }
+  } catch (err) {}
 };

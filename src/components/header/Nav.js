@@ -40,7 +40,8 @@ const Nav = (props) => {
                     if (ShowDeptsOnly.includes(depts.DEPT.toLowerCase())) {
                       return (
                         <li
-                          className="nav-item active " data-toggle="collapse"
+                          className="nav-item active "
+                          data-toggle="collapse"
                           key={"deptLevel " + depts.DEPT}
                         >
                           <button
@@ -53,7 +54,7 @@ const Nav = (props) => {
                             id="drop"
                             className="d-lg-none border-0 d-md-block d-sm-block d-block p-0 m-0 bg-transparent"
                           >
-                            <i class="fa fa-angle-down"></i>
+                            <i className="fa fa-angle-down"></i>
                           </button>
                           <Link
                             href={{

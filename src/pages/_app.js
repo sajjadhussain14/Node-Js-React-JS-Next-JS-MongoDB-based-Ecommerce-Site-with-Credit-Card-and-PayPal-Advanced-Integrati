@@ -29,36 +29,18 @@ import store from "../redux/store";
 import Script from "next/script";
 import Header from "../components/header/Header";
 import Footer from "../components/footer/Footer";
+import { getMotionVariants } from "../assets/js/main";
 
 function MyApp({ Component, pageProps, taxonomy }) {
   const router = useRouter();
 
-  let variants = {
-    hidden: { opacity: 0, x: -200 },
-    enter: { opacity: 1, x: 0, y: 0 },
-    exit: { opacity: 0, x: 0, y: 0 },
-  };
-
-  variants = {
-    hidden: {
-      scale: 0.9,
-      opacity: 1,
-    },
-
-    enter: {
-      scale: 1,
-      opacity: 1,
-      transition: {
-        delay: 0.1,
-      },
-    },
-    exit: { opacity: 0, x: 0, y: 0 },
-  };
+  let variants = getMotionVariants();
 
   let cartData = [];
   if (typeof window != "undefined") {
     cartData = JSON.parse(localStorage.getItem("cart"));
   }
+
   return (
     <>
       <link
@@ -73,14 +55,6 @@ function MyApp({ Component, pageProps, taxonomy }) {
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css"
         rel="stylesheet"
       ></link>
-      <link
-        rel="stylesheet"
-        href="https://template1.cumulusbetasites.com/css/owl.carousel.css"
-      />
-      <link
-        rel="stylesheet"
-        href="https://template1.cumulusbetasites.com/css/owl.theme.default.min.css"
-      />
       <link
         href="https://template1.cumulusbetasites.com//css/bootstrap.min.css"
         rel="stylesheet"
@@ -109,23 +83,25 @@ function MyApp({ Component, pageProps, taxonomy }) {
       </Provider>
       <Footer />
 
-      <script
-        defer
+      <Script
         src="https://cdn.celerantwebservices.com/jquery/3.5.1/jquery.min.js"
-      ></script>
+        strategy="afterInteractive"
+      />
 
-      <script
-        defer
+      <Script
         src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
-      ></script>
-      <script
-        defer
+        strategy="afterInteractive"
+      />
+
+      <Script
         src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
-      ></script>
-      <script
-        defer
+        strategy="afterInteractive"
+      />
+
+      <Script
         src="https://template1.cumulusbetasites.com/js/bootstrap.min.js"
-      ></script>
+        strategy="afterInteractive"
+      />
     </>
   );
 }

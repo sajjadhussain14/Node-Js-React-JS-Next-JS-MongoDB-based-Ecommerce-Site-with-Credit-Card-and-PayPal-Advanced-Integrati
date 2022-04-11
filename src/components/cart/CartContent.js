@@ -14,7 +14,7 @@ const CartContent = (props) => {
   }
   return (
     <section id="cartContent">
-      <div className="row bg-light py-2 d-lg-flex d-md-flex d-none">                
+      <div className="row bg-light py-2 d-lg-flex d-md-flex d-none">
         <div className="col-2">
           <h5 className="mb-0">Image</h5>
         </div>
@@ -34,7 +34,6 @@ const CartContent = (props) => {
       {cart && cart.length > 0
         ? cart.map((product) => {
             return (
-             
               <div className="row " key={product.name}>
                 <div className="row main align-items-center border-bottom py-0 px-0">
                   <div className="col-lg-2 col-md-2 col-sm-6 col-6">
@@ -53,7 +52,6 @@ const CartContent = (props) => {
                         <div className="row pname">
                           {product.name.toLowerCase()}
                         </div>
-                       
                       </a>
                     </Link>
                   </div>
@@ -69,7 +67,7 @@ const CartContent = (props) => {
                         );
                       }}
                     >
-                       <i class="fa fa-minus"></i>
+                      <i className="fa fa-minus"></i>
                     </button>
                     <input
                       type="text"
@@ -93,19 +91,22 @@ const CartContent = (props) => {
                         );
                       }}
                     >
-                       <i class="fa fa-plus"></i>
+                      <i className="fa fa-plus"></i>
                     </button>
-                   
-                   <a href="javascript:void(0)" className="p-0">
-                      <i class="fas fa-trash ml-1"></i>
+
+                    <a href="javascript:void(0)" className="p-0">
+                      <i className="fas fa-trash ml-1"></i>
                     </a>
                   </div>
                   <div className="col-lg-2 col-md-2 col-sm-4 col-5">
-                      <span class="pprice">${product.itemPrice.toFixed(2)}</span>
+                    <span className="pprice">
+                      ${product.itemPrice.toFixed(2)}
+                    </span>
                   </div>
                   <div className="col-lg-2 col-md-2 col-sm-4 col-5">
-                    <span className="pprice">${" "}
-                          {product.total.toFixed(2)}{" "}</span>
+                    <span className="pprice">
+                      $ {product.total.toFixed(2)}{" "}
+                    </span>
                   </div>
                 </div>
               </div>

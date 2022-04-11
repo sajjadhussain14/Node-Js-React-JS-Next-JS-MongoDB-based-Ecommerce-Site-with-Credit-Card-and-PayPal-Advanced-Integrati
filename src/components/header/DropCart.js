@@ -25,7 +25,7 @@ const DropCart = (props) => {
           <div className="content-inner">
             <h3 className="box-title">
               <Link href="/cart">
-                <a>edit cart</a>
+                <a className="edtCart">edit cart</a>
               </Link>
               <a
                 href={void 0}
@@ -66,7 +66,10 @@ const DropCart = (props) => {
                       <span className="price">Total: ${product.total}</span>
 
                       <p>
-                        <div id="cart" className="col-lg-8 col-md-8 col-sm-6 col-8 qtyInner p-0">
+                        <div
+                          id="cart"
+                          className="col-lg-8 col-md-8 col-sm-6 col-8 qtyInner p-0"
+                        >
                           <button
                             className="minus"
                             onClick={(e) => {
@@ -78,7 +81,7 @@ const DropCart = (props) => {
                               );
                             }}
                           >
-                           <i class="fa fa-minus"></i>
+                            <i className="fa fa-minus"></i>
                           </button>
                           <input
                             type="text"
@@ -102,7 +105,7 @@ const DropCart = (props) => {
                               );
                             }}
                           >
-                            <i class="fa fa-plus"></i>
+                            <i className="fa fa-plus"></i>
                           </button>
                         </div>
                         <span>|</span>

@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 import { csHandleChange } from "../../controllers/cart";
 
 const EmptyCart = (props) => {
@@ -7,7 +8,9 @@ const EmptyCart = (props) => {
       <div className="row">
         <div className="col-sm-12 main-content" id="cartPageInner">
           <nav className="celerant-breadcrumb breadcrumbs">
-            <a href="/">Home</a>
+            <Link href="/">
+              <a>Home</a>
+            </Link>
             Cart
           </nav>
           <p>
@@ -15,9 +18,9 @@ const EmptyCart = (props) => {
           </p>
           <ul>
             <li>
-              <a href="/" title="Start Shopping">
-                Start Shopping »
-              </a>
+              <Link href="/">
+                <a title="Start Shopping">Start Shopping »</a>
+              </Link>
             </li>
             <li>
               Having problems? Please{" "}

@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { authenticateUser } from "../../controllers/account";
 
 const ReturningCustomer = (props) => {
-  console.log("userrr", props.userData);
   let user = props.userData;
   let loginstatus = "";
   let currentUserID = "";
@@ -28,13 +27,16 @@ const ReturningCustomer = (props) => {
       ) : (
         <section
           name="returning-customer"
-          class="accordion accordion-flush"
+          className="accordion accordion-flush"
           id="accordionFlushrCustomer"
         >
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="flush-headingReturningCustomer">
+          <div className="accordion-item">
+            <h2
+              className="accordion-header"
+              id="flush-headingReturningCustomer"
+            >
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#flush-collapseReturningCustomer"
@@ -46,11 +48,11 @@ const ReturningCustomer = (props) => {
             </h2>
             <div
               id="flush-collapseReturningCustomer"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               aria-labelledby="flush-headingReturningCustomer"
               data-bs-parent="#accordionFlushrCustomer"
             >
-              <div class="accordion-body p-2">
+              <div className="accordion-body p-2">
                 <p>
                   If you have shopped with us before, please enter your details
                   in the boxes below. If you are a new customer, please proceed

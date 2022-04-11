@@ -9,15 +9,15 @@ const ProductInfo = (props) => {
       <div className="prod-pricing-container">
         <div id="pricing" className="w-100">
           {getProducts.price > 0 ? (
-          <>
-            <span id="price">${getProducts.price}</span>
-          </>
-        ) : (
-          <span id="price"></span>
-        )}
-        <strong>
-        <i class="fas fa-circle-check"></i> In stock
-        </strong>
+            <>
+              <span id="price">${getProducts.price}</span>
+            </>
+          ) : (
+            <span id="price"></span>
+          )}
+          <strong>
+            <i className="fas fa-circle-check"></i> In stock
+          </strong>
         </div>
       </div>
       <p className="pratings">
@@ -59,9 +59,7 @@ const ProductInfo = (props) => {
       </p>
       <p id="avail">
         <strong>UPC:</strong>
-        <span>
-          In stock
-        </span>
+        <span>In stock</span>
       </p>
     </>
   );

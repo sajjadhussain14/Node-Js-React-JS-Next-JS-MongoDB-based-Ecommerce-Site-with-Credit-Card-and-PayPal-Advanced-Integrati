@@ -8,6 +8,8 @@ const Cart = (props) => {
     cart = [];
   }
   let { URL } = process.env;
+  let total = 0;
+
   return (
     <>
       {cart && cart.length > 0
@@ -18,13 +20,12 @@ const Cart = (props) => {
               prodName = prodName.substring(0, 300);
               prodName = prodName + "...";
 
-              let total = 0;
               try {
                 total = product.qty * product.total;
               } catch (err) {}
             }
             return (
-              <article className="row product m-sm-4 m-2">
+              <article className="row product m-sm-4 m-2" key={product.name}>
                 <div className="col px-sm-3 px-2 pt-3 pb-3 d-flex justify-content-center col-lg-4 col-md-12 col-sm-12 col-12">
                   <img src={product.image} alt="" className="product-img" />
                 </div>
@@ -83,17 +84,19 @@ const Cart = (props) => {
                         </div>
                       </div>
                       <div className="border-0 col-lg-3 col-md-12 col-sm-12 col-12">
-                        <div class="w-100">
-                          <span class="total">Total Price</span>
-                          <span class="final">${total}</span>
+                        <div className="w-100">
+                          <span className="total">Total Price</span>
+                          <span className="final">${total}</span>
                         </div>
-                        <img class="mr-1"  src={URL + "/images/trash-2.svg"} /><span>remove</span>
+                        <img
+                          className="mr-1"
+                          src={URL + "/images/trash-2.svg"}
+                        />
+                        <span>remove</span>
                       </div>
                     </div>
                   </div>
                 </div>
-
-                
               </article>
             );
           })
