@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useEffect } from "react";
+import { getOrderDetails, setOrderDetails } from "../../controllers/order";
 
 const OrderSummary = (props) => {
   let tax = props.tax;
@@ -31,6 +32,21 @@ const OrderSummary = (props) => {
     subTotal = parseInt(subTotal) + parseInt(shippingCharges);
   } catch (err) {}
   subTotal = Number(subTotal).toFixed(2);
+  props.setGrandTotal(subTotal);
+
+  let orderDetails = {};
+  orderDetails = getOrderDetails("orderDetails");
+
+  try {
+    orderDetails.order.shipping.name = shippingMode;
+    orderDetails.order.shipping.amount = shippingCharges;
+    orderDetails.order.total = cartTotal;
+    orderDetails.order.tax = tax;
+    orderDetails.order.subTotal = subTotal;
+  } catch (err) {}
+
+  setOrderDetails("orderDetails", orderDetails);
+
   return (
     <>
       <ul className="list-group order-totals ">

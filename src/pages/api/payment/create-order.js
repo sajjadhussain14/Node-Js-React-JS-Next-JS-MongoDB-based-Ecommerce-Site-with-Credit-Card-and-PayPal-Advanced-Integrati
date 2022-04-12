@@ -1,6 +1,10 @@
 import axios from "axios";
 
 export default async function handler(req, res) {
+  let paymentData = { currency: "USD", grandTotal: 0.0 };
+  let { currency, grandTotal } = JSON.parse(req.body);
+  paymentData.currency = currency;
+  paymentData.grandTotal = grandTotal;
   if (req.method === "POST") {
     try {
       const order = {
@@ -8,8 +12,9 @@ export default async function handler(req, res) {
         purchase_units: [
           {
             amount: {
-              currency_code: "USD",
-              value: "105.70",
+              currency_code: paymentData.currency,
+              // value: paymentData.grandTotal,
+              value: 1.0,
             },
           },
         ],
@@ -17,8 +22,8 @@ export default async function handler(req, res) {
           brand_name: process.env.COMPANY,
           landing_page: "NO_PREFERENCE",
           user_action: "PAY_NOW",
-          return_url: `${process.env.HOST}/capture-order`,
-          cancel_url: `${process.env.HOST}/cancel-payment`,
+          return_url: `${process.env.HOST}/payment`,
+          cancel_url: `${process.env.HOST}/checkout`,
         },
       };
 
@@ -37,8 +42,8 @@ export default async function handler(req, res) {
             "Content-Type": "application/x-www-form-urlencoded",
           },
           auth: {
-            username: PAYPAL_API_CLIENT,
-            password: PAYPAL_API_SECRET,
+            username: process.env.PAYPAL_API_CLIENT,
+            password: process.env.PAYPAL_API_SECRET,
           },
         }
       );
@@ -47,7 +52,7 @@ export default async function handler(req, res) {
 
       // make a request
       const response = await axios.post(
-        `${PAYPAL_API}/v2/checkout/orders`,
+        `${process.env.PAYPAL_API}/v2/checkout/orders`,
         order,
         {
           headers: {
@@ -56,9 +61,7 @@ export default async function handler(req, res) {
         }
       );
 
-      console.log(response.data);
-
-      return res.json(response.data);
+      return res.status(200).json(response.data);
     } catch (error) {
       console.log(error.message);
       return res.status(500).json("Something goes wrong");

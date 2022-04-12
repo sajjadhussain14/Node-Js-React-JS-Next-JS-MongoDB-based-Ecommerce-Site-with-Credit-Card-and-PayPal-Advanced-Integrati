@@ -11,7 +11,7 @@ const EmptyCart = (props) => {
             <Link href="/">
               <a>Home</a>
             </Link>
-            Cart
+            {props.page}
           </nav>
           <p>
             <strong>There are no items in your shopping bag.</strong>

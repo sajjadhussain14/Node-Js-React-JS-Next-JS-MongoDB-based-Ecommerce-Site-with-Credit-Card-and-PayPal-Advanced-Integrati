@@ -94,7 +94,13 @@ const CartContent = (props) => {
                       <i className="fa fa-plus"></i>
                     </button>
 
-                    <a href="javascript:void(0)" className="p-0">
+                    <a
+                      href="javascript:void(0)"
+                      className="p-0"
+                      onClick={() => {
+                        removeItem(product.id, props.setCart);
+                      }}
+                    >
                       <i className="fas fa-trash ml-1"></i>
                     </a>
                   </div>

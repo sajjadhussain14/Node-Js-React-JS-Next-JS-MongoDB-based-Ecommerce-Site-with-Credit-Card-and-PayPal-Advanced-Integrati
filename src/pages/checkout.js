@@ -4,9 +4,22 @@ import Layout from "../components/checkout/Layout";
 import { getCheckoutScripts } from "../assets/js/main";
 import { getCurrentUserData } from "../controllers/account";
 import Head from "next/head";
+import Router from "next/router";
+import EmptyCart from "../components/cart/EmptyCart";
+import {
+  getOrderDetails,
+  initOrderDetails,
+  setOrderDetails,
+} from "../controllers/order";
+
 const Checkout = () => {
   let { URL } = process.env;
   const [cart, setCart] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [currency, setCurrency] = useState("USD");
+  const [grandTotal, setGrandTotal] = useState("0.00");
+  const [paymentMethod, setPaymentMethod] = useState("paypal");
+
   const [shippingMethod, setShippingMethod] = useState({ name: "", amount: 0 });
   const [tax, setTax] = useState(0.0);
   const [screen, setScreen] = useState("");
@@ -19,6 +32,7 @@ const Checkout = () => {
   }
   useEffect(async () => {
     let user = await getCurrentUserData("");
+    delete user.credentials;
     setUserData(user);
   }, []);
 
@@ -31,6 +45,7 @@ const Checkout = () => {
 
   useEffect(() => {
     cartData = JSON.parse(localStorage.getItem("cart"));
+    setLoading(false);
   }, [checkCart]);
 
   useEffect(() => {
@@ -42,7 +57,24 @@ const Checkout = () => {
     getCheckoutScripts($);
   }
   // END LOAD JQUERY JAVASCRIPT ADDITIONAL CODE
+  if (loading == false && cart && cart.length < 1) {
+    return <EmptyCart page="checkout" />;
+  }
 
+  let orderDetails = initOrderDetails();
+  orderDetails.items = cart;
+  orderDetails.user = userData;
+
+  orderDetails.payment.paymentMethod = paymentMethod;
+  orderDetails.payment.currency = currency;
+
+  orderDetails.order.shipping.name = shippingMethod.name;
+  orderDetails.order.shipping.amount = shippingMethod.amount;
+
+  setOrderDetails("orderDetails", orderDetails);
+
+  let od = getOrderDetails("orderDetails");
+  console.log(od);
   return (
     <>
       <Head>
@@ -72,6 +104,12 @@ const Checkout = () => {
         setTax={setTax}
         screen={screen}
         setScreen={setScreen}
+        currency={currency}
+        setCurrency={setCurrency}
+        grandTotal={grandTotal}
+        setGrandTotal={setGrandTotal}
+        paymentMethod={paymentMethod}
+        setPaymentMethod={setPaymentMethod}
       />
     </>
   );

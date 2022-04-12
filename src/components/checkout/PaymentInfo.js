@@ -1,6 +1,6 @@
 import React from "react";
 
-const PaymentInfo = () => {
+const PaymentInfo = (props) => {
   return (
     <fieldset className="wizard-fieldset">
       <h5>Payment Information</h5>
@@ -8,7 +8,7 @@ const PaymentInfo = () => {
         <button
           type="button"
           onClick={(e) => {
-            doPayment(e);
+            doPayment(e, props.currency, props.grandTotal);
           }}
         >
           <img
@@ -134,13 +134,13 @@ const PaymentInfo = () => {
 
 export default PaymentInfo;
 
-const doPayment = async (e) => {
+const doPayment = async (e, currency, grandTotal) => {
   let { URL } = process.env;
-  let orderData = "heloooooooooo";
   e.preventDefault();
+  let paymentData = { currency: currency, grandTotal: grandTotal };
   const response = await fetch(URL + "/api/payment/create-order", {
     method: "POST",
-    body: JSON.stringify(orderData),
+    body: JSON.stringify(paymentData),
   });
   const data = await response.json();
   window.location.href = data.links[1].href;

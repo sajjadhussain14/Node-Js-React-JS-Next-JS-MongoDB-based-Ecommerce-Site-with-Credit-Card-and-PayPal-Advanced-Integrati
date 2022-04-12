@@ -1,4 +1,5 @@
 const fsp = require("fs").promises;
+const md5 = require("md5");
 
 export default async function handler(req, res) {
   let data = req.body;
@@ -7,7 +8,7 @@ export default async function handler(req, res) {
     id: data.ID,
     credentials: {
       email: data.email,
-      password: data.password,
+      password: md5(data.password),
     },
     billing: {
       first_name: data.fname,

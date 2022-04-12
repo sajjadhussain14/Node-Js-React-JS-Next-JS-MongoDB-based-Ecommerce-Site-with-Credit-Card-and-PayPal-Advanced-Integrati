@@ -29,6 +29,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/checkout.js"
+    ],
+    "/thank-you": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/thank-you.js"
     ]
   },
   "ampFirstPages": []

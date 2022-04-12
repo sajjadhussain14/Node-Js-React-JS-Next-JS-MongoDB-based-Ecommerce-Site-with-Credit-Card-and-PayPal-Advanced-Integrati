@@ -1,5 +1,5 @@
 import React from "react";
-import { UpdateCartQTY } from "../../controllers/cart";
+import { removeItem, UpdateCartQTY } from "../../controllers/cart";
 
 const Cart = (props) => {
   let cart = [];
@@ -9,7 +9,6 @@ const Cart = (props) => {
   }
   let { URL } = process.env;
   let total = 0;
-
   return (
     <>
       {cart && cart.length > 0
@@ -91,6 +90,9 @@ const Cart = (props) => {
                         <img
                           className="mr-1"
                           src={URL + "/images/trash-2.svg"}
+                          onClick={() => {
+                            removeItem(product.id, props.setCart);
+                          }}
                         />
                         <span>remove</span>
                       </div>

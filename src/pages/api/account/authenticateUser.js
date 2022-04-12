@@ -1,4 +1,5 @@
 const fsp = require("fs").promises;
+const md5 = require("md5");
 
 export default async function handler(req, res) {
   let data = req.body;
@@ -11,7 +12,7 @@ export default async function handler(req, res) {
   let record = usersData.filter(
     (person) =>
       person.credentials.email == login_email &&
-      person.credentials.password == login_password
+      person.credentials.password == md5(login_password)
   );
 
   console.log("record", record);

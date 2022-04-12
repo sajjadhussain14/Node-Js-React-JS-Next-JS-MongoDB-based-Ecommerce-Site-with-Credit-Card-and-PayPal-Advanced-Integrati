@@ -61,7 +61,10 @@ const Layout = (props) => {
                       setUserData={props.setUserData}
                     />
 
-                    <PaymentInfo />
+                    <PaymentInfo
+                      currency={props.currency}
+                      grandTotal={props.grandTotal}
+                    />
                   </form>
                 </div>
               </section>
@@ -96,6 +99,7 @@ const Layout = (props) => {
                           setShippingMethod={props.setShippingMethod}
                           tax={props.tax}
                           setTax={props.setTax}
+                          setGrandTotal={props.setGrandTotal}
                         />
                       </div>
                     </div>

@@ -60,7 +60,7 @@ const Cart = () => {
   if (!cart || cart.length < 1) {
     return (
       <>
-        <EmptyCart cart={cart} />
+        <EmptyCart cart={cart} page="cart" />
       </>
     );
   }
