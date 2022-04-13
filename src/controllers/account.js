@@ -261,3 +261,15 @@ export const logOut = () => {
     Router.push(URL + "/login");
   }
 };
+
+export const getCurrentUserID = async () => {
+  let userID = "";
+  if (typeof window != "undefined") {
+    try {
+      userID = localStorage.getItem("currentAliveUser");
+    } catch (err) {
+      console.log(err);
+    }
+  }
+  return userID;
+};

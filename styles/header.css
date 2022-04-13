@@ -23,6 +23,7 @@ section#contentHolder h1:after{content:"";display:inline-block;width: 13vw;borde
 #loginModal * button.btn.btn-secondary{width: 100%;max-width:300px;height: 40px;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #545D63;border-radius: 28px;opacity: 1;color: #545D63;font-size: 14px;line-height: 16px;font-weight: bold;margin-right: 00px;margin: 0 auto; font-family: "Mulish";}
 #loginModal * button.btn.btn-success{width: 100%;max-width:300px;height: 40px;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #545D63;border-radius: 28px;opacity: 1;color: #545D63;font-size: 14px;line-height: 16px;font-weight: bold;margin-right: 00px;margin: 0 auto; font-family: "Mulish";}
 
+
 div#loginPageContainer h1 {
     font-family: 'Source Serif Pro', serif;
     margin-top: 20px;
@@ -34,7 +35,8 @@ div#loginPageContainer h1 {
 div#loginPageContainer h1::before, div#loginPageContainer h1::after {display: none !important; }
 
 div#loginPageContainer .loginPage  {
-    max-width: 482px;
+    max-width: 320px;
+    padding: 0;
 }
 
 div#loginPageContainer .loginPage .btn-dark.mybtn {
@@ -665,6 +667,8 @@ header .navbar-dark .navbar-nav .dropdown-menu a {
         text-decoration: none;
         display: block;
     }
+
+    #loginModal .modal-dialog {display: block;}
 }
 
 @media (max-width: 767px) {
@@ -676,6 +680,9 @@ header .navbar-dark .navbar-nav .dropdown-menu a {
     #middle {
         margin-bottom: 0px;
     }
+
+   
+ 
 }
 
 @media (max-width:767px) {

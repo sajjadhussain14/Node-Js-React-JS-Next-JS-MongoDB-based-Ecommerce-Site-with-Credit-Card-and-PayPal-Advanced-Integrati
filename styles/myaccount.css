@@ -1,10 +1,10 @@
-#myAccountPage{max-width: 1310px;margin-top: 85px;margin-bottom: 27px;}
+#myAccountPage{max-width: 1310px;margin-top: 35px;margin-bottom: 27px;}
 #myAccountPage .nav{flex-wrap: unset;border-bottom: 0px;}
 #myAccountPage .fancyTab{border-bottom:1px solid #D1D3D6;}
 #myAccountPage .fancyTab.active{border:1px solid #D1D3D6;border-bottom: 0px;}
 #myAccountPage .fancyTab a{text-decoration: none; position: relative; display: inline-block; text-align: center; width: 100%;}
 #myAccountPage .fancyTab a .fa{display: inline-block;}
-#myAccountPage .fancyTab a span{color:#1B252C;font-size: 22px;line-height: 24px;text-transform: capitalize;text-align: center; padding: 15px 0 15px 10px; text-decoration: none;font-weight: 600;}
+#myAccountPage .fancyTab a span{color:#1B252C;font-size: 22px;line-height: 24px;text-transform: capitalize;text-align: center; padding: 15px 0 15px 5px; text-decoration: none;font-weight: 600;}
 #myAccountPage div#myTabContent{background: #FFFFFF 0% 0% no-repeat padding-box;border: 1px solid #D1D3D6;padding:42px 37px;opacity: 1;border-top:0px;}
 #myAccountPage div#myTabContent #tabBody0 .welcome{font-size: 36px;line-height: 45px;color:#181C24;font-weight: 600;margin-bottom: 16px;}
 #myAccountPage div#myTabContent #tabBody0 p{font-size: 16px;line-height: 21px;color: #181C24;margin-bottom: 23px;}

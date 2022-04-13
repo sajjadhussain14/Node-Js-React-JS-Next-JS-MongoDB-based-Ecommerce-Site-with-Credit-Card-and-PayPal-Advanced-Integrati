@@ -63,6 +63,7 @@ const Checkout = () => {
 
   let orderDetails = initOrderDetails();
   orderDetails.items = cart;
+  orderDetails.UserID = userData.id;
   orderDetails.user = userData;
 
   orderDetails.payment.paymentMethod = paymentMethod;

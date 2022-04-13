@@ -5,7 +5,6 @@ const OrdersTabContent = (props) => {
   {
     props.currentTab && props.currentTab == "shipping" ? "aaa" : "bbb";
   }
-
   return (
     <div
       className="tab-pane  fade"

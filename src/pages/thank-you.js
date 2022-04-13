@@ -1,14 +1,39 @@
 import React, { useEffect, useState } from "react";
+import Router from "next/router";
 import { getOrderDetails } from "../controllers/order";
 
 const thankYou = () => {
   const [loading, setLoading] = useState(true);
   let orderDetails = {};
 
-  useEffect(() => {
-    orderDetails = getOrderDetails("orderDetails");
-  }, []);
-  console.log("orderDetails", orderDetails);
+  orderDetails = getOrderDetails("orderDetails");
+
+  if (typeof window != "undefined") {
+    if (!orderDetails.orderNumber || orderDetails.orderNumber == "") {
+      Router.push("/");
+      return "";
+    }
+  }
+  let email = "";
+  let total = "";
+  let paymentMethod = "";
+  let items = [];
+  let billing = {};
+  let shipping = {};
+
+  try {
+    email = orderDetails.user.billing.email;
+  } catch (err) {}
+
+  try {
+    total = orderDetails.order.total;
+  } catch (err) {}
+
+  try {
+    total = orderDetails.order.total;
+  } catch (err) {}
+
+  console.log(orderDetails);
   return (
     <>
       <section>
@@ -21,19 +46,21 @@ const thankYou = () => {
             <div class="col">
               <p class="text-uppercase">
                 order number:
-                <strong class="d-block mt-1">11</strong>
+                <strong class="d-block mt-1">{orderDetails.orderNumber}</strong>
               </p>
             </div>
             <div class="col">
               <p class="text-uppercase">
                 Date:
-                <strong class="d-block mt-1">May 21 , 2020</strong>
+                <strong class="d-block mt-1">
+                  {orderDetails.date_created}
+                </strong>
               </p>
             </div>
             <div class="col">
               <p class="text-uppercase">
                 email:
-                <strong class="d-block mt-1">info@markhendriksen.com</strong>
+                <strong class="d-block mt-1">{email}</strong>
               </p>
             </div>
             <div class="col">

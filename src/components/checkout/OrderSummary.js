@@ -40,11 +40,10 @@ const OrderSummary = (props) => {
   try {
     orderDetails.order.shipping.name = shippingMode;
     orderDetails.order.shipping.amount = shippingCharges;
-    orderDetails.order.total = cartTotal;
-    orderDetails.order.tax = tax;
-    orderDetails.order.subTotal = subTotal;
+    orderDetails.order.total = cartTotal.toString();
+    orderDetails.order.tax = tax.toString();
+    orderDetails.order.subTotal = subTotal.toString();
   } catch (err) {}
-
   setOrderDetails("orderDetails", orderDetails);
 
   return (

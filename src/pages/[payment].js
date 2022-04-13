@@ -1,59 +1,71 @@
 import React, { useEffect, useState, useMemo } from "react";
 import { useRouter } from "next/router";
-import axios from "axios";
-
 import Router from "next/router";
-import { getOrderDetails, setOrderDetails } from "../controllers/order";
+import {
+  captureOrder,
+  getOrderDetails,
+  processOrder,
+  setOrderDetails,
+} from "../controllers/order";
 
-const captureOrder = (props) => {
+const Payments = (props) => {
   const router = useRouter();
+  const { token, PayerID } = router.query;
+
   const [paymentData, setPaymentData] = useState({});
   const [loading, setLoading] = useState(true);
 
-  const { token } = router.query;
+  if (!token && !PayerID) {
+    if (typeof window != "undefined") {
+      Router.push("checkout");
+    }
+  }
 
   useEffect(async () => {
-    const response = await fetch(
-      process.env.URL + "/api/payment/capture-order",
-      {
-        method: "POST",
-        body: JSON.stringify(token),
-      }
-    );
-    const data = await response.json();
-    setPaymentData(data);
-    setLoading(false);
+    captureOrder(token, setPaymentData, setLoading);
   }, [token]);
+
   let orderDetails = {};
   orderDetails = getOrderDetails("orderDetails");
-  let OrderNumber = Array.from(Array(20), () =>
+
+  let orderNumber = Array.from(Array(20), () =>
     Math.floor(Math.random() * 20).toString(20)
   ).join("");
 
   useEffect(() => {
     if (loading == false) {
-      if (paymentData.code == 200) {
-        try {
-          orderDetails.payment.id = paymentData.data.id;
-          orderDetails.payment.payer_id = paymentData.data.payer_id;
-          orderDetails.payment.status = paymentData.data.status;
-        } catch (err) {}
-
-        setOrderDetails("orderDetails", orderDetails);
-
-        if (typeof window != "undefined") {
-          Router.push(process.env.URL + "/thank-you");
-        }
-      } else {
-        if (typeof window != "undefined") {
-          Router.push(process.env.URL + "/error");
-
-          return <div>{paymentData.message}</div>;
-        }
-      }
+      processOrder(paymentData, orderDetails, orderNumber, Router);
     }
   }, [loading]);
-  return <div>ssss</div>;
+
+  return (
+    <>
+      <div class="spinner-grow text-primary" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+      <div class="spinner-grow text-secondary" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+      <div class="spinner-grow text-success" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+      <div class="spinner-grow text-danger" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+      <div class="spinner-grow text-warning" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+      <div class="spinner-grow text-info" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+      <div class="spinner-grow text-light" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+      <div class="spinner-grow text-dark" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+    </>
+  );
 };
 
-export default captureOrder;
+export default Payments;

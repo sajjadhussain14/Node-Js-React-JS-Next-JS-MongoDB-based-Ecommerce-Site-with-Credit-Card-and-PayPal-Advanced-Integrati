@@ -12,7 +12,7 @@
 #cartModal *{font-family:inherit!important;}
 #cartModal * p{margin: 0px;}
 #cartModal .col-lg-12.col-md-12.col-sm-12.cartbtn.justify-content-stretch{display: flex;justify-content: space-between;margin-top: 10px;}
-#cartModal * button.primaryC{width: 100%;max-width:300px;height: 40px;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #545D63;border-radius: 28px;opacity: 1;color: #545D63;font-size: 14px;line-height: 16px;font-weight: bold;margin-right: 00px;margin: 0 auto!important;}
+#cartModal * button.primaryC{width: 100%;max-width:300px;height: 40px;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #545D63;border-radius: 28px;opacity: 1;color: #545D63;font-size: 14px;line-height: 16px;font-weight: bold;margin-right: 0px;margin: 0 auto!important;}
 #cartModal * button.secondaryC{width: 100%;max-width:300px;height: 40px;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #545D63;border-radius: 28px;opacity: 1;color: #545D63;font-size: 14px;line-height: 16px;font-weight: bold;margin-right: 00px;margin: 0 auto!important;}
 #cartModal .modal-body{padding: 10px 15px;margin: 0px;}
 .product-form {
@@ -972,6 +972,13 @@
     border: none;
 }
 
+#owl-prod-featured .owl-carousel .owl-nav {
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+}
+
 #owl-prod-featured .owl-carousel .owl-nav.disabled, #owl-prod-featured .owl-carousel .owl-dots.disabled{
     display: block;
     position: absolute;
@@ -1058,6 +1065,14 @@
         font-size: 0.87rem;
         line-height: 25px;
         margin-top: 20px;
+    }
+
+    #cartModal * button.primaryC {padding: 0px; max-width: 48%;}
+    #cartModal * button.secondaryC {padding: 0px; max-width: 48%; padding: 2px 0 2px 0;}
+    #cartModal .col-lg-12.col-md-12.col-sm-12.cartbtn.justify-content-stretch {padding: 0;}
+
+    #owl-prod-featured .owl-carousel .owl-nav {
+        top: 30%;
     }
 }
 
@@ -1367,19 +1382,6 @@
 
     #productcontent * .owl-nav .owl-prev {
         font-size: 3.12rem;
-    }
-}
-
-@media (max-width:480px) {
-
-    #productcontent * .owl-nav .owl-next {
-        font-size: 1.87rem;
-        right: -8px;
-    }
-
-    #productcontent * .owl-nav .owl-prev {
-        font-size: 1.87rem;
-        left: -8px;
     }
 }
 

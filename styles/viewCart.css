@@ -38,7 +38,7 @@
 
     @media(max-width:767px) {
         #cart .cart {
-            padding: 4vh;
+            padding: 0;
             border-bottom-left-radius: unset;
             border-top-right-radius: 1rem
         }

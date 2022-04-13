@@ -383,7 +383,7 @@
 }
 
 #index #textvideo .video p {
-padding: 18.7%;
+padding: 15%;
 }
 
 #index #textvideo .video p span {
@@ -883,5 +883,11 @@ padding: 18.7%;
         font-size: 1.37rem;
         margin-top: 10px;
 
+    }
+}
+
+@media(max-width:1280px) {
+    #indexSlider .carousel-item h2 {
+        padding-left: 20px;
     }
 }
