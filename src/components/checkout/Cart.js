@@ -43,7 +43,7 @@ const Cart = (props) => {
                             <span
                               className="fas fa-plus"
                               onClick={(e) => {
-                                UpdateCartQTY(
+                                updateQTY(
                                   e,
                                   "increment",
                                   product.id,
@@ -58,12 +58,7 @@ const Cart = (props) => {
                               type="text"
                               id={"qtyBox" + product.id}
                               onChange={(e) => {
-                                UpdateCartQTY(
-                                  e,
-                                  "none",
-                                  product.id,
-                                  props.setCart
-                                );
+                                updateQTY(e, "none", product.id, props.setCart);
                               }}
                             />
                           </div>
@@ -71,7 +66,7 @@ const Cart = (props) => {
                             <span
                               className="fas fa-minus"
                               onClick={(e) => {
-                                UpdateCartQTY(
+                                updateQTY(
                                   e,
                                   "decrement",
                                   product.id,
@@ -108,3 +103,34 @@ const Cart = (props) => {
 };
 
 export default Cart;
+
+const updateQTY = (e, action, id, setCart) => {
+  let cartQty = 0;
+  try {
+    cartQty = document.getElementById("qtyBox" + id).value;
+  } catch (err) {}
+
+  if (cartQty.match(/[a-z]/i)) {
+    alert("Please Enter a Valid Number");
+    document.getElementById("qtyBox" + id).value = 1;
+    return;
+  }
+
+  if (action == "increment") {
+    cartQty = parseInt(cartQty) + 1;
+    document.getElementById("qtyBox" + id).value = cartQty;
+  } else if (action == "decrement") {
+    cartQty = parseInt(cartQty) - 1;
+    if (cartQty < 1) {
+      cartQty = 1;
+    }
+    document.getElementById("qtyBox" + id).value = cartQty;
+  } else {
+    if (cartQty < 1) {
+      cartQty = 1;
+    }
+    document.getElementById("qtyBox" + id).value = cartQty;
+  }
+
+  UpdateCartQTY(e, id, setCart, cartQty);
+};

@@ -25,6 +25,7 @@ import {
   SortProducts,
 } from "../../../controllers/category";
 import Footer from "../../../components/footer/Footer";
+import Header from "../../../components/header/Header";
 
 const Category = (props) => {
   const router = useRouter();
@@ -253,6 +254,11 @@ const Category = (props) => {
   try {
     keywords = urlTaxonomy.KEYWORDS;
   } catch (err) {}
+  let cartValue = [];
+
+  if (typeof window != "undefined") {
+    cartValue = JSON.parse(localStorage.getItem("cart"));
+  }
 
   // START DISPLAY CATEGORY PAGE LAYOUT
   return (
@@ -264,7 +270,6 @@ const Category = (props) => {
         <meta name="keywords" content={keywords} />
         <meta name="robots" content="index, follow" />
       </Head>
-      ;
       <div className={`overlay ${loading == true ? "" : " d-none"}`}>
         <div className="loading">
           <div className="spinner-grow text-danger" role="status">
@@ -278,6 +283,7 @@ const Category = (props) => {
           </div>
         </div>
       </div>
+      <Header taxonomy={props.taxonomy} cartData={cartValue} />
       <Layout
         products={products}
         currentProducts={temProducts}

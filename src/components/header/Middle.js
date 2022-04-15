@@ -73,8 +73,18 @@ const Middle = (props) => {
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12 col-12 search">
               <form role="search" action="" method="post" name="myForm">
-                <input name="Search" placeholder="Search " type="text" />
-                <button type="submit">
+                <input
+                  name="Search"
+                  placeholder="Search "
+                  id="searchTxt"
+                  type="text"
+                />
+                <button
+                  type="button"
+                  onClick={() => {
+                    searchIt();
+                  }}
+                >
                   <img src={URL + "/images/header_search_icon.png"} />
                 </button>
               </form>
@@ -107,13 +117,13 @@ const Middle = (props) => {
               ) : (
                 ""
               )}
-                <Link href="javascript:void(0)">
+              <Link href="javascript:void(0)">
                 <a id="header-cart" className="cartDisp">
                   <img src={URL + "/images/icon-cart.png"} />
                   cart
                   <span id="header-cartQTY">{cartLen}</span>
                 </a>
-                </Link>
+              </Link>
             </div>
           </div>
         </div>
@@ -123,3 +133,12 @@ const Middle = (props) => {
 };
 
 export default Middle;
+
+const searchIt = () => {
+  let searchValue = document.getElementById("searchTxt").value;
+  if (!searchValue || searchValue == "") {
+    alert("Please write something to search");
+  } else {
+    Router.push("/browse/search/" + searchValue);
+  }
+};

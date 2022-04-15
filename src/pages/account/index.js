@@ -4,8 +4,9 @@ import $ from "jquery";
 import { getUserWishLists } from "../../controllers/wishlist";
 import { getAccountcripts } from "../../assets/js/main";
 import Layout from "../../components/account/Layout";
+import Header from "../../components/header/Header";
 
-const Account = ({ data }) => {
+const Account = (props) => {
   const [userData, setUserData] = useState([]);
   const [currentTab, setCurrentTab] = useState("home");
 
@@ -44,6 +45,11 @@ const Account = ({ data }) => {
     setWishListItems(currentListItems);
   }, [listName, userLists]);
 
+  let cartValue = [];
+  if (typeof window != "undefined") {
+    cartValue = JSON.parse(localStorage.getItem("cart"));
+  }
+
   return (
     <>
       <Head>
@@ -61,7 +67,7 @@ const Account = ({ data }) => {
           content="ecommerce, modern, SEO friendly, cumulus"
         />
       </Head>
-
+      <Header taxonomy={props.taxonomy} cartData={cartValue} />
       <Layout
         userData={userData}
         setUserData={setUserData}

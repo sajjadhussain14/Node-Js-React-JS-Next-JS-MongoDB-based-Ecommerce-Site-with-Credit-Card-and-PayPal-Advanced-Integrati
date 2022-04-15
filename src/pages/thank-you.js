@@ -4,8 +4,9 @@ import { setOrderDetails, getOrderDetails } from "../controllers/order";
 import { setCartContent } from "../controllers/cart";
 import TopPaypal from "../components/thankYou/topPaypal";
 import TopCreditCard from "../components/thankYou/topCreditCard";
+import Header from "../components/header/Header";
 
-const thankYou = () => {
+const thankYou = (props) => {
   let orderdata = {};
   let order = {};
 
@@ -16,25 +17,35 @@ const thankYou = () => {
     setOrderDetails("orderDetails", {});
     setCartContent("cart", []);
   }, 2000);
+  let cartValue = [];
+  if (typeof window != "undefined") {
+    cartValue = JSON.parse(localStorage.getItem("cart"));
+  }
 
   if (typeof window != "undefined") {
     if (!order.orderNumber || order.orderNumber == "") {
       return (
-        <section className="thankYou">
-          <div className="container">
-            <div className="row">
-              <div className="col-12">
-                <h3 className="text-center ">No data Avaiable</h3>
-              </div>{" "}
-            </div>
-          </div>{" "}
-        </section>
+        <>
+          <Header taxonomy={props.taxonomy} cartData={cartValue} />
+
+          <section className="thankYou">
+            <div className="container">
+              <div className="row">
+                <div className="col-12">
+                  <h3 className="text-center ">No data Avaiable</h3>
+                </div>{" "}
+              </div>
+            </div>{" "}
+          </section>
+        </>
       );
     }
   }
 
   return (
     <>
+      <Header taxonomy={props.taxonomy} cartData={cartValue} />
+
       {order && Object.keys(order).length != 0 ? (
         <section className="thankYou">
           <div className="container">

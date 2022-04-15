@@ -63,7 +63,9 @@ const DropCart = (props) => {
                       </h4>
                       <span className="price">Price: {product.itemPrice}</span>
                       <span className="price">QTY: {product.qty}</span>
-                      <span className="price">Total: ${product.total}</span>
+                      <span className="price">
+                        Total: ${product.total.toFixed(2)}
+                      </span>
 
                       <p>
                         <div
@@ -128,7 +130,9 @@ const DropCart = (props) => {
             <div className="subtotal">
               <p>
                 Subtotal:{" "}
-                <span className="amount float-right">${subtotal}</span>
+                <span className="amount float-right">
+                  ${subtotal.toFixed(2)}
+                </span>
               </p>
             </div>
             <div className="action-btn">

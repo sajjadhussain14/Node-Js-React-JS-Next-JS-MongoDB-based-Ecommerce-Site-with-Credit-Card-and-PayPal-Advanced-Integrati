@@ -64,8 +64,6 @@ function MyApp({ Component, pageProps, taxonomy }) {
         media="all"
       />
 
-      <Header taxonomy={taxonomy} cartData={cartData} />
-
       <Provider store={store}>
         <motion.div
           key={router.route}

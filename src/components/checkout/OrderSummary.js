@@ -52,6 +52,11 @@ const OrderSummary = (props) => {
     } catch (err) {}
     try {
       orderDetails.order.tax = tax;
+      orderDetails.order.taxDetail = {
+        name: "tax",
+        amount: tax,
+        description: "tax",
+      };
     } catch (err) {}
     try {
       orderDetails.order.subTotal = subTotal;

@@ -15,25 +15,30 @@ import RelatedProducts from "../../components/product/RelatedProducts";
 import CartPopUP from "../../components/cart/CartPopUP";
 import WishListPopUp from "../../components/product/WishListPopUp";
 import { getUserWishLists } from "../../controllers/wishlist";
+import Header from "../../components/header/Header";
 
 const Product = (props) => {
   const [cart, setCart] = useState([]);
   const [fakeState, setFakeState] = useState("");
   const [userLists, setUserLists] = useState([]);
-
   const dispatch = useDispatch();
   const router = useRouter();
   const { slug } = router.query;
   if (!slug || slug.length < 1) {
     return "Invalid product ID or URL";
   }
+
+  let cartValue = [];
+  if (typeof window != "undefined") {
+    cartValue = JSON.parse(localStorage.getItem("cart"));
+  }
+
   let getProducts = [];
   let { product, rProducts } = props.data;
 
   let taxanomy = props.taxonomy;
   getProducts = { ...product };
   let breadCrumsContent = getBreadCrumbs(taxanomy, product);
-
   // START DISPLAY META DATA
   <Head>
     <title>{getProducts.name}</title>
@@ -82,6 +87,7 @@ const Product = (props) => {
         <meta name="keywords" content={keywords} />
         <meta name="robots" content="index, follow" />
       </Head>
+      <Header taxonomy={props.taxonomy} cartData={cartValue} />
 
       <section id="contentHolder">
         <div id="productcontent" className="bagecolorbg">

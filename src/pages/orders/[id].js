@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 import { getOrdersByID } from "../../controllers/order";
+import Header from "../../components/header/Header";
 
-const orderbyID = () => {
+const orderbyID = (props) => {
   const router = useRouter();
   const { id } = router.query;
 
@@ -35,9 +36,13 @@ const orderbyID = () => {
       </div>
     );
   }
-
+  let cartValue = [];
+  if (typeof window != "undefined") {
+    cartValue = JSON.parse(localStorage.getItem("cart"));
+  }
   return (
     <>
+      <Header taxonomy={props.taxonomy} cartData={cartValue} />;
       {order && Object.keys(order).length != 0 ? (
         <section className="thankYou">
           <div className="container">

@@ -67,3 +67,16 @@ export const processOrder = async (
     }
   }
 };
+
+export const processPaymentPaypal = async (e, currency, grandTotal) => {
+  let { URL } = process.env;
+  e.preventDefault();
+
+  let paymentData = { currency: currency, grandTotal: grandTotal };
+  const response = await fetch(URL + "/api/payment/paypal/create-order", {
+    method: "POST",
+    body: JSON.stringify(paymentData),
+  });
+  const data = await response.json();
+  window.location.href = data.links[1].href;
+};

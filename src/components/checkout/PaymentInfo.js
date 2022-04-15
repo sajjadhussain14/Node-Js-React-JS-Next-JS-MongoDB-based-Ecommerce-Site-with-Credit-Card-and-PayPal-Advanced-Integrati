@@ -1,11 +1,8 @@
 import React from "react";
 import Router from "next/router";
 
-import {
-  getOrderDetails,
-  initOrderDetails,
-  setOrderDetails,
-} from "../../controllers/order";
+import { processPaymentPaypal } from "../../controllers/paypal";
+import { paymentAuthorize } from "../../controllers/authorize.net";
 
 const PaymentInfo = (props) => {
   return (
@@ -38,7 +35,8 @@ const PaymentInfo = (props) => {
         <input
           type="text"
           className="form-control wizard-required"
-          id="honame"
+          id="cardHolder"
+          name="cardHolder"
         />
         <div className="wizard-form-error"></div>
       </div>
@@ -49,7 +47,8 @@ const PaymentInfo = (props) => {
             <input
               type="text"
               className="form-control wizard-required"
-              id="cardname"
+              id="cardNumber"
+              name="cardNumber"
             />
             <div className="wizard-form-error"></div>
           </div>
@@ -61,49 +60,53 @@ const PaymentInfo = (props) => {
         </div>
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div className="form-group">
-            <select className="form-control">
+            <select
+              className="form-control"
+              id="expiryMonth"
+              name="expiryMonth"
+            >
               <option value="">Month</option>
-              <option value="">jan</option>
-              <option value="">Feb</option>
-              <option value="">March</option>
-              <option value="">April</option>
-              <option value="">May</option>
-              <option value="">June</option>
-              <option value="">Jully</option>
-              <option value="">August</option>
-              <option value="">Sept</option>
-              <option value="">Oct</option>
-              <option value="">Nov</option>
-              <option value="">Dec</option>
+              <option value="1">jan</option>
+              <option value="2">Feb</option>
+              <option value="3">March</option>
+              <option value="4">April</option>
+              <option value="5">May</option>
+              <option value="6">June</option>
+              <option value="7">Jully</option>
+              <option value="8">August</option>
+              <option value="9">Sept</option>
+              <option value="10">Oct</option>
+              <option value="11">Nov</option>
+              <option value="12">Dec</option>
             </select>
           </div>
         </div>
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div className="form-group">
-            <select className="form-control">
-              <option value="">Years</option>
-              <option value="">2019</option>
-              <option value="">2020</option>
-              <option value="">2021</option>
-              <option value="">2022</option>
-              <option value="">2023</option>
-              <option value="">2024</option>
-              <option value="">2025</option>
-              <option value="">2026</option>
-              <option value="">2027</option>
-              <option value="">2028</option>
-              <option value="">2029</option>
-              <option value="">2030</option>
-              <option value="">2031</option>
-              <option value="">2032</option>
-              <option value="">2033</option>
-              <option value="">2034</option>
-              <option value="">2035</option>
-              <option value="">2036</option>
-              <option value="">2037</option>
-              <option value="">2038</option>
-              <option value="">2039</option>
-              <option value="">2040</option>
+            <select className="form-control" name="expiryYear" id="expiryYear">
+              <option value="00">Years</option>
+              <option value="2019">2019</option>
+              <option value="2020">2020</option>
+              <option value="2021">2021</option>
+              <option value="2022">2022</option>
+              <option value="2023">2023</option>
+              <option value="2024">2024</option>
+              <option value="2025">2025</option>
+              <option value="2026">2026</option>
+              <option value="2027">2027</option>
+              <option value="2028">2028</option>
+              <option value="2029">2029</option>
+              <option value="2030">2030</option>
+              <option value="2031">2031</option>
+              <option value="2032">2032</option>
+              <option value="2033">2033</option>
+              <option value="2034">2034</option>
+              <option value="2035">2035</option>
+              <option value="2036">2036</option>
+              <option value="2037">2037</option>
+              <option value="2038">2038</option>
+              <option value="2039">2039</option>
+              <option value="2040">2040</option>
             </select>
           </div>
         </div>
@@ -128,7 +131,7 @@ const PaymentInfo = (props) => {
             value="Submit Your Order"
             className="text-light bg-dark"
             onClick={(e) => {
-              processPaymentAuthorize(e, props.currency, props.grandTotal);
+              paymentAuthorize(e, props.setCart);
             }}
           />
         </div>
@@ -143,71 +146,3 @@ const PaymentInfo = (props) => {
 };
 
 export default PaymentInfo;
-
-const processPaymentPaypal = async (e, currency, grandTotal) => {
-  let { URL } = process.env;
-  e.preventDefault();
-  let paymentData = { currency: currency, grandTotal: grandTotal };
-  const response = await fetch(URL + "/api/payment/paypal/create-order", {
-    method: "POST",
-    body: JSON.stringify(paymentData),
-  });
-  const data = await response.json();
-  window.location.href = data.links[1].href;
-};
-
-const processPaymentAuthorize = async (e, currency, grandTotal) => {
-  let { URL } = process.env;
-  e.preventDefault();
-  let paymentData = { currency: currency, grandTotal: grandTotal };
-  const response = await fetch(
-    URL + "/api/payment/authorize.net/create-order",
-    {
-      method: "POST",
-      body: JSON.stringify(paymentData),
-    }
-  );
-  const data = await response.json();
-  let orderDetails = {};
-  orderDetails = initOrderDetails();
-  let tCode = "";
-  console.log("ttttt", data);
-
-  try {
-    tCode = data.messages.resultCode.toLowerCase();
-  } catch (err) {}
-  if (tCode == "ok") {
-    let orderNumber = Array.from(Array(20), () =>
-      Math.floor(Math.random() * 20).toString(20)
-    ).join("");
-    const dateTime = new Date();
-
-    let orderDetails = getOrderDetails("orderDetails");
-    console.log("data", data);
-    orderDetails.orderNumber = orderNumber;
-    orderDetails.payment.id = data.transactionResponse.transId;
-    orderDetails.date_created = dateTime;
-    orderDetails.payment.paymentMethod = "Credit Card";
-    orderDetails.payment.status = "transaction approved";
-    orderDetails.accountNumber = data.transactionResponse.accountNumber;
-    orderDetails.accountType = data.transactionResponse.accountType;
-    orderDetails.networkTransId = data.transactionResponse.networkTransId;
-    orderDetails.transId = data.transactionResponse.transId;
-    setOrderDetails("orderDetails", orderDetails);
-
-    setTimeout(() => {
-      Router.push("/thank-you");
-    }, 0);
-  } else {
-    try {
-      orderDetails.error = data.transactionResponse.errors.error[0].errorText;
-    } catch (err) {
-      orderDetails.error = "Something Went Wrong! Please Try Again.";
-    }
-    setOrderDetails("orderDetails", orderDetails);
-
-    setTimeout(() => {
-      Router.push("/error");
-    }, 0);
-  }
-};

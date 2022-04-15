@@ -1,7 +1,12 @@
 import Head from "next/head";
+import Header from "../components/header/Header";
 import Layout from "../components/home/Layout";
 
-export default function Home() {
+export default function Home(props) {
+  let cartValue = [];
+  if (typeof window != "undefined") {
+    cartValue = JSON.parse(localStorage.getItem("cart"));
+  }
   return (
     <>
       <Head>
@@ -18,6 +23,7 @@ export default function Home() {
         <meta name="robots" content="index, follow" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <Header taxonomy={props.taxonomy} cartData={cartValue} />
 
       <Layout />
     </>

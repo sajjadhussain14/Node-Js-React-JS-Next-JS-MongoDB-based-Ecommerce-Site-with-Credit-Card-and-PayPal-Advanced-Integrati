@@ -1,0 +1,1 @@
+{"c":["webpack"],"r":["pages/thank-you"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fthank-you&absolutePagePath=D%3A%5Cmodern%5Csrc%5Cpages%5Cthank-you.js!","./src/components/thankYou/topCreditCard.js","./src/components/thankYou/topPaypal.js","./src/pages/thank-you.js"]}

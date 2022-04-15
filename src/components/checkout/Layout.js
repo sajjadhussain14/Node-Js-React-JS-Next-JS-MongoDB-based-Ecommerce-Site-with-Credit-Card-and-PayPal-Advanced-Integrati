@@ -62,6 +62,7 @@ const Layout = (props) => {
                     />
 
                     <PaymentInfo
+                      setCart={props.setCart}
                       currency={props.currency}
                       grandTotal={props.grandTotal}
                     />

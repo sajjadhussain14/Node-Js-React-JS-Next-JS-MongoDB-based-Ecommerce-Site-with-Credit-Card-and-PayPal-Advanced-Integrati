@@ -59,12 +59,7 @@ const CartContent = (props) => {
                     <button
                       className="minus"
                       onClick={(e) => {
-                        UpdateCartQTY(
-                          e,
-                          "decrement",
-                          product.id,
-                          props.setCart
-                        );
+                        updateQTY(e, "decrement", product.id, props.setCart);
                       }}
                     >
                       <i className="fa fa-minus"></i>
@@ -77,18 +72,13 @@ const CartContent = (props) => {
                       id={"qtyBox" + product.id}
                       name="qty"
                       onChange={(e) => {
-                        UpdateCartQTY(e, "none", product.id, props.setCart);
+                        updateQTY(e, "none", product.id, props.setCart);
                       }}
                     />
                     <button
                       className="plus"
                       onClick={(e) => {
-                        UpdateCartQTY(
-                          e,
-                          "increment",
-                          product.id,
-                          props.setCart
-                        );
+                        updateQTY(e, "increment", product.id, props.setCart);
                       }}
                     >
                       <i className="fa fa-plus"></i>
@@ -124,3 +114,33 @@ const CartContent = (props) => {
 };
 
 export default CartContent;
+const updateQTY = (e, action, id, setCart) => {
+  let cartQty = 0;
+  try {
+    cartQty = document.getElementById("qtyBox" + id).value;
+  } catch (err) {}
+
+  if (cartQty.match(/[a-z]/i)) {
+    alert("Please Enter a Valid Number");
+    document.getElementById("qtyBox" + id).value = 1;
+    return;
+  }
+
+  if (action == "increment") {
+    cartQty = parseInt(cartQty) + 1;
+    document.getElementById("qtyBox" + id).value = cartQty;
+  } else if (action == "decrement") {
+    cartQty = parseInt(cartQty) - 1;
+    if (cartQty < 1) {
+      cartQty = 1;
+    }
+    document.getElementById("qtyBox" + id).value = cartQty;
+  } else {
+    if (cartQty < 1) {
+      cartQty = 1;
+    }
+    document.getElementById("qtyBox" + id).value = cartQty;
+  }
+
+  UpdateCartQTY(e, id, setCart, cartQty);
+};

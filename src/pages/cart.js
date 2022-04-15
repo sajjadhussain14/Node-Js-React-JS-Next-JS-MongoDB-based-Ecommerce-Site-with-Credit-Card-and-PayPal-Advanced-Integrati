@@ -2,12 +2,17 @@ import React, { useState, useEffect } from "react";
 import Head from "next/head";
 import EmptyCart from "../components/cart/EmptyCart";
 import Layout from "../components/cart/Layout";
+import Header from "../components/header/Header";
 
-const Cart = () => {
+const Cart = (props) => {
   let { URL } = process.env;
 
   const [cart, setCart] = useState([]);
   const [loading, setLoading] = useState(true);
+  let cartValue = [];
+  if (typeof window != "undefined") {
+    cartValue = JSON.parse(localStorage.getItem("cart"));
+  }
 
   let cartData = [];
 
@@ -60,6 +65,8 @@ const Cart = () => {
   if (!cart || cart.length < 1) {
     return (
       <>
+        <Header taxonomy={props.taxonomy} cartData={cartValue} />
+
         <EmptyCart cart={cart} page="cart" />
       </>
     );
@@ -81,7 +88,7 @@ const Cart = () => {
           content="ecommerce, modern, SEO friendly, cumulus"
         />
       </Head>
-
+      <Header taxonomy={props.taxonomy} cartData={cartValue} />
       <Layout cart={cart} setCart={setCart} />
     </>
   );

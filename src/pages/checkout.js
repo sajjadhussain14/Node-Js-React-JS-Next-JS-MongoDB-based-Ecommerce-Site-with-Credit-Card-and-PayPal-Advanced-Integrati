@@ -11,8 +11,9 @@ import {
   initOrderDetails,
   setOrderDetails,
 } from "../controllers/order";
+import Header from "../components/header/Header";
 
-const Checkout = () => {
+const Checkout = (props) => {
   let { URL } = process.env;
   const [cart, setCart] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -56,9 +57,20 @@ const Checkout = () => {
   if (typeof window != "undefined") {
     getCheckoutScripts($);
   }
+
+  let cartValue = [];
+  if (typeof window != "undefined") {
+    cartValue = JSON.parse(localStorage.getItem("cart"));
+  }
+
   // END LOAD JQUERY JAVASCRIPT ADDITIONAL CODE
   if (loading == false && cart && cart.length < 1) {
-    return <EmptyCart page="checkout" />;
+    return (
+      <>
+        <Header taxonomy={props.taxonomy} cartData={cartValue} />
+        <EmptyCart page="checkout" />{" "}
+      </>
+    );
   }
 
   let orderDetails = initOrderDetails();
@@ -75,7 +87,7 @@ const Checkout = () => {
   setOrderDetails("orderDetails", orderDetails);
 
   let od = getOrderDetails("orderDetails");
-  console.log(od);
+
   return (
     <>
       <Head>
@@ -93,7 +105,7 @@ const Checkout = () => {
           content="ecommerce, modern, SEO friendly, cumulus"
         />
       </Head>
-
+      <Header taxonomy={props.taxonomy} cartData={cartValue} />
       <Layout
         userData={userData}
         setUserData={setUserData}

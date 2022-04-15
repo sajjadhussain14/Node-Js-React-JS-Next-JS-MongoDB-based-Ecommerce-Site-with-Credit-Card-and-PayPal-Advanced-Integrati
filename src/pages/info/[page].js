@@ -1,16 +1,21 @@
 import React, { useState, useEffect } from "react";
-import Footer from "../../components/footer/Footer";
 import Header from "../../components/header/Header";
 import { useRouter } from "next/router";
-const Info = ({ data }) => {
-  let { taxanomy } = data;
+const Info = (props) => {
+  let { taxanomy } = prpps.data;
   const router = useRouter();
   let { page } = router.query;
 
   page = page.replace(/#|-/g, " ");
 
+  let cartValue = [];
+  if (typeof window != "undefined") {
+    cartValue = JSON.parse(localStorage.getItem("cart"));
+  }
+
   return (
     <>
+      <Header taxonomy={props.taxonomy} cartData={cartValue} />;
       <h1>Coming soon page {page}</h1>
     </>
   );

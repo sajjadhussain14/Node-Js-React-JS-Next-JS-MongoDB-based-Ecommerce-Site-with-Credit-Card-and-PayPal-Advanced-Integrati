@@ -49,35 +49,9 @@ export const clearCart = (e, setCart) => {
   setCart([]);
 };
 
-export const UpdateCartQTY = (e, action, id, setCart) => {
+export const UpdateCartQTY = (e, id, setCart, cartQty) => {
   e.preventDefault();
   let cart = [];
-  let cartQty = 0;
-  try {
-    cartQty = document.getElementById("qtyBox" + id).value;
-  } catch (err) {}
-
-  if (cartQty.match(/[a-z]/i)) {
-    alert("Please Enter a Valid Number");
-    document.getElementById("qtyBox" + id).value = 1;
-    return;
-  }
-
-  if (action == "increment") {
-    cartQty = parseInt(cartQty) + 1;
-    document.getElementById("qtyBox" + id).value = cartQty;
-  } else if (action == "decrement") {
-    cartQty = parseInt(cartQty) - 1;
-    if (cartQty < 1) {
-      cartQty = 1;
-    }
-    document.getElementById("qtyBox" + id).value = cartQty;
-  } else {
-    if (cartQty < 1) {
-      cartQty = 1;
-    }
-    document.getElementById("qtyBox" + id).value = cartQty;
-  }
 
   try {
     cart = JSON.parse(localStorage.getItem("cart"));

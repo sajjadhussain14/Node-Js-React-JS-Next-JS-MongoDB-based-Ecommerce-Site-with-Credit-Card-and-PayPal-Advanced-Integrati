@@ -28,7 +28,7 @@ import {
 } from "../../../controllers/category";
 import Footer from "../../../components/footer/Footer";
 
-const Category = ({ data }) => {
+const Category = (props) => {
   const router = useRouter();
   const { slug } = router.query;
 
@@ -71,7 +71,7 @@ const Category = ({ data }) => {
 
   let urlData = [];
   let { products, taxanomy, settingsData, categoryMode, landingCategories } =
-    data;
+    props.data;
   categoryMode = "category";
 
   let temProducts = [];
@@ -181,7 +181,7 @@ const Category = ({ data }) => {
 
   useEffect(() => {
     dispatch(setLandingCategories(landingCategories));
-  }, [data.categoryMode]);
+  }, [props.data.categoryMode]);
 
   let currentproducts = [];
 
@@ -255,6 +255,12 @@ const Category = ({ data }) => {
   } catch (err) {}
 
   // START DISPLAY CATEGORY PAGE LAYOUT
+
+  let cartValue = [];
+  if (typeof window != "undefined") {
+    cartValue = JSON.parse(localStorage.getItem("cart"));
+  }
+
   return (
     <>
       <Head>
@@ -278,7 +284,7 @@ const Category = ({ data }) => {
           </div>
         </div>
       </div>
-      <Header taxonomy={data.taxanomy} />
+      <Header taxonomy={props.taxonomy} cartData={cartValue} />
       <Layout
         products={products}
         currentProducts={temProducts}

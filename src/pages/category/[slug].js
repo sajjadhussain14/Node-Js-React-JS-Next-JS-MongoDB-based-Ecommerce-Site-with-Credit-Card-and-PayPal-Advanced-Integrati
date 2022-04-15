@@ -24,6 +24,7 @@ import {
   setInitAvailable,
   SortProducts,
 } from "../../controllers/category";
+import Header from "../../components/header/Header";
 
 const Category = (props) => {
   const router = useRouter();
@@ -241,6 +242,12 @@ const Category = (props) => {
   } catch (err) {}
 
   // START DISPLAY CATEGORY PAGE LAYOUT
+
+  let cartValue = [];
+  if (typeof window != "undefined") {
+    cartValue = JSON.parse(localStorage.getItem("cart"));
+  }
+
   return (
     <>
       <Head>
@@ -250,7 +257,7 @@ const Category = (props) => {
         <meta name="keywords" content={keywords} />
         <meta name="robots" content="index, follow" />
       </Head>
-
+      <Header taxonomy={props.taxonomy} cartData={cartValue} />;
       <Layout
         products={products}
         currentProducts={temProducts}
