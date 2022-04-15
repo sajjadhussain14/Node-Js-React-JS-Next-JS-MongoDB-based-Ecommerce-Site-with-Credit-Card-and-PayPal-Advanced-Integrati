@@ -103,6 +103,15 @@
     margin: 0 2.5px;
 }
 
+#indexSlider .carousel-indicators button {
+    width: 14.13px;
+    height: 14.13px;
+    border: 2px solid #fff;
+    background-color: transparent;
+    border-radius: 10px;
+    margin: 0 2.5px;
+}
+
 #indexSlider .main-banner p {
     position: absolute;
     top: 50%;
@@ -158,6 +167,10 @@
     height: 44px;
     line-height: 44px;
     background: linear-gradient(180deg, #ea0000, #bc0000);
+}
+
+#indexSlider .carousel-indicators button.active {
+    background-color: #fff;
 }
 
 #indexSlider .carousel-indicators li.active {

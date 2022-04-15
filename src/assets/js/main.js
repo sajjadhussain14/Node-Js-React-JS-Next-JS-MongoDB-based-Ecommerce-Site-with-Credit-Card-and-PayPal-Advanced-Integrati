@@ -153,6 +153,7 @@ export const getCheckoutScripts = ($) => {
     $(this).parent().nextAll().removeClass("checked");
   });
 
+  
   $("#wizard-t-0").on("click", function () {
     $(".form-wizard .wizard-fieldset:nth-of-type(1)").addClass("show");
     $(".form-wizard .wizard-fieldset:nth-of-type(2)").removeClass("show");
@@ -307,6 +308,17 @@ export const getHeaderScripts = ($) => {
   $(".edtCart").on("click", function () {
     $("div#cartDrpDown").parent().removeClass("hoverToggle");
   });
+
+  $("header .navbar-dark .navbar-nav .nav-item a.nav-link").on("click", function () {
+    $(this).next().removeClass("show"); 
+    $(this).parent().parent().parent().removeClass("show"); 
+  });
+
+  $("header .navbar-dark .navbar-nav .dropdown-menu a.title").on("click", function () {
+    $(this).parent().parent().parent().parent().removeClass("show"); 
+    $(this).parent().parent().parent().parent().parent().parent().parent().removeClass("show"); 
+  });
+
 };
 
 export const getMotionVariants = () => {

@@ -9,7 +9,10 @@ const CompanyIntroduction = () => {
         <div className="container">
           <div className="row mx-0">
             <section className="col-lg-7 col-md-7 col-sm-12 col-12 p-0 text">
-              <img
+              <Image
+                width={729}
+                height={400}
+                layout="responsive"
                 className="img-fluid"
                 alt="Minni banner 1"
                 src={URL + "/images/welcome-bg.png"}

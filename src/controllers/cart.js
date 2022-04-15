@@ -19,11 +19,11 @@ export const AddToCart = (e, item, cartData, setCart) => {
   } catch (err) {}
   if (index > -1) {
     let prodQTY = cart[index].qty;
-    let prodTotal = cart[index].total;
+    let prodPrice = cart[index].itemPrice;
 
     prodQTY++;
     cart[index] = { ...cart[index], qty: prodQTY };
-    cart[index] = { ...cart[index], total: prodTotal * prodQTY };
+    cart[index] = { ...cart[index], total: prodPrice * prodQTY };
   } else {
     let tempCart = [];
 
@@ -137,4 +137,25 @@ export const csHandleChange = () => {
   let shopURL = "";
   shopURL = getContinueShoppingURL();
   Router.push(URL + shopURL);
+};
+
+export const setCartContent = (name, data) => {
+  if (typeof window != "undefined") {
+    try {
+      localStorage.setItem(name, JSON.stringify(data));
+    } catch (err) {}
+  }
+};
+
+export const getCartContent = (name) => {
+  let cart = [];
+  if (typeof window != "undefined") {
+    try {
+      cart = JSON.parse(localStorage.getItem(name));
+    } catch (err) {}
+  }
+  if (!cart || cart.length < 1) {
+    cart = [];
+  }
+  return cart;
 };

@@ -5,12 +5,14 @@ const MiniBanner1 = () => {
   let { URL } = process.env;
   return (
     <section className="col-lg-4 col-md-4 col-sm-12 col-12 half hover-effect hover-effect-10">
-      <img
+      <Image
+        width={419}
+        height={282}
+        layout="responsive"
         className="img-fluid"
         alt="Minni banner 1"
-        src={URL+"/images/mini-banner/mini-banner1.png"}
+        src={URL + "/images/mini-banner/mini-banner1.png"}
       />
-  
 
       <section className="overlay">
         <h5>placeholder header</h5>

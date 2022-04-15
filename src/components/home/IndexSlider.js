@@ -12,27 +12,13 @@ const IndexSlider = () => {
             <section
               id="carouselExampleIndicators"
               className="carousel slide"
-              data-ride="carousel"
+              data-bs-ride="carousel"
             >
-              <ol className="carousel-indicators text-center">
-                <li
-                  data-target="#carouselExampleIndicators"
-                  data-slide-to="0"
-                  className=""
-                ></li>
-
-                <li
-                  data-target="#carouselExampleIndicators"
-                  data-slide-to="1"
-                  className=""
-                ></li>
-
-                <li
-                  data-target="#carouselExampleIndicators"
-                  data-slide-to="2"
-                  className="active"
-                ></li>
-              </ol>
+              <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+              </div>
 
               <section id="sliderpictures" className="carousel-inner">
                 <section className="carousel-item">
@@ -41,7 +27,6 @@ const IndexSlider = () => {
                     alt="banner 1"
                     src={URL + "/images/main-banner/main-banner.png"}
                   />
-
                   <h2>
                     banner text goes here <br />
                     <span>

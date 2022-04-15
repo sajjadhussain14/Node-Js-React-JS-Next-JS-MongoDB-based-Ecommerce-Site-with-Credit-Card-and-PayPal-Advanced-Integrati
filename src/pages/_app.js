@@ -5,6 +5,8 @@ import { motion } from "framer-motion";
 import Head from "next/head";
 
 import "../../styles/globals.css";
+import "../../styles/thankYou.css";
+
 import "bootstrap/dist/css/bootstrap.css";
 import "../../styles/header.css";
 import "../../styles/home.css";
@@ -83,25 +85,16 @@ function MyApp({ Component, pageProps, taxonomy }) {
       </Provider>
       <Footer />
 
-      <Script
-        src="https://cdn.celerantwebservices.com/jquery/3.5.1/jquery.min.js"
-        strategy="afterInteractive"
-      />
+      <script src="https://cdn.celerantwebservices.com/jquery/3.5.1/jquery.min.js"></script>
 
-      <Script
-        src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
-        strategy="afterInteractive"
-      />
-
-      <Script
-        src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
-        strategy="afterInteractive"
-      />
-
-      <Script
+      <script
+        defer
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+      ></script>
+      <script
+        defer
         src="https://template1.cumulusbetasites.com/js/bootstrap.min.js"
-        strategy="afterInteractive"
-      />
+      ></script>
     </>
   );
 }

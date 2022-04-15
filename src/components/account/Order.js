@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import Router from "next/router";
 import { getCurrentUserID } from "../../controllers/account";
 import { csHandleChange } from "../../controllers/cart";
 import { getOrders } from "../../controllers/order";
@@ -31,7 +32,7 @@ const Order = (props) => {
                 <th align="center">Shipping</th>
                 <th align="center">Tax</th>
                 <th align="center">Subtotal</th>
-                <th align="center"></th>
+                <th align="center">View</th>
               </tr>
             </thead>
             <tbody>
@@ -45,6 +46,14 @@ const Order = (props) => {
                         <td>{orderData.order.shipping.name}</td>
                         <td>${orderData.order.tax}</td>
                         <td>${orderData.order.subTotal}</td>
+                        <td
+                          style={{ cursor: "pointer" }}
+                          onClick={() => {
+                            Router.push("/orders/" + orderData.orderNumber);
+                          }}
+                        >
+                          <i class="fa fa-eye" aria-hidden="true"></i>
+                        </td>
                       </tr>
                     );
                   })

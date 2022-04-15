@@ -1,4 +1,11 @@
 import React from "react";
+import Router from "next/router";
+
+import {
+  getOrderDetails,
+  initOrderDetails,
+  setOrderDetails,
+} from "../../controllers/order";
 
 const PaymentInfo = (props) => {
   return (
@@ -8,7 +15,7 @@ const PaymentInfo = (props) => {
         <button
           type="button"
           onClick={(e) => {
-            doPayment(e, props.currency, props.grandTotal);
+            processPaymentPaypal(e, props.currency, props.grandTotal);
           }}
         >
           <img
@@ -116,10 +123,13 @@ const PaymentInfo = (props) => {
         </div>
         <div className="col-6">
           <input
-            type="submit"
+            type="button"
             name="orderSubmit"
             value="Submit Your Order"
             className="text-light bg-dark"
+            onClick={(e) => {
+              processPaymentAuthorize(e, props.currency, props.grandTotal);
+            }}
           />
         </div>
       </div>
@@ -134,14 +144,70 @@ const PaymentInfo = (props) => {
 
 export default PaymentInfo;
 
-const doPayment = async (e, currency, grandTotal) => {
+const processPaymentPaypal = async (e, currency, grandTotal) => {
   let { URL } = process.env;
   e.preventDefault();
   let paymentData = { currency: currency, grandTotal: grandTotal };
-  const response = await fetch(URL + "/api/payment/create-order", {
+  const response = await fetch(URL + "/api/payment/paypal/create-order", {
     method: "POST",
     body: JSON.stringify(paymentData),
   });
   const data = await response.json();
   window.location.href = data.links[1].href;
+};
+
+const processPaymentAuthorize = async (e, currency, grandTotal) => {
+  let { URL } = process.env;
+  e.preventDefault();
+  let paymentData = { currency: currency, grandTotal: grandTotal };
+  const response = await fetch(
+    URL + "/api/payment/authorize.net/create-order",
+    {
+      method: "POST",
+      body: JSON.stringify(paymentData),
+    }
+  );
+  const data = await response.json();
+  let orderDetails = {};
+  orderDetails = initOrderDetails();
+  let tCode = "";
+  console.log("ttttt", data);
+
+  try {
+    tCode = data.messages.resultCode.toLowerCase();
+  } catch (err) {}
+  if (tCode == "ok") {
+    let orderNumber = Array.from(Array(20), () =>
+      Math.floor(Math.random() * 20).toString(20)
+    ).join("");
+    const dateTime = new Date();
+
+    let orderDetails = getOrderDetails("orderDetails");
+    console.log("data", data);
+    orderDetails.orderNumber = orderNumber;
+    orderDetails.payment.id = data.transactionResponse.transId;
+    orderDetails.date_created = dateTime;
+    orderDetails.payment.paymentMethod = "Credit Card";
+    orderDetails.payment.status = "transaction approved";
+    orderDetails.accountNumber = data.transactionResponse.accountNumber;
+    orderDetails.accountType = data.transactionResponse.accountType;
+    orderDetails.networkTransId = data.transactionResponse.networkTransId;
+    orderDetails.transId = data.transactionResponse.transId;
+    setOrderDetails("orderDetails", orderDetails);
+
+    setTimeout(() => {
+      Router.push("/thank-you");
+    }, 0);
+  } else {
+    try {
+      orderDetails.error = data.transactionResponse.errors.error[0].errorText;
+    } catch (err) {
+      orderDetails.error = "Something Went Wrong! Please Try Again.";
+    }
+    setOrderDetails("orderDetails", orderDetails);
+
+    setTimeout(() => {
+      Router.push("/error");
+    }, 0);
+  }
 };

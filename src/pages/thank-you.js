@@ -1,131 +1,182 @@
 import React, { useEffect, useState } from "react";
 import Router from "next/router";
-import { getOrderDetails } from "../controllers/order";
+import { setOrderDetails, getOrderDetails } from "../controllers/order";
+import { setCartContent } from "../controllers/cart";
+import TopPaypal from "../components/thankYou/topPaypal";
+import TopCreditCard from "../components/thankYou/topCreditCard";
 
 const thankYou = () => {
-  const [loading, setLoading] = useState(true);
-  let orderDetails = {};
+  let orderdata = {};
+  let order = {};
 
-  orderDetails = getOrderDetails("orderDetails");
+  orderdata = getOrderDetails("orderDetails");
+  order = { ...orderdata };
+
+  setTimeout(() => {
+    setOrderDetails("orderDetails", {});
+    setCartContent("cart", []);
+  }, 2000);
 
   if (typeof window != "undefined") {
-    if (!orderDetails.orderNumber || orderDetails.orderNumber == "") {
-      Router.push("/");
-      return "";
+    if (!order.orderNumber || order.orderNumber == "") {
+      return (
+        <section className="thankYou">
+          <div className="container">
+            <div className="row">
+              <div className="col-12">
+                <h3 className="text-center ">No data Avaiable</h3>
+              </div>{" "}
+            </div>
+          </div>{" "}
+        </section>
+      );
     }
   }
-  let email = "";
-  let total = "";
-  let paymentMethod = "";
-  let items = [];
-  let billing = {};
-  let shipping = {};
 
-  try {
-    email = orderDetails.user.billing.email;
-  } catch (err) {}
-
-  try {
-    total = orderDetails.order.total;
-  } catch (err) {}
-
-  try {
-    total = orderDetails.order.total;
-  } catch (err) {}
-
-  console.log(orderDetails);
   return (
     <>
-      <section>
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <h1>Order Received</h1>
-              <p>Thankyou . Your order has been Received</p>
-            </div>
-            <div class="col">
-              <p class="text-uppercase">
-                order number:
-                <strong class="d-block mt-1">{orderDetails.orderNumber}</strong>
-              </p>
-            </div>
-            <div class="col">
-              <p class="text-uppercase">
-                Date:
-                <strong class="d-block mt-1">
-                  {orderDetails.date_created}
-                </strong>
-              </p>
-            </div>
-            <div class="col">
-              <p class="text-uppercase">
-                email:
-                <strong class="d-block mt-1">{email}</strong>
-              </p>
-            </div>
-            <div class="col">
-              <p class="text-uppercase">
-                total:
-                <strong class="d-block mt-1">$499.00</strong>
-              </p>
-            </div>
-            <div class="col">
-              <p class="text-uppercase">
-                payment method:
-                <strong class="d-block mt-1">cash on delivery</strong>
-              </p>
-            </div>
-            <div class="col-12">
-              <p>Pay with cash upon delivery</p>
-              <h2>order details</h2>
-            </div>
-            <div class="col-12">
-              <p class="py-2 d-flex justify-content-between border px-2">
-                <strong class="w-50">Product</strong>
-                <strong class="w-50">Total</strong>
-              </p>
-              <p class="py-2 d-flex justify-content-between border px-2">
-                <strong class="w-50">Bank * 1</strong>
-                <strong class="w-50">$499.00</strong>
-              </p>
-              <p class="py-2 d-flex justify-content-between border px-2">
-                <strong class="w-50">Subtotal:</strong>
-                <strong class="w-50">$499.00</strong>
-              </p>
-              <p class="py-2 d-flex justify-content-between border px-2">
-                <strong class="w-50">Payment method</strong>
-                <strong class="w-50">Cash on delivery</strong>
-              </p>
-              <p class="py-2 d-flex justify-content-between border px-2">
-                <strong class="w-50">Total:</strong>
-                <strong class="w-50">$499.00</strong>
-              </p>
-            </div>
-            <div class="col-lg-6 col-md-6 col-6">
-              <div class="inner border">
-                <h3>Billing Address</h3>
-                <p>Markhendriksen.com</p>
-                <p>Mark Hendriksen</p>
-                <p>De Wilgen 22</p>
-                <p>5427 TP Boekel</p>
-                <p>061-792522</p>
-                <a href="##">info@markhendriksen.com</a>
+      {order && Object.keys(order).length != 0 ? (
+        <section className="thankYou">
+          <div className="container">
+            <div className="row">
+              <div className="col-12">
+                <h1 className="text-center">Thanks For Ordering With Us!</h1>
+                <h3 className="text-center headingsze">
+                  If you do not see your email confirmation immediately in your
+                  Inbox, please check your Spam or Junk folder.
+                </h3>
+                <h3 className="text-center">
+                  Celerant Demo Order Confirmation
+                </h3>
+                <hr />
               </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-6">
-              <div class="inner border">
-                <h3>shipping Address</h3>
-                <p>Markhendriksen.com</p>
-                <p>Mark Hendriksen</p>
-                <p>De Wilgen 22</p>
-                <p>5427 TP Boekel</p>
-                <p>061-792522</p>
-                <a href="##">info@markhendriksen.com</a>
+              {order && order.payment.paymentMethod == "paypal" ? (
+                <TopPaypal order={order} />
+              ) : (
+                <TopCreditCard order={order} />
+              )}
+              <hr />
+              <div className="col-12">
+                <h2>Order Details</h2>
+              </div>
+              <div className="col-12">
+                <table className="table  table-hover">
+                  <thead>
+                    <tr className="headingstyl">
+                      <th scope="col">product</th>
+                      <th scope="col">price</th>
+                      <th scope="col">Qty</th>
+
+                      <th scope="col">subtotal</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {order.items && order.items.length > 0
+                      ? order.items.map((product) => {
+                          let total = 0;
+                          total = product.itemPrice * product.qty;
+                          total = total.toFixed(2);
+                          return (
+                            <tr>
+                              <th scope="row">{product.name}</th>
+                              <td>${product.itemPrice.toFixed(2)}</td>
+                              <td>{product.qty}</td>
+                              <td>${total}</td>
+                            </tr>
+                          );
+                        })
+                      : ""}
+                  </tbody>
+                </table>
+              </div>
+              <br />
+              <div className="col-12 mt-2">
+                <h2>Contact Details</h2>
+              </div>
+
+              <div className="container">
+                <div className="row">
+                  <table className="table table-borderless">
+                    <thead>
+                      <tr className="headingstyl">
+                        <th colspan="3" scope="col">
+                          Customer, Billing and Shipping Info
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <b>Customer:</b>
+                          <br />
+                          {order.user.billing.first_name +
+                            " " +
+                            order.user.billing.last_name}
+                          <br />
+                          {order.user.id}
+                          <br />
+                          {order.user.billing.email}
+                          <br />
+                        </td>
+                        <td>
+                          <b>Billing:</b>
+                          <br />
+                          {order.user.billing.first_name +
+                            " " +
+                            order.user.billing.last_name}
+                          <br />
+                          {order.user.billing.address1}
+                          <br />
+                          {order.user.billing.address2}
+                          <br />
+                          {order.user.billing.city}
+                          <br />
+
+                          {order.user.billing.state}
+                          <br />
+
+                          {order.user.billing.zip_code}
+                          <br />
+                          {order.user.billing.country}
+                          <br />
+                          {order.user.billing.phone}
+                          <br />
+                        </td>
+                        <td>
+                          <b>Shipping:</b>
+                          <br />
+                          {order.user.shipping.first_name +
+                            " " +
+                            order.user.shipping.last_name}
+                          <br />
+                          {order.user.shipping.address1}
+                          <br />
+                          {order.user.shipping.address2}
+                          <br />
+                          {order.user.shipping.city}
+                          <br />
+
+                          {order.user.shipping.state}
+                          <br />
+
+                          {order.user.shipping.zip_code}
+                          <br />
+                          {order.user.shipping.country}
+                          <br />
+                          {order.user.shipping.phone}
+                          <br />
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-      </section>
+        </section>
+      ) : (
+        ""
+      )}
     </>
   );
 };

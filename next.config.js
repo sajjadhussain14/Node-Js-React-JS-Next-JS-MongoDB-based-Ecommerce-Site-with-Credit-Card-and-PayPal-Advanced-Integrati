@@ -52,6 +52,11 @@ module.exports = {
     domains: [
       "cdn-cumulusdata.celerantwebservices.com",
       "template1.cumulusbetasites.com",
+      "localhost",
+      "localhost:3000",
+      "cdn.jsdelivr.net",
+
+      "celerantcms-com.server-icumulusdataserver9-vps.vps.ezhostingserver.com",
     ],
     formats: ["image/avif", "image/webp"],
 

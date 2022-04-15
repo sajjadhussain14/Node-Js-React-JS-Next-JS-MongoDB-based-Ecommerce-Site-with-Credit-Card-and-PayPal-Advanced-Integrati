@@ -3,7 +3,6 @@ import dynamic from "next/dynamic";
 //const OwlCarousel1 = dynamic(import("react-owl-carousel"), { ssr: false });
 import "owl.carousel/dist/assets/owl.carousel.css";
 
-import Head from "next/head";
 import Image from "next/image";
 var $ = require("jquery");
 if (typeof window !== "undefined") {
@@ -39,7 +38,6 @@ const options = {
 };
 
 const BrandSlider = () => {
-  <Head></Head>;
   let { URL } = process.env;
   return (
     <>

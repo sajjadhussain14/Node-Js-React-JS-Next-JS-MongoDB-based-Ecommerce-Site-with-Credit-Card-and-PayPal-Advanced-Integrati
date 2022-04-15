@@ -32,19 +32,33 @@ const OrderSummary = (props) => {
     subTotal = parseInt(subTotal) + parseInt(shippingCharges);
   } catch (err) {}
   subTotal = Number(subTotal).toFixed(2);
+
   props.setGrandTotal(subTotal);
 
   let orderDetails = {};
   orderDetails = getOrderDetails("orderDetails");
 
-  try {
-    orderDetails.order.shipping.name = shippingMode;
-    orderDetails.order.shipping.amount = shippingCharges;
-    orderDetails.order.total = cartTotal.toString();
-    orderDetails.order.tax = tax.toString();
-    orderDetails.order.subTotal = subTotal.toString();
-  } catch (err) {}
-  setOrderDetails("orderDetails", orderDetails);
+  setTimeout(() => {
+    try {
+      orderDetails.order.shipping.name = shippingMode;
+    } catch (err) {}
+
+    try {
+      orderDetails.order.shipping.amount = shippingCharges;
+    } catch (err) {}
+
+    try {
+      orderDetails.order.total = cartTotal;
+    } catch (err) {}
+    try {
+      orderDetails.order.tax = tax;
+    } catch (err) {}
+    try {
+      orderDetails.order.subTotal = subTotal;
+    } catch (err) {}
+
+    setOrderDetails("orderDetails", orderDetails);
+  }, 0);
 
   return (
     <>
@@ -158,7 +172,7 @@ const OrderSummary = (props) => {
 
         <li className="amountDue list-group-item" data-key="AMOUNT_DUE">
           <span className="row mx-0">
-            <span className="col-7 displayName">Total:</span>
+            <span className="col-7 displayName">Subtotal:</span>
             <span
               className="col-5 displayValue text-right"
               data-key="amount_due"
