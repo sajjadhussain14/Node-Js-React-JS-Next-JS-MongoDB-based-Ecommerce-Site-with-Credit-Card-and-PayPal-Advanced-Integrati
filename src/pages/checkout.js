@@ -21,7 +21,10 @@ const Checkout = (props) => {
   const [grandTotal, setGrandTotal] = useState("0.00");
   const [paymentMethod, setPaymentMethod] = useState("paypal");
 
-  const [shippingMethod, setShippingMethod] = useState({ name: "", amount: 0 });
+  const [shippingMethod, setShippingMethod] = useState({
+    name: "Nick Shipping ($0.00)",
+    amount: 0,
+  });
   const [tax, setTax] = useState(0.0);
   const [screen, setScreen] = useState("");
   const [userData, setUserData] = useState([]);

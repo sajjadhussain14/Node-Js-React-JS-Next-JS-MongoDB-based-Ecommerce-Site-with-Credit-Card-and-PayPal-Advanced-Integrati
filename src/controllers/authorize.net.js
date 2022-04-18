@@ -1,4 +1,6 @@
 import React from "react";
+import validator from "validator";
+
 import Router from "next/router";
 
 import { getOrderDetails, setOrderDetails } from "./order";
@@ -297,8 +299,11 @@ export const paymentAuthorize = async (e, setCart) => {
     }
   );
   const data = await response.json();
-
-  processOrder(data, orderDetails, setCart);
+  if (validator.isCreditCard(cardInfo.cardNumber)) {
+    processOrder(data, orderDetails, setCart);
+  } else {
+    alert("invalid card number");
+  }
 };
 
 const processOrder = (data, orderDetails, setCart) => {

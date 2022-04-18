@@ -18,58 +18,6 @@ export const getCheckoutScripts = ($) => {
   });
   $(document).ready(function () {
     // click on next button
-    $(".form-wizard-next-btn").click(function () {
-      var parentFieldset = $(this).parents(".wizard-fieldset");
-      var currentActiveStep = $(this)
-        .parents(".form-wizard")
-        .find(".form-wizard-steps .active");
-      var next = $(this);
-      var nextWizardStep = true;
-      parentFieldset.find(".wizard-required").each(function () {
-        var thisValue = $(this).val();
-
-        if (thisValue == "") {
-          $(this).siblings(".wizard-form-error").slideDown();
-          nextWizardStep = false;
-        } else {
-          $(this).siblings(".wizard-form-error").slideUp();
-        }
-      });
-      if (nextWizardStep) {
-        next.parents(".wizard-fieldset").removeClass("show", "400");
-        currentActiveStep
-          .removeClass("active")
-          .addClass("activated")
-          .next()
-          .addClass("active", "400");
-        next
-          .parents(".wizard-fieldset")
-          .next(".wizard-fieldset")
-          .addClass("show", "400");
-        $(document)
-          .find(".wizard-fieldset")
-          .each(function () {
-            if ($(this).hasClass("show")) {
-              var formAtrr = $(this).attr("data-tab-content");
-              $(document)
-                .find(".form-wizard-steps .form-wizard-step-item")
-                .each(function () {
-                  if ($(this).attr("data-attr") == formAtrr) {
-                    $(this).addClass("active");
-                    var innerWidth = $(this).innerWidth();
-                    var position = $(this).position();
-                    $(document).find(".form-wizard-step-move").css({
-                      left: position.left,
-                      width: innerWidth,
-                    });
-                  } else {
-                    $(this).removeClass("active");
-                  }
-                });
-            }
-          });
-      }
-    });
     //click on previous button
     $(".form-wizard-previous-btn").click(function () {
       var counter = parseInt($(".wizard-counter").text());
@@ -153,7 +101,6 @@ export const getCheckoutScripts = ($) => {
     $(this).parent().nextAll().removeClass("checked");
   });
 
-  
   $("#wizard-t-0").on("click", function () {
     $(".form-wizard .wizard-fieldset:nth-of-type(1)").addClass("show");
     $(".form-wizard .wizard-fieldset:nth-of-type(2)").removeClass("show");
@@ -184,7 +131,12 @@ export const getCheckoutScripts = ($) => {
 
   $(".form-wizard .wizard-fieldset:nth-of-type(1) .form-wizard-next-btn").click(
     function () {
-      $("li.prev").addClass("checked");
+      let formID = $(this).attr("formID");
+
+      let isvalidated = $(`#${formID}-validate-state`).val();
+      if (isvalidated == "true") {
+        $("li.prev").addClass("checked");
+      }
     }
   );
 
@@ -309,16 +261,29 @@ export const getHeaderScripts = ($) => {
     $("div#cartDrpDown").parent().removeClass("hoverToggle");
   });
 
-  $("header .navbar-dark .navbar-nav .nav-item a.nav-link").on("click", function () {
-    $(this).next().removeClass("show"); 
-    $(this).parent().parent().parent().removeClass("show"); 
-  });
+  $("header .navbar-dark .navbar-nav .nav-item a.nav-link").on(
+    "click",
+    function () {
+      $(this).next().removeClass("show");
+      $(this).parent().parent().parent().removeClass("show");
+    }
+  );
 
-  $("header .navbar-dark .navbar-nav .dropdown-menu a.title").on("click", function () {
-    $(this).parent().parent().parent().parent().removeClass("show"); 
-    $(this).parent().parent().parent().parent().parent().parent().parent().removeClass("show"); 
-  });
-
+  $("header .navbar-dark .navbar-nav .dropdown-menu a.title").on(
+    "click",
+    function () {
+      $(this).parent().parent().parent().parent().removeClass("show");
+      $(this)
+        .parent()
+        .parent()
+        .parent()
+        .parent()
+        .parent()
+        .parent()
+        .parent()
+        .removeClass("show");
+    }
+  );
 };
 
 export const getMotionVariants = () => {

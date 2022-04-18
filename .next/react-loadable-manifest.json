@@ -1,1 +1,14 @@
-{}
+{
+  "..\\components\\home\\BrandSlider.js -> react-owl-carousel": {
+    "id": 2568,
+    "files": [
+      "static/chunks/568.41daa4e779f3b716.js"
+    ]
+  },
+  "..\\components\\product\\RelatedProducts.js -> react-owl-carousel": {
+    "id": 2568,
+    "files": [
+      "static/chunks/568.41daa4e779f3b716.js"
+    ]
+  }
+}
