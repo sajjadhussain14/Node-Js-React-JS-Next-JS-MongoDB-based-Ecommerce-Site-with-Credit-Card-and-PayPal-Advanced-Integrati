@@ -2,7 +2,7 @@
 
 import validator from "validator";
 import $ from "jquery";
-let validatedStatus = false;
+let validatedStatus = true;
 export const validate = (formID) => {
   validateInputs(formID);
   validateSelect(formID);
@@ -44,8 +44,6 @@ const validateNow = (formID, formInputs) => {
       { key: "isCvv", f: checkCvv },
       { key: "isEmail", f: checkEmail },
       { key: "isZip", f: checkZip },
-      { key: "isPhone", f: checkPhone },
-      { key: "isPhone", f: checkPhone },
       { key: "isPhone", f: checkPhone },
     ];
     let keyVal = false;
@@ -209,7 +207,8 @@ const checkPhone = (id, name, value) => {
   if (
     !/^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$/im.test(value)
   ) {
-    document.getElementById(id + "-error").innerHTML = name + " is Invalid...";
+    document.getElementById(id + "-error").innerHTML =
+      name + " is Invalid Email...";
     v = false;
     validatedStatus = false;
   }
@@ -218,30 +217,6 @@ const checkPhone = (id, name, value) => {
 
     try {
       document.getElementById(id + "-error").innerHTML = "";
-    } catch (err) {}
-  }
-};
-
-export const checkPasswordMatch = (p, cp) => {
-  let v = true;
-
-  let pass = document.getElementById(p).value;
-  let cPass = document.getElementById(cp).value;
-
-  if (pass == cPass) {
-  } else {
-    document.getElementById(cp + "-error").innerHTML =
-      "Password and Confirm password do not match";
-
-    v = false;
-    validatedStatus = false;
-  }
-
-  if (v != false) {
-    validatedStatus = true;
-
-    try {
-      document.getElementById(cp + "-error").innerHTML = "";
     } catch (err) {}
   }
 };
@@ -315,7 +290,15 @@ const validateOnSelectChange = () => {
 if (typeof window != "undefined") {
   $(document).ready(function () {
     $(".form-wizard-next-btn").click(function (e) {
+      let formID = $(this).attr("formID");
       validate($(this).attr("formID"));
+      try {
+        if (validatedStatus == true) {
+          document.getElementById(`${formID}-validate-state`).value = true;
+        } else {
+          document.getElementById(`${formID}-validate-state`).value = false;
+        }
+      } catch (err) {}
       moveToNextStep($(this));
     });
   });
@@ -328,8 +311,14 @@ const moveToNextStep = (e) => {
     .parents(".form-wizard")
     .find(".form-wizard-steps .active");
   var next = e;
+  let isvalidated = false;
 
-  let isvalidated = $(`#${formID}-validate-state`).val();
+  if (formID == "PassValidation") {
+    isvalidated = "true";
+  } else {
+    isvalidated = $(`#${formID}-validate-state`).val();
+  }
+
   var nextWizardStep = false;
   if (isvalidated == "true") {
     nextWizardStep = true;

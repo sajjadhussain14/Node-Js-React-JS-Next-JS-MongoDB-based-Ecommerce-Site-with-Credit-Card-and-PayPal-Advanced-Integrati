@@ -12,7 +12,7 @@ const thankYou = (props) => {
 
   orderdata = getOrderDetails("orderDetails");
   order = { ...orderdata };
-  console.log(order);
+
   setTimeout(() => {
     setOrderDetails("orderDetails", {});
     setCartContent("cart", []);
@@ -21,98 +21,7 @@ const thankYou = (props) => {
   if (typeof window != "undefined") {
     cartValue = JSON.parse(localStorage.getItem("cart"));
   }
-  order = {
-    orderNumber: "j50bf1c58f585iggf4bi",
-    orderDesc: "",
-    date_created: "2022-04-18T12:52:06.845Z",
-    orderStatus: "processing",
-    accountNumber: "",
-    accountType: "",
-    networkTransId: "",
-    transId: "",
-    userID: "",
-    items: [
-      {
-        id: "18637",
-        brand: "SCCY",
-        name: "SCCY CPX1TTSB 9MM SS/BLU 10 | 857679003326",
-        image:
-          "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/485.jpg",
-        product_url: "/product/18637/SCCYCPX1TTSB9MMSSBLU10",
-        qty: 1,
-        itemPrice: 259.99,
-        salesPrice: 0,
-        total: 259.99,
-      },
-    ],
-    user: {
-      id: "d5idcg5dcfhdd0he875a",
-      billing: {
-        first_name: "ssss",
-        last_name: "Hussain",
-        phone: "19285675467",
-        address1: "yerggd dgsdg",
-        address2: "gfdgd",
-        email: "sajjadast786@gmail.com",
-        city: "ny",
-        state: "Indiana",
-        zip_code: "85030",
-        country: "us",
-      },
-      shipping: {
-        first_name: "sad",
-        last_name: "Hussain",
-        phone: "19285675467",
-        address1: "yerggd dgsdg",
-        address2: "gfdgd",
-        email: "sajjadast786@gmail.com",
-        city: "ny",
-        state: "Kansas",
-        zip_code: "85030",
-        country: "us",
-      },
-    },
-    payment: {
-      id: "54V600853S004840H",
-      paymentMethod: "paypal",
-      currency: "USD",
-      status: "COMPLETED",
-    },
-    order: {
-      shipping: {
-        name: "Nick Shipping ($0.00)",
-        amount: 0,
-        description: "",
-      },
-      duty: {
-        name: "",
-        amount: "",
-        description: "",
-      },
-      credit: {
-        name: "",
-        amount: "",
-        description: "",
-      },
-      coupon: {
-        name: "",
-        amount: "",
-        description: "",
-      },
-      taxDetail: {
-        name: "tax",
-        amount: 0,
-        description: "tax",
-      },
-      orderCommensts: "",
-      giftNotes: "",
-      total: "259.99",
-      tax: 0,
-      subTotal: "259.00",
-    },
-    error: "",
-    UserID: "d5idcg5dcfhdd0he875a",
-  };
+
   if (typeof window != "undefined") {
     if (!order.orderNumber || order.orderNumber == "") {
       return (

@@ -36,7 +36,6 @@ const Checkout = (props) => {
   }
   useEffect(async () => {
     let user = await getCurrentUserData("");
-    delete user.credentials;
     setUserData(user);
   }, []);
 

@@ -399,7 +399,7 @@ const ShippingInfo = (props) => {
               className="form-wizard-next-btn"
               formID="shippingForm"
               onClick={(e) => {
-                validate("shippingForm");
+                //validate("shippingForm");
 
                 UpdateShipping(e, props.userData, props.setUserData);
               }}
