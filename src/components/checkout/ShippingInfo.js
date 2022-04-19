@@ -151,203 +151,403 @@ const ShippingInfo = (props) => {
                 --
               </option>
 
-              <option value="Alabama" data-type="STATE">
+              <option
+                value="Alabama"
+                data-type="STATE"
+                selected={state == "Alabama" ? true : false}
+              >
                 Alabama
               </option>
 
-              <option value="Alaska" data-type="STATE">
+              <option
+                value="Alaska"
+                data-type="STATE"
+                selected={state == "Alaska" ? true : false}
+              >
                 Alaska
               </option>
 
-              <option value="Arizona" data-type="STATE">
+              <option
+                value="Arizona"
+                data-type="STATE"
+                selected={state == "Arizona" ? true : false}
+              >
                 Arizona
               </option>
 
-              <option value="Arkansas" data-type="STATE">
+              <option
+                value="Arkansas"
+                data-type="STATE"
+                selected={state == "Arkansas" ? true : false}
+              >
                 Arkansas
               </option>
 
-              <option value="California" data-type="STATE">
+              <option
+                value="California"
+                data-type="STATE"
+                selected={state == "California" ? true : false}
+              >
                 California
               </option>
 
-              <option value="Colorado" data-type="STATE">
+              <option
+                value="Colorado"
+                data-type="STATE"
+                selected={state == "Colorado" ? true : false}
+              >
                 Colorado
               </option>
 
-              <option value="Connecticut" data-type="STATE">
+              <option
+                value="Connecticut"
+                data-type="STATE"
+                selected={state == "Connecticut" ? true : false}
+              >
                 Connecticut
               </option>
 
-              <option value="Delaware" data-type="STATE">
+              <option
+                value="Delaware"
+                data-type="STATE"
+                selected={state == "Delaware" ? true : false}
+              >
                 Delaware
               </option>
 
-              <option value="District of Columbia" data-type="STATE">
+              <option
+                value="District of Columbia"
+                data-type="STATE"
+                selected={state == "District of Columbia" ? true : false}
+              >
                 District of Columbia
               </option>
 
-              <option value="Florida" data-type="STATE">
+              <option
+                value="Florida"
+                data-type="STATE"
+                selected={state == "Florida" ? true : false}
+              >
                 Florida
               </option>
 
-              <option value="Georgia" data-type="STATE">
+              <option
+                value="Georgia"
+                data-type="STATE"
+                selected={state == "Georgia" ? true : false}
+              >
                 Georgia
               </option>
 
-              <option value="Idaho" data-type="STATE">
+              <option
+                value="Idaho"
+                data-type="STATE"
+                selected={state == "Idaho" ? true : false}
+              >
                 Idaho
               </option>
 
-              <option value="Illinois" data-type="STATE">
+              <option
+                value="Illinois"
+                data-type="STATE"
+                selected={state == "Illinois" ? true : false}
+              >
                 Illinois
               </option>
 
-              <option value="Indiana" data-type="STATE" selected="selected">
+              <option
+                value="Indiana"
+                data-type="STATE"
+                selected={state == "Indiana" ? true : false}
+              >
                 Indiana
               </option>
 
-              <option value="Iowa" data-type="STATE">
+              <option
+                value="Iowa"
+                data-type="STATE"
+                selected={state == "Iowa" ? true : false}
+              >
                 Iowa
               </option>
 
-              <option value="Kansas" data-type="STATE">
+              <option
+                value="Kansas"
+                data-type="STATE"
+                selected={state == "Kansas" ? true : false}
+              >
                 Kansas
               </option>
 
-              <option value="Kentucky" data-type="STATE">
+              <option
+                value="Kentucky"
+                data-type="STATE"
+                selected={state == "Kentucky" ? true : false}
+              >
                 Kentucky
               </option>
 
-              <option value="Louisiana" data-type="STATE">
+              <option
+                value="Louisiana"
+                data-type="STATE"
+                selected={state == "Louisiana" ? true : false}
+              >
                 Louisiana
               </option>
 
-              <option value="Maine" data-type="STATE">
+              <option
+                value="Maine"
+                data-type="STATE"
+                selected={state == "Maine" ? true : false}
+              >
                 Maine
               </option>
 
-              <option value="Maryland" data-type="STATE">
+              <option
+                value="Maryland"
+                data-type="STATE"
+                selected={state == "Maryland" ? true : false}
+              >
                 Maryland
               </option>
 
-              <option value="Massachusetts" data-type="STATE">
+              <option
+                value="Massachusetts"
+                data-type="STATE"
+                selected={state == "Massachusetts" ? true : false}
+              >
                 Massachusetts
               </option>
 
-              <option value="Michigan" data-type="STATE">
+              <option
+                value="Michigan"
+                data-type="STATE"
+                selected={state == "Michigan" ? true : false}
+              >
                 Michigan
               </option>
 
-              <option value="Minnesota" data-type="STATE">
+              <option
+                value="Minnesota"
+                data-type="STATE"
+                selected={state == "Minnesota" ? true : false}
+              >
                 Minnesota
               </option>
 
-              <option value="Mississippi" data-type="STATE">
+              <option
+                value="Mississippi"
+                data-type="STATE"
+                selected={state == "Mississippi" ? true : false}
+              >
                 Mississippi
               </option>
 
-              <option value="Missouri" data-type="STATE">
+              <option
+                value="Missouri"
+                data-type="STATE"
+                selected={state == "Missouri" ? true : false}
+              >
                 Missouri
               </option>
 
-              <option value="Montana" data-type="STATE">
+              <option
+                value="Montana"
+                data-type="STATE"
+                selected={state == "Montana" ? true : false}
+              >
                 Montana
               </option>
 
-              <option value="Nebraska" data-type="STATE">
+              <option
+                value="Nebraska"
+                data-type="STATE"
+                selected={state == "Nebraska" ? true : false}
+              >
                 Nebraska
               </option>
 
-              <option value="Nevada" data-type="STATE">
+              <option
+                value="Nevada"
+                data-type="STATE"
+                selected={state == "Nevada" ? true : false}
+              >
                 Nevada
               </option>
 
-              <option value="New Hampshire" data-type="STATE">
+              <option
+                value="New Hampshire"
+                data-type="STATE"
+                selected={state == "New Hampshire" ? true : false}
+              >
                 New Hampshire
               </option>
 
-              <option value="New Jersey" data-type="STATE">
+              <option
+                value="New Jersey"
+                data-type="STATE"
+                selected={state == "New Jersey" ? true : false}
+              >
                 New Jersey
               </option>
 
-              <option value="New Mexico" data-type="STATE">
+              <option
+                value="New Mexico"
+                data-type="STATE"
+                selected={state == "New Mexico" ? true : false}
+              >
                 New Mexico
               </option>
 
-              <option value="New York" data-type="STATE">
+              <option
+                value="New York"
+                data-type="STATE"
+                selected={state == "New York" ? true : false}
+              >
                 New York
               </option>
 
-              <option value="North Carolina" data-type="STATE">
+              <option
+                value="North Carolina"
+                data-type="STATE"
+                selected={state == "North Carolina" ? true : false}
+              >
                 North Carolina
               </option>
 
-              <option value="North Dakota" data-type="STATE">
+              <option
+                value="North Dakota"
+                data-type="STATE"
+                selected={state == "North Dakota" ? true : false}
+              >
                 North Dakota
               </option>
 
-              <option value="Ohio" data-type="STATE">
+              <option
+                value="Ohio"
+                data-type="STATE"
+                selected={state == "Ohio" ? true : false}
+              >
                 Ohio
               </option>
 
-              <option value="Oklahoma" data-type="STATE">
+              <option
+                value="Oklahoma"
+                data-type="STATE"
+                selected={state == "Oklahoma" ? true : false}
+              >
                 Oklahoma
               </option>
 
-              <option value="Oregon" data-type="STATE">
+              <option
+                value="Oregon"
+                data-type="STATE"
+                selected={state == "Oregon" ? true : false}
+              >
                 Oregon
               </option>
 
-              <option value="Pennsylvania" data-type="STATE">
+              <option
+                value="Pennsylvania"
+                data-type="STATE"
+                selected={state == "Pennsylvania" ? true : false}
+              >
                 Pennsylvania
               </option>
 
-              <option value="Rhode Island" data-type="STATE">
+              <option
+                value="Rhode Island"
+                data-type="STATE"
+                selected={state == "Rhode Island" ? true : false}
+              >
                 Rhode Island
               </option>
 
-              <option value="South Carolina" data-type="STATE">
+              <option
+                value="South Carolina"
+                data-type="STATE"
+                selected={state == "South Carolina" ? true : false}
+              >
                 South Carolina
               </option>
 
-              <option value="South Dakota" data-type="STATE">
+              <option
+                value="South Dakota"
+                data-type="STATE"
+                selected={state == "South Dakota" ? true : false}
+              >
                 South Dakota
               </option>
 
-              <option value="Tennessee" data-type="STATE">
+              <option
+                value="Tennessee"
+                data-type="STATE"
+                selected={state == "Tennessee" ? true : false}
+              >
                 Tennessee
               </option>
 
-              <option value="Texas" data-type="STATE">
+              <option
+                value="Texas"
+                data-type="STATE"
+                selected={state == "Texas" ? true : false}
+              >
                 Texas
               </option>
 
-              <option value="Utah" data-type="STATE">
+              <option
+                value="Utah"
+                data-type="STATE"
+                selected={state == "Utah" ? true : false}
+              >
                 Utah
               </option>
 
-              <option value="Vermont" data-type="STATE">
+              <option
+                value="Vermont"
+                data-type="STATE"
+                selected={state == "Vermont" ? true : false}
+              >
                 Vermont
               </option>
 
-              <option value="Virginia" data-type="STATE">
+              <option
+                value="Virginia"
+                data-type="STATE"
+                selected={state == "Virginia" ? true : false}
+              >
                 Virginia
               </option>
 
-              <option value="Washington" data-type="STATE">
+              <option
+                value="Washington"
+                data-type="STATE"
+                selected={state == "Washington" ? true : false}
+              >
                 Washington
               </option>
 
-              <option value="West Virginia" data-type="STATE">
+              <option
+                value="West Virginia"
+                data-type="STATE"
+                selected={state == "West Virginia" ? true : false}
+              >
                 West Virginia
               </option>
 
-              <option value="Wisconsin" data-type="STATE">
+              <option
+                value="Wisconsin"
+                data-type="STATE"
+                selected={state == "Wisconsin" ? true : false}
+              >
                 Wisconsin
               </option>
 
-              <option value="Wyoming" data-type="STATE">
+              <option
+                value="Wyoming"
+                data-type="STATE"
+                selected={state == "Wyoming" ? true : false}
+              >
                 Wyoming
               </option>
             </select>
@@ -363,8 +563,12 @@ const ShippingInfo = (props) => {
               defaultValue={country}
               isRequired="true"
             >
-              <option value="">Country</option>
-              <option value="us">US</option>
+              <option value="" selected={country == "Country" ? true : false}>
+                Country
+              </option>
+              <option value="us" selected={country == "us" ? true : false}>
+                US
+              </option>
             </select>
             <div id="shipping_country-error" className="text-danger"></div>
           </div>

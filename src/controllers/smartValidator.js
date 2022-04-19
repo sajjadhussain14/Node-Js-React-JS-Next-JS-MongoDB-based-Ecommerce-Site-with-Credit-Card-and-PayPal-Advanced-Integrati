@@ -45,11 +45,13 @@ const validateNow = (formID, formInputs) => {
       { key: "isEmail", f: checkEmail },
       { key: "isZip", f: checkZip },
       { key: "isPhone", f: checkPhone },
+      { key: "isMinLen", f: checkMinlen },
     ];
     let keyVal = false;
     let key = "";
     for (let i = 0; i < attrs.length; i++) {
       key = attrs[i].key;
+
       try {
         keyVal = e.getAttribute(key);
       } catch (err) {}
@@ -217,6 +219,46 @@ const checkPhone = (id, name, value) => {
 
     try {
       document.getElementById(id + "-error").innerHTML = "";
+    } catch (err) {}
+  }
+};
+
+const checkMinlen = (id, name, value) => {
+  let v = true;
+
+  if (value && value.length < 6) {
+    document.getElementById(id + "-error").innerHTML =
+      name + " Length should be more than 6 chracters...";
+    v = false;
+    validatedStatus = false;
+  }
+  if (v != false) {
+    validatedStatus = true;
+
+    try {
+      document.getElementById(id + "-error").innerHTML = "";
+    } catch (err) {}
+  }
+};
+
+export const passwordMatch = (p, cp) => {
+  let v = true;
+  let pass = document.getElementById(p).value;
+  let cPass = document.getElementById(cp).value;
+
+  if (pass == cPass) {
+    v = true;
+  } else {
+    document.getElementById(cp + "-error").innerHTML =
+      name + " Password and Confirm password do not match...";
+    v = false;
+    validatedStatus = false;
+  }
+  if (v != false) {
+    validatedStatus = true;
+
+    try {
+      document.getElementById(cp + "-error").innerHTML = "";
     } catch (err) {}
   }
 };
