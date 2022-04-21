@@ -5,6 +5,7 @@ import Router from "next/router";
 
 import { getOrderDetails, setOrderDetails } from "./order";
 import { setCartContent } from "./cart";
+import { validate } from "./smartValidator";
 
 export const authenticateMerchant = (ApiContracts) => {
   console.log("api id", process.env.AUTHORIZE_API_LOGIN_ID);
@@ -291,6 +292,8 @@ export const paymentAuthorize = async (e, setCart) => {
 
   setOrderDetails("orderDetails", orderDetails);
 
+  validate("cardForm");
+
   const response = await fetch(
     URL + "/api/payment/authorize.net/create-order",
     {
@@ -299,16 +302,11 @@ export const paymentAuthorize = async (e, setCart) => {
     }
   );
   const data = await response.json();
-  if (validator.isCreditCard(cardInfo.cardNumber)) {
-    processOrder(data, orderDetails, setCart);
-  } else {
-    alert("invalid card number");
-  }
+  processOrder(data, orderDetails, setCart);
 };
 
 const processOrder = (data, orderDetails, setCart) => {
   let tCode = "";
-
   try {
     tCode = data.messages.resultCode.toLowerCase();
   } catch (err) {}
@@ -330,14 +328,20 @@ const processOrder = (data, orderDetails, setCart) => {
     }, 0);
   } else {
     try {
-      orderDetails.error = data.transactionResponse.errors.error[0].errorText;
+      orderDetails.error = data.messages.message[0].text;
+
+      try {
+        document.getElementById("paymentAlert").classList.remove("d-none");
+      } catch (err) {}
+
+      document.getElementById("paymentAlert").innerHTML = orderDetails.error;
     } catch (err) {
       orderDetails.error = "Something Went Wrong! Please Try Again.";
     }
     setOrderDetails("orderDetails", orderDetails);
 
     setTimeout(() => {
-      Router.push("/error");
+      //  Router.push("/error");
     }, 0);
   }
 };

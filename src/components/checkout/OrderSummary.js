@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import { paymentAuthorize } from "../../controllers/authorize.net";
 import { getOrderDetails, setOrderDetails } from "../../controllers/order";
 
 const OrderSummary = (props) => {
@@ -186,10 +187,15 @@ const OrderSummary = (props) => {
             </span>
           </span>
         </li>
-        <input type="button" value="Place order" />
+        <input
+          type="button"
+          value="Place order"
+          onClick={(e) => {
+            paymentAuthorize(e, props.setCart);
+          }}
+        />
       </ul>
     </>
   );
 };
-
 export default OrderSummary;

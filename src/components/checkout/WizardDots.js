@@ -3,6 +3,7 @@ import {
   getCurrentUserData,
   updateAccountInfo,
 } from "../../controllers/account";
+import { validate, validatedStatus } from "../../controllers/smartValidator";
 
 const WizardDots = (props) => {
   return (
@@ -30,9 +31,6 @@ const WizardDots = (props) => {
               id="wizard-t-1"
               href="javascript:void(0)"
               aria-controls="wizard-p-1"
-              onClick={(e) => {
-                UpdateShipping(e, props.userData, props.setUserData);
-              }}
             >
               <span className="current-info audible">current step: </span>
               <span className="number">2.</span>
@@ -44,7 +42,11 @@ const WizardDots = (props) => {
             className="current"
             aria-selected="true"
           >
-            <a id="wizard-t-2" href="#wizard-h-2" aria-controls="wizard-p-1">
+            <a
+              id="wizard-t-2"
+              aria-controls="wizard-p-1"
+              href="javascript:void(0)"
+            >
               <span className="current-info audible">current step: </span>
               <span className="number">3.</span>
             </a>
@@ -54,9 +56,6 @@ const WizardDots = (props) => {
               id="wizard-t-3"
               href="javascript:void(0)"
               aria-controls="wizard-p-3"
-              onClick={(e) => {
-                UpdateBilling(e, props.userData, props.setUserData);
-              }}
             >
               <span className="number">4.</span>
             </a>

@@ -2,8 +2,9 @@
 
 import validator from "validator";
 import $ from "jquery";
-let validatedStatus = true;
+export let validatedStatus = true;
 export const validate = (formID) => {
+  validatedStatus = true;
   validateInputs(formID);
   validateSelect(formID);
 };
@@ -60,15 +61,6 @@ const validateNow = (formID, formInputs) => {
       }
     }
   }
-  if (!validatedStatus) {
-    try {
-      document.getElementById(formID + "-validate-state").value = false;
-    } catch (err) {}
-  } else {
-    try {
-      document.getElementById(formID + "-validate-state").value = true;
-    } catch (err) {}
-  }
 };
 
 const checkisRequired = (id, name, value) => {
@@ -85,8 +77,6 @@ const checkisRequired = (id, name, value) => {
   }
 
   if (v != false) {
-    validatedStatus = true;
-
     try {
       document.getElementById(id + "-error").innerHTML = "";
 
@@ -104,8 +94,6 @@ const checkAlpha = (id, name, value) => {
   }
 
   if (v != false) {
-    validatedStatus = true;
-
     try {
       document.getElementById(id + "-error").innerHTML = "";
     } catch (err) {}
@@ -122,8 +110,6 @@ const checkNumeric = (id, name, value) => {
   }
 
   if (v != false) {
-    validatedStatus = true;
-
     try {
       document.getElementById(id + "-error").innerHTML = "";
     } catch (err) {}
@@ -140,8 +126,6 @@ const checkCreditCard = (id, name, value) => {
     validatedStatus = false;
   }
   if (v != false) {
-    validatedStatus = true;
-
     try {
       document.getElementById(id + "-error").innerHTML = "";
     } catch (err) {}
@@ -161,8 +145,6 @@ const checkCvv = (id, name, value) => {
     validatedStatus = false;
   }
   if (v != false) {
-    validatedStatus = true;
-
     try {
       document.getElementById(id + "-error").innerHTML = "";
     } catch (err) {}
@@ -179,8 +161,6 @@ const checkEmail = (id, name, value) => {
     validatedStatus = false;
   }
   if (v != false) {
-    validatedStatus = true;
-
     try {
       document.getElementById(id + "-error").innerHTML = "";
     } catch (err) {}
@@ -196,8 +176,6 @@ const checkZip = (id, name, value) => {
     validatedStatus = false;
   }
   if (v != false) {
-    validatedStatus = true;
-
     try {
       document.getElementById(id + "-error").innerHTML = "";
     } catch (err) {}
@@ -215,8 +193,6 @@ const checkPhone = (id, name, value) => {
     validatedStatus = false;
   }
   if (v != false) {
-    validatedStatus = true;
-
     try {
       document.getElementById(id + "-error").innerHTML = "";
     } catch (err) {}
@@ -233,8 +209,6 @@ const checkMinlen = (id, name, value) => {
     validatedStatus = false;
   }
   if (v != false) {
-    validatedStatus = true;
-
     try {
       document.getElementById(id + "-error").innerHTML = "";
     } catch (err) {}
@@ -255,8 +229,6 @@ export const passwordMatch = (p, cp) => {
     validatedStatus = false;
   }
   if (v != false) {
-    validatedStatus = true;
-
     try {
       document.getElementById(cp + "-error").innerHTML = "";
     } catch (err) {}
@@ -271,6 +243,15 @@ if (typeof window != "undefined") {
     validateOnSelectChange();
   });
 }
+
+export const autoValidate = () => {
+  if (typeof window != "undefined") {
+    $(document).ready(function () {
+      validateOnInputChange();
+      validateOnSelectChange();
+    });
+  }
+};
 
 const validateOnInputChange = () => {
   $("input").on("input", function (e) {
@@ -334,13 +315,6 @@ if (typeof window != "undefined") {
     $(".form-wizard-next-btn").click(function (e) {
       let formID = $(this).attr("formID");
       validate($(this).attr("formID"));
-      try {
-        if (validatedStatus == true) {
-          document.getElementById(`${formID}-validate-state`).value = true;
-        } else {
-          document.getElementById(`${formID}-validate-state`).value = false;
-        }
-      } catch (err) {}
       moveToNextStep($(this));
     });
   });
@@ -355,14 +329,8 @@ const moveToNextStep = (e) => {
   var next = e;
   let isvalidated = false;
 
-  if (formID == "PassValidation") {
-    isvalidated = "true";
-  } else {
-    isvalidated = $(`#${formID}-validate-state`).val();
-  }
-
   var nextWizardStep = false;
-  if (isvalidated == "true") {
+  if (validatedStatus == true || formID == "PassValidation") {
     nextWizardStep = true;
   }
   parentFieldset.find(".wizard-required").each(function () {

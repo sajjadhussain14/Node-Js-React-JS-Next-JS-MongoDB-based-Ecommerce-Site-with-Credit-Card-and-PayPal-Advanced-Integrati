@@ -1,13 +1,20 @@
 import React from "react";
 import { CreateUser, resetScreen } from "../../controllers/account";
+import {
+  autoValidate,
+  validatedStatus,
+  validate,
+} from "../../controllers/smartValidator";
+import "../../controllers/smartValidator";
 
 const CreateAccount = (props) => {
+  autoValidate();
   return (
     <>
       <form name="newCustForm" id="newCustForm">
-        <h5 className="modal-title" id="">
-          Login Credientials:{" "}
-        </h5>
+        <h3 className="modal-title" id="">
+          Create Account:
+        </h3>
         <br clear="all" />
         <div className="row">
           <div className="col-12 col-sm-6">
@@ -20,11 +27,11 @@ const CreateAccount = (props) => {
                 className="loginInput form-control"
                 type="text"
                 id="new-email"
-                name="email"
-                data-required="true"
-                data-validate="email"
+                name="Email"
+                isEmail="true"
               />
             </div>
+            <div id="new-email-error" className="text-danger"></div>
           </div>
           <div className="col-12 col-sm-6">
             <div className="form-group">
@@ -36,11 +43,12 @@ const CreateAccount = (props) => {
                 className="loginInput form-control"
                 type="password"
                 id="new-password"
-                name="passwrd"
-                data-required="true"
-                data-validation="password"
+                name="Passwrd"
+                isRequired="true"
+                isMinLen="true"
               />
             </div>
+            <div id="new-password-error" className="text-danger"></div>
           </div>
         </div>
         <hr />
@@ -60,9 +68,10 @@ const CreateAccount = (props) => {
                 className="loginInput form-control"
                 type="text"
                 id="new-fname"
-                name="first_name"
-                data-required="true"
+                name="First name"
+                isAlpha="true"
               />
+              <div id="new-fname-error" className="text-danger"></div>
             </div>
 
             <div className="form-group">
@@ -74,9 +83,10 @@ const CreateAccount = (props) => {
                 className="loginInput form-control"
                 type="text"
                 id="new-lname"
-                name="last_name"
-                data-required="true"
+                name="Last name"
+                isAlpha="true"
               />
+              <div id="new-lname-error" className="text-danger"></div>
             </div>
 
             <div className="form-group">
@@ -88,10 +98,10 @@ const CreateAccount = (props) => {
                 className="loginInput form-control"
                 type="text"
                 id="new-phone"
-                name="phone"
-                data-required="true"
-                data-validate="phone"
+                name="Phone"
+                isphone="true"
               />
+              <div id="new-phone-error" className="text-danger"></div>
             </div>
           </div>
           <div className="col-12 col-sm-6">
@@ -104,9 +114,10 @@ const CreateAccount = (props) => {
                 className="loginInput form-control"
                 type="text"
                 id="new-address1"
-                name="address1"
-                data-required="true"
+                name="Street"
+                isRequired="true"
               />
+              <div id="new-address1-error" className="text-danger"></div>
             </div>
 
             <div className="form-group">
@@ -118,9 +129,10 @@ const CreateAccount = (props) => {
                 className="loginInput form-control"
                 type="text"
                 id="new-address2"
-                name="address2"
-                data-required="false"
+                name="Unit/Suite"
+                isRequired="true"
               />
+              <div id="new-address2-error" className="text-danger"></div>
             </div>
 
             <div className="form-group">
@@ -132,9 +144,10 @@ const CreateAccount = (props) => {
                 className="loginInput form-control"
                 type="text"
                 id="new-city"
-                name="city"
-                data-required="true"
+                name="City"
+                isAlpha="true"
               />
+              <div id="new-city-error" className="text-danger"></div>
             </div>
 
             <div className="form-group">
@@ -144,11 +157,11 @@ const CreateAccount = (props) => {
               <br clear="all" />
               <select
                 className="loginSelect form-control"
-                name="state"
+                name="State"
                 id="new-state"
-                data-required="true"
+                isRequired="true"
               >
-                <option value="--">--</option>
+                <option value="">--</option>
 
                 <option value="AL" data-type="STATE">
                   Alabama
@@ -350,6 +363,7 @@ const CreateAccount = (props) => {
                   Wyoming
                 </option>
               </select>
+              <div id="new-state-error" className="text-danger"></div>
             </div>
 
             <div className="form-group">
@@ -361,10 +375,10 @@ const CreateAccount = (props) => {
                 className="loginInput form-control"
                 type="text"
                 id="new-zcode"
-                name="zip"
-                data-required="true"
-                data-validate="zip"
+                name="Zip Code"
+                isZip="true"
               />
+              <div id="new-zcode-error" className="text-danger"></div>
             </div>
 
             <div className="form-group">
@@ -372,9 +386,16 @@ const CreateAccount = (props) => {
                 Country: <span className="required">*</span>
               </label>
               <br clear="all" />
-              <select name="country" className="loginSelect" id="country">
+              <select
+                name="Country"
+                className="loginSelect"
+                id="country"
+                isRequired="true"
+              >
+                <option value="">Country</option>
                 <option value="US">United States</option>
               </select>
+              <div id="country-error" className="text-danger"></div>
             </div>
           </div>
         </div>
@@ -383,7 +404,10 @@ const CreateAccount = (props) => {
         <button
           className="btn btn-dark mybtn"
           onClick={(e) => {
-            CreateUser(e, props.setScreen);
+            validate("newCustForm");
+            if (validatedStatus == true) {
+              CreateUser(e, props.setScreen);
+            }
           }}
         >
           Create Account

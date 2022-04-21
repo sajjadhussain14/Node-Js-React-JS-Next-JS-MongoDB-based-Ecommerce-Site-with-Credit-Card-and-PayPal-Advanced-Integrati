@@ -9,9 +9,8 @@ const Layout = (props) => {
   return (
     <section id="contentHolder">
       <div className="container" id="loginPageContainer">
-        <div className="row">
-          <Heading />
-          <div className="loginPage col-6 mx-auto py-3">
+        <div className="row loginPageScreen">
+          <div className="loginPage col-12 mx-auto py-3">
             {props.screen && props.screen == "authenticated" ? (
               <>
                 <Athenticated setScreen={props.setScreen} />

@@ -96,6 +96,7 @@ const Layout = (props) => {
                       <div id="products-list" className="me-sm-3">
                         <OrderSummary
                           cart={props.cart}
+                          setCart={props.setCart}
                           shippingMethod={props.shippingMethod}
                           setShippingMethod={props.setShippingMethod}
                           tax={props.tax}

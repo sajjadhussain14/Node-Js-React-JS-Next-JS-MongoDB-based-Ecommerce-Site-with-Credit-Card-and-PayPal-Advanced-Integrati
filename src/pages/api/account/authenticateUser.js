@@ -6,16 +6,21 @@ export default async function handler(req, res) {
   let login_email = data.email;
   let login_password = data.password;
   let dataURL = process.cwd() + `/data/users/users.json`;
+  console.log("here");
 
   const rawData = await fsp.readFile(dataURL);
-  const usersData = JSON.parse(rawData);
+  let usersData = [];
+  try {
+    usersData = JSON.parse(rawData);
+  } catch (err) {
+    usersData = [];
+  }
   let record = usersData.filter(
     (person) =>
       person.credentials.email == login_email &&
       person.credentials.password == md5(login_password)
   );
 
-  console.log("record", record);
   let stCode = "409";
   let response = "";
   let ID = "";

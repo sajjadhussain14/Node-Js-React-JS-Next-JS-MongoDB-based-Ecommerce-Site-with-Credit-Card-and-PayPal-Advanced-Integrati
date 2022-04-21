@@ -95,40 +95,6 @@ export const getCheckoutScripts = ($) => {
       });
   });
 
-  $(".wizard ul li a").click(function () {
-    $(this).parent().addClass("checked");
-    $(this).parent().prevAll().addClass("checked");
-    $(this).parent().nextAll().removeClass("checked");
-  });
-
-  $("#wizard-t-0").on("click", function () {
-    $(".form-wizard .wizard-fieldset:nth-of-type(1)").addClass("show");
-    $(".form-wizard .wizard-fieldset:nth-of-type(2)").removeClass("show");
-    $(".form-wizard .wizard-fieldset:nth-of-type(3)").removeClass("show");
-    $(".form-wizard .wizard-fieldset:nth-of-type(4)").removeClass("show");
-  });
-
-  $("#wizard-t-1").on("click", function () {
-    $(".form-wizard .wizard-fieldset:nth-of-type(1)").removeClass("show");
-    $(".form-wizard .wizard-fieldset:nth-of-type(2)").addClass("show");
-    $(".form-wizard .wizard-fieldset:nth-of-type(3)").removeClass("show");
-    $(".form-wizard .wizard-fieldset:nth-of-type(4)").removeClass("show");
-  });
-
-  $("#wizard-t-2").on("click", function () {
-    $(".form-wizard .wizard-fieldset:nth-of-type(1)").removeClass("show");
-    $(".form-wizard .wizard-fieldset:nth-of-type(2)").removeClass("show");
-    $(".form-wizard .wizard-fieldset:nth-of-type(3)").addClass("show");
-    $(".form-wizard .wizard-fieldset:nth-of-type(4)").removeClass("show");
-  });
-
-  $("#wizard-t-3").on("click", function () {
-    $(".form-wizard .wizard-fieldset:nth-of-type(1)").removeClass("show");
-    $(".form-wizard .wizard-fieldset:nth-of-type(2)").removeClass("show");
-    $(".form-wizard .wizard-fieldset:nth-of-type(3)").removeClass("show");
-    $(".form-wizard .wizard-fieldset:nth-of-type(4)").addClass("show");
-  });
-
   $(".form-wizard .wizard-fieldset:nth-of-type(1) .form-wizard-next-btn").click(
     function () {
       let formID = $(this).attr("formID");

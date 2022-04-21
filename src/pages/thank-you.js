@@ -22,6 +22,100 @@ const thankYou = (props) => {
     cartValue = JSON.parse(localStorage.getItem("cart"));
   }
 
+  order = {
+    orderNumber: "63egeajfjj43gc8g0224",
+    orderDesc: "",
+    date_created: "2022-04-20T11:27:32.740Z",
+    orderStatus: "processing",
+    accountNumber: "",
+    accountType: "",
+    networkTransId: "",
+    transId: "",
+    userID: "",
+    items: [
+      {
+        id: "266175",
+        brand: "SPRINGFIELD",
+        name: "XDM OSP 9MM 4.5IN ALL DESERT FDE W/ 3 SIGHT BASES 219RND MAGS | 706397932497",
+        image:
+          "https://cdn-cumulusdata.celerantwebservices.com/SSPRODIMAGES/120943.jpg",
+        product_url:
+          "/product/266175/XDMOSP9MM45INALLDESERTFDEW3SIGHTBASES219RNDMAGS",
+        qty: 1,
+        itemPrice: 658.8,
+        salesPrice: 0,
+        total: 658.8,
+      },
+    ],
+    user: {
+      id: "d5idcg5dcfhdd0he875a",
+      billing: {
+        first_name: "sad",
+        last_name: "Hussain",
+        phone: "19285675467",
+        address1: "yerggd dgsdg",
+        address2: "gfdgd",
+        email: "sam22@s.com",
+        city: "ny",
+        state: "Iowa",
+        zip_code: "85030",
+        country: "us",
+      },
+      shipping: {
+        first_name: "sss",
+        last_name: "hussain",
+        phone: "19285675467",
+        address1: "yerggd dgsdg",
+        address2: "gfdgd",
+        email: "sajjadast786@gmail.com",
+        city: "ny",
+        state: "Arizona",
+        zip_code: "85030",
+        country: "us",
+      },
+    },
+    payment: {
+      id: "0XJ57085KA647631S",
+      paymentMethod: "paypal",
+      currency: "USD",
+      status: "COMPLETED",
+    },
+    order: {
+      shipping: {
+        name: "Nick Shipping ($0.00)",
+        amount: 0,
+        description: "",
+      },
+      duty: {
+        name: "",
+        amount: "",
+        description: "",
+      },
+      credit: {
+        name: "",
+        amount: "",
+        description: "",
+      },
+      coupon: {
+        name: "",
+        amount: "",
+        description: "",
+      },
+      taxDetail: {
+        name: "tax",
+        amount: 0,
+        description: "tax",
+      },
+      orderCommensts: "",
+      giftNotes: "",
+      total: "658.80",
+      tax: 0,
+      subTotal: "658.00",
+    },
+    error: "",
+    UserID: "d5idcg5dcfhdd0he875a",
+  };
+
   if (typeof window != "undefined") {
     if (!order.orderNumber || order.orderNumber == "") {
       return (
@@ -41,7 +135,6 @@ const thankYou = (props) => {
       );
     }
   }
-
   return (
     <>
       <Header taxonomy={props.taxonomy} cartData={cartValue} />

@@ -12,13 +12,6 @@ const ShippingMethods = (props) => {
     <fieldset id="wizard-p-1" className="wizard-fieldset">
       <h5>Shipping Method</h5>
       <form name="shippingMethodForm" id="shippingMethodForm">
-        <input
-          name="shippingMethodForm-validate-state"
-          id="shippingMethodForm-validate-state"
-          type="text"
-          defaultValue="false"
-        />
-
         <div className="form-group col-lg-12 col-md-12 col-sm-12 col-12">
           <div className="wizard-form-radio">
             <input
@@ -98,13 +91,19 @@ const ShippingMethods = (props) => {
       </form>
 
       <div className="form-group clearfix">
-        <a href="javascript:;" className="form-wizard-previous-btn float-left">
+        <a
+          href="javascript:;"
+          className="form-wizard-previous-btn float-left"
+          onClick={() => {
+            document.getElementById("wizard-t-1").style.background = "#e9e0cf";
+          }}
+        >
           Previous
         </a>
         <a
           href="javascript:;"
           className="form-wizard-next-btn float-right"
-          formID="shippingMethodForm"
+          formID="PassValidation"
           onClick={(e) => {
             validate("shippingMethodForm");
           }}

@@ -24,7 +24,6 @@ export default async function handler(req, res) {
   try {
     data = JSON.parse(data);
   } catch (err) {}
-  console.log("dddddddddddddddddddddd", data);
   let cardInfo = data.cardInfo;
   let orderData = data.orderDetails;
 

@@ -4,7 +4,14 @@ import {
   updateAccountInfo,
 } from "../../controllers/account";
 
+import {
+  autoValidate,
+  validatedStatus,
+  validate,
+} from "../../controllers/smartValidator";
+
 const BillingAddress = (props) => {
+  autoValidate();
   const [editBillingFlag, setEditBillingFlag] = useState(false);
   let fname = "";
   let lname = "";
@@ -102,74 +109,63 @@ const BillingAddress = (props) => {
               <div id="divAddressContainer" className="row">
                 <div className="accountHolder col-12 col-sm-6">
                   <p>
-                    <label
-                      title="emailAddress"
-                      className="loginLabel form-label"
-                    >
+                    <label className="loginLabel form-label">
                       First Name:*
                     </label>
                     <br clear="all" />
                     <input
-                      name="first_name"
+                      name="First Name"
                       type="text"
                       defaultValue={fname}
                       id="first_name"
                       className="loginInput form-control"
+                      isAlpha="true"
                     />
+                    <div id="first_name-error" className="text-danger"></div>
                   </p>
 
                   <p>
-                    <label
-                      title="emailAddress"
-                      className="loginLabel form-label"
-                    >
-                      Last Name:*
-                    </label>
+                    <label className="loginLabel form-label">Last Name:*</label>
                     <br clear="all" />
                     <input
-                      name="last_name"
+                      name="Last Name"
                       type="text"
                       defaultValue={lname}
-                      alt="last_name"
                       id="last_name"
                       className="loginInput form-control"
+                      isAlpha="true"
                     />
+                    <div id="last_name-error" className="text-danger"></div>
                   </p>
 
                   <p>
-                    <label
-                      title="emailAddress"
-                      className="loginLabel form-label"
-                    >
-                      Phone:*
-                    </label>
+                    <label className="loginLabel form-label">Phone:*</label>
                     <br clear="all" />
                     <input
-                      name="phone1"
+                      name="Phone"
                       type="text"
                       defaultValue={phone}
-                      alt="phone1"
                       id="phone"
                       className="loginInput form-control"
+                      isPhone="true"
                     />
+                    <div id="phone-error" className="text-danger"></div>
                   </p>
 
                   <p>
-                    <label
-                      title="emailAddress"
-                      className="loginLabel form-label"
-                    >
+                    <label className="loginLabel form-label">
                       Email Address:*
                     </label>
                     <br clear="all" />
                     <input
-                      name="Email1"
+                      name="Email"
                       type="text"
                       defaultValue={email}
-                      alt="Email1"
                       id="email"
                       className="loginInput form-control"
+                      isEmail="true"
                     />
+                    <div id="email-error" className="text-danger"></div>
                   </p>
 
                   <p>
@@ -181,55 +177,45 @@ const BillingAddress = (props) => {
                       name="password"
                       type="password"
                       defaultValue={password}
-                      alt="password"
                       id="password"
                       className="loginInput form-control"
+                      isRequired="true"
                     />
+                    <div id="password-error" className="text-danger"></div>
                   </p>
                 </div>
                 <div className="accountHolder col-12 col-sm-6">
                   <p>
-                    <label
-                      title="emailAddress"
-                      className="loginLabel form-label"
-                    >
-                      Street:*
-                    </label>
+                    <label className="loginLabel form-label">Street:*</label>
                     <br clear="all" />
                     <input
-                      name="address1"
+                      name="Street"
                       type="text"
                       defaultValue={address1}
                       maxLength="30"
                       id="address1"
                       className="loginInput form-control"
+                      isRequired="true"
                     />
+                    <div id="address1-error" className="text-danger"></div>
                   </p>
 
                   <p>
-                    <label
-                      title="emailAddress"
-                      className="loginLabel form-label"
-                    >
-                      Unit/Suite:
-                    </label>
+                    <label className="loginLabel form-label">Unit/Suite:</label>
                     <br clear="all" />
                     <input
                       type="text"
                       id="address2"
-                      name="address2"
+                      name="Unit/Suite"
                       className="loginInput form-control"
                       defaultValue={address2}
+                      isRequired="true"
                     />
+                    <div id="address2-error" className="text-danger"></div>
                   </p>
 
                   <p>
-                    <label
-                      title="emailAddress"
-                      className="loginLabel form-label"
-                    >
-                      City:*
-                    </label>
+                    <label className="loginLabel form-label">City:*</label>
                     <br clear="all" />
                     <input
                       name="City"
@@ -237,7 +223,9 @@ const BillingAddress = (props) => {
                       defaultValue={city}
                       id="city"
                       className="loginInput form-control"
+                      isAlpha="true"
                     />
+                    <div id="city-error" className="text-danger"></div>
                   </p>
 
                   <p>
@@ -247,247 +235,401 @@ const BillingAddress = (props) => {
                     <br clear="all" />
 
                     <select
-                      name="state"
+                      name="State"
                       className="loginSelect"
                       id="state"
                       defaultValue={state}
+                      isRequired="true"
                     >
-                      <option value="--">--</option>
+                      <option value="">--</option>
 
-                      <option value="AL" data-type="STATE">
+                      <option
+                        value="AL"
+                        selected={state == "AL" ? true : false}
+                      >
                         Alabama
                       </option>
 
-                      <option value="AK" data-type="STATE">
+                      <option
+                        value="AK"
+                        selected={state == "AK" ? true : false}
+                      >
                         Alaska
                       </option>
 
-                      <option value="AZ" data-type="STATE">
+                      <option
+                        value="AZ"
+                        selected={state == "AZ" ? true : false}
+                      >
                         Arizona
                       </option>
 
-                      <option value="AR" data-type="STATE">
+                      <option
+                        value="AR"
+                        selected={state == "AR" ? true : false}
+                      >
                         Arkansas
                       </option>
 
-                      <option value="CA" data-type="STATE">
+                      <option
+                        value="CA"
+                        selected={state == "CA" ? true : false}
+                      >
                         California
                       </option>
 
-                      <option value="CO" data-type="STATE">
+                      <option
+                        value="CO"
+                        selected={state == "CO" ? true : false}
+                      >
                         Colorado
                       </option>
 
-                      <option value="CT" data-type="STATE">
+                      <option
+                        value="CT"
+                        selected={state == "CT" ? true : false}
+                      >
                         Connecticut
                       </option>
 
-                      <option value="DE" data-type="STATE">
+                      <option
+                        value="DE"
+                        selected={state == "DE" ? true : false}
+                      >
                         Delaware
                       </option>
 
-                      <option value="DC" data-type="STATE">
+                      <option
+                        value="DC"
+                        selected={state == "DC" ? true : false}
+                      >
                         District of Columbia
                       </option>
 
-                      <option value="FL" data-type="STATE">
+                      <option
+                        value="FL"
+                        selected={state == "FL" ? true : false}
+                      >
                         Florida
                       </option>
 
-                      <option value="GA" data-type="STATE">
+                      <option
+                        value="GA"
+                        selected={state == "GA" ? true : false}
+                      >
                         Georgia
                       </option>
 
-                      <option value="ID" data-type="STATE">
+                      <option
+                        value="ID"
+                        selected={state == "ID" ? true : false}
+                      >
                         Idaho
                       </option>
 
-                      <option value="IL" data-type="STATE">
+                      <option
+                        value="IL"
+                        selected={state == "IL" ? true : false}
+                      >
                         Illinois
                       </option>
 
-                      <option value="IN" data-type="STATE">
+                      <option
+                        value="IN"
+                        selected={state == "IN" ? true : false}
+                      >
                         Indiana
                       </option>
 
-                      <option value="IA" data-type="STATE">
+                      <option
+                        value="IA"
+                        selected={state == "IA" ? true : false}
+                      >
                         Iowa
                       </option>
 
-                      <option value="KS" data-type="STATE">
+                      <option
+                        value="KS"
+                        selected={state == "KS" ? true : false}
+                      >
                         Kansas
                       </option>
 
-                      <option value="KY" data-type="STATE">
+                      <option
+                        value="KY"
+                        selected={state == "KY" ? true : false}
+                      >
                         Kentucky
                       </option>
 
-                      <option value="LA" data-type="STATE">
+                      <option
+                        value="LA"
+                        selected={state == "LA" ? true : false}
+                      >
                         Louisiana
                       </option>
 
-                      <option value="ME" data-type="STATE">
+                      <option
+                        value="ME"
+                        selected={state == "ME" ? true : false}
+                      >
                         Maine
                       </option>
 
-                      <option value="MD" data-type="STATE">
+                      <option
+                        value="MD"
+                        selected={state == "MD" ? true : false}
+                      >
                         Maryland
                       </option>
 
-                      <option value="MA" data-type="STATE">
+                      <option
+                        value="MA"
+                        selected={state == "MA" ? true : false}
+                      >
                         Massachusetts
                       </option>
 
-                      <option value="MI" data-type="STATE">
+                      <option
+                        value="MI"
+                        selected={state == "MI" ? true : false}
+                      >
                         Michigan
                       </option>
 
-                      <option value="MN" data-type="STATE">
+                      <option
+                        value="MN"
+                        selected={state == "MN" ? true : false}
+                      >
                         Minnesota
                       </option>
 
-                      <option value="MS" data-type="STATE">
+                      <option
+                        value="MS"
+                        selected={state == "MS" ? true : false}
+                      >
                         Mississippi
                       </option>
 
-                      <option value="MO" data-type="STATE">
+                      <option
+                        value="MO"
+                        selected={state == "MO" ? true : false}
+                      >
                         Missouri
                       </option>
 
-                      <option value="MT" data-type="STATE">
+                      <option
+                        value="MT"
+                        selected={state == "MT" ? true : false}
+                      >
                         Montana
                       </option>
 
-                      <option value="NE" data-type="STATE">
+                      <option
+                        value="NE"
+                        selected={state == "NE" ? true : false}
+                      >
                         Nebraska
                       </option>
 
-                      <option value="NV" data-type="STATE">
+                      <option
+                        value="NV"
+                        selected={state == "NV" ? true : false}
+                      >
                         Nevada
                       </option>
 
-                      <option value="NH" data-type="STATE">
+                      <option
+                        value="NH"
+                        selected={state == "NH" ? true : false}
+                      >
                         New Hampshire
                       </option>
 
-                      <option value="NJ" data-type="STATE">
+                      <option
+                        value="NJ"
+                        selected={state == "NJ" ? true : false}
+                      >
                         New Jersey
                       </option>
 
-                      <option value="NM" data-type="STATE">
+                      <option
+                        value="NM"
+                        selected={state == "NM" ? true : false}
+                      >
                         New Mexico
                       </option>
 
-                      <option value="NY" data-type="STATE">
+                      <option
+                        value="NY"
+                        selected={state == "NY" ? true : false}
+                      >
                         New York
                       </option>
 
-                      <option value="NC" data-type="STATE">
+                      <option
+                        value="NC"
+                        selected={state == "NC" ? true : false}
+                      >
                         North Carolina
                       </option>
 
-                      <option value="ND" data-type="STATE">
+                      <option
+                        value="ND"
+                        selected={state == "ND" ? true : false}
+                      >
                         North Dakota
                       </option>
 
-                      <option value="OH" data-type="STATE">
+                      <option
+                        value="OH"
+                        selected={state == "OH" ? true : false}
+                      >
                         Ohio
                       </option>
 
-                      <option value="OK" data-type="STATE">
+                      <option
+                        value="OK"
+                        selected={state == "OK" ? true : false}
+                      >
                         Oklahoma
                       </option>
 
-                      <option value="OR" data-type="STATE">
+                      <option
+                        value="OR"
+                        selected={state == "OR" ? true : false}
+                      >
                         Oregon
                       </option>
 
-                      <option value="PA" data-type="STATE">
+                      <option
+                        value="PA"
+                        selected={state == "PA" ? true : false}
+                      >
                         Pennsylvania
                       </option>
 
-                      <option value="RI" data-type="STATE">
+                      <option
+                        value="RI"
+                        selected={state == "RI" ? true : false}
+                      >
                         Rhode Island
                       </option>
 
-                      <option value="SC" data-type="STATE">
+                      <option
+                        value="SC"
+                        selected={state == "SC" ? true : false}
+                      >
                         South Carolina
                       </option>
 
-                      <option value="SD" data-type="STATE">
+                      <option
+                        value="SD"
+                        selected={state == "SD" ? true : false}
+                      >
                         South Dakota
                       </option>
 
-                      <option value="TN" data-type="STATE">
+                      <option
+                        value="TN"
+                        selected={state == "TN" ? true : false}
+                      >
                         Tennessee
                       </option>
 
-                      <option value="TX" data-type="STATE">
+                      <option
+                        value="TX"
+                        selected={state == "TX" ? true : false}
+                      >
                         Texas
                       </option>
 
-                      <option value="UT" data-type="STATE">
+                      <option
+                        value="UT"
+                        selected={state == "UT" ? true : false}
+                      >
                         Utah
                       </option>
 
-                      <option value="VT" data-type="STATE">
+                      <option
+                        value="VT"
+                        selected={state == "VT" ? true : false}
+                      >
                         Vermont
                       </option>
 
-                      <option value="VA" data-type="STATE">
+                      <option
+                        value="VA"
+                        selected={state == "VA" ? true : false}
+                      >
                         Virginia
                       </option>
 
-                      <option value="WA" data-type="STATE">
+                      <option
+                        value="WA"
+                        selected={state == "WA" ? true : false}
+                      >
                         Washington
                       </option>
 
-                      <option value="WV" data-type="STATE">
+                      <option
+                        value="WV"
+                        selected={state == "WV" ? true : false}
+                      >
                         West Virginia
                       </option>
 
-                      <option value="WI" data-type="STATE">
+                      <option
+                        value="WI"
+                        selected={state == "WI" ? true : false}
+                      >
                         Wisconsin
                       </option>
 
-                      <option value="WY" data-type="STATE">
+                      <option
+                        value="WY"
+                        selected={state == "WY" ? true : false}
+                      >
                         Wyoming
                       </option>
                     </select>
+                    <div id="state-error" className="text-danger"></div>
                   </p>
 
                   <p>
-                    <label
-                      title="emailAddress"
-                      className="loginLabel form-label"
-                    >
-                      Zip Code:*
-                    </label>
+                    <label className="loginLabel form-label">Zip Code:*</label>
                     <br clear="all" />
                     <input
-                      name="ZIP"
+                      name="Zip Code"
                       type="text"
                       defaultValue={zcode}
                       maxLength="10"
                       id="zip_code"
                       className="loginInput form-control"
+                      isZip="true"
                     />
+                    <div id="zip_code-error" className="text-danger"></div>
                   </p>
 
                   <p>
-                    <label
-                      title="emailAddress"
-                      className="loginLabel form-label"
-                    >
-                      Country:*
-                    </label>
+                    <label className="loginLabel form-label">Country:*</label>
                     <br clear="all" />
 
-                    <select name="country" className="loginSelect" id="country">
-                      <option value="US" defaultValue={country}>
+                    <select
+                      name="Country"
+                      className="loginSelect"
+                      id="country"
+                      isRequired="true"
+                    >
+                      <option value="">Country</option>
+                      <option
+                        value="US"
+                        selected={country == "US" ? true : false}
+                      >
                         United States
                       </option>
                     </select>
+                    <div id="country-error" className="text-danger"></div>
                   </p>
                 </div>
                 <div className="col-12 actionBtns">
@@ -504,12 +646,15 @@ const BillingAddress = (props) => {
                     name="SubmitInfo"
                     className="btn btn-primary"
                     onClick={(e) => {
-                      UpdateBilling(
-                        e,
-                        props.userData,
-                        setEditBillingFlag,
-                        props.setUserData
-                      );
+                      validate("billingForm");
+                      if (validatedStatus == true) {
+                        UpdateBilling(
+                          e,
+                          props.userData,
+                          setEditBillingFlag,
+                          props.setUserData
+                        );
+                      }
                     }}
                   >
                     Save &amp; Continue

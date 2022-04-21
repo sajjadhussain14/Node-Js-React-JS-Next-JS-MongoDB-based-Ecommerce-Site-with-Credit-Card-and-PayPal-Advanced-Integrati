@@ -37,6 +37,6 @@ export default async function handler(req, res) {
         stcode = 409;
       }
     }
-    res.status(stcode).send(response);
+    return res.status(stcode).send(response);
   });
 }

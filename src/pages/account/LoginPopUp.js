@@ -8,7 +8,14 @@ import {
   resetScreen,
 } from "../../controllers/account";
 
+import {
+  autoValidate,
+  validatedStatus,
+  validate,
+} from "../../controllers/smartValidator";
+
 const LoginPopUp = (props) => {
+  autoValidate();
   const [isLogin, setIsLogin] = useState("no");
   let loginstatus = "";
   try {
@@ -112,38 +119,48 @@ const LoginPopUp = (props) => {
                     <div className="form-group">
                       <h1>sign in</h1>
                     </div>
-                    <div className="form-group">
-                      <label className="loginLabel" title="login_email">
-                        Email Address: <span className="required">*</span>
-                      </label>
-                      <br clear="all" />
-                      <input
-                        className="loginInput form-control"
-                        placeholder="Your Email"
-                        type="text"
-                        id="login_email"
-                        name="login_email"
-                        data-required="true"
-                        data-validation="email"
-                      />
-                    </div>
+                    <form name="logimPopUpForm" id="logimPopUpForm">
+                      <div className="form-group">
+                        <label className="loginLabel" title="login_email">
+                          Email Address: <span className="required">*</span>
+                        </label>
+                        <br clear="all" />
+                        <input
+                          className="loginInput form-control"
+                          placeholder="Your Email"
+                          type="text"
+                          id="login_email"
+                          name="Email"
+                          isEmail="true"
+                        />
+                        <div
+                          id="login_email-error"
+                          className="text-danger"
+                        ></div>
+                      </div>
 
-                    <div className="form-group">
-                      <input
-                        className="loginInput form-control"
-                        type="password"
-                        placeholder="Password"
-                        id="login_password"
-                        name="login_password"
-                        data-required="true"
-                        data-validation="password"
-                      />
-                    </div>
-
+                      <div className="form-group">
+                        <input
+                          className="loginInput form-control"
+                          type="password"
+                          placeholder="Password"
+                          id="login_password"
+                          name="Password"
+                          isRequired="true"
+                        />
+                        <div
+                          id="login_password-error"
+                          className="text-danger"
+                        ></div>
+                      </div>
+                    </form>
                     <div className="form-group d-flex w-100 flex-column justify-content-center align-items-center">
                       <button
                         onClick={(e) => {
-                          authenticateUser(e, setScreen);
+                          validate("logimPopUpForm");
+                          if (validatedStatus == true) {
+                            authenticateUser(e, setScreen);
+                          }
                         }}
                         className="btn btn-dark mybtn w-100"
                       >
@@ -178,7 +195,7 @@ const LoginPopUp = (props) => {
                 </div>
               ) : (
                 <div className="modal-body">
-                  <form name="newCustForm" id="newCustForm">
+                  <form name="newUserPopUpForm" id="newUserPopUpForm">
                     <h5 className="modal-title" id="">
                       Login Credientials:{" "}
                     </h5>
@@ -194,10 +211,13 @@ const LoginPopUp = (props) => {
                             className="loginInput form-control"
                             type="text"
                             id="new-email"
-                            name="email"
-                            data-required="true"
-                            data-validate="email"
+                            name="Email"
+                            isEmail="true"
                           />
+                          <div
+                            id="new-email-error"
+                            className="text-danger"
+                          ></div>
                         </div>
                       </div>
                       <div className="col-12 col-sm-6">
@@ -210,10 +230,13 @@ const LoginPopUp = (props) => {
                             className="loginInput form-control"
                             type="password"
                             id="new-password"
-                            name="passwrd"
-                            data-required="true"
-                            data-validation="password"
+                            name="Passwrd"
+                            isRequired="true"
                           />
+                          <div
+                            id="new-password-error"
+                            className="text-danger"
+                          ></div>
                         </div>
                       </div>
                     </div>
@@ -234,9 +257,13 @@ const LoginPopUp = (props) => {
                             className="loginInput form-control"
                             type="text"
                             id="new-fname"
-                            name="first_name"
-                            data-required="true"
+                            name="First Name"
+                            isAlpha="true"
                           />
+                          <div
+                            id="new-fname-error"
+                            className="text-danger"
+                          ></div>
                         </div>
 
                         <div className="form-group">
@@ -248,9 +275,12 @@ const LoginPopUp = (props) => {
                             className="loginInput form-control"
                             type="text"
                             id="new-lname"
-                            name="last_name"
-                            data-required="true"
+                            isAlpha="true"
                           />
+                          <div
+                            id="new-lname-error"
+                            className="text-danger"
+                          ></div>
                         </div>
 
                         <div className="form-group">
@@ -262,10 +292,13 @@ const LoginPopUp = (props) => {
                             className="loginInput form-control"
                             type="text"
                             id="new-phone"
-                            name="phone"
-                            data-required="true"
-                            data-validate="phone"
+                            name="Phone"
+                            isPhone="true"
                           />
+                          <div
+                            id="new-phone-error"
+                            className="text-danger"
+                          ></div>
                         </div>
                       </div>
                       <div className="col-12 col-sm-6">
@@ -278,23 +311,31 @@ const LoginPopUp = (props) => {
                             className="loginInput form-control"
                             type="text"
                             id="new-address1"
-                            name="address1"
-                            data-required="true"
+                            name="Street"
+                            isRequired="true"
                           />
+                          <div
+                            id="new-address1-error"
+                            className="text-danger"
+                          ></div>
                         </div>
 
                         <div className="form-group">
                           <label className="loginLabel" title="address2">
-                            Unit/Suite:{" "}
+                            Unit/Suite:
                           </label>
                           <br clear="all" />
                           <input
                             className="loginInput form-control"
                             type="text"
                             id="new-address2"
-                            name="address2"
-                            data-required="false"
+                            name="Unit/Suite"
+                            isRequired="true"
                           />
+                          <div
+                            id="new-address2-error"
+                            className="text-danger"
+                          ></div>
                         </div>
 
                         <div className="form-group">
@@ -306,9 +347,13 @@ const LoginPopUp = (props) => {
                             className="loginInput form-control"
                             type="text"
                             id="new-city"
-                            name="city"
-                            data-required="true"
+                            name="City"
+                            isRequired="true"
                           />
+                          <div
+                            id="new-city-error"
+                            className="text-danger"
+                          ></div>
                         </div>
 
                         <div className="form-group">
@@ -318,11 +363,11 @@ const LoginPopUp = (props) => {
                           <br clear="all" />
                           <select
                             className="loginSelect form-control"
-                            name="state"
+                            name="State"
                             id="new-state"
-                            data-required="true"
+                            isRequired="true"
                           >
-                            <option value="--">--</option>
+                            <option value="">--</option>
 
                             <option value="AL" data-type="STATE">
                               Alabama
@@ -524,6 +569,10 @@ const LoginPopUp = (props) => {
                               Wyoming
                             </option>
                           </select>
+                          <div
+                            id="new-state-error"
+                            className="text-danger"
+                          ></div>
                         </div>
 
                         <div className="form-group">
@@ -536,9 +585,12 @@ const LoginPopUp = (props) => {
                             type="text"
                             id="new-zcode"
                             name="zip"
-                            data-required="true"
-                            data-validate="zip"
+                            isZip="true"
                           />
+                          <div
+                            id="new-zcode-error"
+                            className="text-danger"
+                          ></div>
                         </div>
 
                         <div className="form-group">
@@ -551,12 +603,15 @@ const LoginPopUp = (props) => {
                           <br clear="all" />
 
                           <select
-                            name="country"
+                            name="Country"
                             className="loginSelect"
                             id="country"
+                            isRequired="true"
                           >
+                            <option value="">Country</option>
                             <option value="US">United States</option>
                           </select>
+                          <div id="country-error" className="text-danger"></div>
                         </div>
                       </div>
                     </div>
@@ -565,7 +620,10 @@ const LoginPopUp = (props) => {
                     <button
                       className="btn btn-dark mybtn"
                       onClick={(e) => {
-                        CreateUser(e, setScreen);
+                        validate("newUserPopUpForm");
+                        if (validatedStatus == true) {
+                          CreateUser(e, setScreen);
+                        }
                       }}
                     >
                       Create Account

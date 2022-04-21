@@ -173,6 +173,11 @@ const PaymentInfo = (props) => {
           Previous
         </a>
       </div>
+      <div
+        id="paymentAlert"
+        className="alert alert-danger d-none"
+        role="alert"
+      ></div>
     </fieldset>
   );
 };

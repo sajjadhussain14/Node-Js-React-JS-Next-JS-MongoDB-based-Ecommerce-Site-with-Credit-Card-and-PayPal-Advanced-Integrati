@@ -39,18 +39,18 @@ const Cart = (props) => {
                       </div>
                       <div className="d-flex flex-column col-lg-6 col-md-12 col-sm-12 col-12">
                         <div className="d-flex align-items-center">
-                          <div className="btn btn-primary">
-                            <span
-                              className="fas fa-plus"
-                              onClick={(e) => {
-                                updateQTY(
-                                  e,
-                                  "increment",
-                                  product.id,
-                                  props.setCart
-                                );
-                              }}
-                            ></span>
+                          <div
+                            className="btn btn-primary"
+                            onClick={(e) => {
+                              updateQTY(
+                                e,
+                                "increment",
+                                product.id,
+                                props.setCart
+                              );
+                            }}
+                          >
+                            <span className="fas fa-plus"></span>
                           </div>
                           <div className="bg-light number">
                             <input
@@ -62,18 +62,18 @@ const Cart = (props) => {
                               }}
                             />
                           </div>
-                          <div className="btn btn-primary">
-                            <span
-                              className="fas fa-minus"
-                              onClick={(e) => {
-                                updateQTY(
-                                  e,
-                                  "decrement",
-                                  product.id,
-                                  props.setCart
-                                );
-                              }}
-                            ></span>
+                          <div
+                            className="btn btn-primary"
+                            onClick={(e) => {
+                              updateQTY(
+                                e,
+                                "decrement",
+                                product.id,
+                                props.setCart
+                              );
+                            }}
+                          >
+                            <span className="fas fa-minus"></span>
                           </div>
                         </div>
                       </div>

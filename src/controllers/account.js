@@ -152,6 +152,11 @@ export const authenticateUser = async (e, setScreen, fromPage) => {
     } catch (err) {}
     loginAlert.innerHTML =
       "Failed! Invalid Email or Password. Please try Agian.";
+
+    setTimeout(() => {
+      loginAlert.innerHTML = "";
+      loginAlert.classList.add("d-none");
+    }, 3000);
   }
   if (fromPage == "checkout") {
     Router.push(URL + "/checkout");
@@ -212,6 +217,14 @@ export const authenticateUserFromLogin = async (e, setScreen, fromPage) => {
     loginAlert.innerHTML =
       "Failed! Invalid Email or Password. Please try Agian.";
   }
+
+  setTimeout(() => {
+    try {
+      loginAlert.innerHTML = "";
+
+      loginAlert.classList.add("d-none");
+    } catch (err) {}
+  }, 3000);
 };
 
 export const resetScreen = (setScreen, loginstatus) => {

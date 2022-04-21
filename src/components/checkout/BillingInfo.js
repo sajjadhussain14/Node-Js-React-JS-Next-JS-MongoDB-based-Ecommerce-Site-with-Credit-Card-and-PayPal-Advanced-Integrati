@@ -8,9 +8,15 @@ import {
   updateAccountInfo,
 } from "../../controllers/account";
 
-import { passwordMatch, validate } from "../../controllers/smartValidator";
+import {
+  passwordMatch,
+  validate,
+  autoValidate,
+  validatedStatus,
+} from "../../controllers/smartValidator";
 
 const BillingInfo = (props) => {
+  autoValidate();
   const [billingEdit, setBillingEdit] = useState(false);
   const [sameBillingAsShipping, setSameBillingAsShipping] = useState(false);
   let fname = "";
@@ -103,15 +109,10 @@ const BillingInfo = (props) => {
         </div>
       </div>
       <form name="billingForm" id="billingForm">
-        <input
-          name="billingForm-validate-state"
-          id="billingForm-validate-state"
-          type="hidden"
-          defaultValue="false"
-        />
-
         <div className={billingEdit ? "row mx-0 " : "row mx-0 d-none"}>
           <div className="form-group col-lg-6 col-md-6 col-sm-12 col-12">
+            <label className="loginLabel form-label">First Name:*</label>
+
             <input
               type="text"
               className="form-control"
@@ -124,6 +125,8 @@ const BillingInfo = (props) => {
             <div id="billing_fname-error" className="text-danger"></div>
           </div>
           <div className="form-group col-lg-6 col-md-6 col-sm-12 col-12">
+            <label className="loginLabel form-label">Last Name:*</label>
+
             <input
               type="text"
               className="form-control"
@@ -137,6 +140,8 @@ const BillingInfo = (props) => {
           </div>
 
           <div className="form-group col-lg-6 col-md-6 col-sm-12 col-12">
+            <label className="loginLabel form-label">Email:*</label>
+
             <input
               type="email"
               className="form-control"
@@ -150,37 +155,8 @@ const BillingInfo = (props) => {
           </div>
 
           <div className="form-group col-lg-6 col-md-6 col-sm-12 col-12">
-            <input
-              type="password"
-              className="form-control"
-              id="billing_password"
-              name="Password"
-              defaultValue={password}
-              placeholder="Password"
-              isRequired="true"
-              isMinLen="true"
-            />
-            <div id="billing_password-error" className="text-danger"></div>
-          </div>
+            <label className="loginLabel form-label">City:*</label>
 
-          <div className="form-group col-lg-6 col-md-6 col-sm-12 col-12">
-            <input
-              type="password"
-              className="form-control"
-              id="billing_cpassword"
-              name="Confirm Password"
-              defaultValue={password}
-              placeholder="Confirm Password"
-              isRequired="true"
-              minLen="true"
-              onChange={() => {
-                passwordMatch("billing_password", "billing_cpassword");
-              }}
-            />
-            <div id="billing_cpassword-error" className="text-danger"></div>
-          </div>
-
-          <div className="form-group col-lg-6 col-md-6 col-sm-12 col-12">
             <input
               type="text"
               className="form-control"
@@ -194,6 +170,8 @@ const BillingInfo = (props) => {
           </div>
 
           <div className="form-group col-lg-12 col-md-12 col-sm-12 col-12">
+            <label className="loginLabel form-label">Street:*</label>
+
             <input
               type="text"
               className="form-control"
@@ -207,6 +185,8 @@ const BillingInfo = (props) => {
           </div>
 
           <div className="form-group col-lg-12 col-md-12 col-sm-12 col-12">
+            <label className="loginLabel form-label">Suit/Unit:*</label>
+
             <input
               type="text"
               className="form-control"
@@ -219,6 +199,8 @@ const BillingInfo = (props) => {
           </div>
 
           <div className="form-group col-lg-6 col-md-6 col-sm-12 col-12">
+            <label className="loginLabel form-label">State:*</label>
+
             <select
               className="form-select col-lg-6 col-md-6 col-sm-12 col-12 form-control"
               aria-label="state select"
@@ -228,407 +210,205 @@ const BillingInfo = (props) => {
               placeholder="State"
               isRequired="true"
             >
-              <option value="" data-type="STATE">
-                --
-              </option>
+              <option value="">--</option>
 
-              <option
-                value="Alabama"
-                data-type="STATE"
-                selected={state == "Alabama" ? true : false}
-              >
+              <option value="AL" selected={state == "AL" ? true : false}>
                 Alabama
               </option>
 
-              <option
-                value="Alaska"
-                data-type="STATE"
-                selected={state == "Alaska" ? true : false}
-              >
+              <option value="AK" selected={state == "AK" ? true : false}>
                 Alaska
               </option>
 
-              <option
-                value="Arizona"
-                data-type="STATE"
-                selected={state == "Arizona" ? true : false}
-              >
+              <option value="AZ" selected={state == "AZ" ? true : false}>
                 Arizona
               </option>
 
-              <option
-                value="Arkansas"
-                data-type="STATE"
-                selected={state == "Arkansas" ? true : false}
-              >
+              <option value="AR" selected={state == "AR" ? true : false}>
                 Arkansas
               </option>
 
-              <option
-                value="California"
-                data-type="STATE"
-                selected={state == "California" ? true : false}
-              >
+              <option value="CA" selected={state == "CA" ? true : false}>
                 California
               </option>
 
-              <option
-                value="Colorado"
-                data-type="STATE"
-                selected={state == "Colorado" ? true : false}
-              >
+              <option value="CO" selected={state == "CO" ? true : false}>
                 Colorado
               </option>
 
-              <option
-                value="Connecticut"
-                data-type="STATE"
-                selected={state == "Connecticut" ? true : false}
-              >
+              <option value="CT" selected={state == "CT" ? true : false}>
                 Connecticut
               </option>
 
-              <option
-                value="Delaware"
-                data-type="STATE"
-                selected={state == "Delaware" ? true : false}
-              >
+              <option value="DE" selected={state == "DE" ? true : false}>
                 Delaware
               </option>
 
-              <option
-                value="District of Columbia"
-                data-type="STATE"
-                selected={state == "District of Columbia" ? true : false}
-              >
+              <option value="DC" selected={state == "DC" ? true : false}>
                 District of Columbia
               </option>
 
-              <option
-                value="Florida"
-                data-type="STATE"
-                selected={state == "Florida" ? true : false}
-              >
+              <option value="FL" selected={state == "FL" ? true : false}>
                 Florida
               </option>
 
-              <option
-                value="Georgia"
-                data-type="STATE"
-                selected={state == "Georgia" ? true : false}
-              >
+              <option value="GA" selected={state == "GA" ? true : false}>
                 Georgia
               </option>
 
-              <option
-                value="Idaho"
-                data-type="STATE"
-                selected={state == "Idaho" ? true : false}
-              >
+              <option value="ID" selected={state == "ID" ? true : false}>
                 Idaho
               </option>
 
-              <option
-                value="Illinois"
-                data-type="STATE"
-                selected={state == "Illinois" ? true : false}
-              >
+              <option value="IL" selected={state == "IL" ? true : false}>
                 Illinois
               </option>
 
-              <option
-                value="Indiana"
-                data-type="STATE"
-                selected={state == "Indiana" ? true : false}
-              >
+              <option value="IN" selected={state == "IN" ? true : false}>
                 Indiana
               </option>
 
-              <option
-                value="Iowa"
-                data-type="STATE"
-                selected={state == "Iowa" ? true : false}
-              >
+              <option value="IA" selected={state == "IA" ? true : false}>
                 Iowa
               </option>
 
-              <option
-                value="Kansas"
-                data-type="STATE"
-                selected={state == "Kansas" ? true : false}
-              >
+              <option value="KS" selected={state == "KS" ? true : false}>
                 Kansas
               </option>
 
-              <option
-                value="Kentucky"
-                data-type="STATE"
-                selected={state == "Kentucky" ? true : false}
-              >
+              <option value="KY" selected={state == "KY" ? true : false}>
                 Kentucky
               </option>
 
-              <option
-                value="Louisiana"
-                data-type="STATE"
-                selected={state == "Louisiana" ? true : false}
-              >
+              <option value="LA" selected={state == "LA" ? true : false}>
                 Louisiana
               </option>
 
-              <option
-                value="Maine"
-                data-type="STATE"
-                selected={state == "Maine" ? true : false}
-              >
+              <option value="ME" selected={state == "ME" ? true : false}>
                 Maine
               </option>
 
-              <option
-                value="Maryland"
-                data-type="STATE"
-                selected={state == "Maryland" ? true : false}
-              >
+              <option value="MD" selected={state == "MD" ? true : false}>
                 Maryland
               </option>
 
-              <option
-                value="Massachusetts"
-                data-type="STATE"
-                selected={state == "Massachusetts" ? true : false}
-              >
+              <option value="MA" selected={state == "MA" ? true : false}>
                 Massachusetts
               </option>
 
-              <option
-                value="Michigan"
-                data-type="STATE"
-                selected={state == "Michigan" ? true : false}
-              >
+              <option value="MI" selected={state == "MI" ? true : false}>
                 Michigan
               </option>
 
-              <option
-                value="Minnesota"
-                data-type="STATE"
-                selected={state == "Minnesota" ? true : false}
-              >
+              <option value="MN" selected={state == "MN" ? true : false}>
                 Minnesota
               </option>
 
-              <option
-                value="Mississippi"
-                data-type="STATE"
-                selected={state == "Mississippi" ? true : false}
-              >
+              <option value="MS" selected={state == "MS" ? true : false}>
                 Mississippi
               </option>
 
-              <option
-                value="Missouri"
-                data-type="STATE"
-                selected={state == "Missouri" ? true : false}
-              >
+              <option value="MO" selected={state == "MO" ? true : false}>
                 Missouri
               </option>
 
-              <option
-                value="Montana"
-                data-type="STATE"
-                selected={state == "Montana" ? true : false}
-              >
+              <option value="MT" selected={state == "MT" ? true : false}>
                 Montana
               </option>
 
-              <option
-                value="Nebraska"
-                data-type="STATE"
-                selected={state == "Nebraska" ? true : false}
-              >
+              <option value="NE" selected={state == "NE" ? true : false}>
                 Nebraska
               </option>
 
-              <option
-                value="Nevada"
-                data-type="STATE"
-                selected={state == "Nevada" ? true : false}
-              >
+              <option value="NV" selected={state == "NV" ? true : false}>
                 Nevada
               </option>
 
-              <option
-                value="New Hampshire"
-                data-type="STATE"
-                selected={state == "New Hampshire" ? true : false}
-              >
+              <option value="NH" selected={state == "NH" ? true : false}>
                 New Hampshire
               </option>
 
-              <option
-                value="New Jersey"
-                data-type="STATE"
-                selected={state == "New Jersey" ? true : false}
-              >
+              <option value="NJ" selected={state == "NJ" ? true : false}>
                 New Jersey
               </option>
 
-              <option
-                value="New Mexico"
-                data-type="STATE"
-                selected={state == "New Mexico" ? true : false}
-              >
+              <option value="NM" selected={state == "NM" ? true : false}>
                 New Mexico
               </option>
 
-              <option
-                value="New York"
-                data-type="STATE"
-                selected={state == "New York" ? true : false}
-              >
+              <option value="NY" selected={state == "NY" ? true : false}>
                 New York
               </option>
 
-              <option
-                value="North Carolina"
-                data-type="STATE"
-                selected={state == "North Carolina" ? true : false}
-              >
+              <option value="NC" selected={state == "NC" ? true : false}>
                 North Carolina
               </option>
 
-              <option
-                value="North Dakota"
-                data-type="STATE"
-                selected={state == "North Dakota" ? true : false}
-              >
+              <option value="ND" selected={state == "ND" ? true : false}>
                 North Dakota
               </option>
 
-              <option
-                value="Ohio"
-                data-type="STATE"
-                selected={state == "Ohio" ? true : false}
-              >
+              <option value="OH" selected={state == "OH" ? true : false}>
                 Ohio
               </option>
 
-              <option
-                value="Oklahoma"
-                data-type="STATE"
-                selected={state == "Oklahoma" ? true : false}
-              >
+              <option value="OK" selected={state == "OK" ? true : false}>
                 Oklahoma
               </option>
 
-              <option
-                value="Oregon"
-                data-type="STATE"
-                selected={state == "Oregon" ? true : false}
-              >
+              <option value="OR" selected={state == "OR" ? true : false}>
                 Oregon
               </option>
 
-              <option
-                value="Pennsylvania"
-                data-type="STATE"
-                selected={state == "Pennsylvania" ? true : false}
-              >
+              <option value="PA" selected={state == "PA" ? true : false}>
                 Pennsylvania
               </option>
 
-              <option
-                value="Rhode Island"
-                data-type="STATE"
-                selected={state == "Rhode Island" ? true : false}
-              >
+              <option value="RI" selected={state == "RI" ? true : false}>
                 Rhode Island
               </option>
 
-              <option
-                value="South Carolina"
-                data-type="STATE"
-                selected={state == "South Carolina" ? true : false}
-              >
+              <option value="SC" selected={state == "SC" ? true : false}>
                 South Carolina
               </option>
 
-              <option
-                value="South Dakota"
-                data-type="STATE"
-                selected={state == "South Dakota" ? true : false}
-              >
+              <option value="SD" selected={state == "SD" ? true : false}>
                 South Dakota
               </option>
 
-              <option
-                value="Tennessee"
-                data-type="STATE"
-                selected={state == "Tennessee" ? true : false}
-              >
+              <option value="TN" selected={state == "TN" ? true : false}>
                 Tennessee
               </option>
 
-              <option
-                value="Texas"
-                data-type="STATE"
-                selected={state == "Texas" ? true : false}
-              >
+              <option value="TX" selected={state == "TX" ? true : false}>
                 Texas
               </option>
 
-              <option
-                value="Utah"
-                data-type="STATE"
-                selected={state == "Utah" ? true : false}
-              >
+              <option value="UT" selected={state == "UT" ? true : false}>
                 Utah
               </option>
 
-              <option
-                value="Vermont"
-                data-type="STATE"
-                selected={state == "Vermont" ? true : false}
-              >
+              <option value="VT" selected={state == "VT" ? true : false}>
                 Vermont
               </option>
 
-              <option
-                value="Virginia"
-                data-type="STATE"
-                selected={state == "Virginia" ? true : false}
-              >
+              <option value="VA" selected={state == "VA" ? true : false}>
                 Virginia
               </option>
 
-              <option
-                value="Washington"
-                data-type="STATE"
-                selected={state == "Washington" ? true : false}
-              >
+              <option value="WA" selected={state == "WA" ? true : false}>
                 Washington
               </option>
 
-              <option
-                value="West Virginia"
-                data-type="STATE"
-                selected={state == "West Virginia" ? true : false}
-              >
+              <option value="WV" selected={state == "WV" ? true : false}>
                 West Virginia
               </option>
 
-              <option
-                value="Wisconsin"
-                data-type="STATE"
-                selected={state == "Wisconsin" ? true : false}
-              >
+              <option value="WI" selected={state == "WI" ? true : false}>
                 Wisconsin
               </option>
 
-              <option
-                value="Wyoming"
-                data-type="STATE"
-                selected={state == "Wyoming" ? true : false}
-              >
+              <option value="WY" selected={state == "WY" ? true : false}>
                 Wyoming
               </option>
             </select>
@@ -636,6 +416,8 @@ const BillingInfo = (props) => {
           </div>
 
           <div className="form-group col-lg-6 col-md-6 col-sm-12 col-12">
+            <label className="loginLabel form-label">Country:*</label>
+
             <select
               className="form-select col-lg-6 col-md-6 col-sm-12 col-12 form-control"
               id="billing_country"
@@ -644,17 +426,17 @@ const BillingInfo = (props) => {
               placeholder="Country"
               isRequired="true"
             >
-              <option value="" selected={country == "Country" ? true : false}>
-                Country
-              </option>
-              <option value="us" selected={country == "us" ? true : false}>
-                US
+              <option value="">Country</option>
+              <option value="US" selected={country == "US" ? true : false}>
+                United States
               </option>
             </select>
             <div id="billing_country-error" className="text-danger"></div>
           </div>
 
           <div className="form-group col-lg-6 col-md-6 col-sm-12 col-12">
+            <label className="loginLabel form-label">Zip Code:*</label>
+
             <input
               type="text"
               className="form-control"
@@ -668,6 +450,8 @@ const BillingInfo = (props) => {
           </div>
 
           <div className="form-group col-lg-6 col-md-6 col-sm-12 col-12">
+            <label className="loginLabel form-label">Phone:*</label>
+
             <input
               type="text"
               className="form-control"
@@ -680,6 +464,18 @@ const BillingInfo = (props) => {
             <div id="billing_phone-error" className="text-danger"></div>
           </div>
         </div>
+        {billingEdit ? (
+          <button
+            className="btn"
+            onClick={() => {
+              setBillingEdit(false);
+            }}
+          >
+            Cancel
+          </button>
+        ) : (
+          ""
+        )}
       </form>
 
       <br />
@@ -704,22 +500,17 @@ const BillingInfo = (props) => {
             className="form-wizard-next-btn float-right"
             formID={billingEdit ? "billingForm" : "PassValidation"}
             onClick={(e) => {
-              // validate("billingForm");
-
-              UpdateBilling(e, props.userData, props.setUserData);
+              if (billingEdit == true) {
+                validate("billingForm");
+                if (validatedStatus == true) {
+                  UpdateBilling(e, props.userData, props.setUserData);
+                }
+              } else {
+                UpdateBilling(e, props.userData, props.setUserData);
+              }
             }}
           >
             Next
-          </a>
-
-          <a
-            href="javascript:;"
-            className="form-wizard-next-btn float-right mr-2"
-            onClick={(e) => {
-              setBillingEdit(false);
-            }}
-          >
-            Cancel
           </a>
         </>
       </div>

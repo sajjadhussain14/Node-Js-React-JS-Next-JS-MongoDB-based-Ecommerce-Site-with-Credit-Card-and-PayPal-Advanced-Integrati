@@ -70,7 +70,7 @@ const TopPaypal = (props) => {
         <div className="col">
           <p className="text-uppercase">
             Subtotal:
-            <strong className="d-block mt-1">{order.order.subTotal}</strong>
+            <strong className="d-block mt-1">${order.order.subTotal}</strong>
           </p>
         </div>
       </div>

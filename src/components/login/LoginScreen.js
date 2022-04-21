@@ -3,41 +3,51 @@ import {
   authenticateUserFromLogin,
   createAccountHandle,
 } from "../../controllers/account";
+import {
+  autoValidate,
+  validatedStatus,
+  validate,
+} from "../../controllers/smartValidator";
 
 const LoginScreen = (props) => {
+  autoValidate();
   return (
     <div className="form-inner">
-      <div className="form-group">
-        <label className="loginLabel" title="login_email">
-          Email Address: <span className="required">*</span>
-        </label>
-        <br clear="all" />
-        <input
-          className="loginInput form-control"
-          placeholder="Your Email"
-          type="text"
-          id="login_email2"
-          name="login_email"
-          data-required="true"
-          data-validation="email"
-        />
+      <div className="col-12">
+        <h3>Sign in to your Account</h3>
       </div>
+      <form name="loginScreenForm" id="loginScreenForm">
+        <div className="form-group">
+          <label className="loginLabel" title="login_email">
+            Email Address: <span className="required">*</span>
+          </label>
+          <br clear="all" />
+          <input
+            className="loginInput form-control"
+            placeholder="Your Email"
+            type="text"
+            id="login_email2"
+            name="Email"
+            isEmail="true"
+          />
+          <div id="login_email2-error" className="text-danger"></div>
+        </div>
 
-      <div className="form-group">
-        <label className="loginLabel" title="login_email">
-          Password:<span className="required">*</span>
-        </label>
-        <input
-          className="loginInput form-control"
-          type="password"
-          placeholder="Password"
-          id="login_password2"
-          name="login_password"
-          data-required="true"
-          data-validation="password"
-        />
-      </div>
-
+        <div className="form-group">
+          <label className="loginLabel" title="login_email">
+            Password:<span className="required">*</span>
+          </label>
+          <input
+            className="loginInput form-control"
+            type="password"
+            placeholder="Password"
+            id="login_password2"
+            name="Password"
+            isRequired="true"
+          />
+          <div id="login_password2-error" className="text-danger"></div>
+        </div>
+      </form>
       <div className="form-group w-100">
         <a
           href=""
@@ -47,7 +57,10 @@ const LoginScreen = (props) => {
         </a>
         <button
           onClick={(e) => {
-            authenticateUserFromLogin(e, props.setScreen, "loginPage");
+            validate("loginScreenForm");
+            if (validatedStatus == true) {
+              authenticateUserFromLogin(e, props.setScreen, "loginPage");
+            }
           }}
           className="btn btn-dark mybtn"
         >
