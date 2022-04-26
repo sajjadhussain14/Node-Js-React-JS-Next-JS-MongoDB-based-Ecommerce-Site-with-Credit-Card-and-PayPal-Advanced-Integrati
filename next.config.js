@@ -39,6 +39,9 @@ module.exports = {
   },
 
   reactStrictMode: true,
+  generateEtags: true,
+  compress: true,
+
   env: {
     URL: process.env.URL,
     COMPANY: process.env.COMPANY,

@@ -1,6 +1,11 @@
 import React, { useEffect } from "react";
 import { paymentAuthorize } from "../../controllers/authorize.net";
 import { getOrderDetails, setOrderDetails } from "../../controllers/order";
+import {
+  validate,
+  autoValidate,
+  validatedStatus,
+} from "../../controllers/smartValidator";
 
 const OrderSummary = (props) => {
   let tax = props.tax;
@@ -191,11 +196,52 @@ const OrderSummary = (props) => {
           type="button"
           value="Place order"
           onClick={(e) => {
-            paymentAuthorize(e, props.setCart);
+            validateAndSubmit(e, props.setCart);
           }}
         />
+        <div
+          id="paymentAlert2"
+          className="alert alert-info d-none"
+          role="alert"
+        ></div>
       </ul>
     </>
   );
 };
 export default OrderSummary;
+
+const validateAndSubmit = (e, setCart) => {
+  let alert2 = document.getElementById("paymentAlert2");
+  let status = false;
+  validate("shippingForm");
+  status = validatedStatus;
+
+  if (status == true) {
+    validate("billingForm");
+    status = validatedStatus;
+  }
+
+  if (status == true) {
+    validate("cardForm");
+    status = validatedStatus;
+  }
+
+  if (status == true) {
+    paymentAuthorize(e, setCart);
+  } else {
+    let alert2 = document.getElementById("paymentAlert2");
+
+    alert2.innerHTML =
+      "Please fill out Shipping Billing and Card Details before Submit";
+    try {
+      alert2.classList.remove("d-none");
+    } catch (err) {}
+
+    setTimeout(() => {
+      alert2.innerHTML = "";
+      try {
+        alert2.classList.add("d-none");
+      } catch (err) {}
+    }, 3000);
+  }
+};

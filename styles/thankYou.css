@@ -1,3 +1,75 @@
-  .thankYou .table-borderless tbody+tbody, .table-borderless td, .table-borderless th, .table-borderless thead th{border-bottom: 2px solid #dee2e6!important;}
+  .thankYou .table-borderless tbody+tbody, .table-borderless td, .table-borderless th, .table-borderless thead th{border-bottom: 0 solid #dee2e6!important; border-top: 0;}
+  .thankYou  .thankYouInner {max-width: 1310px;}
+   .thankYou h1 {color: #1B252C; font-size: 48px; font-family: 'Source Serif Pro', serif; padding: 40px 0 10px 0;}
+   .thankYou table {margin-bottom: 0;}
+   .thankYou .orderSummary {border: solid 1px #D1D3D6; margin-bottom: 30px; border-bottom: none; padding-top: 20px;}
+   .thankYou .orderSummary h2 {color: #172026; font-size: 20px; font-family: 'Mulish';}
+  .thankYou tbody {border: none !important;  }
+  .thankYou table th {border: none !important; text-transform: capitalize; font-family: 'Mulish'; font-weight: 600; color: #172026; font-size: 16px;}
+  .thankYou table tr {border-bottom: solid 1px #D1D3D6;  border-left: 1px solid #D1D3D6;}
+  .thankYou table td {border: 0; border-left: 1px solid #D1D3D6;} 
+  .thankYou table img {max-width: 100px; margin-right: 6px;}
+ 
+  
+
 .thankYou .headingsze {font-size: 20px}
-.thankYou .headingstyl { background: #e9ecef; text-align: left}
+.thankYou .headingstyl { text-align: left; border-left: 0; border-right: 0;}
+.thankYou .order {border: 1px solid #D1D3D6; margin-bottom: 20px; padding: 0; border-bottom:none;}
+.thankYou .order .col-12 {border-right: 1px solid #D1D3D6; min-height: 118px; border-bottom: 1px solid #D1D3D6;}
+.thankYou .order .col-12:nth-child(6) {border-right: none;}
+.thankYou .order  p {text-transform: capitalize; color: #535965; font-size: 14px; font-family: 'Mulish'; padding: 15% 0 0 0; margin: 0;}
+.thankYou .order  p strong {text-transform: capitalize; font-family: 'Mulish'; font-weight: 600; color: #172026; font-size: 18px;}
+
+
+/* .thankYou .total {border: 1px solid #D1D3D6; margin-bottom: 20px;}
+.thankYou .total .col {border-right: 1px solid #D1D3D6;}
+.thankYou .total .col:nth-child(5) {border-right: none;} */
+
+
+.thankYou  .orderDetails {border: 1px solid #D1D3D6; margin-bottom: 30px; padding-bottom: 30px;}
+.thankYou .orderDetails h2 {color: #172026; font-size: 20px; font-family: 'Mulish';}
+
+.thankYou .orderDetails .row p {text-transform: capitalize; color: #535965; font-size: 16px; font-family: 'Mulish'; margin: 10px 0 0 0; font-weight: 700;}
+.thankYou .orderDetails .row  p strong {text-transform: capitalize; font-family: 'Mulish'; font-weight: 400; color: #172026; font-size: 16px; margin-top: 3px;}
+
+
+.thankYou .orderDetails .product-desc {margin-top: 20px;}
+.thankYou .orderDetails .product-desc h5 {font-family: 'Mulish'; color: #172026; font-size: 16px; font-weight: 600; }
+.thankYou .orderDetails .product-desc .image {width: 100px; float: left; max-width: 18%;}
+.thankYou .orderDetails .product-desc .image img {max-width: 100%;}
+.thankYou .orderDetails .product-desc .desc {float: left; padding-left: 20px; width: 75%;}
+.thankYou .orderDetails .product-desc .desc .name {width: 100%; display: inline-block; color: #172026; font-size: 16px; font-weight: 600; font-family: 'Mulish'; }
+.thankYou .orderDetails .product-desc .desc .attr {color: #172026; font-size: 16px; font-family: 'Mulish';}
+.thankYou .orderDetails .product-desc .purchase a.buy {border: 2px solid #545D63; border-radius: 28px; width: 167px; height: 40px; 
+  color: #545D63; text-transform: uppercase; text-align: center; line-height: 34px; display: table; margin: 0 auto; font-size: 14px; margin-top: 20px; max-width: 100%;}
+  .thankYou .orderDetails .product-desc .purchase a.return {text-decoration: underline; font-size: 16px; color: #172026; margin-top: 7px; width: 100%; display: inline-block; text-align: center; font-family: 'Mulish';}
+  .thankYou .orderDetails .order-total {margin-top: 46px;}
+  .thankYou .orderDetails .order-subTotal {border: 1px solid #E5E5E7; padding-top: 20px; padding-bottom: 15px;}  
+  .thankYou .orderDetails .order-subTotal .row {padding-bottom: 8px;}
+  .thankYou .orderDetails  a.print {font-family: 'Mulish'; width: 100%; text-align: center; padding: 10px 0 10px 0; color: #545D63; font-size: 16px; display: inline-block;}
+
+.thankYou hr {display: none;}
+
+
+@media(max-width:991px) {
+  .thankYou .order .col-12:nth-child(3) {border-right: none;}
+}
+
+@media(max-width:767px) {
+  .thankYou .order .col-12:nth-child(2n+2) {border-right: none;}
+  .thankYou .order .col-12:nth-child(3) {border-right: 1px solid #D1D3D6;}
+
+  .thankYou .orderDetails .product-desc .image {width: 100%; max-width: 100%; margin-bottom: 7px;}
+  .thankYou .orderDetails .product-desc .desc {padding-left: 0;}
+  .thankYou .orderDetails .product-desc .purchase a.buy {margin: 20px 0 0 0;}
+  .thankYou .orderDetails .product-desc .purchase a.return {text-align: left;}
+  .thankYou .orderDetails .order-total {margin-top: 0;}
+}
+
+@media(max-width:575px) {
+  .thankYou .order .col-12 {border-right: none;  min-height: auto;}
+  .thankYou .order .col-12 p {padding: 20px 0;}
+  .thankYou .order .col-12:nth-child(3) {border-right: none;}
+  
+
+}

@@ -1,7 +1,10 @@
 const fsp = require("fs").promises;
 
 export default async function handler(req, res) {
-  res.setHeader("Cache-Control", "s-maxage=86400");
+  res.setHeader(
+    "Cache-Control",
+    "public, s-maxage=86400, stale-while-revalidate=59"
+  );
 
   const { slug } = req.query;
   let settingsURL = process.cwd() + `/data/settings.json`;

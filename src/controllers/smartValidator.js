@@ -320,7 +320,19 @@ if (typeof window != "undefined") {
   });
 }
 
-const moveToNextStep = (e) => {
+export const loadMoveScripts = () => {
+  if (typeof window != "undefined") {
+    $(document).ready(function () {
+      $(".form-wizard-next-btn").click(function (e) {
+        let formID = $(this).attr("formID");
+        validate($(this).attr("formID"));
+        moveToNextStep($(this));
+      });
+    });
+  }
+};
+
+export const moveToNextStep = (e) => {
   let formID = e.attr("formID");
   var parentFieldset = e.parents(".wizard-fieldset");
   var currentActiveStep = e
@@ -333,6 +345,7 @@ const moveToNextStep = (e) => {
   if (validatedStatus == true || formID == "PassValidation") {
     nextWizardStep = true;
   }
+
   parentFieldset.find(".wizard-required").each(function () {
     var thisValue = e.val();
 

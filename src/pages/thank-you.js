@@ -23,15 +23,16 @@ const thankYou = (props) => {
   }
 
   order = {
-    orderNumber: "63egeajfjj43gc8g0224",
+    orderNumber: "4321",
     orderDesc: "",
-    date_created: "2022-04-20T11:27:32.740Z",
+    date_created: "2022-04-20 T 11:27:32.740Z",
     orderStatus: "processing",
-    accountNumber: "",
+    accountNumber: "7661",
+    deliverydate: "2022-04-22",
     accountType: "",
     networkTransId: "",
-    transId: "",
-    userID: "",
+    transId: "4567",
+    userID: "6789",
     items: [
       {
         id: "266175",
@@ -52,7 +53,7 @@ const thankYou = (props) => {
       billing: {
         first_name: "sad",
         last_name: "Hussain",
-        phone: "19285675467",
+        phone: "1234",
         address1: "yerggd dgsdg",
         address2: "gfdgd",
         email: "sam22@s.com",
@@ -75,7 +76,7 @@ const thankYou = (props) => {
       },
     },
     payment: {
-      id: "0XJ57085KA647631S",
+      id: "9876",
       paymentMethod: "paypal",
       currency: "USD",
       status: "COMPLETED",
@@ -115,7 +116,7 @@ const thankYou = (props) => {
     error: "",
     UserID: "d5idcg5dcfhdd0he875a",
   };
-
+  let { URL } = process.env;
   if (typeof window != "undefined") {
     if (!order.orderNumber || order.orderNumber == "") {
       return (
@@ -123,8 +124,8 @@ const thankYou = (props) => {
           <Header taxonomy={props.taxonomy} cartData={cartValue} />
 
           <section className="thankYou">
-            <div className="container">
-              <div className="row">
+            <div className="container-fluid thankYouInner">
+              <div className="row mx-0">
                 <div className="col-12">
                   <h3 className="text-center ">No data Avaiable</h3>
                 </div>{" "}
@@ -141,66 +142,140 @@ const thankYou = (props) => {
 
       {order && Object.keys(order).length != 0 ? (
         <section className="thankYou">
-          <div className="container">
-            <div className="row">
+          <div className="container-fluid thankYouInner">
+            <div className="row mx-0">
               <div className="col-12">
                 <h1 className="text-center">Thanks For Ordering With Us!</h1>
-                <h3 className="text-center headingsze">
-                  If you do not see your email confirmation immediately in your
-                  Inbox, please check your Spam or Junk folder.
-                </h3>
-                <h3 className="text-center">
-                  Celerant Demo Order Confirmation
-                </h3>
-                <hr />
               </div>
-              {order && order.payment.paymentMethod == "paypal" ? (
-                <TopPaypal order={order} />
-              ) : (
-                <TopCreditCard order={order} />
-              )}
-              <hr />
-              <div className="col-12">
-                <h2>Order Details</h2>
-              </div>
-              <div className="col-12">
-                <table className="table  table-hover">
-                  <thead>
-                    <tr className="headingstyl">
-                      <th scope="col">product</th>
-                      <th scope="col">price</th>
-                      <th scope="col">Qty</th>
+            </div>
+            {order && order.payment.paymentMethod == "paypal" ? (
+              <TopPaypal order={order} />
+            ) : (
+              <TopCreditCard order={order} />
+            )}
 
-                      <th scope="col">subtotal</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {order.items && order.items.length > 0
-                      ? order.items.map((product) => {
-                          let total = 0;
-                          total = product.itemPrice * product.qty;
-                          total = total.toFixed(2);
-                          return (
-                            <tr>
-                              <th scope="row">{product.name}</th>
-                              <td>${product.itemPrice.toFixed(2)}</td>
-                              <td>{product.qty}</td>
-                              <td>${total}</td>
-                            </tr>
-                          );
-                        })
-                      : ""}
-                  </tbody>
-                </table>
-              </div>
-              <br />
-              <div className="col-12 mt-2">
-                <h2>Contact Details</h2>
-              </div>
+            {/* <div className="row mx-0">
+                <div className="col-12 p-0">
+                  <h2>Order Details</h2>
+                </div>
+              </div> */}
 
-              <div className="container">
-                <div className="row">
-                  <table className="table table-borderless">
+            {/* <div className="row mx-0">
+                <div className="col-12 p-0">
+                  <table className="table  table-hover">
+                    <thead>
+                      <tr className="headingstyl">
+                        <th scope="col">product</th>
+                        <th scope="col">price</th>
+                        <th scope="col">Qty</th>
+
+                        <th scope="col">subtotal</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {order.items && order.items.length > 0
+                        ? order.items.map((product) => {
+                            let total = 0;
+                            total = product.itemPrice * product.qty;
+                            total = total.toFixed(2);
+                            return (
+                              <tr>
+                                <th scope="row">{product.name}</th>
+                                <td>${product.itemPrice.toFixed(2)}</td>
+                                <td>{product.qty}</td>
+                                <td>${total}</td>
+                              </tr>
+                            );
+                          })
+                        : ""}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+              <br /> */}
+
+            <div className="container-fluid orderDetails">
+              <div className="row mx-0">
+                <div className="col-12 mt-2 p-0">
+                  <h2>Order Details</h2>
+                </div>
+              </div>
+              <div className="row mx-0">
+                <div className="col-lg-4 col-md-4 col-sm-12 col-12 p-0">
+                  <p>
+                    Customer:
+                    <strong className="d-block">
+                      {order.user.billing.first_name +
+                        " " +
+                        order.user.billing.last_name}
+                      <br />
+                      {order.user.id}
+                      <br />
+                      {order.user.billing.email}
+                      <br />
+                    </strong>
+                  </p>
+                </div>
+
+                <div className="col-lg-4 col-md-4 col-sm-12 col-12 p-0">
+                  <p>
+                    Billing:
+                    <strong className="d-block">
+                      {order.user.billing.first_name +
+                        " " +
+                        order.user.billing.last_name}
+                      <br />
+                      {order.user.billing.address1}
+                      <br />
+                      {order.user.billing.address2}
+                      <br />
+                      {order.user.billing.city}
+                      <br />
+
+                      {order.user.billing.state}
+                      <br />
+
+                      {order.user.billing.zip_code}
+                      <br />
+                      {order.user.billing.country}
+                      <br />
+                      {order.user.billing.phone}
+                      <br />
+                    </strong>
+                  </p>
+                </div>
+
+                <div className="col-lg-3 col-md-3 col-sm-6 col-12 p-0">
+                  <p>
+                    Shipping:
+                    <strong className="d-block">
+                      {order.user.billing.address1}
+                      <br />
+                      {order.user.shipping.first_name +
+                        " " +
+                        order.user.shipping.last_name}
+                      <br />
+                      {order.user.shipping.address1}
+                      <br />
+                      {order.user.shipping.address2}
+                      <br />
+                      {order.user.shipping.city}
+                      <br />
+
+                      {order.user.shipping.state}
+                      <br />
+
+                      {order.user.shipping.zip_code}
+                      <br />
+                      {order.user.shipping.country}
+                      <br />
+                      {order.user.shipping.phone}
+                      <br />
+                    </strong>
+                  </p>
+                </div>
+
+                {/* <table className="table table-borderless">
                     <thead>
                       <tr className="headingstyl">
                         <th colspan="3" scope="col">
@@ -272,10 +347,46 @@ const thankYou = (props) => {
                         </td>
                       </tr>
                     </tbody>
-                  </table>
-                </div>
+                  </table> */}
               </div>
+              <hr />
+              
+
+             
             </div>
+            <div className="row mx-0 orderSummary">
+                <div className="col-12">
+                  <h2>Order Details</h2>
+                </div>
+                <table className="table  table-hover">
+                  <thead>
+                    <tr className="headingstyl">
+                      <th scope="col">product</th>
+                      <th scope="col">price</th>
+                      <th scope="col">Qty</th>
+
+                      <th scope="col">subtotal</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {order.items && order.items.length > 0
+                      ? order.items.map((product) => {
+                          let total = 0;
+                          total = product.itemPrice * product.qty;
+                          total = total.toFixed(2);
+                          return (
+                            <tr>
+                              <th scope="row"><img src="https://via.placeholder.com/100" /> {product.name}</th>
+                              <td>${product.itemPrice.toFixed(2)}</td>
+                              <td>{product.qty}</td>
+                              <td>${total}</td>
+                            </tr>
+                          );
+                        })
+                      : ""}
+                  </tbody>
+                </table>
+              </div>
           </div>
         </section>
       ) : (

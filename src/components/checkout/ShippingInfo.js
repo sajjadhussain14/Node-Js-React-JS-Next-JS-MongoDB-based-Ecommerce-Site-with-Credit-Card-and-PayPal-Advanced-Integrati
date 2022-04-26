@@ -7,9 +7,14 @@ import {
   validate,
   autoValidate,
   validatedStatus,
+  loadMoveScripts,
 } from "../../controllers/smartValidator";
 
+import "../../controllers/smartValidator";
+
 const ShippingInfo = (props) => {
+  loadMoveScripts();
+
   autoValidate();
   let fname = "";
   let lname = "";
@@ -413,6 +418,7 @@ const ShippingInfo = (props) => {
               formID="shippingForm"
               onClick={(e) => {
                 validate("shippingForm");
+
                 if (validatedStatus == true) {
                   document.getElementById("wizard-t-1").style.background =
                     "#6d7f52";

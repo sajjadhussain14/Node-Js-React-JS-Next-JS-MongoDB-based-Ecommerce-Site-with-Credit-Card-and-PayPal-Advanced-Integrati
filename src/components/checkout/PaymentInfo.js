@@ -3,9 +3,14 @@ import Router from "next/router";
 
 import { processPaymentPaypal } from "../../controllers/paypal";
 import { paymentAuthorize } from "../../controllers/authorize.net";
-import { validate } from "../../controllers/smartValidator";
+import {
+  validate,
+  autoValidate,
+  validatedStatus,
+} from "../../controllers/smartValidator";
 let validated = true;
 const PaymentInfo = (props) => {
+  autoValidate();
   return (
     <fieldset className="wizard-fieldset">
       <h5>Payment Information</h5>
@@ -39,10 +44,6 @@ const PaymentInfo = (props) => {
             className="form-control wizard-required"
             id="cardHolder"
             name="Name on Card"
-            onChange={(e) => {
-              validate("cardForm", "cardHolder");
-            }}
-            required="true"
             isAlpha="true"
           />
           <div id="cardHolder-error" className="text-danger"></div>
@@ -56,9 +57,6 @@ const PaymentInfo = (props) => {
                 className="form-control wizard-required"
                 id="cardNumber"
                 name="Card Number"
-                onChange={(e) => {
-                  validate("cardForm", "cardNumber");
-                }}
                 isCreditCard="true"
               />
               <div id="cardNumber-error" className="text-danger"></div>
@@ -75,10 +73,7 @@ const PaymentInfo = (props) => {
                 className="form-control"
                 id="expiryMonth"
                 name="Expiry Month"
-                onChange={(e) => {
-                  validate("cardForm", "expiryMonth");
-                }}
-                required="true"
+                isRequired="true"
               >
                 <option value="">Month</option>
                 <option value="1">jan</option>
@@ -103,10 +98,7 @@ const PaymentInfo = (props) => {
                 className="form-control"
                 name="Expiry Year"
                 id="expiryYear"
-                onChange={(e) => {
-                  validate("cardForm", "expiryYear");
-                }}
-                required="true"
+                isRequired="true"
               >
                 <option value="">Years</option>
                 <option value="2019">2019</option>
@@ -146,9 +138,6 @@ const PaymentInfo = (props) => {
                 className="form-control wizard-required"
                 id="cvv2"
                 name="cvv"
-                onChange={(e) => {
-                  validate("cardForm", "cvv2");
-                }}
                 isCvv="true"
               />
               <div id="cvv2-error" className="text-danger"></div>
@@ -162,7 +151,10 @@ const PaymentInfo = (props) => {
               value="Submit Your Order"
               className="text-light bg-dark"
               onClick={(e) => {
-                paymentAuthorize(e, props.setCart);
+                validate("cardForm");
+                if (validatedStatus == true) {
+                  paymentAuthorize(e, props.setCart);
+                }
               }}
             />
           </div>
@@ -175,7 +167,7 @@ const PaymentInfo = (props) => {
       </div>
       <div
         id="paymentAlert"
-        className="alert alert-danger d-none"
+        className="alert alert-info d-none"
         role="alert"
       ></div>
     </fieldset>

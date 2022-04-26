@@ -28,8 +28,6 @@ import "../../styles/magicZoomPlus.css";
 
 import { Provider } from "react-redux";
 import store from "../redux/store";
-import Script from "next/script";
-import Header from "../components/header/Header";
 import Footer from "../components/footer/Footer";
 import { getMotionVariants } from "../assets/js/main";
 
@@ -83,7 +81,10 @@ function MyApp({ Component, pageProps, taxonomy }) {
       </Provider>
       <Footer />
 
-      <script src="https://cdn.celerantwebservices.com/jquery/3.5.1/jquery.min.js"></script>
+      <script
+        defer
+        src="https://cdn.celerantwebservices.com/jquery/3.5.1/jquery.min.js"
+      ></script>
 
       <script
         defer
