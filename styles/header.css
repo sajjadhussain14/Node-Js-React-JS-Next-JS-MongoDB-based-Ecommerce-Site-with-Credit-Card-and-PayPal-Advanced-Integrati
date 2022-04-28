@@ -4,9 +4,9 @@ section#contentHolder h1:after{content:"";display:inline-block;width: 13vw;borde
 
 
 
-.loginPage * label{font-size:16px;line-height: 24px;color:#181C24;text-transform: capitalize;font-weight: 600;}
-.loginPage * input{height: 44px;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #B5B7BC;border-radius: 8px;opacity: 1;color: #91959C;font-size: 16px;}
-.loginPage * select{height: 44px;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #B5B7BC;border-radius: 8px;opacity: 1;color: #91959C;font-size: 16px;}
+.loginPage * label{font-size:16px;line-height: 16px;color:#181C24;text-transform: capitalize;font-weight: 600; font-family: "Mulish";}
+.loginPage * input{height: 44px;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #B5B7BC;border-radius: 8px;opacity: 1;color: #91959C;font-size: 16px; font-family: "Mulish";}
+.loginPage * select{height: 44px;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #B5B7BC;border-radius: 8px;opacity: 1;color: #91959C;font-size: 16px; font-family: "Mulish"; padding-left: 5px;}
 .loginPage * button{width: 100%;max-width:300px;height: 40px;background: #FFFFFF 0% 0% no-repeat padding-box;border: 2px solid #545D63;border-radius: 28px;opacity: 1;color: #545D63;font-size: 14px;line-height: 16px;font-weight: bold;margin-right: 00px;margin: 0 auto;}
 #loginPageContainer {
     max-width: 1310px;
@@ -39,8 +39,9 @@ div#loginPageContainer .loginPage  {
     padding: 0;
 }
 .loginPageScreen .loginPage  {
-    max-width: 50% !important;
+    max-width: 719px !important;
     padding: 0;
+    width: 96%;
 }
 
 div#loginPageContainer .loginPage .btn-dark.mybtn {
@@ -126,12 +127,12 @@ header .container {
 }
 
 #top .one.text-right p a {
-    margin-left: 18px;
+    margin-left: 25px;
 }
 
 #top .one.text-right p a img {
-    max-width: 14px;
-    max-height: 14px;
+    max-width: 20px;
+    max-height: 20px;
 }
 
 #middle {
@@ -154,7 +155,7 @@ header .container {
 
 #middle input {
     background-color: #fff !important;
-    padding-left: 10px;
+    padding-left: 0;
     border: 0px;
     font-size: 1rem;
     text-transform: capitalize;
@@ -250,7 +251,9 @@ header .container {
     cursor: pointer;
 }
 
-
+#middle .profile span i {
+    margin-right: 7px;
+}
 
 #middle .profile a:last-of-type {
     font-size: 0px;
@@ -460,6 +463,7 @@ header .navbar-dark .navbar-nav .dropdown-menu a {
     header .navbar-dark .navbar-nav .nav-item {
         transition: ease-in .2s;
         background: transparent;
+        width: 100%;
     }
 
     header .navbar-dark .navbar-nav .nav-active {
@@ -532,7 +536,7 @@ header .navbar-dark .navbar-nav .dropdown-menu a {
 
     #middle .logo a img {
         display: block;
-        margin: 0 0 0 5px;
+        margin: 0 0 0 0;
     }
 
     #middle .search {
@@ -564,7 +568,7 @@ header .navbar-dark .navbar-nav .dropdown-menu a {
     }
 
     #middle .profile {
-        padding-top: 10px;
+        padding-top: 18px;
         text-align: center;
         padding-bottom: 10px;
     }
@@ -575,6 +579,7 @@ header .navbar-dark .navbar-nav .dropdown-menu a {
         overflow: hidden;
         max-height: 90%;
         overflow-y: scroll;
+        border-top: 0;
     }
 
     header nav a.navbar-brand img {
@@ -588,6 +593,7 @@ header .navbar-dark .navbar-nav .dropdown-menu a {
         border: 0;
         outline: none;
         background: #000;
+        margin-left: 20px;
     }
 
     header .navbar-dark .navbar-nav .dropdown-menu .container {
@@ -671,7 +677,29 @@ header .navbar-dark .navbar-nav .dropdown-menu a {
         display: block;
     }
 
+    #middle .profile span {
+        margin: 0;
+    }
+
+    #middle .search form {
+        height: 40px;
+    }
+
+    #middle .search input {
+        border: 0 solid #333;
+    }
+
+    #middle .search button i {
+        color: #000;
+    }
+
+
+    #middle .search button {
+        right: 0;
+    }
+
     #loginModal .modal-dialog {display: block;}
+
 }
 
 @media (max-width: 767px) {
@@ -683,6 +711,16 @@ header .navbar-dark .navbar-nav .dropdown-menu a {
     #middle {
         margin-bottom: 0px;
     }
+
+    #middle .profile a#header-cart {
+        padding-top: 11px;
+    }
+
+    #middle .logo p {
+        margin-bottom: 0;
+    }
+
+    div#loginPageContainer .loginPage {max-width: 92% !important;}
 
    
  

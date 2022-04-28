@@ -1,7 +1,6 @@
-import React, { useEffect, useState, useMemo } from "react";
+import React, { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 import Head from "next/head";
-import { useDispatch } from "react-redux";
 import { getBreadCrumbs, magicZoomEffect } from "../../controllers/product";
 import BreadCrumbs from "../../components/product/BreadCrumbs";
 import MainImage from "../../components/product/MainImage";
@@ -16,12 +15,12 @@ import CartPopUP from "../../components/cart/CartPopUP";
 import WishListPopUp from "../../components/product/WishListPopUp";
 import { getUserWishLists } from "../../controllers/wishlist";
 import Header from "../../components/header/Header";
+import Footer from "../../components/footer/Footer";
 
 const Product = (props) => {
   const [cart, setCart] = useState([]);
   const [fakeState, setFakeState] = useState("");
   const [userLists, setUserLists] = useState([]);
-  const dispatch = useDispatch();
   const router = useRouter();
   const { slug } = router.query;
   if (!slug || slug.length < 1) {
@@ -32,7 +31,6 @@ const Product = (props) => {
   if (typeof window != "undefined") {
     cartValue = JSON.parse(localStorage.getItem("cart"));
   }
-
   let getProducts = [];
   let { product, rProducts } = props.data;
 
@@ -40,10 +38,6 @@ const Product = (props) => {
   getProducts = { ...product };
   let breadCrumsContent = getBreadCrumbs(taxanomy, product);
   // START DISPLAY META DATA
-  <Head>
-    <title>{getProducts.name}</title>
-    <meta name="description" content={getProducts.name} />
-  </Head>;
   // END DISPLAY META DATA
 
   // START DISPLAY PRODUCT PAGE LAYOUT
@@ -78,6 +72,19 @@ const Product = (props) => {
   try {
     keywords = getProducts.name;
   } catch (err) {}
+
+  if (!title || title == "") {
+    title = getProducts.name;
+  }
+
+  if (!desc || desc == "") {
+    desc = "shop now " + getProducts.name;
+  }
+
+  if (!keywords || keywords == "") {
+    keywords = getProducts.name;
+  }
+
   return (
     <>
       <Head>
@@ -135,16 +142,24 @@ const Product = (props) => {
           </div>
         </div>
       </section>
+      <Footer />
     </>
   );
   // END DISPLAY CATEGORY PAGE LAYOUT
 };
 
 // START SERVER SIDE RENDERING FOR DATA FETCH
-export async function getServerSideProps(context) {
+export async function getServerSideProps({ query, res }) {
+  try {
+    res.setHeader(
+      "Cache-Control",
+      "public, s-maxage=86400, stale-while-revalidate=60"
+    );
+  } catch (err) {}
+
   let { URL } = process.env;
 
-  const { slug } = context.query;
+  const { slug } = query;
   let productID = 0;
   let productName = "";
   try {
@@ -165,12 +180,12 @@ export async function getServerSideProps(context) {
   let related = [];
 
   // Fetch taxanomy from external API
-  let res = {};
+  let resp = {};
 
   // Fetch product data from external API
   try {
-    res = await fetch(URL + `/api/product/${productID}`);
-    prod = await res.json();
+    resp = await fetch(URL + `/api/product/${productID}`);
+    prod = await resp.json();
     data.product = prod;
   } catch (err) {
     data.product = {};
@@ -187,10 +202,10 @@ export async function getServerSideProps(context) {
   // Fetch related products data from external API
   let prodLimit = 10;
   try {
-    res = await fetch(
+    resp = await fetch(
       URL + `/api/product/realtedProducts/${currentProductDEPT}/${prodLimit}`
     );
-    related = await res.json();
+    related = await resp.json();
     data.rProducts = related;
   } catch (err) {
     data.rProducts = [];

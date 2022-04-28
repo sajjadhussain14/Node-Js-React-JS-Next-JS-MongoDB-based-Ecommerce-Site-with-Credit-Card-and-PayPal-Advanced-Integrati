@@ -21,7 +21,7 @@ const CartSummary = (props) => {
   } catch (err) {}
   subTotal = cartTotal + tax;
   return (
-    <section id="cartSummary" className="col-md-4 summary">
+    <section id="cartSummary" className="col-md-4 col-sm-4 col-12 summary">
       <div>
         <h5>
           <b>Pricing Summary</b>
@@ -50,8 +50,8 @@ const CartSummary = (props) => {
       </div>
       <hr />
       <div className="row">
-        <div className="col"style={{ paddingLeft: 0 }}>TOTAL PRICE</div>
-        <div className="col text-right">$ {subTotal}</div>
+        <div className="col"style={{ paddingLeft: 0 }}><strong>TOTAL PRICE</strong></div>
+        <div className="col text-right"> <strong>$ {subTotal}</strong></div>
       </div>
       <Link href={URL + "/checkout"}>
         <a className="btn"><img className="mr-2" src={URL+"/images/Group 131.svg"}/>CHECKOUT</a>

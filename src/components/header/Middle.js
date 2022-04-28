@@ -3,9 +3,10 @@ import Link from "next/link";
 import LoginPopUp from "../../pages/account/LoginPopUp";
 import $ from "jquery";
 import DropCart from "./DropCart";
-import { route } from "next/dist/server/router";
 import Router from "next/router";
 import { getHeaderScripts } from "../../assets/js/main";
+import Image from "next/image";
+
 const Middle = (props) => {
   const [cart, setCart] = useState([]);
   const [checkcart, setcheckCart] = useState([]);
@@ -61,11 +62,12 @@ const Middle = (props) => {
               <Link href={URL}>
                 <a>
                   <p>
-                    <img
-                      alt=""
-                      height="110"
+                    <Image
+                      alt="Logo Image"
                       src="https://template1.cumulusbetasites.com/ccms/default/assets/Image/logo.png"
-                      width="100"
+                      width={140}
+                      height={70}
+                      loading="lazy"
                     />
                   </p>
                 </a>
@@ -85,7 +87,7 @@ const Middle = (props) => {
                     searchIt();
                   }}
                 >
-                  <img src={URL + "/images/header_search_icon.png"} />
+                  <i class="fas fa-search" aria-hidden="true"></i>
                 </button>
               </form>
             </div>
@@ -111,7 +113,7 @@ const Middle = (props) => {
                   data-target="#loginModal"
                   className="border-0 bg-transparent"
                 >
-                  <img src={URL + "/images/icon-account.png"} />
+                  <i className="fas fa-user"></i>
                   Sign in
                 </button>
               ) : (
@@ -119,8 +121,7 @@ const Middle = (props) => {
               )}
               <Link href="javascript:void(0)">
                 <a id="header-cart" className="cartDisp">
-                  <img src={URL + "/images/icon-cart.png"} />
-                  cart
+                  <i class="fas fa-shopping-cart"></i>{" "}
                   <span id="header-cartQTY">{cartLen}</span>
                 </a>
               </Link>

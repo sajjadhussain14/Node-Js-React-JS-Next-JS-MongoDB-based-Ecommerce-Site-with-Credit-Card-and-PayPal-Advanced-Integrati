@@ -17,6 +17,8 @@ export default async function handler(req, res) {
   } catch (err) {
     taxonomy = [];
   }
-
+  if (taxonomy && taxonomy.length > 157) {
+    taxonomy.length = 157;
+  }
   res.status(200).json(taxonomy);
 }

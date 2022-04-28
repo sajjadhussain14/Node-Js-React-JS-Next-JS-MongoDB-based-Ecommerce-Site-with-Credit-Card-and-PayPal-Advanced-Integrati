@@ -1,8 +1,13 @@
 import React, { useEffect } from "react";
 import { useSelector } from "react-redux";
+import Router from "next/router";
 
-export const ShopByCategories = (currentFilters, prodData, taxonomy) => {
-  const categoryModeValue = useSelector((state) => state.categoryMode);
+export const ShopByCategories = (
+  currentFilters,
+  prodData,
+  taxonomy,
+  categoryModeValue
+) => {
   let level = 0;
   let categoryData = {
     taxonomy: "",
@@ -346,7 +351,6 @@ export const AddThisFilter = (
   dispatch,
   setAllFilters
 ) => {
-  console.log("keyterm", keyterm);
   try {
     document.getElementById("searchProds").value = "";
     setSearchText("");
@@ -359,13 +363,13 @@ export const AddThisFilter = (
     if (tempFilters[keyterm] && tempFilters[keyterm].length == 1) {
       delete tempFilters[keyterm];
       let abc = { ...tempFilters };
-      dispatch(setAllFilters(abc));
+      setAllFilters(abc);
     } else {
       tempFilters[keyterm] = tempFilters[keyterm].filter(
         (el) => el != keyValue
       );
       let abc = { ...tempFilters };
-      dispatch(setAllFilters(abc));
+      setAllFilters(abc);
     }
   } else {
     let tempFilters = {};
@@ -378,7 +382,7 @@ export const AddThisFilter = (
     tempFilters[keyterm].push(keyValue);
     let abc = { ...tempFilters };
 
-    dispatch(setAllFilters(abc));
+    setAllFilters(abc);
   }
 };
 //********************** END ADDTHISFILTERS*********************
@@ -404,7 +408,7 @@ export const RemoveFilter = (
     newFilters = JSON.parse(JSON.stringify(tempFilters));
   }
 
-  dispatch(setAllFilters(newFilters));
+  setAllFilters(newFilters);
 };
 
 export const AddCategories = (
@@ -424,19 +428,11 @@ export const AddCategories = (
   filterCategories.push(catItem);
   let newcats = { ...slectedFilters };
   newcats["categories"] = [...filterCategories];
-  console.log("filterCategories", newcats);
 
-  dispatch(setAllFilters(newcats));
+  setAllFilters(newcats);
 };
 
-export const RemoveCategories = (
-  slectedFilters,
-  term,
-  value,
-  url,
-  dispatch,
-  setAllFilters
-) => {
+export const RemoveCategories = (slectedFilters, url, setAllFilters) => {
   let newFilters = [];
   let tempFilters = JSON.parse(JSON.stringify(slectedFilters));
 
@@ -444,7 +440,16 @@ export const RemoveCategories = (
     (el) => el.url != url
   );
   let abc = { ...tempFilters };
-  dispatch(setAllFilters(abc));
+
+  setAllFilters(abc);
+
+  try {
+    if (abc.categories && abc.categories.length > 0) {
+    }
+    try {
+      Router.push(abc.categories[abc.categories.length - 1].url);
+    } catch (err) {}
+  } catch (err) {}
 };
 
 export const CheckAvailable = (setCheckAvailability, value) => {

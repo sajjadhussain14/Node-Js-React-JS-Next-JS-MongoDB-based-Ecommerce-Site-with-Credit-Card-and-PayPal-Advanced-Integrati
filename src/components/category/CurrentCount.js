@@ -2,9 +2,7 @@ import React from "react";
 import { useSelector } from "react-redux";
 
 const CurrentCount = (props) => {
-  const allProducts = useSelector((state) => state.products);
-
-  const currentProducts = useSelector((state) => state.crntProducts);
+  const currentProducts = props.crntProducts;
 
   return (
     <section className="col-lg-3 col-md-6 col-12 totalproduct">

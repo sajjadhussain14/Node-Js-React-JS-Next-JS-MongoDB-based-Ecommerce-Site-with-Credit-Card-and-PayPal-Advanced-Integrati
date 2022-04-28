@@ -23,42 +23,29 @@ const NewsLetter = () => {
             required="required"
             type="text"
           />
-         
         </div>
       </form>{" "}
       <p className="text-left">
-      <a
+        <a
           href="https://www.instagram.com/CelerantTechnologyCorp"
           rel="noreferrer"
           target="_blank"
         >
-          <img
-            alt="footer instagram"
-            src={URL+"/images/footer-instagram-icon.png"}
-            className="img-fluid"
-          />
-        </a>{" "}
+          <i class="fab fa-instagram" aria-hidden="true"></i>
+        </a>
         <a
           href="https://www.facebook.com/CelerantTechnologyCorp"
           rel="noreferrer"
           target="_blank"
         >
-          <img
-            alt="footer facebook"
-            src={URL+"/images/footer-facebook-icon.png"}
-            className="img-fluid"
-          />
-        </a>{" "}
+          <i class="fab fa-facebook" aria-hidden="true"></i>
+        </a>
         <a
           href="https://twitter.com/celeranttech"
           rel="noreferrer"
           target="_blank"
         >
-          <img
-            alt="footer twitter"
-            src={URL+"/images/footer-twitter-icon.png"}
-            className="img-fluid"
-          />
+          <i class="fab fa-twitter" aria-hidden="true"></i>
         </a>
       </p>
     </section>

@@ -28,8 +28,6 @@ const SelectedFilters = (props) => {
               <>
                 {key == "categories"
                   ? value.map((item) => {
-                      console.log(item.key);
-
                       return (
                         <span className="d-block mb-2" key={key + item.value}>
                           {item.key && item.key == "FAKE_DEPT" ? (
@@ -40,10 +38,7 @@ const SelectedFilters = (props) => {
                               onClick={() => {
                                 RemoveCategories(
                                   props.filters,
-                                  key,
-                                  item.value,
                                   item.url,
-                                  props.dispatch,
                                   props.setAllFilters
                                 );
                               }}

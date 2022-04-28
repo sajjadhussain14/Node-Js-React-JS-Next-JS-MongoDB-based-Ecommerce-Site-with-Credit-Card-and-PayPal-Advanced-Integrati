@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import Footer from "../components/footer/Footer";
 import Header from "../components/header/Header";
 import Layout from "../components/login/Layout";
 
@@ -13,7 +14,6 @@ const Login = (props) => {
       loginstatus = localStorage.getItem("isLogin");
     } catch (err) {}
   }
-
   useEffect(() => {
     setIsLogin(loginstatus);
   }, []);
@@ -31,6 +31,7 @@ const Login = (props) => {
         isLogin={isLogin}
         setIsLogin={setIsLogin}
       />
+      <Footer />
     </>
   );
 };

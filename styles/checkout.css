@@ -6,10 +6,27 @@
         max-width: 1280px;
       }
 
+      #checkout-main-content  .checkout-details-wrapper #left-portion {
+        border: solid 1px #D1D3D6;
+        padding-top: 25px;
+        margin-bottom: 20px;
+      }
+
+      #checkout-main-content .checkout-details-wrapper #right-portion {
+        padding-left: 0;
+      }
+
       #checkout-main-content #products-list {
         padding-top: 5px;
         padding-bottom: 0;
       }
+
+      #checkout-main-content .products-list-overflow {
+        height: 450px;
+        overflow: hidden;
+        overflow-y: scroll;
+      }
+
       #checkout-main-content #products-list .order-alter .form-group {
         padding: 0 10px;
       }
@@ -34,12 +51,24 @@
         padding-top: 20px;
       }
 
+      #checkout-main-content #products-list ul h5 {
+        color: #172026;
+        font-size: 20px;
+        font-family: "Mulish"; 
+        padding-left: 20px;
+        margin-bottom: 15px;
+      }
+
       #checkout-main-content #products-list ul li {
         border: none;
         padding-bottom: 6px;
         padding-top: 6px;
         padding-left: 0;
         padding-right: 0;
+      }
+
+      #checkout-main-content #products-list ul li.amountDue span {
+        font-weight: 600;
       }
 
       #checkout-main-content #products-list ul input {
@@ -60,6 +89,7 @@
         margin-top: 0 !important;
         margin-left: 0 !important;
         margin-right: 0 !important;
+        margin-bottom: 0 !important;
       }
       #checkout-main-content .accordion-button:not(.collapsed) {background: none; border: none; color: #172026; font-family: "Mulish"; box-shadow: none;}
       #checkout-main-content #products-list a {
@@ -253,6 +283,8 @@
         #checkout-main-content h4 {
           font-size: 22px;
         }
+
+        #checkout-main-content #right-portion {padding-left: 0; padding-right: 0;}
       }
 
       @media only screen and (max-width: 767px) {
@@ -263,6 +295,8 @@
         #checkout-main-content h4 {
           font-size: 20px;
         }
+
+        #checkout-main-content #right-portion {padding-left: 0; padding-right: 0;}
       }
 
       @media only screen and (max-width: 479px) {
@@ -1237,6 +1271,7 @@
       #checkout-main-content .form-wizard {
         color: #888888;
       }
+      
 
       #checkout-main-content .form-wizard .alert-dark {background-color: #545D63; 
         color: #ffffff;
@@ -1557,6 +1592,7 @@
         border: 0 solid #dad8e4;
         margin: 30px 0 31px;
         font-family: 'Source Serif Pro';
+        font-weight: 600;
       }
 
       #checkout-main-content .wizard ul {

@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 import { getOrdersByID } from "../../controllers/order";
 import Header from "../../components/header/Header";
+import Footer from "../../components/footer/Footer";
 
 const orderbyID = (props) => {
   const router = useRouter();
@@ -257,6 +258,7 @@ const orderbyID = (props) => {
       ) : (
         ""
       )}
+      <Footer />
     </>
   );
 };

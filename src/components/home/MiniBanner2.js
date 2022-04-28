@@ -10,6 +10,7 @@ const MiniBanner2 = () => {
         height={282}
         layout="responsive"
         src={URL + "/images/mini-banner/mini-banner2.png"}
+        loading="lazy"
       />
 
       <section className="overlay">

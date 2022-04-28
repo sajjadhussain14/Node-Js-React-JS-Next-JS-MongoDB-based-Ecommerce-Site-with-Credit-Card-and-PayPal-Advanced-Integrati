@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 const MainImage = (props) => {
   let getProducts = props.getProducts;
@@ -11,10 +12,14 @@ const MainImage = (props) => {
         className="MagicZoomPlus"
         data-options="rightClick: true; expand: false;"
       >
-        <img
+        <Image
           className="prodImage"
           src={getProducts.image}
-          style={{ maxWidth: "500px", maxHeight: "1024px" }}
+          width={627}
+          height={477}
+          loading="lazy"
+          name={getProducts.name}
+          alt={getProducts.name}
         />
       </a>
     </Link>

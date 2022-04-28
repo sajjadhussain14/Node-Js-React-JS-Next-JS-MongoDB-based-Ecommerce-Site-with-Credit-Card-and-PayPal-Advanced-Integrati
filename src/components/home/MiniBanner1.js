@@ -12,6 +12,7 @@ const MiniBanner1 = () => {
         className="img-fluid"
         alt="Minni banner 1"
         src={URL + "/images/mini-banner/mini-banner1.png"}
+        loading="lazy"
       />
 
       <section className="overlay">

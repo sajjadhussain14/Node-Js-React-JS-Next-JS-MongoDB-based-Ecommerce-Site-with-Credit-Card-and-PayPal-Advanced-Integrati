@@ -252,7 +252,7 @@ footer #footer-bottom .copyright .reserve p {
     }
 
     footer #footer-bottom .copyright .reserve p {
-        top: 10px;
+        top: 0;
         position: relative;
         font-family: "Mulish";
         text-transform: capitalize;
@@ -317,7 +317,8 @@ footer #footer-bottom .copyright .reserve p {
 
     footer #footer-bottom .copyright .payment {
         order: 1;
-        margin: 20px 0;
+        margin: 0 0 10px 0;
+        text-align: center;
     }
 
     footer #footer-bottom .copyright .company {

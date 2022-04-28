@@ -5,7 +5,7 @@ import ProductArea from "./ProductArea";
 import { useSelector } from "react-redux";
 
 const Layout = (props) => {
-  const cProducts = useSelector((state) => state.crntProducts);
+  const cProducts = props.crntProducts;
   return (
     <section id="contentHolder">
       <div id="category">
@@ -13,6 +13,10 @@ const Layout = (props) => {
           <div className="row">
             <BreadCrumbs urlData={props.urlData} />
             <Sidenav
+              allProducts={props.products}
+              allTaxonomy={props.allTaxonomy}
+              allFilters={props.allFilters}
+              setAllFilters={props.setAllFilters}
               allCurrentProducts={props.products}
               products={props.currentProducts}
               urlTaxonomy={props.urlTaxonomy}
@@ -20,8 +24,11 @@ const Layout = (props) => {
               checkAvailability={props.checkAvailability}
               setCheckAvailability={props.setCheckAvailability}
               setSearchText={props.setSearchText}
+              categoryMode={props.categoryMode}
             />
             <ProductArea
+              allProducts={props.products}
+              crntProducts={props.crntProducts}
               currentProducts={props.currentProducts}
               urlTaxonomy={props.urlTaxonomy}
               activePage={props.activePage}
@@ -39,6 +46,7 @@ const Layout = (props) => {
               isSearch={props.isSearch}
               slug={props.slug}
               categoryMode={props.categoryMode}
+              landingCategories={props.landingCategories}
             />
           </div>
         </div>

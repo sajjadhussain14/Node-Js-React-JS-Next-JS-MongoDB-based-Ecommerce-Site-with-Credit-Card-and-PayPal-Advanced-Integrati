@@ -15,17 +15,37 @@ const IndexSlider = () => {
               data-bs-ride="carousel"
             >
               <div class="carousel-indicators">
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                <button
+                  type="button"
+                  data-bs-target="#carouselExampleIndicators"
+                  data-bs-slide-to="0"
+                  class="active"
+                  aria-current="true"
+                  aria-label="Slide 1"
+                ></button>
+                <button
+                  type="button"
+                  data-bs-target="#carouselExampleIndicators"
+                  data-bs-slide-to="1"
+                  aria-label="Slide 2"
+                ></button>
+                <button
+                  type="button"
+                  data-bs-target="#carouselExampleIndicators"
+                  data-bs-slide-to="2"
+                  aria-label="Slide 3"
+                ></button>
               </div>
 
               <section id="sliderpictures" className="carousel-inner">
                 <section className="carousel-item">
-                  <img
+                  <Image
                     className="img-fluid"
                     alt="banner 1"
                     src={URL + "/images/main-banner/main-banner.png"}
+                    width={1335}
+                    height={327}
+                    loading="lazy"
                   />
                   <h2>
                     banner text goes here <br />
@@ -39,10 +59,13 @@ const IndexSlider = () => {
                 </section>
 
                 <section className="carousel-item">
-                  <img
+                  <Image
                     className="img-fluid"
                     alt="banner 2"
                     src={URL + "/images/main-banner/main-banner.png"}
+                    width={1335}
+                    height={327}
+                    loading="lazy"
                   />
 
                   <h2>
@@ -57,10 +80,14 @@ const IndexSlider = () => {
                 </section>
 
                 <section className="carousel-item active">
-                  <img
+                  <Image
                     className="img-fluid"
                     alt="banner 3"
                     src={URL + "/images/main-banner/main-banner.png"}
+                    width={1335}
+                    height={327}
+                    layout="responsive"
+                    loading="lazy"
                   />
                   <h2>
                     banner text goes here3 <br />

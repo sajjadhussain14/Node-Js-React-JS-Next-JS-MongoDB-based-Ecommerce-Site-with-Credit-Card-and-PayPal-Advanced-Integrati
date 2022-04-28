@@ -4,8 +4,7 @@ import { useSelector } from "react-redux";
 import { handlePageChange } from "../../controllers/category";
 
 const PaginationTop = (props) => {
-  const allProducts = useSelector((state) => state.products);
-  const currentProducts = useSelector((state) => state.crntProducts);
+  const allProducts = props.allProducts;
   return (
     <section
       id="Pagination"

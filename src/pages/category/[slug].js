@@ -1,17 +1,6 @@
 import React, { useEffect, useState, useMemo } from "react";
 import { useRouter } from "next/router";
-
 import Head from "next/head";
-import { useDispatch } from "react-redux";
-import { useSelector } from "react-redux";
-import { setAllProducts } from "../../redux/productSlice";
-import { setCategoryMode } from "../../redux/categoryModeSlice";
-
-import { setCrntProducts } from "../../redux/currentProductsSlice";
-import { setAllFilters } from "../../redux/allFiltersSlice";
-import { setAllTaxonomy } from "../../redux/taxonomySlice";
-import { setLandingCategories } from "../../redux/landingCategoriesSlice";
-
 import Layout from "../../components/category/Layout";
 import {
   avaialbilityFilter,
@@ -25,14 +14,14 @@ import {
   SortProducts,
 } from "../../controllers/category";
 import Header from "../../components/header/Header";
+import Footer from "../../components/footer/Footer";
 
 const Category = (props) => {
   const router = useRouter();
   const { slug } = router.query;
+
   let taxanomy = props.taxonomy;
-
-  const dispatch = useDispatch();
-
+  const [allProducts, setAllProducts] = useState([]);
   const [loading, setLoading] = useState(true);
   const [level, setLevel] = useState(0);
   const [property, setProperty] = useState("default");
@@ -47,12 +36,7 @@ const Category = (props) => {
   const [sortDefault, setSortDefault] = useState("");
   const [sortNewestStatus, setSortNewestStatus] = useState("");
   const [sortBrandStatus, setSortBrandStatus] = useState("");
-
-  const allProducts = useSelector((state) => state.products);
-  const alltaxonomy = useSelector((state) => state.taxonomy);
-  const allFilters = useSelector((state) => state.allFilters);
-
-  const [cProducts, setCProducts] = useState([]);
+  const [allFilters, setAllFilters] = useState([]);
 
   //HOOK FOR PERPAGE PRODUCTS
   const [perpageProductscount, setPerpageProductscount] = useState(18);
@@ -82,14 +66,6 @@ const Category = (props) => {
   // END EXTRACT SETTINGS DATA
 
   urlTaxonomy = GetUrlTaxonomy(taxanomy, slug);
-
-  useEffect(() => {
-    try {
-      setTimeout(() => {
-        dispatch(setCategoryMode(categoryMode));
-      }, 0);
-    } catch (err) {}
-  }, [urlTaxonomy]);
 
   setInitAvailable(checkAvailability, setCheckAvailability);
 
@@ -132,9 +108,22 @@ const Category = (props) => {
     dataBy = "taxanomy"; // not this for search and brand
   }
 
+  useEffect(() => {
+    setLoading(true);
+
+    try {
+      setTimeout(() => {
+        setAllProducts(products);
+        setLoading(false);
+      }, 100);
+    } catch (err) {
+      setLoading(false);
+    }
+  }, [slug]);
+
   /*********START SEARCH PRODUCTS USING REGEX*************/
   let fproducts = [];
-  fproducts = liveProdsRGXSearch(searchText, products);
+  fproducts = liveProdsRGXSearch(searchText, allProducts);
 
   /*****END SEARCH PRODUCTS USING REGEX*******************/
 
@@ -154,21 +143,16 @@ const Category = (props) => {
   //END STATES HOOK IS HANDLING DATA ACCORING TO AVAIALBILITY FILTERS
 
   useEffect(() => {
+    setLoading(true);
+
     try {
       setTimeout(() => {
-        dispatch(setAllProducts(products));
-        dispatch(setAllTaxonomy(taxanomy));
-
         setLoading(false);
-      }, 0);
+      }, 100);
     } catch (err) {
       setLoading(false);
     }
-  }, []);
-
-  useEffect(() => {
-    dispatch(setLandingCategories(landingCategories));
-  }, [props.data.categoryMode]);
+  }, [slug]);
 
   let currentproducts = [];
 
@@ -183,15 +167,11 @@ const Category = (props) => {
     setCurrentPage
   ).currentproducts;
 
-  useEffect(() => {
-    dispatch(setCrntProducts(currentproducts));
-  }, [currentproducts]);
-
   let taxanomyFilters = { categories: [] };
   taxanomyFilters["categories"] = urlData;
   useEffect(() => {
     setTimeout(() => {
-      dispatch(setAllFilters(taxanomyFilters));
+      setAllFilters(taxanomyFilters);
     }, 0);
   }, [uData]);
 
@@ -241,6 +221,18 @@ const Category = (props) => {
     keywords = urlTaxonomy.KEYWORDS;
   } catch (err) {}
 
+  if (!title || title == "") {
+    title = slug.replace(/-/g, " ");
+  }
+
+  if (!desc || desc == "") {
+    desc = "find all about " + slug.replace(/-/g, " ");
+  }
+
+  if (!keywords || keywords == "") {
+    keywords = slug.replace(/-/g, " ");
+  }
+
   // START DISPLAY CATEGORY PAGE LAYOUT
 
   let cartValue = [];
@@ -260,7 +252,11 @@ const Category = (props) => {
       <Header taxonomy={props.taxonomy} cartData={cartValue} />;
       <Layout
         products={products}
+        allTaxonomy={taxanomy}
+        allFilters={allFilters}
+        setAllFilters={setAllFilters}
         currentProducts={temProducts}
+        crntProducts={currentproducts}
         urlData={urlData}
         urlTaxonomy={urlTaxonomy}
         activePage={activePage}
@@ -279,15 +275,24 @@ const Category = (props) => {
         sortBrandStatus={sortBrandStatus}
         entryTime={entryTime}
         categoryMode={categoryMode}
+        landingCategories={landingCategories}
       />
+      <Footer />
     </>
   );
   // END DISPLAY CATEGORY PAGE LAYOUT
 };
 
 // START SERVER SIDE RENDERING FOR DATA FETCH
-export async function getServerSideProps(context) {
-  const { slug } = context.query;
+export async function getServerSideProps({ query, res }) {
+  try {
+    res.setHeader(
+      "Cache-Control",
+      "public, s-maxage=43200, stale-while-revalidate=60"
+    );
+  } catch (err) {}
+
+  const { slug } = query;
 
   let { URL } = process.env;
 
@@ -306,12 +311,12 @@ export async function getServerSideProps(context) {
   let settings = {};
 
   // Fetch taxanomy from external API
-  let res = {};
+  let resp = {};
 
   // Fetch data from external API
   try {
-    res = await fetch(URL + `/api/category/${slug}`);
-    products = await res.json();
+    resp = await fetch(URL + `/api/category/${slug}`);
+    products = await resp.json();
     data.products = products;
     data.categoryMode = "category";
   } catch (err) {
@@ -320,8 +325,8 @@ export async function getServerSideProps(context) {
   }
 
   try {
-    res = await fetch(URL + `/api/settings/settings`);
-    settings = await res.json();
+    resp = await fetch(URL + `/api/settings/settings`);
+    settings = await resp.json();
     data.settingsData = settings;
   } catch (err) {
     data.settingsData = {};
@@ -329,8 +334,8 @@ export async function getServerSideProps(context) {
 
   if (data.categoryMode == "landing") {
     try {
-      res = await fetch(URL + `/api/landing/categories`);
-      landingCategories = await res.json();
+      resp = await fetch(URL + `/api/landing/categories`);
+      landingCategories = await resp.json();
       data.landingCategories = landingCategories;
     } catch (err) {
       data.landingCategories = [];

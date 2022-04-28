@@ -3,6 +3,7 @@ import Head from "next/head";
 import EmptyCart from "../components/cart/EmptyCart";
 import Layout from "../components/cart/Layout";
 import Header from "../components/header/Header";
+import Footer from "../components/footer/Footer";
 
 const Cart = (props) => {
   let { URL } = process.env;
@@ -90,6 +91,7 @@ const Cart = (props) => {
       </Head>
       <Header taxonomy={props.taxonomy} cartData={cartValue} />
       <Layout cart={cart} setCart={setCart} />
+      <Footer />
     </>
   );
 };

@@ -74,6 +74,7 @@ const OrderSummary = (props) => {
   return (
     <>
       <ul className="list-group order-totals ">
+        <h5>Pricing Summary</h5>
         <li className="list-group-item " data-key="TOTALPRICE">
           <span className="row mx-0">
             <span className="col-7 displayName">Total Cost of Items:</span>

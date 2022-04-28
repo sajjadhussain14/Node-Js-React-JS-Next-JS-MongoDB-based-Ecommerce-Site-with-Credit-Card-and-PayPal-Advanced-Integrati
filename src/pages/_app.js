@@ -1,7 +1,7 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { useRouter } from "next/router";
-import { motion } from "framer-motion";
-
+import Router from "next/router";
+import Script from "next/script";
 import Head from "next/head";
 
 import "../../styles/globals.css";
@@ -26,23 +26,70 @@ import "../../styles/category.css";
 import "../../styles/footer.css";
 import "../../styles/magicZoomPlus.css";
 
-import { Provider } from "react-redux";
-import store from "../redux/store";
-import Footer from "../components/footer/Footer";
-import { getMotionVariants } from "../assets/js/main";
-
 function MyApp({ Component, pageProps, taxonomy }) {
-  const router = useRouter();
+  const [loading, setLoading] = React.useState(false);
+  React.useEffect(() => {
+    const start = () => {
+      console.log("start");
+      setLoading(true);
+    };
+    const end = () => {
+      console.log("findished");
+      setLoading(false);
+    };
+    Router.events.on("routeChangeStart", start);
+    Router.events.on("routeChangeComplete", end);
+    Router.events.on("routeChangeError", end);
+    return () => {
+      Router.events.off("routeChangeStart", start);
+      Router.events.off("routeChangeComplete", end);
+      Router.events.off("routeChangeError", end);
+    };
+  }, []);
 
-  let variants = getMotionVariants();
+  const router = useRouter();
 
   let cartData = [];
   if (typeof window != "undefined") {
     cartData = JSON.parse(localStorage.getItem("cart"));
   }
+  const today = new Date();
+  const nextweek = new Date(
+    today.getFullYear(),
+    today.getMonth(),
+    today.getDate() + 7
+  );
 
   return (
     <>
+      <Script
+        strategy="lazyOnload"
+        src={"https://www.googletagmanager.com/gtag/js?id=UA-227223662-1"}
+      />
+
+      <Script strategy="lazyOnload">
+        {`
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+                    gtag('config', 'UA-227223662-1', {
+                    page_path: window.location.pathname,
+                    });
+                `}
+      </Script>
+
+      <Head>
+        <title>Welcome!</title>
+        <meta name="viewport" content="initial-scale=1, width=device-width" />
+        <meta
+          http-equiv="Cache-control"
+          content="public"
+          max-age="31536000"
+          immutable
+        />
+        <meta http-equiv="Expires" content={nextweek} />
+      </Head>
+
       <link
         href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700;800&display=swap"
         rel="stylesheet"
@@ -56,57 +103,72 @@ function MyApp({ Component, pageProps, taxonomy }) {
         rel="stylesheet"
       ></link>
       <link
-        href="https://template1.cumulusbetasites.com//css/bootstrap.min.css"
+        href="/css/bootstrap.min.css"
         rel="stylesheet"
         type="text/css"
         media="all"
       />
 
-      <Provider store={store}>
-        <motion.div
-          key={router.route}
-          variants={variants} // Pass the variant object into Framer Motion
-          initial="hidden" // Set the initial state to variants.hidden
-          animate="enter" // Animated state to variants.enter
-          exit="exit" // Exit state (used later) to variants.exit
-          className=""
-        >
-          <Component
-            {...pageProps}
-            taxonomy={taxonomy}
-            cartData={cartData}
-            router={router}
-          />
-        </motion.div>
-      </Provider>
-      <Footer />
+      <>
+        {loading ? (
+          <div style={{ height: "200px" }}>
+            <div className={`overlay `}>
+              <div className="loading " style={{ top: "25%", left: "40%" }}>
+                <img src="/images/loader.gif" alt="loader" />
+              </div>
+            </div>
+          </div>
+        ) : (
+          <>
+            <Component
+              {...pageProps}
+              taxonomy={taxonomy}
+              cartData={cartData}
+              router={router}
+            />
+          </>
+        )}
+      </>
 
-      <script
+      <Script
+        async
         defer
-        src="https://cdn.celerantwebservices.com/jquery/3.5.1/jquery.min.js"
-      ></script>
+        src="/js/jquery/3.5.1/jquery.min.js"
+        strategy="lazyOnload"
+      />
 
-      <script
+      <Script
+        async
         defer
-        src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
-      ></script>
-      <script
+        src="/js/bootstrap/5.1.3/bootstrap.bundle.min.js"
+        strategy="afterInteractive"
+      />
+
+      <Script
+        async
         defer
-        src="https://template1.cumulusbetasites.com/js/bootstrap.min.js"
-      ></script>
+        src="/js/bootstrap/v4_6_0/bootstrap.min.js"
+        strategy="afterInteractive"
+      />
     </>
   );
 }
 
-MyApp.getInitialProps = async (ctx) => {
+MyApp.getInitialProps = async ({ query, res }) => {
+  try {
+    res.setHeader(
+      "Cache-Control",
+      "public, s-maxage=43200, stale-while-revalidate=60"
+    );
+  } catch (err) {}
   let { URL } = process.env;
 
   // Fetch taxanomy from external API
-  let res = {};
+  let resp = {};
   let taxanomy = [];
   try {
-    res = await fetch(URL + "/api/taxonomy/taxonomy");
-    taxanomy = await res.json();
+    resp = await fetch(URL + "/api/taxonomy/taxonomy");
+    taxanomy = await resp.json();
   } catch (err) {
     taxanomy = [];
   }

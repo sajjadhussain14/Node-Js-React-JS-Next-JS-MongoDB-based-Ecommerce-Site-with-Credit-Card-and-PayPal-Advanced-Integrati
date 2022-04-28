@@ -24,6 +24,8 @@
         margin-bottom: 20px;
     }
 
+    #cart .summary .row:nth-last-child(1) {font-weight: 600;}
+
     @media(max-width:767px) {
         .card {
             margin: 3vh auto
@@ -38,7 +40,6 @@
 
     @media(max-width:767px) {
         #cart .cart {
-            padding: 0;
             border-bottom-left-radius: unset;
             border-top-right-radius: 1rem
         }
@@ -52,7 +53,9 @@
         opacity: 1;
     }
     #cart .summary h5 b{display: block;font-size: 20px;line-height: 25px;color: #172026;text-transform: capitalize;margin-bottom: 24px;}
-    #cart .summary .row div{font-size: 16px;line-height: 24px;color: #172026;margin-bottom: 16px;text-transform: capitalize!important;}
+    #cart .summary .row div{font-size: 16px;line-height: 24px;color: #172026;margin-bottom: 10px;text-transform: capitalize!important;}
+    
+
     @media(max-width:767px) {
         #cart .summary {
             border-top-right-radius: unset;
@@ -213,7 +216,7 @@ text-transform: uppercase;
         text-align: center;
     }
 
-    #cart .qtyInner{display: flex;justify-content: space-between;align-items: center; padding: 0 8px;}
+    #cart .qtyInner{display: flex;justify-content: space-between;align-items: center; padding: 0 8px; margin-bottom: 8px;}
     #cart .editInfo a{display: block;font-size: 12px;line-height: 14px;color:#172026;text-transform: capitalize;margin-bottom: 17px;margin-left:0;float: left;text-shadow: none;opacity: 1;font-weight: normal;display: block;width: 100%;}
     #cart section#cartContent .pbrand{font-size: 20px;line-height: 25px;color: #172026;text-transform: capitalize!important;font-weight: 600;margin-bottom: 8px;}
     #cart section#cartContent .pname{font-size: 16px;line-height: 24px;color: #172026;text-transform: capitalize;margin-bottom: 8px;}
@@ -228,5 +231,20 @@ text-transform: uppercase;
     #cart h4 strong {
     font-family: 'Source Serif Pro';
     font-size: 48px; 
-    font-weight: 400;
+    font-weight: 600;
+}
+
+@media(max-width: 575px) {
+    #cart section#cartContent .pprice {
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+    }
+
+    #cart .cart {
+        margin-bottom: 20px;
+    }
+
+    #cart .title h4 {width: 100%;}
+    #cart .title button {float: right;}
 }

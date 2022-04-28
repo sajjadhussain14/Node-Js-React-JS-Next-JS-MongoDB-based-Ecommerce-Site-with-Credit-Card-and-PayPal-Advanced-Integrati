@@ -108,12 +108,11 @@ div#catproductinner {
     width: 100%;
     max-width: max-content;
     text-align: center;
-    padding: 20px 15px;
+    padding: 20px 15px 0 15px;
     padding-top: 20px;
-    padding-bottom: 20px;
     justify-content: flex-end !important;
     max-width: max-content;
-    margin-bottom: 20px;
+    margin-bottom: 0;
 }
 
 #PaginationBottom nav {
@@ -351,6 +350,18 @@ div#catproductinner {
     width: 70%;
 }
 
+#cat-search-container button {
+    position: absolute;
+    background: no-repeat;
+    border: 0;
+    right: 20px;
+    top: 11px;
+}
+
+#cat-search-container button img {
+    max-width: 20px;
+}
+
 /*************************************END CATEGORY PAGINATION**************************************/
 @media (max-width: 991px) {
     div#catproductinner {
@@ -411,6 +422,10 @@ div#catproductinner {
         margin-top: 7px;
     }
 
+    #category * #filterby {
+        position: relative;
+    }
+
     #category * #filterby::after {
         content: "-";
         color: #000;
@@ -418,6 +433,9 @@ div#catproductinner {
         background-image: none;
         font-size: 1.25rem;
         float: right;
+        position: absolute;
+        right: 10px;
+        top: 3px;
     }
 
     #category #filterby:not(.collapsed)::after {
@@ -427,6 +445,9 @@ div#catproductinner {
         font-family: "Montserrat-Bold";
         background-image: none;
         float: right;
+        position: absolute;
+        right: 10px;
+        top: 3px;
     }
 
     /*************************************HEADER FOOTER**************************************/
@@ -729,6 +750,7 @@ div#catproductinner .categoryselect span {
     background: none;
     border: 0;
     text-align: left;
+    position: relative;
 }
 
 #category .accordion-flush .accordion-item {
@@ -862,6 +884,7 @@ div#catproductinner .categoryselect span {
     #category #filterby {
         padding-left: 10px !important;
         background: #c5c5c5;
+        padding-bottom: 10px;
     }
 
 }
@@ -911,24 +934,12 @@ div#catproductinner .categoryselect span {
 
 @media (max-width: 991px) {
 
-
-    #middle .search input {
-        border: 0 solid #333;
-    }
-
-    #middle .search button {
-        right: 30px;
-    }
-
-    #middle .search button i {
-        color: #000;
-    }
-
     .pagination {
         width: 100%;
-        padding: 20px 15px;
+        padding: 0 0;
         width: 100%;
         text-align: left;
+        margin-bottom: 5px;
     }
 
     .d-flex.justify-content-end.align-items-center.selection {

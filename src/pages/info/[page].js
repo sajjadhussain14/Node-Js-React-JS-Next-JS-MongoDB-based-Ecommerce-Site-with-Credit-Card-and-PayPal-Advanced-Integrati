@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Header from "../../components/header/Header";
 import { useRouter } from "next/router";
+import Footer from "../../components/footer/Footer";
 const Info = (props) => {
   let { taxanomy } = prpps.data;
   const router = useRouter();
@@ -17,6 +18,7 @@ const Info = (props) => {
     <>
       <Header taxonomy={props.taxonomy} cartData={cartValue} />;
       <h1>Coming soon page {page}</h1>
+      <Footer />
     </>
   );
 };

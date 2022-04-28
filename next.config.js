@@ -52,6 +52,10 @@ module.exports = {
   },
 
   images: {
+    minimumCacheTTL: 608400,
+    dangerouslyAllowSVG: true,
+    contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;",
+
     domains: [
       "cdn-cumulusdata.celerantwebservices.com",
       "template1.cumulusbetasites.com",
@@ -68,13 +72,12 @@ module.exports = {
   async headers() {
     return [
       {
-        source: "/:all*(svg|jpg|png)",
-        locale: false,
+        source: "/:all*(svg|jpg|png|jpeg|webp)",
         headers: [
           {
             key: "Cache-Control",
             value:
-              "public, max-age=9999999999, must-revalidate stale-while-revalidate=9999999999'",
+              "public, max-age=3600, must-revalidate stale-while-revalidate=3600'",
           },
         ],
       },

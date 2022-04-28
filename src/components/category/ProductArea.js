@@ -16,7 +16,7 @@ import ViewByNumber from "./ViewByNumber";
 import Landing from "./Landing";
 
 const ProductArea = (props) => {
-  const categoryModeValue = useSelector((state) => state.categoryMode);
+  const categoryModeValue = props.categoryMode;
 
   try {
     if (
@@ -24,7 +24,12 @@ const ProductArea = (props) => {
       props.urlTaxonomy.TYP &&
       props.urlTaxonomy.TYP == "EMPTY"
     ) {
-      return <Landing urlTaxonomy={props.urlTaxonomy} />;
+      return (
+        <Landing
+          urlTaxonomy={props.urlTaxonomy}
+          landingCategories={props.landingCategories}
+        />
+      );
     }
 
     return (
@@ -44,6 +49,8 @@ const ProductArea = (props) => {
             activePage={props.activePage}
             productsPerPage={props.productsPerPage}
             setCurrentPage={props.setCurrentPage}
+            allProducts={props.allProducts}
+            crntProducts={props.crntProducts}
           />
         </div>
         <div id="catproductinner" className="row catproductinner">
@@ -58,10 +65,14 @@ const ProductArea = (props) => {
               />
               <ViewByNumber
                 setPerpageProductscount={props.setPerpageProductscount}
+                allProducts={props.allProducts}
               />
             </div>
           </div>
-          <CurrentCount currentProducts={props.currentProducts} />
+          <CurrentCount
+            currentProducts={props.currentProducts}
+            crntProducts={props.crntProducts}
+          />
           <ListviewGridViewFilter
             listGridViews={props.listGridViews}
             setListGridViews={props.setListGridViews}
@@ -74,7 +85,10 @@ const ProductArea = (props) => {
         />
 
         {props.currentProducts && props.currentProducts.length > 0 ? (
-          <Thumbnail listGridViews={props.listGridViews} />
+          <Thumbnail
+            listGridViews={props.listGridViews}
+            crntProducts={props.crntProducts}
+          />
         ) : (
           <section id="catproducts" className="row ">
             <p>No Products Avaialable</p>
@@ -85,6 +99,8 @@ const ProductArea = (props) => {
           activePage={props.activePage}
           productsPerPage={props.productsPerPage}
           setCurrentPage={props.setCurrentPage}
+          allProducts={props.allProducts}
+          crntProducts={props.crntProducts}
         />
         <SeoText urlTaxonomy={props.urlTaxonomy} />
         <br className="clear" />

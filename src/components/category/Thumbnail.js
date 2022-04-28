@@ -4,12 +4,10 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import Image from "next/image";
 
-import { useSelector } from "react-redux";
-
 const Thumbnail = (props) => {
   let { URL } = process.env;
 
-  const currentProducts = useSelector((state) => state.crntProducts);
+  const currentProducts = props.crntProducts;
   let variants = {
     hidden: { opacity: 0, x: -200, y: 0 },
     enter: { opacity: 1, x: 0, y: 0 },
@@ -57,10 +55,7 @@ const Thumbnail = (props) => {
                   }
                 >
                   <div className="productListing text-center react-products-listings">
-                    <Link
-                      href={`${URL}/product/[...slug]`}
-                      as={`${URL + product.product_url}`}
-                    >
+                    <Link href={product.product_url}>
                       <a
                         style={{ zIndex: -1, position: "relative" }}
                         className="product text-decoration-none text-left"
@@ -70,10 +65,13 @@ const Thumbnail = (props) => {
                           <h3 className="name">{product.name}</h3>
                         </div>
                         <span className="image text-left mb-2 d-block">
-                          <img
+                          <Image
                             id={"img" + product.id}
                             src={product.image}
                             alt={product.name}
+                            width={221}
+                            height={200}
+                            loading="lazy"
                           />
                         </span>
                         {totalReviews > 0 ? (

@@ -2,9 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/api/taxonomy/taxonomy": "pages/api/taxonomy/taxonomy.js",
-  "/category/[slug]": "pages/category/[slug].js",
-  "/api/settings/settings": "pages/api/settings/settings.js",
-  "/api/category/[slug]": "pages/api/category/[slug].js",
-  "/api/landing/categories": "pages/api/landing/categories.js"
+  "/api/wishlist/getUserWishLists": "pages/api/wishlist/getUserWishLists.js"
 }

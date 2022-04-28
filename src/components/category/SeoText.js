@@ -18,11 +18,11 @@ const seoText = (props) => {
 
   return (
     <div className="row">
-      <div className="col-12">
+      <div className="col-12"> This is SEO TEXT Area
         {pageSeoHTML && pageSeoHTML != "" ? (
           <div dangerouslySetInnerHTML={{ __html: pageSeoHTML }} />
         ) : (
-          <p>{pageSeoText}</p>
+          <p className="mb-0">{pageSeoText}</p>
         )}
       </div>
     </div>

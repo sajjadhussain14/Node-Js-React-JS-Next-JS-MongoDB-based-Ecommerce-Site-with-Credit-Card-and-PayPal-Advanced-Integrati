@@ -20,21 +20,21 @@ const Top = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                <img src={URL+"/images/header_instagram_icon.png"} />
+                <i class="fab fa-instagram" aria-hidden="true"></i>
               </a>
               <a
                 href="https://www.facebook.com/CelerantTechnologyCorp"
                 target="_blank"
                 rel="noreferrer"
               >
-                <img src={URL+"/images/header_facebook_icon.png"} />
+                <i class="fab fa-facebook" aria-hidden="true"></i>
               </a>
               <a
                 href="https://twitter.com/celeranttech"
                 target="_blank"
                 rel="noreferrer"
               >
-                <img src={URL+"/images/header_twitter_icon.png"} />
+                <i class="fab fa-twitter" aria-hidden="true"></i>
               </a>
             </p>
           </section>

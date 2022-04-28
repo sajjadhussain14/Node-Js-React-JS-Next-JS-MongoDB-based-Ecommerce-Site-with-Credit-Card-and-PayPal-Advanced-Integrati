@@ -7,7 +7,7 @@ const LandingCategories = (props) => {
 
   let typs = [];
 
-  const categories = useSelector((state) => state.landingCategories);
+  const categories = props.landingCategories;
 
   try {
     categories.map((elements) => {

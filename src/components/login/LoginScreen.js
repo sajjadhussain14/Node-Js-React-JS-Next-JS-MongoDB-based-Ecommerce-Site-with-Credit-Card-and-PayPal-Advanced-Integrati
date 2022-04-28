@@ -67,8 +67,8 @@ const LoginScreen = (props) => {
           Sign in
         </button>
       </div>
-      <div className="form-group">
-        <h3>Sign Up</h3>
+      <div className="form-group mb-0">
+        <h3 className="mb-0">Sign Up</h3>
       </div>
       <div className="form-group">
         <div className="w-100">

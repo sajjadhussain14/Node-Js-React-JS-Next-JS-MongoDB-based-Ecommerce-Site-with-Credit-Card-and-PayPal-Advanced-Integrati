@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Footer from "../components/footer/Footer";
 import Header from "../components/header/Header";
 import Layout from "../components/home/Layout";
 
@@ -22,10 +23,16 @@ export default function Home(props) {
         />
         <meta name="robots" content="index, follow" />
         <link rel="icon" href="/favicon.ico" />
+        <meta
+          http-equiv="Cache-control"
+          content="public"
+          max-age="31536000"
+          immutable
+        />
       </Head>
       <Header taxonomy={props.taxonomy} cartData={cartValue} />
-
       <Layout />
+      <Footer />
     </>
   );
 }

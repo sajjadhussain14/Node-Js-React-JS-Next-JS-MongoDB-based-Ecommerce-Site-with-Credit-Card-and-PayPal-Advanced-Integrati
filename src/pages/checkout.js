@@ -12,6 +12,7 @@ import {
   setOrderDetails,
 } from "../controllers/order";
 import Header from "../components/header/Header";
+import Footer from "../components/footer/Footer";
 
 const Checkout = (props) => {
   let { URL } = process.env;
@@ -126,6 +127,7 @@ const Checkout = (props) => {
         paymentMethod={paymentMethod}
         setPaymentMethod={setPaymentMethod}
       />
+      <Footer />
     </>
   );
 };

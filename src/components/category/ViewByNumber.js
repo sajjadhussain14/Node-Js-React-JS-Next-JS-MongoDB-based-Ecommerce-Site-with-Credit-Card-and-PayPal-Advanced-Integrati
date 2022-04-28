@@ -3,7 +3,7 @@ import { handleChangePerPage } from "../../controllers/category";
 import { useSelector } from "react-redux";
 
 const ViewByNumber = (props) => {
-  const allProducts = useSelector((state) => state.products);
+  const allProducts = props.allProducts;
 
   return (
     <section

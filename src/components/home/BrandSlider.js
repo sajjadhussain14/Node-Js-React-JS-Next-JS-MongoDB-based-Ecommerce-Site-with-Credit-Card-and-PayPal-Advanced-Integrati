@@ -1,9 +1,10 @@
 import React from "react";
 import dynamic from "next/dynamic";
+import Image from "next/image";
+
 //const OwlCarousel1 = dynamic(import("react-owl-carousel"), { ssr: false });
 import "owl.carousel/dist/assets/owl.carousel.css";
 
-import Image from "next/image";
 var $ = require("jquery");
 if (typeof window !== "undefined") {
   window.$ = window.jQuery = require("jquery");
@@ -62,28 +63,40 @@ const BrandSlider = () => {
               {...options}
             >
               <div className="item">
-                <img
+                <Image
                   alt="brand logo"
                   src={URL + "/images/brands/Bromley mountain logo.png"}
                   className="img-fluid"
+                  width={106}
+                  height={85}
+                  layout="responsive"
+                  loading="lazy"
                 />
               </div>
               <div className="item">
-                <img
+                <Image
                   alt="brand logo"
                   src={URL + "/images/brands/hunter-mountain.png"}
                   className="img-fluid"
+                  width={106}
+                  height={85}
+                  layout="responsive"
+                  loading="lazy"
                 />
               </div>
               <div className="item">
-                <img
+                <Image
                   alt="brand logo"
                   src={URL + "/images/brands/jiminy.png"}
                   className="img-fluid"
+                  width={106}
+                  height={85}
+                  layout="responsive"
+                  loading="lazy"
                 />
               </div>
               <div className="item">
-                <img
+                <Image
                   alt="brand logo"
                   src={URL + "/images/brands/PFM-Okemo.png"}
                   width={90}
@@ -94,54 +107,82 @@ const BrandSlider = () => {
                 />
               </div>
               <div className="item">
-                <img
+                <Image
                   alt="brand logo"
                   src={URL + "/images/brands/PFM-Okemo.png"}
                   className="img-fluid"
+                  width={106}
+                  height={85}
+                  layout="responsive"
+                  loading="lazy"
                 />
               </div>
               <div className="item">
-                <img
+                <Image
                   alt="brand logo"
                   src={URL + "/images/brands/stwejpg.png"}
                   className="img-fluid"
+                  width={106}
+                  height={85}
+                  layout="responsive"
+                  loading="lazy"
                 />
               </div>
               <div className="item">
-                <img
+                <Image
                   alt="brand logo"
                   src={URL + "/images/brands/white-face.png"}
                   className="img-fluid"
+                  width={106}
+                  height={85}
+                  layout="responsive"
+                  loading="lazy"
                 />
               </div>
               <div className="item">
-                <img
+                <Image
                   alt="brand logo"
                   src="https://template1.cumulusbetasites.com/ccms/default/assets/Image/brand-smith-and-wesson.png"
                   className="img-fluid"
+                  width={106}
+                  height={85}
+                  layout="responsive"
+                  loading="lazy"
                 />
-              </div>{" "}
+              </div>
               <div className="item">
-                <img
+                <Image
                   alt="brand logo"
                   src="https://template1.cumulusbetasites.com/ccms/default/assets/Image/brand-smith-and-wesson.png"
                   className="img-fluid"
+                  width={106}
+                  height={85}
+                  layout="responsive"
+                  loading="lazy"
                 />
-              </div>{" "}
+              </div>
               <div className="item">
-                <img
+                <Image
                   alt="brand logo"
                   src="https://template1.cumulusbetasites.com/ccms/default/assets/Image/brand-smith-and-wesson.png"
                   className="img-fluid"
+                  width={106}
+                  height={85}
+                  layout="responsive"
+                  loading="lazy"
                 />
-              </div>{" "}
+              </div>
               <div className="item">
-                <img
+                <Image
                   alt="brand logo"
                   src="https://template1.cumulusbetasites.com/ccms/default/assets/Image/brand-smith-and-wesson.png"
                   className="img-fluid"
+                  width={106}
+                  height={85}
+                  layout="responsive"
+                  loading="lazy"
                 />
-              </div>{" "}
+              </div>
             </OwlCarousel>
           </div>
         </div>

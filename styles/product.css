@@ -904,6 +904,7 @@
 
 #productcontent #related-prod-container {
     height: auto;
+    padding-top: 25px;
 }
 
 #productcontent #related-prod-container .heading {

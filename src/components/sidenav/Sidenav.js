@@ -1,8 +1,5 @@
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
-import { setAllFilters } from "../../redux/allFiltersSlice";
-import { useSelector } from "react-redux";
-import { useDispatch } from "react-redux";
 import {
   AddCategories,
   AddThisFilter,
@@ -18,13 +15,11 @@ import ShopByCategory from "./ShopByCategory";
 import ShopByDynamicAttribute from "./ShopByDynamicAttribute";
 
 const Sidenav = (props) => {
-  const dispatch = useDispatch();
+  const allProducts = props.allProducts;
+  const alltaxonomy = props.allTaxonomy;
+  const filters = props.allFilters;
 
-  const allProducts = props.products;
-  const alltaxonomy = useSelector((state) => state.taxonomy);
-  const filters = useSelector((state) => state.allFilters);
-
-  const categoryModeValue = useSelector((state) => state.categoryMode);
+  const categoryModeValue = props.categoryMode;
 
   let attributes = [];
   let attributesCount = [];
@@ -37,7 +32,8 @@ const Sidenav = (props) => {
   CategoriesData = ShopByCategories(
     props.urlTaxonomy,
     props.allCurrentProducts,
-    alltaxonomy
+    alltaxonomy,
+    props.categoryMode
   );
   taxonomy = CategoriesData.taxonomy;
   categories = CategoriesData.categories;
@@ -76,8 +72,7 @@ const Sidenav = (props) => {
           {categoryModeValue == "category" ? (
             <SelectedFilters
               filters={filters}
-              dispatch={dispatch}
-              setAllFilters={setAllFilters}
+              setAllFilters={props.setAllFilters}
             />
           ) : (
             ""
@@ -98,10 +93,10 @@ const Sidenav = (props) => {
             <ShopByCategory
               categories={categories}
               filters={filters}
-              dispatch={dispatch}
-              setAllFilters={setAllFilters}
+              setAllFilters={props.setAllFilters}
               taxonomy={taxonomy}
               urls={urls}
+              categoryMode={categoryModeValue}
             />
           ) : (
             ""
@@ -112,8 +107,7 @@ const Sidenav = (props) => {
           <ShopByDynamicAttribute
             attributes={attributes}
             filters={filters}
-            dispatch={dispatch}
-            setAllFilters={setAllFilters}
+            setAllFilters={props.setAllFilters}
             setSearchText={props.setSearchText}
           />
 

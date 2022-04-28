@@ -20,7 +20,7 @@ export default async function handler(req, res) {
       person.credentials.email == login_email &&
       person.credentials.password == md5(login_password)
   );
-
+  console.log(record);
   let stCode = "409";
   let response = "";
   let ID = "";

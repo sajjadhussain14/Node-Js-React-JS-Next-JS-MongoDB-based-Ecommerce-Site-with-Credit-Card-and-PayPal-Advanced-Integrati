@@ -55,7 +55,7 @@ const CartContent = (props) => {
                       </a>
                     </Link>
                   </div>
-                  <div className="col-lg-3 col-md-3 col-sm-8 col-8 qtyInner">
+                  <div className="col-lg-3 col-md-3 col-sm-6 col-12 qtyInner">
                     <button
                       className="minus"
                       onClick={(e) => {
@@ -94,12 +94,12 @@ const CartContent = (props) => {
                       <i className="fas fa-trash ml-1"></i>
                     </a>
                   </div>
-                  <div className="col-lg-2 col-md-2 col-sm-4 col-5">
+                  <div className="col-lg-2 col-md-2 col-sm-3 col-6">
                     <span className="pprice">
                       ${product.itemPrice.toFixed(2)}
                     </span>
                   </div>
-                  <div className="col-lg-2 col-md-2 col-sm-4 col-5">
+                  <div className="col-lg-2 col-md-2 col-sm-3 col-6">
                     <span className="pprice">
                       $ {product.total.toFixed(2)}{" "}
                     </span>

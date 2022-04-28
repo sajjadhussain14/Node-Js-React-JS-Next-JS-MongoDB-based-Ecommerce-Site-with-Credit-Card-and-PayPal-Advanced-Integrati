@@ -7,7 +7,7 @@ import { AddCategories } from "../../controllers/sideNav";
 const ShopByCategory = (props) => {
   let { URL } = process.env;
 
-  const categoryModeValue = useSelector((state) => state.categoryMode);
+  const categoryModeValue = props.categoryMode;
 
   return (
     <div id="CategoryFilter" className="accordion-item border-bottom border-1">

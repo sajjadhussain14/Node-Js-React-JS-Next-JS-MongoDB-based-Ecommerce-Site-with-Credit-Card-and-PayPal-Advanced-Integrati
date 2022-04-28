@@ -169,12 +169,13 @@ a#cartDisp {
 
 
 div#cartDrpDown .list-item-cart{overflow-x:visible;padding: 0 00px!important;display: block!important;margin: 0px!important;width: 100%!important;max-width: 100%!important;height: auto;overflow-y: visible;}
-#cartDrpDown{box-shadow: -6px 7px 6px hsla(0, 0%, 0%, 0.161);background-color: #fff!important;width: 100%;max-width: 400px;top: 70px!important;right: 0!important;position: absolute;z-index: 99999999;padding:20px 15px 30px;display: block;left: unset;}
+div#cartDrpDown .list-item-cart.overflow {height: 300px; overflow: hidden; overflow-y: scroll;}
+#cartDrpDown{box-shadow: -6px 7px 6px hsla(0, 0%, 0%, 0.161);background-color: #fff!important;width: 100%;max-width: 400px;top: 70px!important;right: 0!important;position: absolute;z-index: 99999999;padding:20px 15px 30px;display: block;left: unset; margin-right: 10px;}
 #cartDrpDown .box-title{border:0px!important;}
 #cartDrpDown .box-title a:first-of-type{font-size: 13px;font-weight: 400;text-transform: capitalize;color:#444444;text-decoration: none;font-style: normal; font-family: "Mulish";}
 #cartDrpDown .box-title a:last-of-type{font-size: 18px;font-weight: 400;text-transform: capitalize;color:#707070;text-decoration: none;font-style: normal; font-family: "Mulish";}
 #cartDrpDown p.cartItem{font-size: 15px;letter-spacing: .75px;line-height: 40px;color:#172026;text-transform: uppercase;margin-bottom: 0px;}
-#cartDrpDown .item-cart{border-bottom: 1px solid #757679!important;}
+#cartDrpDown .item-cart{border-bottom: 1px solid #757679!important; margin-bottom: 20px;}
 #cartDrpDown .item-cart:last-of-type{border-bottom: 0px!important; padding: 5px 0;}
 #cartDrpDown .product-info .productBrand{font-size: 17px;letter-spacing: .65px;line-height:20px;color:#172026;display: block;text-transform: uppercase;  font-family: 'Source Serif Pro'; font-weight: 600;}
 #cartDrpDown .product-info .product-name{font-size: 16px;font-style:normal;line-height:20px;color:#172026;display: block;text-transform:capitalize;margin-bottom: 20px; font-family: "Mulish";}

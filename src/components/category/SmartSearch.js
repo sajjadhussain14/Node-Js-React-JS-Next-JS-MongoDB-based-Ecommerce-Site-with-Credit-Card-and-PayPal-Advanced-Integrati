@@ -8,7 +8,7 @@ const SmartSearch = (props) => {
   }
   let branURL = "";
   return (
-    <section id="cat-search-container" className="row">
+    <section id="cat-search-container" className="row position-relative">
       <div className="col-12">
         <input
           type="text"
@@ -22,6 +22,7 @@ const SmartSearch = (props) => {
           }}
           onLoad={ReSearch(props.setSearchText, searchTXT)}
         />
+        <button type="button"><img src="http://localhost:3000/images/header_search_icon.png" /></button>
       </div>
     </section>
   );

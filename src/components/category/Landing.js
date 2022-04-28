@@ -12,7 +12,10 @@ const Landing = (props) => {
       <div className="row">
         <CategoryHeading urlTaxonomy={props.urlTaxonomy} />
       </div>
-      <LandingCategories dept={props.urlTaxonomy.DEPT} />
+      <LandingCategories
+        dept={props.urlTaxonomy.DEPT}
+        landingCategories={props.landingCategories}
+      />
     </section>
   );
 };

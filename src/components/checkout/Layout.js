@@ -20,7 +20,7 @@ const Layout = (props) => {
           <Heading />
 
           <section className="checkout-details-wrapper">
-            <div className="row">
+            <div className="row mx-0">
               <section id="left-portion" className="col-lg-4 col-md-6 left">
                 <div className="form-wizard">
                   <form
@@ -73,7 +73,7 @@ const Layout = (props) => {
                 <section className="your-order-wrapper">
                   <div className="row">
                     <div className="col-lg-12 col-md-12 p-sm-4 p-2">
-                      <div id="products-list" className="me-sm-3">
+                      <div id="products-list" className="me-sm-3 products-list-overflow">
                         <Cart cart={props.cart} setCart={props.setCart} />
                       </div>
                     </div>

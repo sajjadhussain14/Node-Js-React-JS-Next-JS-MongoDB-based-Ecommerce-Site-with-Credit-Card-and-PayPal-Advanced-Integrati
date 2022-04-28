@@ -15,7 +15,7 @@ const Order = (props) => {
   }, []);
   return (
     <div className="row">
-      <div className="accountBody col-12 col-sm-7 col-md-8 col-lg-10">
+      <div className="accountBody col-12 col-sm-12 col-md-12 col-lg-12">
         <div className="page-heading">Order History</div>
         <br clear="all" />
         <div className="account-page">

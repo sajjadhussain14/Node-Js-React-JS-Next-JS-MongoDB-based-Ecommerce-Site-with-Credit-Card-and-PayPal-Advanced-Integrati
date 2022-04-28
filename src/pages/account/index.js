@@ -5,6 +5,7 @@ import { getUserWishLists } from "../../controllers/wishlist";
 import { getAccountcripts } from "../../assets/js/main";
 import Layout from "../../components/account/Layout";
 import Header from "../../components/header/Header";
+import Footer from "../../components/footer/Footer";
 
 const Account = (props) => {
   const [userData, setUserData] = useState([]);
@@ -79,6 +80,7 @@ const Account = (props) => {
         setListName={setListName}
         wishListItems={wishListItems}
       />
+      <Footer />
     </>
   );
 };

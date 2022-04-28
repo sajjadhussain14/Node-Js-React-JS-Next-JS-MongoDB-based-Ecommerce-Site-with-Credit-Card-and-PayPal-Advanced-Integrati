@@ -8,7 +8,7 @@ const Layout = (props) => {
     <section id="cart" className="container">
       <div className="row">
         <CartTop cartItems={props.cart} setCart={props.setCart} />
-        <div className="col-md-8 cart">
+        <div className="col-md-8 col-sm-8 col-12 cart">
           <CartContent cartItems={props.cart} setCart={props.setCart} />
         </div>
         <CartSummary cartItems={props.cart} setCart={props.setCart} />
