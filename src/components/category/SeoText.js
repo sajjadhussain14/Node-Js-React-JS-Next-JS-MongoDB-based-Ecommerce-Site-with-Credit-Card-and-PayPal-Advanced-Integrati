@@ -12,13 +12,21 @@ const seoText = (props) => {
 
   if (isHtml) {
     pageSeoHTML = seoTxt;
+    if (!pageSeoHTML || pageSeoHTML == "") {
+      pageSeoHTML =
+        "Find a wide variety of guns online from innovative and reliable brands designed with accuracy in mind. Choose from Centerfire Rifles and Rimfire Rifles for target shooting and hunting from a tree stand. For open and concealed carry, shop Centerfire Pistols and Rimfire Pistols. When you are ready to shoot clay pigeons and targets, choose from our selection of Shotguns.";
+    }
   } else {
     pageSeoText = seoTxt;
+    if (!pageSeoText || pageSeoText == "") {
+      pageSeoText =
+        "Find a wide variety of guns online from innovative and reliable brands designed with accuracy in mind. Choose from Centerfire Rifles and Rimfire Rifles for target shooting and hunting from a tree stand. For open and concealed carry, shop Centerfire Pistols and Rimfire Pistols. When you are ready to shoot clay pigeons and targets, choose from our selection of Shotguns.";
+    }
   }
 
   return (
     <div className="row">
-      <div className="col-12"> This is SEO TEXT Area
+      <div className="col-12">
         {pageSeoHTML && pageSeoHTML != "" ? (
           <div dangerouslySetInnerHTML={{ __html: pageSeoHTML }} />
         ) : (

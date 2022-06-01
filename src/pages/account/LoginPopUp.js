@@ -117,7 +117,7 @@ const LoginPopUp = (props) => {
                 <div className="modal-body">
                   <div className="form-inner">
                     <div className="form-group">
-                      <h1>sign in</h1>
+                      <h2>sign in</h2>
                     </div>
                     <form name="logimPopUpForm" id="logimPopUpForm">
                       <div className="form-group">

@@ -9,13 +9,12 @@ header .container {
 }
 
 #top {
-   overflow: hidden;
-  background: #545D63;
-  height: auto;
-  width: 100%;
-  max-width: 1920px;
-  margin: 0 auto;
-  padding-right: 20px;
+    overflow: hidden;
+    background: #9b9b9b;
+    height: auto;
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
 }
 
 #top .container {
@@ -45,10 +44,10 @@ header .container {
 }
 
 #middle .search form {
-    border-bottom: solid 1px #9b9b9b;
+    border: solid 1px #9b9b9b;
     height: 35px;
     position: relative;
-    border-radius: 0;
+    border-radius: 5px;
 }
 
 #middle input {
@@ -148,13 +147,9 @@ header .container {
     border-radius: 10px;
 }
 
-#middle .profile button {color:#545D63; font-size:16px;}
-#middle .profile button .fa-user {margin-right:5px;}
-
 header nav {
     height: 60px;
-    background-color: transparent !important; 
-    border-top: solid 1px #E5E5E7;
+    background-color: #c5c5c5 !important;
     z-index: 3;
 }
 
@@ -170,12 +165,12 @@ header nav i {
 
 header .navbar-dark .navbar-nav .nav-item a.nav-link {
     font-family: 'Montserrat-Regular';
-    color: #1B252C;
+    color: #000;
     padding: 0;
     margin: 0 !important;
     line-height: 49px;
     text-align: center;
-    font-size: 16px !important;
+    font-size: 0.65rem !important;
     text-transform: uppercase;
     white-space: nowrap;
 }
@@ -343,7 +338,7 @@ header .navbar-dark .navbar-nav .dropdown-menu a {
     }
 
     header .navbar-dark .navbar-nav .nav-item:hover .dropdown-menu {
-        display: block;
+        position: absolute;
     }
 
     header .dropdown-menu .collapse {

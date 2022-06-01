@@ -39,7 +39,7 @@ const Order = (props) => {
               {orders && orders.length > 0
                 ? orders.map((orderData) => {
                     return (
-                      <tr>
+                      <tr key={orderData.orderNumber}>
                         <td>{orderData.orderNumber}</td>
                         <td>{orderData.date_created}</td>
                         <td>${orderData.order.total}</td>
@@ -52,7 +52,7 @@ const Order = (props) => {
                             Router.push("/orders/" + orderData.orderNumber);
                           }}
                         >
-                          <i class="fa fa-eye" aria-hidden="true"></i>
+                          <i className="fa fa-eye" aria-hidden="true"></i>
                         </td>
                       </tr>
                     );

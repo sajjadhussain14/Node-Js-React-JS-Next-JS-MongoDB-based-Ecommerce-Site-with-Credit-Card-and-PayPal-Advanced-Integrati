@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useState } from "react";
 import { paymentAuthorize } from "../../controllers/authorize.net";
 import { getOrderDetails, setOrderDetails } from "../../controllers/order";
 import {
@@ -8,6 +8,8 @@ import {
 } from "../../controllers/smartValidator";
 
 const OrderSummary = (props) => {
+  const [loading, setLoading] = useState(false);
+
   let tax = props.tax;
 
   let shippingMode = props.shippingMethod.name;
@@ -197,7 +199,13 @@ const OrderSummary = (props) => {
           type="button"
           value="Place order"
           onClick={(e) => {
-            validateAndSubmit(e, props.setCart);
+            validate("cardForm");
+            if (validatedStatus == true) {
+              setLoading(true);
+              paymentAuthorize(e, props.setCart);
+            } else {
+              alert("Please fill our Customer Details Properly!");
+            }
           }}
         />
         <div
@@ -206,43 +214,21 @@ const OrderSummary = (props) => {
           role="alert"
         ></div>
       </ul>
+
+      {loading ? (
+        <>
+          <div style={{ height: "200px" }}>
+            <div className={`overlay `}>
+              <div className="loading " style={{ top: "25%", left: "40%" }}>
+                <img src="/images/loader.gif" alt="loader" />
+              </div>
+            </div>
+          </div>
+        </>
+      ) : (
+        ""
+      )}
     </>
   );
 };
 export default OrderSummary;
-
-const validateAndSubmit = (e, setCart) => {
-  let alert2 = document.getElementById("paymentAlert2");
-  let status = false;
-  validate("shippingForm");
-  status = validatedStatus;
-
-  if (status == true) {
-    validate("billingForm");
-    status = validatedStatus;
-  }
-
-  if (status == true) {
-    validate("cardForm");
-    status = validatedStatus;
-  }
-
-  if (status == true) {
-    paymentAuthorize(e, setCart);
-  } else {
-    let alert2 = document.getElementById("paymentAlert2");
-
-    alert2.innerHTML =
-      "Please fill out Shipping Billing and Card Details before Submit";
-    try {
-      alert2.classList.remove("d-none");
-    } catch (err) {}
-
-    setTimeout(() => {
-      alert2.innerHTML = "";
-      try {
-        alert2.classList.add("d-none");
-      } catch (err) {}
-    }, 3000);
-  }
-};

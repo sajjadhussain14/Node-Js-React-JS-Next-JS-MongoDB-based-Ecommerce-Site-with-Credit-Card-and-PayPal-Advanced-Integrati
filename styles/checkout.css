@@ -240,6 +240,8 @@
         font-family: "Mulish"; 
         box-shadow: none;
         padding-left: 0;
+        font-size: 26px;
+        text-transform: capitalize;
       }
 
       #checkout-main-content h2 button::after {

@@ -14,13 +14,14 @@ const CompanyIntroduction = () => {
                 height={400}
                 layout="responsive"
                 className="img-fluid"
-                alt="Minni banner 1"
+                alt="Introduction Banner"
+                title="Introduction Banner"
                 src={URL + "/images/welcome-bg.png"}
               />
             </section>
             <section className="col-lg-5 col-md-5 col-sm-12 col-12 p-0 video">
               <p>
-                <h3>Firearms</h3>
+                <h1>Firearms</h1>
                 <span>
                   We sell firearms online, sale online firearms. We offer best
                   deals to purchase firearms at affordable price. We are dealing

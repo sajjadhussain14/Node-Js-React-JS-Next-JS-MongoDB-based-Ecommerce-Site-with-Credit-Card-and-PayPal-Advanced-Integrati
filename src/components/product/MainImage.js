@@ -12,13 +12,11 @@ const MainImage = (props) => {
         className="MagicZoomPlus"
         data-options="rightClick: true; expand: false;"
       >
-        <Image
+        <img
           className="prodImage"
           src={getProducts.image}
-          width={627}
-          height={477}
-          loading="lazy"
-          name={getProducts.name}
+          style={{ maxWidth: "500px", maxHeight: "1024px" }}
+          title={getProducts.name}
           alt={getProducts.name}
         />
       </a>

@@ -11,6 +11,7 @@ const MiniBanner1 = () => {
         layout="responsive"
         className="img-fluid"
         alt="Minni banner 1"
+        title="Minni banner 1"
         src={URL + "/images/mini-banner/mini-banner1.png"}
         loading="lazy"
       />
@@ -18,7 +19,7 @@ const MiniBanner1 = () => {
       <section className="overlay">
         <h5>placeholder header</h5>
         <span>Lorem ipsum dolor sit amet</span>
-        <a href="https://www.google.com">shop now</a>
+        <a href="#">shop now</a>
       </section>
     </section>
   );

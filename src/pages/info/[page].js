@@ -3,7 +3,7 @@ import Header from "../../components/header/Header";
 import { useRouter } from "next/router";
 import Footer from "../../components/footer/Footer";
 const Info = (props) => {
-  let { taxanomy } = prpps.data;
+  let { taxanomy } = props.data;
   const router = useRouter();
   let { page } = router.query;
 
@@ -16,35 +16,36 @@ const Info = (props) => {
 
   return (
     <>
-      <Header taxonomy={props.taxonomy} cartData={cartValue} />;
+      <Header taxonomy={taxanomy} cartData={cartValue} />;
       <h1>Coming soon page {page}</h1>
       <Footer />
     </>
   );
 };
 // START SERVER SIDE RENDERING FOR DATA FETCH
-export async function getServerSideProps(context) {
+
+export async function getServerSideProps({ query, res }) {
   let { URL } = process.env;
 
+  try {
+    res.setHeader(
+      "Cache-Control",
+      "public, s-maxage=43200, stale-while-revalidate=60"
+    );
+  } catch (err) {}
   let data = {
     taxanomy: [],
   };
 
-  let taxanomy = [];
-
-  // Fetch taxanomy from external API
-  let res = {};
+  let resp = {};
   try {
-    res = await fetch(URL + "/api/taxonomy/taxonomy");
-    taxanomy = await res.json();
-    data.taxanomy = taxanomy;
+    resp = await fetch(URL + "/api/taxonomy/taxonomy");
+    data.taxanomy = await resp.json();
   } catch (err) {
     data.taxanomy = [];
   }
-
   // Pass data to the page via props
   return { props: { data } };
 }
-// END SERVER SIDE RENDERING FOR DATA FETCH
 
 export default Info;

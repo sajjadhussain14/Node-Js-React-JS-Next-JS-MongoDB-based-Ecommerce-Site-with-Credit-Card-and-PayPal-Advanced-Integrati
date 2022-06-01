@@ -68,6 +68,7 @@ const Middle = (props) => {
                       width={140}
                       height={70}
                       loading="lazy"
+                      title="Logo Image"
                     />
                   </p>
                 </a>
@@ -87,11 +88,11 @@ const Middle = (props) => {
                     searchIt();
                   }}
                 >
-                  <i class="fas fa-search" aria-hidden="true"></i>
+                  <i className="fas fa-search" aria-hidden="true"></i>
                 </button>
               </form>
             </div>
-            <div className="col-lg-3 col-md-3 col-sm-4 col-12 profile">
+            <div className="col-lg-3 col-md-3 col-sm-12 col-12 profile">
               {loginstatus && loginstatus == "yes" ? (
                 <span
                   className="accountIcon"
@@ -121,7 +122,7 @@ const Middle = (props) => {
               )}
               <Link href="javascript:void(0)">
                 <a id="header-cart" className="cartDisp">
-                  <i class="fas fa-shopping-cart"></i>{" "}
+                  <i className="fas fa-shopping-cart"></i>{" "}
                   <span id="header-cartQTY">{cartLen}</span>
                 </a>
               </Link>

@@ -1,0 +1,1 @@
+{"c":["pages/checkout","pages/paypal/[payment]","webpack"],"r":["pages/paypal/[payment]"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fpaypal%2F%5Bpayment%5D&absolutePagePath=D%3A%5Cmodern%5Csrc%5Cpages%5Cpaypal%5C%5Bpayment%5D.js!","./src/pages/paypal/[payment].js"]}

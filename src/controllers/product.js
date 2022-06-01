@@ -3,85 +3,87 @@ let { URL } = process.env;
 
 export const getBreadCrumbs = (taxonomy, product) => {
   let breadCrumbs = [];
-  taxonomy.map((categories) => {
-    if (
-      product.Dept &&
-      product.Dept != "" &&
-      product.Dept != "EMPTY" &&
-      (categories.TYP == "EMPTY" || categories.TYP == "") &&
-      product.Dept.toUpperCase() == categories.DEPT.toUpperCase()
-    ) {
-      if (breadCrumbs.some((ele) => ele.url == categories.URL)) {
+  taxonomy &&
+    taxonomy.length > 0 &&
+    taxonomy.map((categories) => {
+      if (
+        product.Dept &&
+        product.Dept != "" &&
+        product.Dept != "EMPTY" &&
+        (categories.TYP == "EMPTY" || categories.TYP == "") &&
+        product.Dept.toUpperCase() == categories.DEPT.toUpperCase()
+      ) {
+        if (breadCrumbs.some((ele) => ele.url == categories.URL)) {
+        } else {
+          breadCrumbs.push({
+            key: "DEPT",
+            value: categories.DEPT,
+            url: categories.URL,
+          });
+        }
+      } else if (
+        product.Typ &&
+        product.Typ != "" &&
+        product.Typ != "EMPTY" &&
+        categories.SUBTYP_1 == "EMPTY" &&
+        product.Typ.toUpperCase() == categories.TYP.toUpperCase()
+      ) {
+        if (breadCrumbs.some((ele) => ele.url == categories.URL)) {
+        } else {
+          breadCrumbs.push({
+            key: "TYP",
+            value: categories.TYP,
+            url: categories.URL,
+          });
+        }
+      } else if (
+        product.SUBTYP_1 &&
+        product.SUBTYP_1 != "" &&
+        product.SUBTYP_1 != "EMPTY" &&
+        categories.SUBTYP_2 == "EMPTY" &&
+        product.SUBTYP_1.toUpperCase() == categories.SUBTYP_1.toUpperCase()
+      ) {
+        if (breadCrumbs.some((ele) => ele.url == categories.URL)) {
+        } else {
+          breadCrumbs.push({
+            key: "SUBTYP_1",
+            value: categories.SUBTYP_1,
+            url: categories.URL,
+          });
+        }
+      } else if (
+        product.SUBTYP_2 &&
+        product.SUBTYP_2 != "" &&
+        product.SUBTYP_2 != "EMPTY" &&
+        categories.SUBTYP_3 == "EMPTY" &&
+        product.SUBTYP_2.toUpperCase() == categories.SUBTYP_2.toUpperCase()
+      ) {
+        if (breadCrumbs.some((ele) => ele.url == categories.URL)) {
+        } else {
+          breadCrumbs.push({
+            key: "SUBTYP_2",
+            value: categories.SUBTYP_2,
+            url: categories.URL,
+          });
+        }
+      } else if (
+        product.SUBTYP_3 &&
+        product.SUBTYP_3 != "" &&
+        product.SUBTYP_3 != "EMPTY" &&
+        categories.SUBTYP_4 == "EMPTY" &&
+        product.SUBTYP_3.toUpperCase() == categories.SUBTYP_3.toUpperCase()
+      ) {
+        if (breadCrumbs.some((ele) => ele.url == categories.URL)) {
+        } else {
+          breadCrumbs.push({
+            key: "SUBTYP_3",
+            value: categories.SUBTYP_3,
+            url: categories.URL,
+          });
+        }
       } else {
-        breadCrumbs.push({
-          key: "DEPT",
-          value: categories.DEPT,
-          url: categories.URL,
-        });
       }
-    } else if (
-      product.Typ &&
-      product.Typ != "" &&
-      product.Typ != "EMPTY" &&
-      categories.SUBTYP_1 == "EMPTY" &&
-      product.Typ.toUpperCase() == categories.TYP.toUpperCase()
-    ) {
-      if (breadCrumbs.some((ele) => ele.url == categories.URL)) {
-      } else {
-        breadCrumbs.push({
-          key: "TYP",
-          value: categories.TYP,
-          url: categories.URL,
-        });
-      }
-    } else if (
-      product.SUBTYP_1 &&
-      product.SUBTYP_1 != "" &&
-      product.SUBTYP_1 != "EMPTY" &&
-      categories.SUBTYP_2 == "EMPTY" &&
-      product.SUBTYP_1.toUpperCase() == categories.SUBTYP_1.toUpperCase()
-    ) {
-      if (breadCrumbs.some((ele) => ele.url == categories.URL)) {
-      } else {
-        breadCrumbs.push({
-          key: "SUBTYP_1",
-          value: categories.SUBTYP_1,
-          url: categories.URL,
-        });
-      }
-    } else if (
-      product.SUBTYP_2 &&
-      product.SUBTYP_2 != "" &&
-      product.SUBTYP_2 != "EMPTY" &&
-      categories.SUBTYP_3 == "EMPTY" &&
-      product.SUBTYP_2.toUpperCase() == categories.SUBTYP_2.toUpperCase()
-    ) {
-      if (breadCrumbs.some((ele) => ele.url == categories.URL)) {
-      } else {
-        breadCrumbs.push({
-          key: "SUBTYP_2",
-          value: categories.SUBTYP_2,
-          url: categories.URL,
-        });
-      }
-    } else if (
-      product.SUBTYP_3 &&
-      product.SUBTYP_3 != "" &&
-      product.SUBTYP_3 != "EMPTY" &&
-      categories.SUBTYP_4 == "EMPTY" &&
-      product.SUBTYP_3.toUpperCase() == categories.SUBTYP_3.toUpperCase()
-    ) {
-      if (breadCrumbs.some((ele) => ele.url == categories.URL)) {
-      } else {
-        breadCrumbs.push({
-          key: "SUBTYP_3",
-          value: categories.SUBTYP_3,
-          url: categories.URL,
-        });
-      }
-    } else {
-    }
-  });
+    });
 
   let breadcrumbsContent = [];
   breadcrumbsContent.push(

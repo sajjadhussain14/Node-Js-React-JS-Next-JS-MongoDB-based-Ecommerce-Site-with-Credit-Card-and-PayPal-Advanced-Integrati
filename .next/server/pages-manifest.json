@@ -1,6 +1,10 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/api/wishlist/getUserWishLists": "pages/api/wishlist/getUserWishLists.js"
+  "/_error": "pages/_error.js",
+  "/api/payment/paypal/capture-order": "pages/api/payment/paypal/capture-order.js",
+  "/paypal/[payment]": "pages/paypal/[payment].js",
+  "/api/orders/createOrder": "pages/api/orders/createOrder.js",
+  "/thank-you": "pages/thank-you.js",
+  "/api/taxonomy/taxonomy": "pages/api/taxonomy/taxonomy.js"
 }

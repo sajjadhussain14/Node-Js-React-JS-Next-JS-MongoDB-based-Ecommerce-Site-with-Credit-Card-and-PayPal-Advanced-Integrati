@@ -10,7 +10,8 @@ const MiniBanner3 = () => {
         height={282}
         layout="responsive"
         className="img-fluid"
-        alt="Minni banner 2"
+        alt="Minni banner 3"
+        title="Minni banner 3"
         src={URL + "/images/mini-banner/mini-banner2.png"}
         loading="lazy"
       />
@@ -18,7 +19,7 @@ const MiniBanner3 = () => {
       <section className="overlay">
         <h5>placeholder header</h5>
         <span>Ammunition</span>{" "}
-        <a href="http://template1icumulus-com.ntc5-p2stl.ezhostingserver.com/products/ammunition-centerfire-pistol">
+        <a href="#">
           shop now
         </a>
       </section>

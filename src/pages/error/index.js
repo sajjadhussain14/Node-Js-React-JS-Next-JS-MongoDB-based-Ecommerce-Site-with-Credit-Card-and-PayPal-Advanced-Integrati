@@ -10,7 +10,6 @@ const error = (props) => {
   try {
     error = orderDetails.error;
   } catch (err) {}
-  console.log("erorrrrr", orderDetails);
 
   setTimeout(() => {
     setOrderDetails("orderDetails", {});
@@ -23,13 +22,13 @@ const error = (props) => {
 
   return (
     <>
-      <Header taxonomy={props.taxonomy} cartData={cartValue} />;
+      <Header taxonomy={props.data.taxanomy} cartData={cartValue} />;
       <div>
         <section id="contentHolder">
           <div id="category">
             <div className="container">
               <div className="row">
-                <div class="alert alert-warning" role="alert">
+                <div className="alert alert-warning" role="alert">
                   <p>{error}</p>
                 </div>
               </div>
@@ -41,5 +40,29 @@ const error = (props) => {
     </>
   );
 };
+
+export async function getServerSideProps({ query, res }) {
+  let { URL } = process.env;
+
+  try {
+    res.setHeader(
+      "Cache-Control",
+      "public, s-maxage=43200, stale-while-revalidate=60"
+    );
+  } catch (err) {}
+  let data = {
+    taxanomy: [],
+  };
+
+  let resp = {};
+  try {
+    resp = await fetch(URL + "/api/taxonomy/taxonomy");
+    data.taxanomy = await resp.json();
+  } catch (err) {
+    data.taxanomy = [];
+  }
+  // Pass data to the page via props
+  return { props: { data } };
+}
 
 export default error;

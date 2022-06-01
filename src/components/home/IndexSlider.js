@@ -14,12 +14,12 @@ const IndexSlider = () => {
               className="carousel slide"
               data-bs-ride="carousel"
             >
-              <div class="carousel-indicators">
+              <div className="carousel-indicators">
                 <button
                   type="button"
                   data-bs-target="#carouselExampleIndicators"
                   data-bs-slide-to="0"
-                  class="active"
+                  className="active"
                   aria-current="true"
                   aria-label="Slide 1"
                 ></button>
@@ -46,6 +46,7 @@ const IndexSlider = () => {
                     width={1335}
                     height={327}
                     loading="lazy"
+                    title="banner 1"
                   />
                   <h2>
                     banner text goes here <br />
@@ -66,6 +67,7 @@ const IndexSlider = () => {
                     width={1335}
                     height={327}
                     loading="lazy"
+                    title="banner 2"
                   />
 
                   <h2>
@@ -88,6 +90,7 @@ const IndexSlider = () => {
                     height={327}
                     layout="responsive"
                     loading="lazy"
+                    title="banner 3"
                   />
                   <h2>
                     banner text goes here3 <br />

@@ -22,17 +22,40 @@ export default function Home(props) {
           content="ecommerce, modern, SEO friendly, cumulus"
         />
         <meta name="robots" content="index, follow" />
-        <link rel="icon" href="/favicon.ico" />
         <meta
-          http-equiv="Cache-control"
+          httpEquiv="Cache-control"
           content="public"
           max-age="31536000"
           immutable
         />
       </Head>
-      <Header taxonomy={props.taxonomy} cartData={cartValue} />
+      <Header taxonomy={props.data.taxanomy} cartData={cartValue} />
       <Layout />
       <Footer />
     </>
   );
+}
+
+export async function getServerSideProps({ query, res }) {
+  let { URL } = process.env;
+
+  try {
+    res.setHeader(
+      "Cache-Control",
+      "public, s-maxage=43200, stale-while-revalidate=60"
+    );
+  } catch (err) {}
+  let data = {
+    taxanomy: [],
+  };
+
+  let resp = {};
+  try {
+    resp = await fetch(URL + "/api/taxonomy/taxonomy");
+    data.taxanomy = await resp.json();
+  } catch (err) {
+    data.taxanomy = [];
+  }
+  // Pass data to the page via props
+  return { props: { data } };
 }

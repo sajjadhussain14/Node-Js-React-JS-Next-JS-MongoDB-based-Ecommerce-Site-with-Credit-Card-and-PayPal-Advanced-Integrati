@@ -929,7 +929,7 @@
 }
 
 #productcontent * .owl-nav .owl-prev {
-    color: #dedcdc;
+    color: #000000;
     position: absolute;
     left: -20px;
     top: 0;
@@ -937,11 +937,12 @@
     display: block;
     background: none;
     border: none;
+    font-size: 35px;
 }
 
 #productcontent * .owl-nav .owl-next {
-    font-size: 3.12rem;
-    color: #dedcdc;
+    font-size: 35px;
+    color: #000000;
     position: absolute;
     right: 0%;
     top: 0;

@@ -24,7 +24,8 @@ const Category = (props) => {
     localStorage.setItem("shop", `/browse/collection/${slug}`);
   }, [slug]);
 
-  let taxanomy = props.taxonomy;
+  let taxanomy = props.data.taxanomy;
+
   const [allProducts, setAllProducts] = useState([]);
 
   const [loading, setLoading] = useState(true);
@@ -277,7 +278,7 @@ const Category = (props) => {
           </div>
         </div>
       </div>
-      <Header taxonomy={props.taxonomy} cartData={cartValue} />
+      <Header taxonomy={taxanomy} cartData={cartValue} />;
       <Layout
         products={products}
         allTaxonomy={taxanomy}
@@ -333,8 +334,17 @@ export async function getServerSideProps(context) {
 
   // Fetch taxanomy from external API
   let res = {};
+  let resp = {};
 
   // Fetch data from external API
+
+  try {
+    resp = await fetch(URL + "/api/taxonomy/taxonomy");
+    data.taxanomy = await resp.json();
+  } catch (err) {
+    data.taxanomy = [];
+  }
+
   try {
     res = await fetch(URL + `/api/search/${slug}`);
     products = await res.json();

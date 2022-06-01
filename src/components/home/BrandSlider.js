@@ -55,8 +55,8 @@ const BrandSlider = () => {
               items={7}
               nav={true}
               navText={[
-                '<img src="/images/Arrow_left.png" />',
-                '<img src="/images/Arrow_right.png" />',
+                '<i class="fas fa-angle-left"></i>',
+                '<i class="fas fa-angle-right"></i>',
               ]}
               dots={false}
               animateIn={true}
@@ -71,6 +71,7 @@ const BrandSlider = () => {
                   height={85}
                   layout="responsive"
                   loading="lazy"
+                  title="brand logo"
                 />
               </div>
               <div className="item">
@@ -82,6 +83,7 @@ const BrandSlider = () => {
                   height={85}
                   layout="responsive"
                   loading="lazy"
+                  title="brand logo"
                 />
               </div>
               <div className="item">
@@ -93,6 +95,7 @@ const BrandSlider = () => {
                   height={85}
                   layout="responsive"
                   loading="lazy"
+                  title="brand logo"
                 />
               </div>
               <div className="item">
@@ -104,6 +107,7 @@ const BrandSlider = () => {
                   layout="responsive"
                   loading="lazy"
                   className="img-fluid"
+                  title="brand logo"
                 />
               </div>
               <div className="item">
@@ -115,6 +119,7 @@ const BrandSlider = () => {
                   height={85}
                   layout="responsive"
                   loading="lazy"
+                  title="brand logo"
                 />
               </div>
               <div className="item">
@@ -126,6 +131,7 @@ const BrandSlider = () => {
                   height={85}
                   layout="responsive"
                   loading="lazy"
+                  title="brand logo"
                 />
               </div>
               <div className="item">
@@ -137,6 +143,7 @@ const BrandSlider = () => {
                   height={85}
                   layout="responsive"
                   loading="lazy"
+                  title="brand logo"
                 />
               </div>
               <div className="item">
@@ -148,6 +155,7 @@ const BrandSlider = () => {
                   height={85}
                   layout="responsive"
                   loading="lazy"
+                  title="brand logo"
                 />
               </div>
               <div className="item">
@@ -159,6 +167,7 @@ const BrandSlider = () => {
                   height={85}
                   layout="responsive"
                   loading="lazy"
+                  title="brand logo"
                 />
               </div>
               <div className="item">
@@ -170,6 +179,7 @@ const BrandSlider = () => {
                   height={85}
                   layout="responsive"
                   loading="lazy"
+                  title="brand logo"
                 />
               </div>
               <div className="item">
@@ -181,6 +191,7 @@ const BrandSlider = () => {
                   height={85}
                   layout="responsive"
                   loading="lazy"
+                  title="brand logo"
                 />
               </div>
             </OwlCarousel>

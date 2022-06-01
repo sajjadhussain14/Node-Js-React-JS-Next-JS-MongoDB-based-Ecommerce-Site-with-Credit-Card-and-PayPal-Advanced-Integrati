@@ -5,6 +5,7 @@ import TopPaypal from "../components/thankYou/topPaypal";
 import TopCreditCard from "../components/thankYou/topCreditCard";
 import Header from "../components/header/Header";
 import Footer from "../components/footer/Footer";
+import Head from "next/head";
 
 const thankYou = (props) => {
   let orderdata = {};
@@ -42,7 +43,7 @@ const thankYou = (props) => {
             />
           </Head>
 
-          <Header taxonomy={props.taxonomy} cartData={cartValue} />
+          <Header taxonomy={props.data.taxanomy} cartData={cartValue} />
 
           <section className="thankYou">
             <div className="container-fluid thankYouInner">
@@ -76,7 +77,7 @@ const thankYou = (props) => {
         />
       </Head>
 
-      <Header taxonomy={props.taxonomy} cartData={cartValue} />
+      <Header taxonomy={props.data.taxonomy} cartData={cartValue} />
 
       {order && Object.keys(order).length != 0 ? (
         <section className="thankYou">
@@ -196,7 +197,7 @@ const thankYou = (props) => {
                         total = product.itemPrice * product.qty;
                         total = total.toFixed(2);
                         return (
-                          <tr>
+                          <tr key={product.name}>
                             <th scope="row">
                               <img src="https://via.placeholder.com/100" />{" "}
                               {product.name}
@@ -220,5 +221,29 @@ const thankYou = (props) => {
     </>
   );
 };
+
+export async function getServerSideProps({ query, res }) {
+  let { URL } = process.env;
+
+  try {
+    res.setHeader(
+      "Cache-Control",
+      "public, s-maxage=43200, stale-while-revalidate=60"
+    );
+  } catch (err) {}
+  let data = {
+    taxanomy: [],
+  };
+
+  let resp = {};
+  try {
+    resp = await fetch(URL + "/api/taxonomy/taxonomy");
+    data.taxanomy = await resp.json();
+  } catch (err) {
+    data.taxanomy = [];
+  }
+  // Pass data to the page via props
+  return { props: { data } };
+}
 
 export default thankYou;

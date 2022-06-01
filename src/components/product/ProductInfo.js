@@ -24,22 +24,32 @@ const ProductInfo = (props) => {
         <img
           className="previewstar"
           src="https://template1.cumulusbetasites.com/images/reviews_star/star_full.png"
+          alt="star full"
+          title="star full"
         />
         <img
           className="previewstar"
           src="https://template1.cumulusbetasites.com/images/reviews_star/star_full.png"
+          alt="star full"
+          title="star full"
         />
         <img
           className="previewstar"
           src="https://template1.cumulusbetasites.com/images/reviews_star/star_full.png"
+          alt="star full"
+          title="star full"
         />
         <img
           className="previewstar"
           src="https://template1.cumulusbetasites.com/images/reviews_star/star_full.png"
+          alt="star full"
+          title="star full"
         />
         <img
           className="previewstar"
           src="https://template1.cumulusbetasites.com/images/reviews_star/star_empty.png"
+          alt="star empty"
+          title="star empty"
         />
         <a href="#exTab1" className="preview-totalcount">
           2 Ratings

@@ -11,12 +11,14 @@ const MiniBanner2 = () => {
         layout="responsive"
         src={URL + "/images/mini-banner/mini-banner2.png"}
         loading="lazy"
+        alt="Mini Banner 2"
+        title="Mini Banner 2"
       />
 
       <section className="overlay">
         <h5>placeholder header</h5>
         <span>Lorem ipsum dolor sit amet</span>{" "}
-        <a href="https://www.google.com">shop now</a>
+        <a href="#">shop now</a>
       </section>
     </section>
   );

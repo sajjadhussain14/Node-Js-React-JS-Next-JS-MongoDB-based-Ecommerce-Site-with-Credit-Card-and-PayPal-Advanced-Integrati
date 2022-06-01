@@ -20,7 +20,11 @@ const Category = (props) => {
   const router = useRouter();
   const { slug } = router.query;
 
-  let taxanomy = props.taxonomy;
+  let taxanomy = props.data.taxanomy;
+
+  if (!taxanomy || taxanomy.length < 1) {
+    taxanomy = [];
+  }
   const [allProducts, setAllProducts] = useState([]);
   const [loading, setLoading] = useState(true);
   const [level, setLevel] = useState(0);
@@ -184,27 +188,6 @@ const Category = (props) => {
   } else {
   }
 
-  if (loading) {
-    return (
-      <div style={{ height: "400px" }}>
-        <div className={`overlay `}>
-          <div className="loading ">
-            Loading....
-            <div className="spinner-grow text-danger" role="status">
-              <span className="visually-hidden">Loading...</span>
-            </div>
-            <div className="spinner-grow text-warning" role="status">
-              <span className="visually-hidden">Loading...</span>
-            </div>
-            <div className="spinner-grow text-info" role="status">
-              <span className="visually-hidden">Loading...</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    );
-  }
-
   // SET SEO TAGS
   let title = "";
   let desc = "";
@@ -240,6 +223,43 @@ const Category = (props) => {
     cartValue = JSON.parse(localStorage.getItem("cart"));
   }
 
+  if (loading) {
+    return (
+      <>
+        <Head>
+          <title>{title}</title>
+          <meta name="title" content={title} />
+          <meta name="description" content={desc} />
+          <meta name="keywords" content={keywords} />
+          <meta name="robots" content="index, follow" />
+        </Head>
+
+        <div style={{ height: "400px" }}>
+          <div className="d-none">
+            <h1>{title}</h1>
+            <h2>Shop {title}</h2>
+            <h3>Please wait data is being loaed in a moment</h3>
+            <p>
+              Find a wide variety of guns online from innovative and reliable
+              brands designed with accuracy in mind. Choose from Centerfire
+              Rifles and Rimfire Rifles for target shooting and hunting from a
+              tree stand. For open and concealed carry, shop Centerfire Pistols
+              and Rimfire Pistols. When you are ready to shoot clay pigeons and
+              targets, choose from our selection of Shotguns.
+            </p>
+          </div>
+          <div style={{ height: "200px" }}>
+            <div className={`overlay `}>
+              <div className="loading " style={{ top: "25%", left: "40%" }}>
+                <img src="/images/loader.gif" alt="loader" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </>
+    );
+  }
+
   return (
     <>
       <Head>
@@ -249,7 +269,7 @@ const Category = (props) => {
         <meta name="keywords" content={keywords} />
         <meta name="robots" content="index, follow" />
       </Head>
-      <Header taxonomy={props.taxonomy} cartData={cartValue} />;
+      <Header taxonomy={taxanomy} cartData={cartValue} />;
       <Layout
         products={products}
         allTaxonomy={taxanomy}
@@ -314,6 +334,14 @@ export async function getServerSideProps({ query, res }) {
   let resp = {};
 
   // Fetch data from external API
+
+  try {
+    resp = await fetch(URL + "/api/taxonomy/taxonomy");
+    data.taxanomy = await resp.json();
+  } catch (err) {
+    data.taxanomy = [];
+  }
+
   try {
     resp = await fetch(URL + `/api/category/${slug}`);
     products = await resp.json();

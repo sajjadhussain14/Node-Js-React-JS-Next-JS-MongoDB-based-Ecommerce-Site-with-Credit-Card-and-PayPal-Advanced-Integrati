@@ -12,7 +12,6 @@ const OwlCarousel = dynamic(() => import("react-owl-carousel"), {
   ssr: false,
 });
 
-
 const RelatedProducts = (props) => {
   let { URL } = process.env;
 
@@ -30,8 +29,8 @@ const RelatedProducts = (props) => {
     smartSpeed: 1000,
     navClass: ["owl-prev", "owl-next"],
     navText: [
-      '<img src="/images/Arrow_left.png" />',
-      '<img src="/images/Arrow_right.png" />',
+      '<i class="fas fa-angle-left"></i>',
+      '<i class="fas fa-angle-right"></i>',
     ],
     responsive: {
       0: {
@@ -76,6 +75,10 @@ const RelatedProducts = (props) => {
           >
             {products && products.length > 0
               ? products.map((product) => {
+                  product.product_url = product.product_url
+                    .split("/product/")
+                    .join("/item/");
+
                   let termsaleprice = 0;
                   try {
                     termsaleprice = product.termsaleprice;
@@ -115,6 +118,7 @@ const RelatedProducts = (props) => {
                                 layout="intrinsic"
                                 loading="lazy"
                                 alt={product.name}
+                                title={product.name}
                               />
                             </span>
                             <h5 className="brand text-capitalize float-left">

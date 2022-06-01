@@ -43,7 +43,7 @@ const orderbyID = (props) => {
   }
   return (
     <>
-      <Header taxonomy={props.taxonomy} cartData={cartValue} />;
+      <Header taxonomy={props.data.taxanomy} cartData={cartValue} />;
       {order && Object.keys(order).length != 0 ? (
         <section className="thankYou">
           <div className="container">
@@ -157,7 +157,7 @@ const orderbyID = (props) => {
                           total = product.itemPrice * product.qty;
                           total = total.toFixed(2);
                           return (
-                            <tr>
+                            <tr key={product.name}>
                               <th scope="row">{product.name}</th>
                               <td>${product.itemPrice.toFixed(2)}</td>
                               <td>{product.qty}</td>
@@ -180,7 +180,7 @@ const orderbyID = (props) => {
                   <table className="table table-borderless">
                     <thead>
                       <tr className="headingstyl">
-                        <th colspan="3" scope="col">
+                        <th colSpan="3" scope="col">
                           Customer, Billing and Shipping Info
                         </th>
                       </tr>
@@ -262,5 +262,29 @@ const orderbyID = (props) => {
     </>
   );
 };
+
+export async function getServerSideProps({ query, res }) {
+  let { URL } = process.env;
+
+  try {
+    res.setHeader(
+      "Cache-Control",
+      "public, s-maxage=43200, stale-while-revalidate=60"
+    );
+  } catch (err) {}
+  let data = {
+    taxanomy: [],
+  };
+
+  let resp = {};
+  try {
+    resp = await fetch(URL + "/api/taxonomy/taxonomy");
+    data.taxanomy = await resp.json();
+  } catch (err) {
+    data.taxanomy = [];
+  }
+  // Pass data to the page via props
+  return { props: { data } };
+}
 
 export default orderbyID;

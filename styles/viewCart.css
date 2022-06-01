@@ -214,9 +214,11 @@ text-transform: uppercase;
         opacity: 1;
         margin-bottom: 0px;
         text-align: center;
+        margin: 0 3px;
+        padding: 0;
     }
 
-    #cart .qtyInner{display: flex;justify-content: space-between;align-items: center; padding: 0 8px; margin-bottom: 8px;}
+    #cart .qtyInner{display: flex;justify-content: center;align-items: center; padding: 0 8px; margin-bottom: 8px;}
     #cart .editInfo a{display: block;font-size: 12px;line-height: 14px;color:#172026;text-transform: capitalize;margin-bottom: 17px;margin-left:0;float: left;text-shadow: none;opacity: 1;font-weight: normal;display: block;width: 100%;}
     #cart section#cartContent .pbrand{font-size: 20px;line-height: 25px;color: #172026;text-transform: capitalize!important;font-weight: 600;margin-bottom: 8px;}
     #cart section#cartContent .pname{font-size: 16px;line-height: 24px;color: #172026;text-transform: capitalize;margin-bottom: 8px;}

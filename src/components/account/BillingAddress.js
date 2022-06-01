@@ -62,8 +62,10 @@ const BillingAddress = (props) => {
   return (
     <>
       <div className="row">
-        <h5>Contact Information</h5>
-        <span>We'll use these details to keep you informed on your delivery.</span>
+        <h5 className="w-100">Contact Information</h5>
+        <span>
+          We&apos;ll use these details to keep you informed on your delivery.
+        </span>
         {fname && fname != "" && editBillingFlag == false ? (
           <div className="col-lg-12 col-md-12 col-sm-12 col-12">
             <p>{fname + " " + lname}</p>

@@ -7,13 +7,12 @@ import { getOrderDetails } from "../../controllers/order";
 const Payments = (props) => {
   const router = useRouter();
   const { token, PayerID } = router.query;
-
   const [paymentData, setPaymentData] = useState({});
   const [loading, setLoading] = useState(true);
 
   if (!token && !PayerID) {
     if (typeof window != "undefined") {
-      Router.push("checkout");
+      // Router.push("checkout");
     }
   }
 
@@ -39,29 +38,29 @@ const Payments = (props) => {
       <div style={{ height: "400px" }}>
         <div className={`overlay `}>
           <div className="loading ">
-            <div class="spinner-grow text-primary" role="status">
-              <span class="visually-hidden">Loading...</span>
+            <div className="spinner-grow text-primary" role="status">
+              <span className="visually-hidden">Loading...</span>
             </div>
-            <div class="spinner-grow text-secondary" role="status">
-              <span class="visually-hidden">Loading...</span>
+            <div className="spinner-grow text-secondary" role="status">
+              <span className="visually-hidden">Loading...</span>
             </div>
-            <div class="spinner-grow text-success" role="status">
-              <span class="visually-hidden">Loading...</span>
+            <div className="spinner-grow text-success" role="status">
+              <span className="visually-hidden">Loading...</span>
             </div>
-            <div class="spinner-grow text-danger" role="status">
-              <span class="visually-hidden">Loading...</span>
+            <div className="spinner-grow text-danger" role="status">
+              <span className="visually-hidden">Loading...</span>
             </div>
-            <div class="spinner-grow text-warning" role="status">
-              <span class="visually-hidden">Loading...</span>
+            <div className="spinner-grow text-warning" role="status">
+              <span className="visually-hidden">Loading...</span>
             </div>
-            <div class="spinner-grow text-info" role="status">
-              <span class="visually-hidden">Loading...</span>
+            <div className="spinner-grow text-info" role="status">
+              <span className="visually-hidden">Loading...</span>
             </div>
-            <div class="spinner-grow text-light" role="status">
-              <span class="visually-hidden">Loading...</span>
+            <div className="spinner-grow text-light" role="status">
+              <span className="visually-hidden">Loading...</span>
             </div>
-            <div class="spinner-grow text-dark" role="status">
-              <span class="visually-hidden">Loading...</span>
+            <div className="spinner-grow text-dark" role="status">
+              <span className="visually-hidden">Loading...</span>
             </div>
           </div>
         </div>

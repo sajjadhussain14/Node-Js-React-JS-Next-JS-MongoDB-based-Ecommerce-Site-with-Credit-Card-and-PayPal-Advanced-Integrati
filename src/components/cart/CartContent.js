@@ -36,14 +36,14 @@ const CartContent = (props) => {
             return (
               <div className="row " key={product.name}>
                 <div className="row main align-items-center border-bottom py-0 px-0">
-                  <div className="col-lg-2 col-md-2 col-sm-6 col-6">
+                  <div className="col-lg-2 col-md-6 col-sm-6 col-6">
                     <Link href={product.product_url}>
                       <a>
-                        <img className="img-fluid" src={product.image} />
+                        <img className="img-fluid" src={product.image} title={product.image} alt={product.image} />
                       </a>
                     </Link>
                   </div>
-                  <div className="col-lg-3 col-md-3 col-sm-6 col-6">
+                  <div className="col-lg-3 col-md-6 col-sm-6 col-6">
                     <Link href={product.product_url}>
                       <a>
                         <div className="row pbrand">
@@ -55,7 +55,7 @@ const CartContent = (props) => {
                       </a>
                     </Link>
                   </div>
-                  <div className="col-lg-3 col-md-3 col-sm-6 col-12 qtyInner">
+                  <div className="col-lg-3 col-md-6 col-sm-6 col-12 qtyInner">
                     <button
                       className="minus"
                       onClick={(e) => {
@@ -96,12 +96,12 @@ const CartContent = (props) => {
                   </div>
                   <div className="col-lg-2 col-md-2 col-sm-3 col-6">
                     <span className="pprice">
-                      ${product.itemPrice.toFixed(2)}
+                    <span className="d-lg-none d-md-inline-block">Price:</span> ${product.itemPrice.toFixed(2)}
                     </span>
                   </div>
                   <div className="col-lg-2 col-md-2 col-sm-3 col-6">
                     <span className="pprice">
-                      $ {product.total.toFixed(2)}{" "}
+                      <span className="d-lg-none d-md-inline-block">Total:</span> ${product.total.toFixed(2)}{" "}
                     </span>
                   </div>
                 </div>

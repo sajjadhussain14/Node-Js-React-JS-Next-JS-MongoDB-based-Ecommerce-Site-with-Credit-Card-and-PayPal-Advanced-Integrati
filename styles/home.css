@@ -29,6 +29,10 @@
     min-height: 200px;
 }
 
+#indexSlider #carouselExampleIndicators span {
+    position: initial !important;
+}
+
 #indexSlider .main-banner img {
     width: 100%;
 }
@@ -109,7 +113,8 @@
     border: 2px solid #fff;
     background-color: transparent;
     border-radius: 10px;
-    margin: 0 2.5px;
+    margin: 0 5px;
+    margin-bottom: 25px;
 }
 
 #indexSlider .main-banner p {
@@ -486,8 +491,9 @@ padding: 15%; margin-bottom: 0;
     border-radius: 50%;
     width: 40px;
     height: 40px;
-    opacity: 0.2;
+    opacity: 1;
     left: 0;
+    color: #000000;
 }
 
 #index #brandslider .owl-carousel .owl-nav .owl-prev img {
@@ -507,8 +513,9 @@ padding: 15%; margin-bottom: 0;
     border-radius: 50%;
     width: 40px;
     height: 40px;
-    opacity: 0.2;
+    opacity: 1;
     right: 0;
+    color: #000000;
 }
 
 #index #brandslider .owl-carousel .owl-nav .owl-next img {
@@ -524,13 +531,17 @@ padding: 15%; margin-bottom: 0;
 }
 
 #index #brandslider .owl-carousel .fa-angle-left {
-    font-size: 1.56rem;
+    font-size: 35px;
     display: block;
+    color: #000000;
+    opacity: 1;
 }
 
 #index #brandslider .owl-carousel .fa-angle-right {
-    font-size: 1.56rem;
+    font-size: 35px;
     display: block;
+    opacity: 1;
+    color: #000000;
 }
 
 #index #brandslider .owl-carousel.owl-loaded {

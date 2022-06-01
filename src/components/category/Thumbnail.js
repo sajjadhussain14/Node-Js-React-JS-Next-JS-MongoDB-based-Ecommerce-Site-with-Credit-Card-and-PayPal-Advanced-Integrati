@@ -26,6 +26,10 @@ const Thumbnail = (props) => {
       <section id="catproducts" className="row ">
         {currentProducts.length > 0
           ? currentProducts.map((product) => {
+              product.product_url = product.product_url
+                .split("/product/")
+                .join("/item/");
+
               let termsaleprice = 0;
               try {
                 termsaleprice = product.termsaleprice;
@@ -69,6 +73,7 @@ const Thumbnail = (props) => {
                             id={"img" + product.id}
                             src={product.image}
                             alt={product.name}
+                            title={product.name}
                             width={221}
                             height={200}
                             loading="lazy"
@@ -159,9 +164,9 @@ const Thumbnail = (props) => {
                       ""
                     )}
                     <div className="cart-button text-center">
-                      <a href={product.product_url} className="details">
-                        View Details
-                      </a>
+                      <Link href={product.product_url}>
+                        <a className="details">View Details</a>
+                      </Link>
                     </div>
                   </div>
                 </div>

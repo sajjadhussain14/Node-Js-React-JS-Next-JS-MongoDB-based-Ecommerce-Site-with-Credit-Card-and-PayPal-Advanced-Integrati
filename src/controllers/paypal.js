@@ -28,6 +28,7 @@ export const processOrder = async (
       orderDetails.payment.payer_id = paymentData.data.payer_id;
       orderDetails.payment.status = paymentData.data.status;
     } catch (err) {}
+
     setOrderDetails("orderDetails", orderDetails);
 
     saveOrder(orderDetails, orderDetails.user.id)
@@ -62,6 +63,7 @@ export const processOrder = async (
 
       setOrderDetails("orderDetails", orderDetails);
       setTimeout(() => {
+        console.log("paymentData.code not equal to 200");
         Router.push("/error");
       }, 0);
     }
